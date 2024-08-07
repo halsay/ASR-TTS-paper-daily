@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978](http://arxiv.org/abs/2408.02978)|null|
+|**2024-08-06**|**Self-Supervised Learning for Multi-Channel Neural Transducer**|Atsushi Kojima et.al.|[2408.02945](http://arxiv.org/abs/2408.02945)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
 |**2024-08-05**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang et.al.|[2408.02369](http://arxiv.org/abs/2408.02369)|null|
 |**2024-08-05**|**StreamVoice+: Evolving into End-to-end Streaming Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2408.02178](http://arxiv.org/abs/2408.02178)|null|
