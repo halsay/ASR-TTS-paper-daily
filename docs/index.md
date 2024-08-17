@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -12,7 +12,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
-|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|null|
+|**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
 |**2024-08-15**|**MathBridge: A Large Corpus Dataset for Translating Spoken Mathematical Expressions into $LaTeX$ Formulas for Improved Readability**|Kyudan Jung et.al.|[2408.07081](http://arxiv.org/abs/2408.07081)|null|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
@@ -21,7 +21,7 @@ layout: default
 |**2024-08-11**|**LI-TTA: Language Informed Test-Time Adaptation for Automatic Speech Recognition**|Eunseop Yoon et.al.|[2408.05769](http://arxiv.org/abs/2408.05769)|null|
 |**2024-08-11**|**VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for Speech Processing**|Chunyu Qiang et.al.|[2408.05758](http://arxiv.org/abs/2408.05758)|null|
 |**2024-08-10**|**Improving Whisper's Recognition Performance for Under-Represented Language Kazakh Leveraging Unpaired Speech and Text**|Jinpeng Li et.al.|[2408.05554](http://arxiv.org/abs/2408.05554)|null|
-|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu et.al.|[2408.05101](http://arxiv.org/abs/2408.05101)|null|
+|**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu et.al.|[2408.05101](http://arxiv.org/abs/2408.05101)|**[link](https://github.com/moorethreads/mooer)**|
 |**2024-08-08**|**HydraFormer: One Encoder For All Subsampling Rates**|Yaoxun Xu et.al.|[2408.04325](http://arxiv.org/abs/2408.04325)|**[link](https://github.com/hydraformer/hydraformer)**|
 |**2024-08-08**|**Preserving spoken content in voice anonymisation with character-level vocoder conditioning**|Michele Panariello et.al.|[2408.04306](http://arxiv.org/abs/2408.04306)|null|
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174](http://arxiv.org/abs/2408.04174)|**[link](https://github.com/leduckhai/wav2graph)**|
@@ -31,8 +31,8 @@ layout: default
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
 |**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang et.al.|[2408.02369](http://arxiv.org/abs/2408.02369)|**[link](https://gitlab.com/csltstu/sunine)**|
 |**2024-08-05**|**StreamVoice+: Evolving into End-to-end Streaming Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2408.02178](http://arxiv.org/abs/2408.02178)|null|
-|**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|null|
-|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu et.al.|[2408.00624](http://arxiv.org/abs/2408.00624)|null|
+|**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|**[link](https://github.com/TASER2023/TASER)**|
+|**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu et.al.|[2408.00624](http://arxiv.org/abs/2408.00624)|**[link](https://github.com/espnet/espnet)**|
 |**2024-08-01**|**Sentence-wise Speech Summarization: Task, Datasets, and End-to-End Modeling with LM Knowledge Distillation**|Kohei Matsuura et.al.|[2408.00205](http://arxiv.org/abs/2408.00205)|null|
 |**2024-07-18**|**Framework for Curating Speech Datasets and Evaluating ASR Systems: A Case Study for Polish**|Michał Junczyk et.al.|[2408.00005](http://arxiv.org/abs/2408.00005)|**[link](https://github.com/goodmike31/pl-asr-bigos-tools)**|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber et.al.|[2408.00004](http://arxiv.org/abs/2408.00004)|null|
@@ -536,12 +536,12 @@ layout: default
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-13**|**VNet: A GAN-based Multi-Tier Discriminator Network for Speech Synthesis Vocoders**|Yubing Cao et.al.|[2408.06906](http://arxiv.org/abs/2408.06906)|null|
-|**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|null|
-|**2024-08-13**|**PRESENT: Zero-Shot Text-to-Prosody Control**|Perry Lam et.al.|[2408.06827](http://arxiv.org/abs/2408.06827)|null|
+|**2024-08-13**|**SaSLaW: Dialogue Speech Corpus with Audio-visual Egocentric Information Toward Environment-adaptive Dialogue Speech Synthesis**|Osamu Take et.al.|[2408.06858](http://arxiv.org/abs/2408.06858)|**[link](https://github.com/sarulab-speech/saslaw)**|
+|**2024-08-13**|**PRESENT: Zero-Shot Text-to-Prosody Control**|Perry Lam et.al.|[2408.06827](http://arxiv.org/abs/2408.06827)|**[link](https://github.com/iamanigeeit/present)**|
 |**2024-08-12**|**FLEURS-R: A Restored Multilingual Speech Corpus for Generation Tasks**|Min Ma et.al.|[2408.06227](http://arxiv.org/abs/2408.06227)|null|
 |**2024-08-11**|**VQ-CTAP: Cross-Modal Fine-Grained Sequence Representation Learning for Speech Processing**|Chunyu Qiang et.al.|[2408.05758](http://arxiv.org/abs/2408.05758)|null|
 |**2024-08-06**|**Central Kurdish Text-to-Speech Synthesis with Novel End-to-End Transformer Training**|Hawraz A. Ahmad et.al.|[2408.03887](http://arxiv.org/abs/2408.03887)|null|
-|**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|null|
+|**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|**[link](https://github.com/TASER2023/TASER)**|
 |**2024-07-17**|**SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network**|Kexin Wang et.al.|[2408.00788](http://arxiv.org/abs/2408.00788)|null|
 |**2024-08-01**|**Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation**|Xinhan Di et.al.|[2408.00284](http://arxiv.org/abs/2408.00284)|null|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber et.al.|[2408.00004](http://arxiv.org/abs/2408.00004)|null|
