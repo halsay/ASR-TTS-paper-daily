@@ -1,4 +1,4 @@
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,7 +18,7 @@
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
 |**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
-|**2024-08-15**|**MathBridge: A Large Corpus Dataset for Translating Spoken Mathematical Expressions into $LaTeX$ Formulas for Improved Readability**|Kyudan Jung et.al.|[2408.07081](http://arxiv.org/abs/2408.07081)|null|
+|**2024-08-16**|**MathBridge: A Large Corpus Dataset for Translating Spoken Mathematical Expressions into $LaTeX$ Formulas for Improved Readability**|Kyudan Jung et.al.|[2408.07081](http://arxiv.org/abs/2408.07081)|null|
 |**2024-08-12**|**Cross-Lingual Conversational Speech Summarization with Large Language Models**|Max Nelson et.al.|[2408.06484](http://arxiv.org/abs/2408.06484)|null|
 |**2024-08-12**|**Audio Enhancement for Computer Audition -- An Iterative Training Paradigm Using Sample Importance**|Manuel Milling et.al.|[2408.06264](http://arxiv.org/abs/2408.06264)|null|
 |**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee et.al.|[2408.06043](http://arxiv.org/abs/2408.06043)|null|
@@ -64,7 +64,7 @@
 |**2024-07-22**|**dMel: Speech Tokenization made Simple**|He Bai et.al.|[2407.15835](http://arxiv.org/abs/2407.15835)|null|
 |**2024-07-22**|**Robustness of Speech Separation Models for Similar-pitch Speakers**|Bunlong Lay et.al.|[2407.15749](http://arxiv.org/abs/2407.15749)|null|
 |**2024-07-22**|**SELM: Enhancing Speech Emotion Recognition for Out-of-Domain Scenarios**|Hazim Bukhari et.al.|[2407.15300](http://arxiv.org/abs/2407.15300)|null|
-|**2024-08-07**|**Trading Devil Final: Backdoor attack via Stock market and Bayesian Optimization**|Orson Mengara et.al.|[2407.14573](http://arxiv.org/abs/2407.14573)|null|
+|**2024-08-16**|**Trading Devil Final: Backdoor attack via Stock market and Bayesian Optimization**|Orson Mengara et.al.|[2407.14573](http://arxiv.org/abs/2407.14573)|null|
 |**2024-07-07**|**Morse Code-Enabled Speech Recognition for Individuals with Visual and Hearing Impairments**|Ritabrata Roy Choudhury et.al.|[2407.14525](http://arxiv.org/abs/2407.14525)|null|
 |**2024-07-19**|**GE2E-AC: Generalized End-to-End Loss Training for Accent Classification**|Chihiro Watanabe et.al.|[2407.14021](http://arxiv.org/abs/2407.14021)|null|
 |**2024-07-19**|**Reexamining Racial Disparities in Automatic Speech Recognition Performance: The Role of Confounding by Provenance**|Changye Li et.al.|[2407.13982](http://arxiv.org/abs/2407.13982)|null|
@@ -533,7 +533,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
 ## TTS
 
@@ -645,5 +645,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
