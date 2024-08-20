@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -23,7 +23,7 @@ layout: default
 |**2024-08-10**|**Improving Whisper's Recognition Performance for Under-Represented Language Kazakh Leveraging Unpaired Speech and Text**|Jinpeng Li et.al.|[2408.05554](http://arxiv.org/abs/2408.05554)|null|
 |**2024-08-09**|**MooER: LLM-based Speech Recognition and Translation Models from Moore Threads**|Junhao Xu et.al.|[2408.05101](http://arxiv.org/abs/2408.05101)|**[link](https://github.com/moorethreads/mooer)**|
 |**2024-08-08**|**HydraFormer: One Encoder For All Subsampling Rates**|Yaoxun Xu et.al.|[2408.04325](http://arxiv.org/abs/2408.04325)|**[link](https://github.com/hydraformer/hydraformer)**|
-|**2024-08-08**|**Preserving spoken content in voice anonymisation with character-level vocoder conditioning**|Michele Panariello et.al.|[2408.04306](http://arxiv.org/abs/2408.04306)|null|
+|**2024-08-08**|**Preserving spoken content in voice anonymisation with character-level vocoder conditioning**|Michele Panariello et.al.|[2408.04306](http://arxiv.org/abs/2408.04306)|**[link](https://github.com/m-pana/spk_anon_nac_lm)**|
 |**2024-08-08**|**wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech**|Khai Le-Duc et.al.|[2408.04174](http://arxiv.org/abs/2408.04174)|**[link](https://github.com/leduckhai/wav2graph)**|
 |**2024-08-07**|**Speaker Adaptation for Quantised End-to-End ASR Models**|Qiuming Zhao et.al.|[2408.03979](http://arxiv.org/abs/2408.03979)|null|
 |**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978](http://arxiv.org/abs/2408.02978)|null|
