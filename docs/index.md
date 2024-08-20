@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts**|Jiaqing Liu et.al.|[2408.09688](http://arxiv.org/abs/2408.09688)|null|
+|**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li et.al.|[2408.09491](http://arxiv.org/abs/2408.09491)|null|
+|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
 |**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
@@ -533,6 +536,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-13**|**VNet: A GAN-based Multi-Tier Discriminator Network for Speech Synthesis Vocoders**|Yubing Cao et.al.|[2408.06906](http://arxiv.org/abs/2408.06906)|null|
