@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**XCB: an effective contextual biasing approach to bias cross-lingual phrases in speech recognition**|Xucheng Wan et.al.|[2408.10524](http://arxiv.org/abs/2408.10524)|null|
 |**2024-08-19**|**Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts**|Jiaqing Liu et.al.|[2408.09688](http://arxiv.org/abs/2408.09688)|null|
 |**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li et.al.|[2408.09491](http://arxiv.org/abs/2408.09491)|null|
 |**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
@@ -542,6 +543,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech**|Xin Qi et.al.|[2408.10852](http://arxiv.org/abs/2408.10852)|null|
+|**2024-08-20**|**SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS**|Karl El Hajal et.al.|[2408.10771](http://arxiv.org/abs/2408.10771)|null|
+|**2024-08-20**|**AI-Based IVR**|Gassyrbek Kosherbay et.al.|[2408.10549](http://arxiv.org/abs/2408.10549)|null|
+|**2024-08-20**|**Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting**|Hyun Jin Park et.al.|[2408.10463](http://arxiv.org/abs/2408.10463)|null|
+|**2024-07-01**|**A Comprehensive Survey on Diffusion Models and Their Applications**|Md Manjurul Ahsan et.al.|[2408.10207](http://arxiv.org/abs/2408.10207)|null|
 |**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
