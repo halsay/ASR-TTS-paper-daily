@@ -15,12 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
+|**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
+|**2024-08-22**|**Developing vocal system impaired patient-aimed voice quality assessment approach using ASR representation-included multiple features**|Shaoxiang Dang et.al.|[2408.12279](http://arxiv.org/abs/2408.12279)|null|
+|**2024-08-21**|**The State of Commercial Automatic French Legal Speech Recognition Systems and their Impact on Court Reporters et al**|Nicolad Garneau et.al.|[2408.11940](http://arxiv.org/abs/2408.11940)|null|
+|**2024-08-19**|**Parameter-Efficient Transfer Learning under Federated Learning for Automatic Speech Recognition**|Xuan Kan et.al.|[2408.11873](http://arxiv.org/abs/2408.11873)|null|
+|**2024-08-13**|**Style-Talker: Finetuning Audio Language Model and Style-Based Text-to-Speech Model for Fast Spoken Dialogue Generation**|Yinghao Aaron Li et.al.|[2408.11849](http://arxiv.org/abs/2408.11849)|null|
 |**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
 |**2024-08-21**|**Improving Speech Recognition Error Prediction for Modern and Off-the-shelf Speech Recognizers**|Prashant Serai et.al.|[2408.11258](http://arxiv.org/abs/2408.11258)|null|
 |**2024-08-20**|**XCB: an effective contextual biasing approach to bias cross-lingual phrases in speech recognition**|Xucheng Wan et.al.|[2408.10524](http://arxiv.org/abs/2408.10524)|null|
 |**2024-08-19**|**Recording for Eyes, Not Echoing to Ears: Contextualized Spoken-to-Written Conversion of ASR Transcripts**|Jiaqing Liu et.al.|[2408.09688](http://arxiv.org/abs/2408.09688)|null|
 |**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li et.al.|[2408.09491](http://arxiv.org/abs/2408.09491)|null|
-|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
+|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|**[link](https://github.com/popcornell/ASRLightningFT)**|
 |**2024-08-15**|**Enhancing Large Language Model-based Speech Recognition by Contextualization for Rare and Ambiguous Words**|Kento Nozawa et.al.|[2408.08027](http://arxiv.org/abs/2408.08027)|null|
 |**2024-08-14**|**SER Evals: In-domain and Out-of-domain Benchmarking for Speech Emotion Recognition**|Mohamed Osman et.al.|[2408.07851](http://arxiv.org/abs/2408.07851)|**[link](https://github.com/spaghettiSystems/serval)**|
 |**2024-08-14**|**DPSNN: Spiking Neural Network for Low-Latency Streaming Speech Enhancement**|Tao Sun et.al.|[2408.07388](http://arxiv.org/abs/2408.07388)|null|
@@ -545,12 +551,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
+|**2024-08-22**|**VoiceX: A Text-To-Speech Framework for Custom Voices**|Silvan Mertes et.al.|[2408.12170](http://arxiv.org/abs/2408.12170)|null|
+|**2024-08-13**|**Style-Talker: Finetuning Audio Language Model and Style-Based Text-to-Speech Model for Fast Spoken Dialogue Generation**|Yinghao Aaron Li et.al.|[2408.11849](http://arxiv.org/abs/2408.11849)|null|
 |**2024-08-20**|**EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech**|Xin Qi et.al.|[2408.10852](http://arxiv.org/abs/2408.10852)|null|
 |**2024-08-20**|**SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS**|Karl El Hajal et.al.|[2408.10771](http://arxiv.org/abs/2408.10771)|null|
 |**2024-08-20**|**AI-Based IVR**|Gassyrbek Kosherbay et.al.|[2408.10549](http://arxiv.org/abs/2408.10549)|null|
 |**2024-08-20**|**Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting**|Hyun Jin Park et.al.|[2408.10463](http://arxiv.org/abs/2408.10463)|null|
 |**2024-07-01**|**A Comprehensive Survey on Diffusion Models and Their Applications**|Md Manjurul Ahsan et.al.|[2408.10207](http://arxiv.org/abs/2408.10207)|null|
-|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|null|
+|**2024-08-17**|**Generating Data with Text-to-Speech and Large-Language Models for Conversational Speech Recognition**|Samuele Cornell et.al.|[2408.09215](http://arxiv.org/abs/2408.09215)|**[link](https://github.com/popcornell/ASRLightningFT)**|
 |**2024-08-14**|**PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation**|Sang-Hoon Lee et.al.|[2408.07547](http://arxiv.org/abs/2408.07547)|**[link](https://github.com/sh-lee-prml/periodwave)**|
 |**2024-08-14**|**WavLM model ensemble for audio deepfake detection**|David Combei et.al.|[2408.07414](http://arxiv.org/abs/2408.07414)|null|
 |**2024-08-13**|**VNet: A GAN-based Multi-Tier Discriminator Network for Speech Synthesis Vocoders**|Yubing Cao et.al.|[2408.06906](http://arxiv.org/abs/2408.06906)|null|
@@ -563,7 +572,7 @@
 |**2024-07-17**|**SpikeVoice: High-Quality Text-to-Speech Via Efficient Spiking Neural Network**|Kexin Wang et.al.|[2408.00788](http://arxiv.org/abs/2408.00788)|null|
 |**2024-08-01**|**Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation**|Xinhan Di et.al.|[2408.00284](http://arxiv.org/abs/2408.00284)|null|
 |**2024-07-18**|**Handling Numeric Expressions in Automatic Speech Recognition**|Christian Huber et.al.|[2408.00004](http://arxiv.org/abs/2408.00004)|null|
-|**2024-08-01**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491](http://arxiv.org/abs/2407.21491)|null|
+|**2024-08-01**|**Generative Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2407.21491](http://arxiv.org/abs/2407.21491)|**[link](https://github.com/ai-s2-lab/gpt-talker)**|
 |**2024-07-31**|**On the Problem of Text-To-Speech Model Selection for Synthetic Data Generation in Automatic Speech Recognition**|Nick Rossenbach et.al.|[2407.21476](http://arxiv.org/abs/2407.21476)|null|
 |**2024-07-29**|**Speech Bandwidth Expansion Via High Fidelity Generative Adversarial Networks**|Mahmoud Salhab et.al.|[2407.18571](http://arxiv.org/abs/2407.18571)|null|
 |**2024-07-26**|**Towards Improving NAM-to-Speech Synthesis Intelligibility using Self-Supervised Speech Models**|Neil Shah et.al.|[2407.18541](http://arxiv.org/abs/2407.18541)|null|
