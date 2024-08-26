@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|null|
+|**2024-08-23**|**Focused Discriminative Training For Streaming CTC-Trained Automatic Speech Recognition Models**|Adnan Haider et.al.|[2408.13008](http://arxiv.org/abs/2408.13008)|null|
+|**2024-08-22**|**Towards measuring fairness in speech recognition: Fair-Speech dataset**|Irina-Elena Veliche et.al.|[2408.12734](http://arxiv.org/abs/2408.12734)|null|
 |**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
 |**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
 |**2024-08-22**|**Developing vocal system impaired patient-aimed voice quality assessment approach using ASR representation-included multiple features**|Shaoxiang Dang et.al.|[2408.12279](http://arxiv.org/abs/2408.12279)|null|
@@ -551,6 +554,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Which Prosodic Features Matter Most for Pragmatics?**|Nigel G. Ward et.al.|[2408.13240](http://arxiv.org/abs/2408.13240)|null|
 |**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
 |**2024-08-22**|**VoiceX: A Text-To-Speech Framework for Custom Voices**|Silvan Mertes et.al.|[2408.12170](http://arxiv.org/abs/2408.12170)|null|
 |**2024-08-13**|**Style-Talker: Finetuning Audio Language Model and Style-Based Text-to-Speech Model for Fast Spoken Dialogue Generation**|Yinghao Aaron Li et.al.|[2408.11849](http://arxiv.org/abs/2408.11849)|null|
