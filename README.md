@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Beyond Levenshtein: Leveraging Multiple Algorithms for Robust Word Error Rate Computations And Granular Error Classifications**|Korbinian Kuhn et.al.|[2408.15616](http://arxiv.org/abs/2408.15616)|**[link](https://github.com/shuffle-project/beyond-levenshtein)**|
+|**2024-08-28**|**Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models**|Yiyang Zhao et.al.|[2408.15585](http://arxiv.org/abs/2408.15585)|null|
 |**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
 |**2024-08-27**|**Literary and Colloquial Dialect Identification for Tamil using Acoustic Features**|M. Nanmalar et.al.|[2408.14887](http://arxiv.org/abs/2408.14887)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
@@ -23,7 +25,7 @@
 |**2024-08-28**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
 |**2024-08-25**|**Literary and Colloquial Tamil Dialect Identification**|M. Nanmalar et.al.|[2408.13739](http://arxiv.org/abs/2408.13739)|null|
 |**2024-08-24**|**Studying the Effect of Audio Filters in Pre-Trained Models for Environmental Sound Classification**|Aditya Dawn et.al.|[2408.13644](http://arxiv.org/abs/2408.13644)|null|
-|**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|null|
+|**2024-08-28**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|null|
 |**2024-08-23**|**Focused Discriminative Training For Streaming CTC-Trained Automatic Speech Recognition Models**|Adnan Haider et.al.|[2408.13008](http://arxiv.org/abs/2408.13008)|null|
 |**2024-08-22**|**Towards measuring fairness in speech recognition: Fair-Speech dataset**|Irina-Elena Veliche et.al.|[2408.12734](http://arxiv.org/abs/2408.12734)|null|
 |**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
@@ -113,7 +115,7 @@
 |**2024-07-14**|**Textless Dependency Parsing by Labeled Sequence Prediction**|Shunsuke Kando et.al.|[2407.10118](http://arxiv.org/abs/2407.10118)|**[link](https://github.com/mynlp/speechparser)**|
 |**2024-07-14**|**Whisper-SV: Adapting Whisper for Low-data-resource Speaker Verification**|Li Zhang et.al.|[2407.10048](http://arxiv.org/abs/2407.10048)|null|
 |**2024-07-13**|**Text-Based Detection of On-Hold Scripts in Contact Center Calls**|Dmitrii Galimzianov et.al.|[2407.09849](http://arxiv.org/abs/2407.09849)|**[link](https://github.com/gal-dmitry/HOLD_DETECTION_PUBLIC)**|
-|**2024-08-24**|**Empowering Whisper as a Joint Multi-Talker and Target-Talker Speech Recognition System**|Lingwei Meng et.al.|[2407.09817](http://arxiv.org/abs/2407.09817)|null|
+|**2024-08-24**|**Empowering Whisper as a Joint Multi-Talker and Target-Talker Speech Recognition System**|Lingwei Meng et.al.|[2407.09817](http://arxiv.org/abs/2407.09817)|**[link](https://github.com/LingweiMeng/Whisper-Sidecar)**|
 |**2024-07-13**|**A Streaming Multi-Channel End-to-End Speech Recognition System with Realistic Evaluations**|Xiangzhu Kong et.al.|[2407.09807](http://arxiv.org/abs/2407.09807)|**[link](https://github.com/thu-spmi/cat)**|
 |**2024-07-13**|**Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis**|Xilin Jiang et.al.|[2407.09732](http://arxiv.org/abs/2407.09732)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
 |**2024-07-10**|**Evaluating Voice Command Pipelines for Drone Control: From STT and LLM to Direct Classification and Siamese Networks**|Lucca Emmanuel Pineli Simões et.al.|[2407.08658](http://arxiv.org/abs/2407.08658)|null|
@@ -562,6 +564,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916](http://arxiv.org/abs/2408.15916)|null|
+|**2024-08-28**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775](http://arxiv.org/abs/2408.15775)|null|
+|**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](http://arxiv.org/abs/2408.15676)|null|
 |**2024-08-27**|**Literary and Colloquial Dialect Identification for Tamil using Acoustic Features**|M. Nanmalar et.al.|[2408.14887](http://arxiv.org/abs/2408.14887)|null|
 |**2024-08-28**|**VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech**|Heeseung Kim et.al.|[2408.14739](http://arxiv.org/abs/2408.14739)|null|
 |**2024-08-27**|**StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech**|Haowei Lou et.al.|[2408.14713](http://arxiv.org/abs/2408.14713)|null|
