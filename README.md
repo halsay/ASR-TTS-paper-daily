@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](http://arxiv.org/abs/2408.16589)|null|
+|**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564](http://arxiv.org/abs/2408.16564)|null|
+|**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn et.al.|[2408.16287](http://arxiv.org/abs/2408.16287)|**[link](https://github.com/shuffle-project/asr-comparison)**|
+|**2024-08-29**|**Revisit Micro-batch Clipping: Adaptive Data Pruning via Gradient Manipulation**|Lun Wang et.al.|[2408.16204](http://arxiv.org/abs/2408.16204)|null|
+|**2024-08-29**|**Benchmarking Japanese Speech Recognition on ASR-LLM Setups with Multi-Pass Augmented Generative Error Correction**|Yuka Ko et.al.|[2408.16180](http://arxiv.org/abs/2408.16180)|null|
 |**2024-08-28**|**Beyond Levenshtein: Leveraging Multiple Algorithms for Robust Word Error Rate Computations And Granular Error Classifications**|Korbinian Kuhn et.al.|[2408.15616](http://arxiv.org/abs/2408.15616)|**[link](https://github.com/shuffle-project/beyond-levenshtein)**|
 |**2024-08-28**|**Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models**|Yiyang Zhao et.al.|[2408.15585](http://arxiv.org/abs/2408.15585)|null|
 |**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
@@ -564,6 +569,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|null|
+|**2024-08-29**|**RAVE for Speech: Efficient Voice Conversion at High Sampling Rates**|Anders R. Bargum et.al.|[2408.16546](http://arxiv.org/abs/2408.16546)|null|
+|**2024-08-29**|**Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis**|Zehai Tu et.al.|[2408.16373](http://arxiv.org/abs/2408.16373)|null|
 |**2024-08-28**|**Multi-modal Adversarial Training for Zero-Shot Voice Cloning**|John Janiczek et.al.|[2408.15916](http://arxiv.org/abs/2408.15916)|null|
 |**2024-08-29**|**Easy, Interpretable, Effective: openSMILE for voice deepfake detection**|Octavian Pascu et.al.|[2408.15775](http://arxiv.org/abs/2408.15775)|null|
 |**2024-08-28**|**VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling**|Yixuan Zhou et.al.|[2408.15676](http://arxiv.org/abs/2408.15676)|null|
@@ -573,7 +581,7 @@
 |**2024-08-27**|**DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance**|Jinhyeok Yang et.al.|[2408.14423](http://arxiv.org/abs/2408.14423)|null|
 |**2024-08-26**|**Anonymization of Voices in Spaces for Civic Dialogue: Measuring Impact on Empathy, Trust, and Feeling Heard**|Wonjune Kang et.al.|[2408.13970](http://arxiv.org/abs/2408.13970)|null|
 |**2024-08-28**|**SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2408.13893](http://arxiv.org/abs/2408.13893)|null|
-|**2024-08-24**|**SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description**|Zeyu Jin et.al.|[2408.13608](http://arxiv.org/abs/2408.13608)|null|
+|**2024-08-24**|**SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description**|Zeyu Jin et.al.|[2408.13608](http://arxiv.org/abs/2408.13608)|**[link](https://github.com/thuhcsi/speechcraft)**|
 |**2024-08-23**|**Which Prosodic Features Matter Most for Pragmatics?**|Nigel G. Ward et.al.|[2408.13240](http://arxiv.org/abs/2408.13240)|null|
 |**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
 |**2024-08-22**|**VoiceX: A Text-To-Speech Framework for Custom Voices**|Silvan Mertes et.al.|[2408.12170](http://arxiv.org/abs/2408.12170)|null|
