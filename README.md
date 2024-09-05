@@ -15,6 +15,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Efficient Extraction of Noise-Robust Discrete Units from Self-Supervised Speech Models**|Jakob Poncelet et.al.|[2409.02565](http://arxiv.org/abs/2409.02565)|null|
+|**2024-09-04**|**Parameter estimation of hidden Markov models: comparison of EM and quasi-Newton methods with a new hybrid algorithm**|Sidonie Foulon et.al.|[2409.02477](http://arxiv.org/abs/2409.02477)|null|
+|**2024-09-04**|**What is lost in Normalization? Exploring Pitfalls in Multilingual ASR Model Evaluations**|Kavya Manohar et.al.|[2409.02449](http://arxiv.org/abs/2409.02449)|null|
+|**2024-09-03**|**Temporal Order Preserved Optimal Transport-based Cross-modal Knowledge Transfer Learning for ASR**|Xugang Lu et.al.|[2409.02239](http://arxiv.org/abs/2409.02239)|null|
+|**2024-08-19**|**Toward Large-scale Spiking Neural Networks: A Comprehensive Survey and Future Directions**|Yangfan Hu et.al.|[2409.02111](http://arxiv.org/abs/2409.02111)|null|
+|**2024-09-03**|**Enhancing Code-Switching Speech Recognition with LID-Based Collaborative Mixture of Experts Model**|Hukai Huang et.al.|[2409.02050](http://arxiv.org/abs/2409.02050)|null|
+|**2024-09-03**|**The USTC-NERCSLIP Systems for the CHiME-8 NOTSOFAR-1 Challenge**|Shutong Niu et.al.|[2409.02041](http://arxiv.org/abs/2409.02041)|null|
+|**2024-09-03**|**Reassessing Noise Augmentation Methods in the Context of Adversarial Speech**|Karla Pizzi et.al.|[2409.01813](http://arxiv.org/abs/2409.01813)|null|
+|**2024-09-03**|**VoxHakka: A Dialectally Diverse Multi-speaker Text-to-Speech System for Taiwanese Hakka**|Li-Wei Chen et.al.|[2409.01548](http://arxiv.org/abs/2409.01548)|null|
+|**2024-09-02**|**Resource-Efficient Adaptation of Speech Foundation Models for Multi-Speaker ASR**|Weiqing Wang et.al.|[2409.01438](http://arxiv.org/abs/2409.01438)|null|
+|**2024-09-02**|**Refined Statistical Bounds for Classification Error Mismatches with Constrained Bayes Error**|Zijian Yang et.al.|[2409.01309](http://arxiv.org/abs/2409.01309)|null|
+|**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
+|**2024-09-01**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
+|**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu et.al.|[2409.00800](http://arxiv.org/abs/2409.00800)|null|
+|**2024-08-31**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang et.al.|[2409.00481](http://arxiv.org/abs/2409.00481)|null|
+|**2024-08-31**|**Progressive Residual Extraction based Pre-training for Speech Representation Learning**|Tianrui Wang et.al.|[2409.00387](http://arxiv.org/abs/2409.00387)|null|
+|**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|null|
+|**2024-08-30**|**Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder**|Jihyun Mun et.al.|[2409.00158](http://arxiv.org/abs/2409.00158)|null|
+|**2024-08-30**|**Speaker Tagging Correction With Non-Autoregressive Language Models**|Grigor Kirakosyan et.al.|[2409.00151](http://arxiv.org/abs/2409.00151)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
 |**2024-08-30**|**Generative Modeling Perspective for Control and Reasoning in Robotics**|Takuma Yoneda et.al.|[2408.17041](http://arxiv.org/abs/2408.17041)|null|
 |**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](http://arxiv.org/abs/2408.16589)|null|
@@ -571,6 +590,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
+|**2024-09-04**|**Fast, High-Quality and Parameter-Efficient Articulatory Synthesis using Differentiable DSP**|Yisi Liu et.al.|[2409.02451](http://arxiv.org/abs/2409.02451)|null|
+|**2024-09-03**|**vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders**|Yiwei Guo et.al.|[2409.01995](http://arxiv.org/abs/2409.01995)|null|
+|**2024-09-03**|**VoxHakka: A Dialectally Diverse Multi-speaker Text-to-Speech System for Taiwanese Hakka**|Li-Wei Chen et.al.|[2409.01548](http://arxiv.org/abs/2409.01548)|null|
+|**2024-09-02**|**A multilingual training strategy for low resource Text to Speech**|Asma Amalas et.al.|[2409.01217](http://arxiv.org/abs/2409.01217)|null|
+|**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
+|**2024-09-02**|**SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis**|Haohan Guo et.al.|[2409.00933](http://arxiv.org/abs/2409.00933)|null|
+|**2024-09-01**|**MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer**|Yuancheng Wang et.al.|[2409.00750](http://arxiv.org/abs/2409.00750)|null|
 |**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
 |**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
 |**2024-08-30**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
