@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Probing self-attention in self-supervised speech models for cross-linguistic differences**|Sai Gopinath et.al.|[2409.03115](http://arxiv.org/abs/2409.03115)|null|
+|**2024-09-04**|**Quantification of stylistic differences in human- and ASR-produced transcripts of African American English**|Annika Heuser et.al.|[2409.03059](http://arxiv.org/abs/2409.03059)|null|
 |**2024-09-04**|**Efficient Extraction of Noise-Robust Discrete Units from Self-Supervised Speech Models**|Jakob Poncelet et.al.|[2409.02565](http://arxiv.org/abs/2409.02565)|null|
 |**2024-09-04**|**Parameter estimation of hidden Markov models: comparison of EM and quasi-Newton methods with a new hybrid algorithm**|Sidonie Foulon et.al.|[2409.02477](http://arxiv.org/abs/2409.02477)|null|
 |**2024-09-04**|**What is lost in Normalization? Exploring Pitfalls in Multilingual ASR Model Evaluations**|Kavya Manohar et.al.|[2409.02449](http://arxiv.org/abs/2409.02449)|null|
@@ -27,16 +29,16 @@
 |**2024-09-02**|**Resource-Efficient Adaptation of Speech Foundation Models for Multi-Speaker ASR**|Weiqing Wang et.al.|[2409.01438](http://arxiv.org/abs/2409.01438)|null|
 |**2024-09-02**|**Refined Statistical Bounds for Classification Error Mismatches with Constrained Bayes Error**|Zijian Yang et.al.|[2409.01309](http://arxiv.org/abs/2409.01309)|null|
 |**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
-|**2024-09-01**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
+|**2024-09-05**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
 |**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu et.al.|[2409.00800](http://arxiv.org/abs/2409.00800)|null|
 |**2024-08-31**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang et.al.|[2409.00481](http://arxiv.org/abs/2409.00481)|null|
 |**2024-08-31**|**Progressive Residual Extraction based Pre-training for Speech Representation Learning**|Tianrui Wang et.al.|[2409.00387](http://arxiv.org/abs/2409.00387)|null|
-|**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|null|
+|**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|**[link](https://github.com/AdaDTur/ProGRes)**|
 |**2024-08-30**|**Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder**|Jihyun Mun et.al.|[2409.00158](http://arxiv.org/abs/2409.00158)|null|
 |**2024-08-30**|**Speaker Tagging Correction With Non-Autoregressive Language Models**|Grigor Kirakosyan et.al.|[2409.00151](http://arxiv.org/abs/2409.00151)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
 |**2024-08-30**|**Generative Modeling Perspective for Control and Reasoning in Robotics**|Takuma Yoneda et.al.|[2408.17041](http://arxiv.org/abs/2408.17041)|null|
-|**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](http://arxiv.org/abs/2408.16589)|null|
+|**2024-08-29**|**CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**|Laurin Wagner et.al.|[2408.16589](http://arxiv.org/abs/2408.16589)|**[link](https://github.com/nyrahealth/crisperwhisper)**|
 |**2024-08-29**|**Human-Inspired Audio-Visual Speech Recognition: Spike Activity, Cueing Interaction and Causal Processing**|Qianhui Liu et.al.|[2408.16564](http://arxiv.org/abs/2408.16564)|null|
 |**2024-08-29**|**Measuring the Accuracy of Automatic Speech Recognition Solutions**|Korbinian Kuhn et.al.|[2408.16287](http://arxiv.org/abs/2408.16287)|**[link](https://github.com/shuffle-project/asr-comparison)**|
 |**2024-08-29**|**Revisit Micro-batch Clipping: Adaptive Data Pruning via Gradient Manipulation**|Lun Wang et.al.|[2408.16204](http://arxiv.org/abs/2408.16204)|null|
@@ -590,6 +592,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|null|
+|**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
+|**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
 |**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
 |**2024-09-04**|**Fast, High-Quality and Parameter-Efficient Articulatory Synthesis using Differentiable DSP**|Yisi Liu et.al.|[2409.02451](http://arxiv.org/abs/2409.02451)|null|
 |**2024-09-03**|**vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders**|Yiwei Guo et.al.|[2409.01995](http://arxiv.org/abs/2409.01995)|null|
