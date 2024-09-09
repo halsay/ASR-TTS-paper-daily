@@ -1,4 +1,4 @@
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -47,7 +47,7 @@
 |**2024-08-28**|**Whisper-PMFA: Partial Multi-Scale Feature Aggregation for Speaker Verification using Whisper Models**|Yiyang Zhao et.al.|[2408.15585](http://arxiv.org/abs/2408.15585)|null|
 |**2024-08-27**|**Speech Recognition Transformers: Topological-lingualism Perspective**|Shruti Singh et.al.|[2408.14991](http://arxiv.org/abs/2408.14991)|null|
 |**2024-08-27**|**Literary and Colloquial Dialect Identification for Tamil using Acoustic Features**|M. Nanmalar et.al.|[2408.14887](http://arxiv.org/abs/2408.14887)|null|
-|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-09-06**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
 |**2024-08-26**|**Self-supervised Speech Representations Still Struggle with African American Vernacular English**|Kalvin Chang et.al.|[2408.14262](http://arxiv.org/abs/2408.14262)|**[link](https://github.com/cmu-llab/s3m-aave)**|
 |**2024-08-26**|**Automatic recognition and detection of aphasic natural speech**|Mara Barberis et.al.|[2408.14082](http://arxiv.org/abs/2408.14082)|null|
 |**2024-08-28**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
@@ -586,7 +586,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
 
 ## TTS
 
@@ -736,5 +736,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
 
