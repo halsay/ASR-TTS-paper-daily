@@ -11,6 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
+|**2024-09-09**|**A Toolkit for Joint Speaker Diarization and Identification with Application to Speaker-Attributed ASR**|Giovanni Morrone et.al.|[2409.05750](http://arxiv.org/abs/2409.05750)|null|
+|**2024-09-09**|**Evaluation of real-time transcriptions using end-to-end ASR models**|Carlos Arriaga et.al.|[2409.05674](http://arxiv.org/abs/2409.05674)|null|
+|**2024-09-09**|**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation**|Nithin Rao Koluguri et.al.|[2409.05601](http://arxiv.org/abs/2409.05601)|null|
+|**2024-09-09**|**An investigation of modularity for noise robustness in conformer-based ASR**|Louise Coppieters de Gibson et.al.|[2409.05589](http://arxiv.org/abs/2409.05589)|null|
+|**2024-09-09**|**NTT Multi-Speaker ASR System for the DASR Task of CHiME-8 Challenge**|Naoyuki Kamo et.al.|[2409.05554](http://arxiv.org/abs/2409.05554)|null|
+|**2024-09-09**|**Findings of the 2024 Mandarin Stuttering Event Detection and Automatic Speech Recognition Challenge**|Hongfei Xue et.al.|[2409.05430](http://arxiv.org/abs/2409.05430)|null|
+|**2024-09-08**|**Exploring WavLM Back-ends for Speech Spoofing and Deepfake Detection**|Theophile Stourbe et.al.|[2409.05032](http://arxiv.org/abs/2409.05032)|null|
 |**2024-09-04**|**Probing self-attention in self-supervised speech models for cross-linguistic differences**|Sai Gopinath et.al.|[2409.03115](http://arxiv.org/abs/2409.03115)|null|
 |**2024-09-04**|**Quantification of stylistic differences in human- and ASR-produced transcripts of African American English**|Annika Heuser et.al.|[2409.03059](http://arxiv.org/abs/2409.03059)|null|
 |**2024-09-04**|**Efficient Extraction of Noise-Robust Discrete Units from Self-Supervised Speech Models**|Jakob Poncelet et.al.|[2409.02565](http://arxiv.org/abs/2409.02565)|null|
@@ -29,7 +37,7 @@ layout: default
 |**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu et.al.|[2409.00800](http://arxiv.org/abs/2409.00800)|null|
 |**2024-08-31**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang et.al.|[2409.00481](http://arxiv.org/abs/2409.00481)|null|
 |**2024-08-31**|**Progressive Residual Extraction based Pre-training for Speech Representation Learning**|Tianrui Wang et.al.|[2409.00387](http://arxiv.org/abs/2409.00387)|null|
-|**2024-08-30**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|**[link](https://github.com/AdaDTur/ProGRes)**|
+|**2024-09-08**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|**[link](https://github.com/AdaDTur/ProGRes)**|
 |**2024-08-30**|**Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder**|Jihyun Mun et.al.|[2409.00158](http://arxiv.org/abs/2409.00158)|null|
 |**2024-08-30**|**Speaker Tagging Correction With Non-Autoregressive Language Models**|Grigor Kirakosyan et.al.|[2409.00151](http://arxiv.org/abs/2409.00151)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
@@ -586,6 +594,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
+|**2024-09-09**|**IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS**|Ashwin Sankar et.al.|[2409.05356](http://arxiv.org/abs/2409.05356)|**[link](https://github.com/ai4bharat/indicvoices-r)**|
+|**2024-09-08**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
 |**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|null|
 |**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
