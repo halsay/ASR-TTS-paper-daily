@@ -1,4 +1,4 @@
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -594,7 +594,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
 ## TTS
 
@@ -602,7 +602,7 @@
 |---|---|---|---|---|
 |**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
 |**2024-09-09**|**IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS**|Ashwin Sankar et.al.|[2409.05356](http://arxiv.org/abs/2409.05356)|**[link](https://github.com/ai4bharat/indicvoices-r)**|
-|**2024-09-08**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
+|**2024-09-10**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
 |**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|null|
 |**2024-09-05**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
@@ -675,7 +675,7 @@
 |**2024-07-13**|**Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis**|Xilin Jiang et.al.|[2407.09732](http://arxiv.org/abs/2407.09732)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
 |**2024-07-17**|**Learning High-Frequency Functions Made Easy with Sinusoidal Positional Encoding**|Chuanhao Sun et.al.|[2407.09370](http://arxiv.org/abs/2407.09370)|**[link](https://github.com/zhyuan11/SPE)**|
 |**2024-07-11**|**Autoregressive Speech Synthesis without Vector Quantization**|Lingwei Meng et.al.|[2407.08551](http://arxiv.org/abs/2407.08551)|null|
-|**2024-07-11**|**Toward accessible comics for blind and low vision readers**|Christophe Rigaud et.al.|[2407.08248](http://arxiv.org/abs/2407.08248)|null|
+|**2024-09-10**|**Toward accessible comics for blind and low vision readers**|Christophe Rigaud et.al.|[2407.08248](http://arxiv.org/abs/2407.08248)|null|
 |**2024-07-10**|**Source Tracing of Audio Deepfake Systems**|Nicholas Klein et.al.|[2407.08016](http://arxiv.org/abs/2407.08016)|null|
 |**2024-07-07**|**Fine-Grained and Interpretable Neural Speech Editing**|Max Morrison et.al.|[2407.05471](http://arxiv.org/abs/2407.05471)|**[link](https://github.com/maxrmorrison/torbi)**|
 |**2024-07-07**|**ASRRL-TTS: Agile Speaker Representation Reinforcement Learning for Text-to-Speech Speaker Adaptation**|Ruibo Fu et.al.|[2407.05421](http://arxiv.org/abs/2407.05421)|null|
@@ -747,5 +747,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
