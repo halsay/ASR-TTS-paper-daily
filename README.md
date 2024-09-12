@@ -1,4 +1,4 @@
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -21,7 +21,7 @@
 |**2024-09-09**|**Retrieval Augmented Correction of Named Entity Speech Recognition Errors**|Ernest Pusateri et.al.|[2409.06062](http://arxiv.org/abs/2409.06062)|null|
 |**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
 |**2024-09-09**|**A Toolkit for Joint Speaker Diarization and Identification with Application to Speaker-Attributed ASR**|Giovanni Morrone et.al.|[2409.05750](http://arxiv.org/abs/2409.05750)|null|
-|**2024-09-09**|**Evaluation of real-time transcriptions using end-to-end ASR models**|Carlos Arriaga et.al.|[2409.05674](http://arxiv.org/abs/2409.05674)|null|
+|**2024-09-11**|**Evaluation of real-time transcriptions using end-to-end ASR models**|Carlos Arriaga et.al.|[2409.05674](http://arxiv.org/abs/2409.05674)|null|
 |**2024-09-09**|**Longer is (Not Necessarily) Stronger: Punctuated Long-Sequence Training for Enhanced Speech Recognition and Translation**|Nithin Rao Koluguri et.al.|[2409.05601](http://arxiv.org/abs/2409.05601)|null|
 |**2024-09-09**|**An investigation of modularity for noise robustness in conformer-based ASR**|Louise Coppieters de Gibson et.al.|[2409.05589](http://arxiv.org/abs/2409.05589)|null|
 |**2024-09-09**|**NTT Multi-Speaker ASR System for the DASR Task of CHiME-8 Challenge**|Naoyuki Kamo et.al.|[2409.05554](http://arxiv.org/abs/2409.05554)|null|
@@ -41,9 +41,9 @@
 |**2024-09-02**|**Resource-Efficient Adaptation of Speech Foundation Models for Multi-Speaker ASR**|Weiqing Wang et.al.|[2409.01438](http://arxiv.org/abs/2409.01438)|null|
 |**2024-09-02**|**Refined Statistical Bounds for Classification Error Mismatches with Constrained Bayes Error**|Zijian Yang et.al.|[2409.01309](http://arxiv.org/abs/2409.01309)|null|
 |**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
-|**2024-09-05**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
+|**2024-09-11**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
 |**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu et.al.|[2409.00800](http://arxiv.org/abs/2409.00800)|null|
-|**2024-08-31**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang et.al.|[2409.00481](http://arxiv.org/abs/2409.00481)|null|
+|**2024-09-11**|**DCIM-AVSR : Efficient Audio-Visual Speech Recognition via Dual Conformer Interaction Module**|Xinyu Wang et.al.|[2409.00481](http://arxiv.org/abs/2409.00481)|null|
 |**2024-08-31**|**Progressive Residual Extraction based Pre-training for Speech Representation Learning**|Tianrui Wang et.al.|[2409.00387](http://arxiv.org/abs/2409.00387)|null|
 |**2024-09-08**|**ProGRes: Prompted Generative Rescoring on ASR n-Best**|Ada Defne Tur et.al.|[2409.00217](http://arxiv.org/abs/2409.00217)|**[link](https://github.com/AdaDTur/ProGRes)**|
 |**2024-08-30**|**Developing an End-to-End Framework for Predicting the Social Communication Severity Scores of Children with Autism Spectrum Disorder**|Jihyun Mun et.al.|[2409.00158](http://arxiv.org/abs/2409.00158)|null|
@@ -598,7 +598,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
 ## TTS
 
@@ -615,7 +615,7 @@
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
 |**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
 |**2024-09-04**|**Fast, High-Quality and Parameter-Efficient Articulatory Synthesis using Differentiable DSP**|Yisi Liu et.al.|[2409.02451](http://arxiv.org/abs/2409.02451)|null|
-|**2024-09-03**|**vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders**|Yiwei Guo et.al.|[2409.01995](http://arxiv.org/abs/2409.01995)|null|
+|**2024-09-11**|**vec2wav 2.0: Advancing Voice Conversion via Discrete Token Vocoders**|Yiwei Guo et.al.|[2409.01995](http://arxiv.org/abs/2409.01995)|null|
 |**2024-09-03**|**VoxHakka: A Dialectally Diverse Multi-speaker Text-to-Speech System for Taiwanese Hakka**|Li-Wei Chen et.al.|[2409.01548](http://arxiv.org/abs/2409.01548)|null|
 |**2024-09-02**|**A multilingual training strategy for low resource Text to Speech**|Asma Amalas et.al.|[2409.01217](http://arxiv.org/abs/2409.01217)|null|
 |**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
@@ -754,5 +754,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
 
