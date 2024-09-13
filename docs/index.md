@@ -11,13 +11,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Faster Speech-LLaMA Inference with Multi-token Prediction**|Desh Raj et.al.|[2409.08148](http://arxiv.org/abs/2409.08148)|null|
+|**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
+|**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong et.al.|[2409.08103](http://arxiv.org/abs/2409.08103)|null|
+|**2024-09-12**|**Auto-Landmark: Acoustic Landmark Dataset and Open-Source Toolkit for Landmark Extraction**|Xiangyu Zhang et.al.|[2409.07969](http://arxiv.org/abs/2409.07969)|null|
+|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936](http://arxiv.org/abs/2409.07936)|null|
+|**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
 |**2024-09-11**|**Rethinking Mamba in Speech Processing by Self-Supervised Models**|Xiangyu Zhang et.al.|[2409.07273](http://arxiv.org/abs/2409.07273)|null|
 |**2024-09-11**|**ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages**|Mahta Fetrat Qharabagh et.al.|[2409.07259](http://arxiv.org/abs/2409.07259)|null|
 |**2024-09-11**|**Enhancing CTC-Based Visual Speech Recognition**|Hendrik Laux et.al.|[2409.07210](http://arxiv.org/abs/2409.07210)|null|
-|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|null|
+|**2024-09-11**|**Linear Time Complexity Conformers with SummaryMixing for Streaming Speech Recognition**|Titouan Parcollet et.al.|[2409.07165](http://arxiv.org/abs/2409.07165)|**[link](https://github.com/samsunglabs/summarymixing)**|
 |**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang et.al.|[2409.06468](http://arxiv.org/abs/2409.06468)|null|
 |**2024-09-10**|**Keyword-Aware ASR Error Augmentation for Robust Dialogue State Tracking**|Jihyun Lee et.al.|[2409.06263](http://arxiv.org/abs/2409.06263)|null|
-|**2024-09-10**|**Advancing Topic Segmentation of Broadcasted Speech with Multilingual Semantic Embeddings**|Sakshi Deo Shukla et.al.|[2409.06222](http://arxiv.org/abs/2409.06222)|null|
+|**2024-09-10**|**Advancing Topic Segmentation of Broadcasted Speech with Multilingual Semantic Embeddings**|Sakshi Deo Shukla et.al.|[2409.06222](http://arxiv.org/abs/2409.06222)|**[link](https://github.com/sakshishukla1996/SpeechTopSeg)**|
 |**2024-09-09**|**Retrieval Augmented Correction of Named Entity Speech Recognition Errors**|Ernest Pusateri et.al.|[2409.06062](http://arxiv.org/abs/2409.06062)|null|
 |**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
 |**2024-09-09**|**A Toolkit for Joint Speaker Diarization and Identification with Application to Speaker-Attributed ASR**|Giovanni Morrone et.al.|[2409.05750](http://arxiv.org/abs/2409.05750)|null|
@@ -98,7 +104,7 @@ layout: default
 |**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978](http://arxiv.org/abs/2408.02978)|null|
 |**2024-08-06**|**Self-Supervised Learning for Multi-Channel Neural Transducer**|Atsushi Kojima et.al.|[2408.02945](http://arxiv.org/abs/2408.02945)|null|
 |**2024-08-05**|**Clustering and Mining Accented Speech for Inclusive and Fair Speech Recognition**|Jaeyoung Kim et.al.|[2408.02582](http://arxiv.org/abs/2408.02582)|null|
-|**2024-08-08**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang et.al.|[2408.02369](http://arxiv.org/abs/2408.02369)|**[link](https://gitlab.com/csltstu/sunine)**|
+|**2024-09-12**|**The NPU-ASLP System Description for Visual Speech Recognition in CNVSRC 2024**|He Wang et.al.|[2408.02369](http://arxiv.org/abs/2408.02369)|**[link](https://gitlab.com/csltstu/sunine)**|
 |**2024-08-05**|**StreamVoice+: Evolving into End-to-end Streaming Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2408.02178](http://arxiv.org/abs/2408.02178)|null|
 |**2024-08-03**|**ALIF: Low-Cost Adversarial Audio Attacks on Black-Box Speech Platforms using Linguistic Features**|Peng Cheng et.al.|[2408.01808](http://arxiv.org/abs/2408.01808)|**[link](https://github.com/TASER2023/TASER)**|
 |**2024-08-01**|**SynesLM: A Unified Approach for Audio-visual Speech Recognition and Translation via Language Model and Synthetic Data**|Yichen Lu et.al.|[2408.00624](http://arxiv.org/abs/2408.00624)|**[link](https://github.com/espnet/espnet)**|
@@ -602,6 +608,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Exploring Accessibility Trends and Challenges in Mobile App Development: A Study of Stack Overflow Questions**|Amila Indika et.al.|[2409.07945](http://arxiv.org/abs/2409.07945)|null|
+|**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
+|**2024-09-11**|**SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis**|Helin Wang et.al.|[2409.07556](http://arxiv.org/abs/2409.07556)|null|
 |**2024-09-11**|**D-CAPTCHA++: A Study of Resilience of Deepfake CAPTCHA under Transferable Imperceptible Adversarial Attack**|Hong-Hanh Nguyen-Le et.al.|[2409.07390](http://arxiv.org/abs/2409.07390)|null|
 |**2024-09-11**|**Cross-Dialect Text-To-Speech in Pitch-Accent Language Incorporating Multi-Dialect Phoneme-Level BERT**|Kazuki Yamauchi et.al.|[2409.07265](http://arxiv.org/abs/2409.07265)|null|
 |**2024-09-11**|**Zero-Shot Text-to-Speech as Golden Speech Generator: A Systematic Framework and its Applicability in Automatic Pronunciation Assessment**|Tien-Hong Lo et.al.|[2409.07151](http://arxiv.org/abs/2409.07151)|null|
@@ -612,7 +621,7 @@ layout: default
 |**2024-09-09**|**AS-Speech: Adaptive Style For Speech Synthesis**|Zhipeng Li et.al.|[2409.05730](http://arxiv.org/abs/2409.05730)|null|
 |**2024-09-09**|**IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS**|Ashwin Sankar et.al.|[2409.05356](http://arxiv.org/abs/2409.05356)|**[link](https://github.com/ai4bharat/indicvoices-r)**|
 |**2024-09-10**|**Disentangling the Prosody and Semantic Information with Pre-trained Model for In-Context Learning based Zero-Shot Voice Conversion**|Zhengyang Chen et.al.|[2409.05004](http://arxiv.org/abs/2409.05004)|null|
-|**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|null|
+|**2024-09-01**|**Sample-Efficient Diffusion for Text-To-Speech Synthesis**|Justin Lovelace et.al.|[2409.03717](http://arxiv.org/abs/2409.03717)|**[link](https://github.com/justinlovelace/sesd)**|
 |**2024-09-10**|**LAST: Language Model Aware Speech Tokenization**|Arnon Turetzky et.al.|[2409.03701](http://arxiv.org/abs/2409.03701)|null|
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283](http://arxiv.org/abs/2409.03283)|null|
 |**2024-09-04**|**Training Universal Vocoders with Feature Smoothing-Based Augmentation Methods for High-Quality TTS Systems**|Jeongmin Liu et.al.|[2409.02517](http://arxiv.org/abs/2409.02517)|null|
