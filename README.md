@@ -15,6 +15,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**|Hitesh Tulsiani et.al.|[2409.10515](http://arxiv.org/abs/2409.10515)|null|
+|**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
+|**2024-09-16**|**Voice control interface for surgical robot assistants**|Ana Davila et.al.|[2409.10225](http://arxiv.org/abs/2409.10225)|null|
+|**2024-09-16**|**Augmenting Automatic Speech Recognition Models with Disfluency Detection**|Robin Amann et.al.|[2409.10177](http://arxiv.org/abs/2409.10177)|null|
+|**2024-09-16**|**Optimizing Dysarthria Wake-Up Word Spotting: An End-to-End Approach for SLT 2024 LRDWWS Challenge**|Shuiyun Liu et.al.|[2409.10076](http://arxiv.org/abs/2409.10076)|null|
+|**2024-09-16**|**A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models**|Ryandhimas E. Zezario et.al.|[2409.09914](http://arxiv.org/abs/2409.09914)|null|
+|**2024-09-15**|**Large Language Model Based Generative Error Correction: A Challenge and Baselines forSpeech Recognition, Speaker Tagging, and Emotion Recognition**|Chao-Han Huck Yang et.al.|[2409.09785](http://arxiv.org/abs/2409.09785)|null|
+|**2024-09-14**|**ASR Error Correction using Large Language Models**|Rao Ma et.al.|[2409.09554](http://arxiv.org/abs/2409.09554)|null|
+|**2024-09-14**|**M $^{3}$ V: A multi-modal multi-view approach for Device-Directed Speech Detection**|Anna Wang et.al.|[2409.09284](http://arxiv.org/abs/2409.09284)|null|
+|**2024-09-13**|**Multi-modal Speech Transformer Decoders: When Do Multiple Modalities Improve Accuracy?**|Yiwen Guan et.al.|[2409.09221](http://arxiv.org/abs/2409.09221)|null|
+|**2024-09-13**|**Learnings from curating a trustworthy, well-annotated, and useful dataset of disordered English speech**|Pan-Pan Jiang et.al.|[2409.09190](http://arxiv.org/abs/2409.09190)|null|
 |**2024-09-13**|**Clean Label Attacks against SLU Systems**|Henry Li Xinyuan et.al.|[2409.08985](http://arxiv.org/abs/2409.08985)|null|
 |**2024-09-13**|**Exploring the Impact of Data Quantity on ASR in Extremely Low-resource Languages**|Yao-Fei Cheng et.al.|[2409.08872](http://arxiv.org/abs/2409.08872)|null|
 |**2024-09-13**|**Exploring SSL Discrete Tokens for Multilingual ASR**|Mingyu Cui et.al.|[2409.08805](http://arxiv.org/abs/2409.08805)|null|
@@ -620,6 +631,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization**|Xiaoxue Gao et.al.|[2409.10157](http://arxiv.org/abs/2409.10157)|null|
+|**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058](http://arxiv.org/abs/2409.10058)|null|
+|**2024-09-15**|**Acquiring Pronunciation Knowledge from Transcribed Speech Audio via Multi-task Learning**|Siqi Sun et.al.|[2409.09891](http://arxiv.org/abs/2409.09891)|null|
+|**2024-09-14**|**MacST: Multi-Accent Speech Synthesis via Text Transliteration for Accent Conversion**|Sho Inoue et.al.|[2409.09352](http://arxiv.org/abs/2409.09352)|null|
+|**2024-09-14**|**E1 TTS: Simple and Fast Non-Autoregressive TTS**|Zhijun Liu et.al.|[2409.09351](http://arxiv.org/abs/2409.09351)|null|
+|**2024-09-14**|**Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation**|Changjin Han et.al.|[2409.09311](http://arxiv.org/abs/2409.09311)|null|
+|**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|null|
+|**2024-09-13**|**AccentBox: Towards High-Fidelity Zero-Shot Accent Generation**|Jinzuomu Zhong et.al.|[2409.09098](http://arxiv.org/abs/2409.09098)|null|
 |**2024-09-13**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|null|
 |**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](http://arxiv.org/abs/2409.08711)|null|
 |**2024-09-13**|**LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study**|Mahta Fetrat Qharabagh et.al.|[2409.08554](http://arxiv.org/abs/2409.08554)|null|
