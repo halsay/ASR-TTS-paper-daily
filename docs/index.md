@@ -11,6 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
+|**2024-09-17**|**WER We Stand: Benchmarking Urdu ASR Models**|Samee Arif et.al.|[2409.11252](http://arxiv.org/abs/2409.11252)|null|
+|**2024-09-17**|**Ideal-LLM: Integrating Dual Encoders and Language-Adapted LLM for Multilingual Speech-to-Text**|Hongfei Xue et.al.|[2409.11214](http://arxiv.org/abs/2409.11214)|null|
+|**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli et.al.|[2409.11107](http://arxiv.org/abs/2409.11107)|null|
+|**2024-09-17**|**Enhancing Low-Resource Language and Instruction Following Capabilities of Audio Language Models**|Potsawee Manakul et.al.|[2409.10999](http://arxiv.org/abs/2409.10999)|null|
+|**2024-09-17**|**Speech Recognition for Analysis of Police Radio Communication**|Tejes Srivastava et.al.|[2409.10858](http://arxiv.org/abs/2409.10858)|null|
 |**2024-09-16**|**An Efficient Self-Learning Framework For Interactive Spoken Dialog Systems**|Hitesh Tulsiani et.al.|[2409.10515](http://arxiv.org/abs/2409.10515)|null|
 |**2024-09-16**|**Meta-Whisper: Speech-Based Meta-ICL for ASR on Low-Resource Languages**|Ming-Hao Hsu et.al.|[2409.10429](http://arxiv.org/abs/2409.10429)|null|
 |**2024-09-16**|**Voice control interface for surgical robot assistants**|Ana Davila et.al.|[2409.10225](http://arxiv.org/abs/2409.10225)|null|
@@ -625,6 +631,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**SpMis: An Investigation of Synthetic Spoken Misinformation Detection**|Peizhuo Liu et.al.|[2409.11308](http://arxiv.org/abs/2409.11308)|null|
+|**2024-09-17**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli et.al.|[2409.11107](http://arxiv.org/abs/2409.11107)|null|
+|**2024-09-17**|**Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation**|Gerard I. Gállego et.al.|[2409.11003](http://arxiv.org/abs/2409.11003)|null|
+|**2024-09-17**|**Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data**|Jing Xu et.al.|[2409.10969](http://arxiv.org/abs/2409.10969)|null|
 |**2024-09-16**|**Emo-DPO: Controllable Emotional Speech Synthesis through Direct Preference Optimization**|Xiaoxue Gao et.al.|[2409.10157](http://arxiv.org/abs/2409.10157)|null|
 |**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058](http://arxiv.org/abs/2409.10058)|null|
 |**2024-09-15**|**Acquiring Pronunciation Knowledge from Transcribed Speech Audio via Multi-task Learning**|Siqi Sun et.al.|[2409.09891](http://arxiv.org/abs/2409.09891)|null|
@@ -633,7 +644,7 @@ layout: default
 |**2024-09-14**|**Improving Robustness of Diffusion-Based Zero-Shot Speech Synthesis via Stable Formant Generation**|Changjin Han et.al.|[2409.09311](http://arxiv.org/abs/2409.09311)|null|
 |**2024-09-14**|**SafeEar: Content Privacy-Preserving Audio Deepfake Detection**|Xinfeng Li et.al.|[2409.09272](http://arxiv.org/abs/2409.09272)|null|
 |**2024-09-13**|**AccentBox: Towards High-Fidelity Zero-Shot Accent Generation**|Jinzuomu Zhong et.al.|[2409.09098](http://arxiv.org/abs/2409.09098)|null|
-|**2024-09-13**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|null|
+|**2024-09-17**|**HLTCOE JHU Submission to the Voice Privacy Challenge 2024**|Henry Li Xinyuan et.al.|[2409.08913](http://arxiv.org/abs/2409.08913)|null|
 |**2024-09-13**|**Text-To-Speech Synthesis In The Wild**|Jee-weon Jung et.al.|[2409.08711](http://arxiv.org/abs/2409.08711)|null|
 |**2024-09-13**|**LLM-Powered Grapheme-to-Phoneme Conversion: Benchmark and Case Study**|Mahta Fetrat Qharabagh et.al.|[2409.08554](http://arxiv.org/abs/2409.08554)|null|
 |**2024-09-14**|**Exploring Accessibility Trends and Challenges in Mobile App Development: A Study of Stack Overflow Questions**|Amila Indika et.al.|[2409.07945](http://arxiv.org/abs/2409.07945)|null|
@@ -715,7 +726,7 @@ layout: default
 |**2024-07-19**|**MSceneSpeech: A Multi-Scene Speech Dataset For Expressive Speech Synthesis**|Qian Yang et.al.|[2407.14006](http://arxiv.org/abs/2407.14006)|null|
 |**2024-07-18**|**Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models**|Weiqin Li et.al.|[2407.13509](http://arxiv.org/abs/2407.13509)|null|
 |**2024-07-22**|**TTSDS -- Text-to-Speech Distribution Score**|Christoph Minixhofer et.al.|[2407.12707](http://arxiv.org/abs/2407.12707)|**[link](https://github.com/ttsds/ttsds)**|
-|**2024-09-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|null|
+|**2024-09-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229](http://arxiv.org/abs/2407.12229)|**[link](https://github.com/hbwu-ntu/emoctrltts-eval)**|
 |**2024-07-16**|**A Language Modeling Approach to Diacritic-Free Hebrew TTS**|Amit Roth et.al.|[2407.12206](http://arxiv.org/abs/2407.12206)|null|
 |**2024-07-31**|**ICAGC 2024: Inspirational and Convincing Audio Generation Challenge 2024**|Ruibo Fu et.al.|[2407.12038](http://arxiv.org/abs/2407.12038)|null|
 |**2024-07-13**|**Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis**|Xilin Jiang et.al.|[2407.09732](http://arxiv.org/abs/2407.09732)|**[link](https://github.com/xi-j/Mamba-TasNet)**|
