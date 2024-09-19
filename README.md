@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|null|
+|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|null|
+|**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
+|**2024-09-18**|**Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations**|Haopeng Geng et.al.|[2409.11742](http://arxiv.org/abs/2409.11742)|null|
+|**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
+|**2024-09-17**|**M-BEST-RQ: A Multi-Channel Speech Foundation Model for Smart Glasses**|Yufeng Yang et.al.|[2409.11494](http://arxiv.org/abs/2409.11494)|null|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
 |**2024-09-17**|**WER We Stand: Benchmarking Urdu ASR Models**|Samee Arif et.al.|[2409.11252](http://arxiv.org/abs/2409.11252)|null|
 |**2024-09-17**|**Ideal-LLM: Integrating Dual Encoders and Language-Adapted LLM for Multilingual Speech-to-Text**|Hongfei Xue et.al.|[2409.11214](http://arxiv.org/abs/2409.11214)|null|
@@ -98,7 +104,7 @@
 |**2024-08-28**|**Research Advances and New Paradigms for Biology-inspired Spiking Neural Networks**|Tianyu Zheng et.al.|[2408.13996](http://arxiv.org/abs/2408.13996)|null|
 |**2024-08-25**|**Literary and Colloquial Tamil Dialect Identification**|M. Nanmalar et.al.|[2408.13739](http://arxiv.org/abs/2408.13739)|null|
 |**2024-08-24**|**Studying the Effect of Audio Filters in Pre-Trained Models for Environmental Sound Classification**|Aditya Dawn et.al.|[2408.13644](http://arxiv.org/abs/2408.13644)|null|
-|**2024-09-04**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|**[link](https://github.com/NVIDIA/NeMo)**|
+|**2024-09-18**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2024-08-23**|**Focused Discriminative Training For Streaming CTC-Trained Automatic Speech Recognition Models**|Adnan Haider et.al.|[2408.13008](http://arxiv.org/abs/2408.13008)|null|
 |**2024-08-22**|**Towards measuring fairness in speech recognition: Fair-Speech dataset**|Irina-Elena Veliche et.al.|[2408.12734](http://arxiv.org/abs/2408.12734)|null|
 |**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
@@ -637,8 +643,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Prosodic Parameter Manipulation in TTS generated speech for Controlled Speech Generation**|Podakanti Satyajith Chary et.al.|[2409.12176](http://arxiv.org/abs/2409.12176)|null|
+|**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
+|**2024-09-18**|**Exploring an Inter-Pausal Unit (IPU) based Approach for Indic End-to-End TTS Systems**|Anusha Prakash et.al.|[2409.11915](http://arxiv.org/abs/2409.11915)|null|
+|**2024-09-18**|**Mixture of Experts Fusion for Fake Audio Detection Using Frozen wav2vec 2.0**|Zhiyong Wang et.al.|[2409.11909](http://arxiv.org/abs/2409.11909)|null|
+|**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835](http://arxiv.org/abs/2409.11835)|null|
+|**2024-09-18**|**Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation**|Haohan Guo et.al.|[2409.11630](http://arxiv.org/abs/2409.11630)|null|
 |**2024-09-17**|**SpMis: An Investigation of Synthetic Spoken Misinformation Detection**|Peizhuo Liu et.al.|[2409.11308](http://arxiv.org/abs/2409.11308)|null|
-|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|null|
+|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli et.al.|[2409.11107](http://arxiv.org/abs/2409.11107)|null|
 |**2024-09-17**|**Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation**|Gerard I. Gállego et.al.|[2409.11003](http://arxiv.org/abs/2409.11003)|null|
 |**2024-09-17**|**Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data**|Jing Xu et.al.|[2409.10969](http://arxiv.org/abs/2409.10969)|null|
