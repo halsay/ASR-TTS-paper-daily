@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,10 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-18**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|null|
+|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|null|
 |**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|null|
 |**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
-|**2024-09-18**|**Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations**|Haopeng Geng et.al.|[2409.11742](http://arxiv.org/abs/2409.11742)|null|
+|**2024-09-19**|**Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations**|Haopeng Geng et.al.|[2409.11742](http://arxiv.org/abs/2409.11742)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
 |**2024-09-17**|**M-BEST-RQ: A Multi-Channel Speech Foundation Model for Smart Glasses**|Yufeng Yang et.al.|[2409.11494](http://arxiv.org/abs/2409.11494)|null|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
@@ -644,7 +644,7 @@ layout: default
 |**2024-09-18**|**DPI-TTS: Directional Patch Interaction for Fast-Converging and Style Temporal Modeling in Text-to-Speech**|Xin Qi et.al.|[2409.11835](http://arxiv.org/abs/2409.11835)|null|
 |**2024-09-18**|**Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation**|Haohan Guo et.al.|[2409.11630](http://arxiv.org/abs/2409.11630)|null|
 |**2024-09-17**|**SpMis: An Investigation of Synthetic Spoken Misinformation Detection**|Peizhuo Liu et.al.|[2409.11308](http://arxiv.org/abs/2409.11308)|null|
-|**2024-09-18**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
+|**2024-09-19**|**The Art of Storytelling: Multi-Agent Generative AI for Dynamic Multimodal Narratives**|Samee Arif et.al.|[2409.11261](http://arxiv.org/abs/2409.11261)|**[link](https://github.com/ulrs0/The-Art-of-Story-Telling)**|
 |**2024-09-17**|**Zero Shot Text to Speech Augmentation for Automatic Speech Recognition on Low-Resource Accented Speech Corpora**|Francesco Nespoli et.al.|[2409.11107](http://arxiv.org/abs/2409.11107)|null|
 |**2024-09-17**|**Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation**|Gerard I. Gállego et.al.|[2409.11003](http://arxiv.org/abs/2409.11003)|null|
 |**2024-09-17**|**Enhancing Multilingual Speech Generation and Recognition Abilities in LLMs with Constructed Code-switched Data**|Jing Xu et.al.|[2409.10969](http://arxiv.org/abs/2409.10969)|null|
@@ -685,7 +685,7 @@ layout: default
 |**2024-09-01**|**MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer**|Yuancheng Wang et.al.|[2409.00750](http://arxiv.org/abs/2409.00750)|null|
 |**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
 |**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
-|**2024-08-30**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
+|**2024-09-19**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
 |**2024-08-30**|**Utilizing Speaker Profiles for Impersonation Audio Detection**|Hao Gu et.al.|[2408.17009](http://arxiv.org/abs/2408.17009)|null|
 |**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**RAVE for Speech: Efficient Voice Conversion at High Sampling Rates**|Anders R. Bargum et.al.|[2408.16546](http://arxiv.org/abs/2408.16546)|null|
