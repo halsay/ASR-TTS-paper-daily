@@ -15,8 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|null|
-|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|null|
+|**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|**[link](https://github.com/walleclipse/wehelp)**|
+|**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|**[link](https://github.com/diabolocom-research/conversationaldataset)**|
 |**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
 |**2024-09-19**|**Simulating Native Speaker Shadowing for Nonnative Speech Assessment with Latent Speech Representations**|Haopeng Geng et.al.|[2409.11742](http://arxiv.org/abs/2409.11742)|null|
 |**2024-09-17**|**Chain-of-Thought Prompting for Speech Translation**|Ke Hu et.al.|[2409.11538](http://arxiv.org/abs/2409.11538)|null|
@@ -78,7 +78,7 @@
 |**2024-09-03**|**Reassessing Noise Augmentation Methods in the Context of Adversarial Speech**|Karla Pizzi et.al.|[2409.01813](http://arxiv.org/abs/2409.01813)|null|
 |**2024-09-03**|**VoxHakka: A Dialectally Diverse Multi-speaker Text-to-Speech System for Taiwanese Hakka**|Li-Wei Chen et.al.|[2409.01548](http://arxiv.org/abs/2409.01548)|null|
 |**2024-09-02**|**Resource-Efficient Adaptation of Speech Foundation Models for Multi-Speaker ASR**|Weiqing Wang et.al.|[2409.01438](http://arxiv.org/abs/2409.01438)|null|
-|**2024-09-02**|**Refined Statistical Bounds for Classification Error Mismatches with Constrained Bayes Error**|Zijian Yang et.al.|[2409.01309](http://arxiv.org/abs/2409.01309)|null|
+|**2024-09-23**|**Refined Statistical Bounds for Classification Error Mismatches with Constrained Bayes Error**|Zijian Yang et.al.|[2409.01309](http://arxiv.org/abs/2409.01309)|null|
 |**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
 |**2024-09-11**|**Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition**|Hao Shi et.al.|[2409.00815](http://arxiv.org/abs/2409.00815)|null|
 |**2024-09-01**|**Comparing Discrete and Continuous Space LLMs for Speech Recognition**|Yaoxun Xu et.al.|[2409.00800](http://arxiv.org/abs/2409.00800)|null|
