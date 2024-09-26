@@ -1,4 +1,4 @@
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,30 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs**|Yang Yuhang et.al.|[2409.16005](http://arxiv.org/abs/2409.16005)|null|
+|**2024-09-24**|**Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM**|Fengrun Zhang et.al.|[2409.15905](http://arxiv.org/abs/2409.15905)|null|
+|**2024-09-24**|**WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction**|Shuai Wang et.al.|[2409.15799](http://arxiv.org/abs/2409.15799)|null|
+|**2024-09-24**|**Hypothesis Clustering and Merging: Novel MultiTalker Speech Recognition with Speaker Tokens**|Yosuke Kashiwagi et.al.|[2409.15732](http://arxiv.org/abs/2409.15732)|null|
+|**2024-09-23**|**Revise, Reason, and Recognize: LLM-Based Emotion Recognition via Emotion-Specific Prompts and ASR Error Correction**|Yuanchao Li et.al.|[2409.15551](http://arxiv.org/abs/2409.15551)|**[link](https://github.com/yc-li20/emotion-prompt)**|
+|**2024-09-17**|**A Joint Spectro-Temporal Relational Thinking Based Acoustic Modeling Framework**|Zheng Nan et.al.|[2409.15357](http://arxiv.org/abs/2409.15357)|null|
+|**2024-09-11**|**Contextualization of ASR with LLM using phonetic retrieval-based augmentation**|Zhihong Lei et.al.|[2409.15353](http://arxiv.org/abs/2409.15353)|null|
+|**2024-09-10**|**A Large Dataset of Spontaneous Speech with the Accent Spoken in São Paulo for Automatic Speech Recognition Evaluation**|Rodrigo Lima et.al.|[2409.15350](http://arxiv.org/abs/2409.15350)|null|
+|**2024-09-13**|**CPT-Boosted Wav2vec2.0: Towards Noise Robust Speech Recognition for Classroom Environments**|Ahmed Adel Attia et.al.|[2409.14494](http://arxiv.org/abs/2409.14494)|null|
+|**2024-09-21**|**Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition**|Orchid Chetia Phukan et.al.|[2409.14221](http://arxiv.org/abs/2409.14221)|null|
+|**2024-09-21**|**MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder**|Khai Le-Duc et.al.|[2409.14074](http://arxiv.org/abs/2409.14074)|**[link](https://github.com/leduckhai/multimed)**|
+|**2024-09-20**|**Time and Tokens: Benchmarking End-to-End Speech Dysfluency Detection**|Xuanru Zhou et.al.|[2409.13582](http://arxiv.org/abs/2409.13582)|null|
+|**2024-09-20**|**LM-assisted keyword biasing with Aho-Corasick algorithm for Transducer-based ASR**|Iuliia Thorbecke et.al.|[2409.13514](http://arxiv.org/abs/2409.13514)|null|
+|**2024-09-20**|**Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper**|Iuliia Thorbecke et.al.|[2409.13499](http://arxiv.org/abs/2409.13499)|null|
+|**2024-09-20**|**A Multimodal Dense Retrieval Approach for Speech-Based Open-Domain Question Answering**|Georgios Sidiropoulos et.al.|[2409.13483](http://arxiv.org/abs/2409.13483)|null|
+|**2024-09-20**|**Large Language Model Should Understand Pinyin for Chinese ASR Error Correction**|Yuang Li et.al.|[2409.13262](http://arxiv.org/abs/2409.13262)|null|
+|**2024-09-19**|**Personalized Speech Recognition for Children with Test-Time Adaptation**|Zhonghao Shi et.al.|[2409.13095](http://arxiv.org/abs/2409.13095)|null|
+|**2024-09-19**|**Enhancing Synthetic Training Data for Speech Commands: From ASR-Based Filtering to Domain Adaptation in SSL Latent Space**|Sebastião Quintas et.al.|[2409.12745](http://arxiv.org/abs/2409.12745)|null|
+|**2024-09-19**|**Hidden in Plain Sound: Environmental Backdoor Poisoning Attacks on Whisper, and Mitigations**|Jonatan Bartolini et.al.|[2409.12553](http://arxiv.org/abs/2409.12553)|null|
+|**2024-09-19**|**Disentangling Speakers in Multi-Talker Speech Recognition with Speaker-Aware CTC**|Jiawen Kang et.al.|[2409.12388](http://arxiv.org/abs/2409.12388)|null|
+|**2024-09-19**|**Channel-Aware Domain-Adaptive Generative Adversarial Network for Robust Speech Recognition**|Chien-Chun Wang et.al.|[2409.12386](http://arxiv.org/abs/2409.12386)|**[link](https://github.com/jethrowangsir/cada-gan)**|
+|**2024-09-19**|**Robust Audiovisual Speech Recognition Models with Mixture-of-Experts**|Yihan Wu et.al.|[2409.12370](http://arxiv.org/abs/2409.12370)|null|
+|**2024-09-18**|**META-CAT: Speaker-Informed Speech Embeddings via Meta Information Concatenation for Multi-talker ASR**|Jinhan Wang et.al.|[2409.12352](http://arxiv.org/abs/2409.12352)|null|
+|**2024-09-18**|**Large Language Models Are Strong Audio-Visual Speech Recognition Learners**|Umberto Cappellazzo et.al.|[2409.12319](http://arxiv.org/abs/2409.12319)|null|
 |**2024-09-19**|**WeHelp: A Shared Autonomy System for Wheelchair Users**|Abulikemu Abuduweili et.al.|[2409.12159](http://arxiv.org/abs/2409.12159)|**[link](https://github.com/walleclipse/wehelp)**|
 |**2024-09-18**|**ASR Benchmarking: Need for a More Representative Conversational Dataset**|Gaurav Maheshwari et.al.|[2409.12042](http://arxiv.org/abs/2409.12042)|**[link](https://github.com/diabolocom-research/conversationaldataset)**|
 |**2024-09-18**|**M2R-Whisper: Multi-stage and Multi-scale Retrieval Augmentation for Enhancing Whisper**|Jiaming Zhou et.al.|[2409.11889](http://arxiv.org/abs/2409.11889)|null|
@@ -637,12 +661,27 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Facial Expression-Enhanced TTS: Combining Face Representation and Emotion Intensity for Adaptive Speech**|Yunji Chu et.al.|[2409.16203](http://arxiv.org/abs/2409.16203)|null|
+|**2024-09-24**|**NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers**|Nohil Park et.al.|[2409.15760](http://arxiv.org/abs/2409.15760)|null|
+|**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
+|**2024-09-24**|**StyleFusion TTS: Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**|Zhiyong Chen et.al.|[2409.15741](http://arxiv.org/abs/2409.15741)|null|
+|**2024-09-04**|**Real-time Robotics Situation Awareness for Accident Prevention in Industry**|Juan M. Deniz et.al.|[2409.15305](http://arxiv.org/abs/2409.15305)|null|
+|**2024-09-23**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
+|**2024-09-23**|**HiFi-Glot: Neural Formant Synthesis with Differentiable Resonant Filters**|Lauri Juvela et.al.|[2409.14823](http://arxiv.org/abs/2409.14823)|null|
+|**2024-09-23**|**LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation**|Hieu-Thi Luong et.al.|[2409.14743](http://arxiv.org/abs/2409.14743)|null|
+|**2024-09-20**|**Zero-shot Cross-lingual Voice Transfer for TTS**|Fadi Biadsy et.al.|[2409.13910](http://arxiv.org/abs/2409.13910)|null|
+|**2024-09-20**|**On the Feasibility of Fully AI-automated Vishing Attacks**|João Figueiredo et.al.|[2409.13793](http://arxiv.org/abs/2409.13793)|null|
+|**2024-09-24**|**Enhancing Kurdish Text-to-Speech with Native Corpus Training: A High-Quality WaveGlow Vocoder Approach**|Abdulhady Abas Abdullah et.al.|[2409.13734](http://arxiv.org/abs/2409.13734)|null|
+|**2024-09-20**|**Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis**|Lauri Juvela et.al.|[2409.13382](http://arxiv.org/abs/2409.13382)|null|
+|**2024-09-19**|**Enhancing Synthetic Training Data for Speech Commands: From ASR-Based Filtering to Domain Adaptation in SSL Latent Space**|Sebastião Quintas et.al.|[2409.12745](http://arxiv.org/abs/2409.12745)|null|
+|**2024-09-19**|**NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization**|Zhikang Niu et.al.|[2409.12717](http://arxiv.org/abs/2409.12717)|null|
+|**2024-09-19**|**Preference Alignment Improves Language Model-Based TTS**|Jinchuan Tian et.al.|[2409.12403](http://arxiv.org/abs/2409.12403)|null|
 |**2024-09-10**|**Prosodic Parameter Manipulation in TTS generated speech for Controlled Speech Generation**|Podakanti Satyajith Chary et.al.|[2409.12176](http://arxiv.org/abs/2409.12176)|null|
 |**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
 |**2024-09-18**|**Exploring an Inter-Pausal Unit (IPU) based Approach for Indic End-to-End TTS Systems**|Anusha Prakash et.al.|[2409.11915](http://arxiv.org/abs/2409.11915)|null|
@@ -822,5 +861,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
