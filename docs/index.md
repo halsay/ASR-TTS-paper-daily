@@ -11,6 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not**|Francesco Verdini et.al.|[2409.17044](http://arxiv.org/abs/2409.17044)|null|
+|**2024-09-25**|**MT2KD: Towards A General-Purpose Encoder for Speech, Speaker, and Audio Events**|Xiaoyu Yang et.al.|[2409.17010](http://arxiv.org/abs/2409.17010)|null|
+|**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín et.al.|[2409.16954](http://arxiv.org/abs/2409.16954)|null|
+|**2024-09-25**|**Semi-Supervised Cognitive State Classification from Speech with Multi-View Pseudo-Labeling**|Yuanchao Li et.al.|[2409.16937](http://arxiv.org/abs/2409.16937)|**[link](https://github.com/yc-li20/semi-supervised-training)**|
+|**2024-09-25**|**Speech Recognition Rescoring with Large Speech-Text Foundation Models**|Prashanth Gurunath Shivakumar et.al.|[2409.16654](http://arxiv.org/abs/2409.16654)|null|
+|**2024-09-24**|**Spelling Correction through Rewriting of Non-Autoregressive ASR Lattices**|Leonid Velikovich et.al.|[2409.16469](http://arxiv.org/abs/2409.16469)|null|
+|**2024-09-24**|**Revisiting Acoustic Features for Robust ASR**|Muhammad A. Shah et.al.|[2409.16399](http://arxiv.org/abs/2409.16399)|null|
+|**2024-09-10**|**How Redundant Is the Transformer Stack in Speech Representation Models?**|Teresa Dorszewski et.al.|[2409.16302](http://arxiv.org/abs/2409.16302)|null|
 |**2024-09-24**|**Bridging Speech and Text: Enhancing ASR with Pinyin-to-Character Pre-training in LLMs**|Yang Yuhang et.al.|[2409.16005](http://arxiv.org/abs/2409.16005)|null|
 |**2024-09-24**|**Boosting Code-Switching ASR with Mixture of Experts Enhanced Speech-Conditioned LLM**|Fengrun Zhang et.al.|[2409.15905](http://arxiv.org/abs/2409.15905)|null|
 |**2024-09-24**|**WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction**|Shuai Wang et.al.|[2409.15799](http://arxiv.org/abs/2409.15799)|null|
@@ -661,6 +669,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions**|Kun Zhou et.al.|[2409.16681](http://arxiv.org/abs/2409.16681)|null|
+|**2024-09-25**|**Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation**|Siyin Wang et.al.|[2409.16644](http://arxiv.org/abs/2409.16644)|null|
+|**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
+|**2024-09-24**|**Beyond Text-to-Text: An Overview of Multimodal and Generative Artificial Intelligence for Education Using Topic Modeling**|Ville Heilala et.al.|[2409.16376](http://arxiv.org/abs/2409.16376)|null|
 |**2024-09-24**|**Facial Expression-Enhanced TTS: Combining Face Representation and Emotion Intensity for Adaptive Speech**|Yunji Chu et.al.|[2409.16203](http://arxiv.org/abs/2409.16203)|null|
 |**2024-09-24**|**NanoVoice: Efficient Speaker-Adaptive Text-to-Speech for Multiple Speakers**|Nohil Park et.al.|[2409.15760](http://arxiv.org/abs/2409.15760)|null|
 |**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
