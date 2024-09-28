@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey et.al.|[2409.18044](http://arxiv.org/abs/2409.18044)|null|
+|**2024-09-26**|**Are Transformers in Pre-trained LM A Good ASR Encoder? An Empirical Study**|Keyu An et.al.|[2409.17750](http://arxiv.org/abs/2409.17750)|null|
+|**2024-09-26**|**Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition**|Keyu An et.al.|[2409.17746](http://arxiv.org/abs/2409.17746)|null|
+|**2024-09-26**|**Deep CLAS: Deep Contextual Listen, Attend and Spell**|Shifu Xiong et.al.|[2409.17603](http://arxiv.org/abs/2409.17603)|null|
 |**2024-09-25**|**How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not**|Francesco Verdini et.al.|[2409.17044](http://arxiv.org/abs/2409.17044)|null|
 |**2024-09-25**|**MT2KD: Towards A General-Purpose Encoder for Speech, Speaker, and Audio Events**|Xiaoyu Yang et.al.|[2409.17010](http://arxiv.org/abs/2409.17010)|null|
 |**2024-09-25**|**Weighted Cross-entropy for Low-Resource Languages in Multilingual Speech Recognition**|Andrés Piñeiro-Martín et.al.|[2409.16954](http://arxiv.org/abs/2409.16954)|null|
@@ -669,6 +673,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control**|Ryuichi Yamamoto et.al.|[2409.17452](http://arxiv.org/abs/2409.17452)|null|
+|**2024-09-25**|**Exploring synthetic data for cross-speaker style transfer in style representation based TTS**|Lucas H. Ueda et.al.|[2409.17364](http://arxiv.org/abs/2409.17364)|null|
+|**2024-09-18**|**SpoofCeleb: Speech Deepfake Detection and SASV In The Wild**|Jee-weon Jung et.al.|[2409.17285](http://arxiv.org/abs/2409.17285)|null|
 |**2024-09-25**|**Emotional Dimension Control in Language Model-Based Text-to-Speech: Spanning a Broad Spectrum of Human Emotions**|Kun Zhou et.al.|[2409.16681](http://arxiv.org/abs/2409.16681)|null|
 |**2024-09-25**|**Enabling Auditory Large Language Models for Automatic Speech Quality Evaluation**|Siyin Wang et.al.|[2409.16644](http://arxiv.org/abs/2409.16644)|null|
 |**2024-09-24**|**FastTalker: Jointly Generating Speech and Conversational Gestures from Text**|Zixin Guo et.al.|[2409.16404](http://arxiv.org/abs/2409.16404)|null|
