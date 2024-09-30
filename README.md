@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao et.al.|[2409.18654](http://arxiv.org/abs/2409.18654)|null|
+|**2024-09-27**|**ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5**|Jiaming Zhou et.al.|[2409.18584](http://arxiv.org/abs/2409.18584)|null|
+|**2024-09-27**|**Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking**|Brian Yan et.al.|[2409.18428](http://arxiv.org/abs/2409.18428)|null|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey et.al.|[2409.18044](http://arxiv.org/abs/2409.18044)|null|
 |**2024-09-26**|**Are Transformers in Pre-trained LM A Good ASR Encoder? An Empirical Study**|Keyu An et.al.|[2409.17750](http://arxiv.org/abs/2409.17750)|null|
 |**2024-09-26**|**Paraformer-v2: An improved non-autoregressive transformer for noise-robust speech recognition**|Keyu An et.al.|[2409.17746](http://arxiv.org/abs/2409.17746)|null|
@@ -679,6 +682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech**|Youngjae Kim et.al.|[2409.18622](http://arxiv.org/abs/2409.18622)|null|
+|**2024-09-27**|**EmoPro: A Prompt Selection Strategy for Emotional Expression in LM-based Speech Synthesis**|Haoyu Wang et.al.|[2409.18512](http://arxiv.org/abs/2409.18512)|null|
 |**2024-09-26**|**Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control**|Ryuichi Yamamoto et.al.|[2409.17452](http://arxiv.org/abs/2409.17452)|null|
 |**2024-09-25**|**Exploring synthetic data for cross-speaker style transfer in style representation based TTS**|Lucas H. Ueda et.al.|[2409.17364](http://arxiv.org/abs/2409.17364)|null|
 |**2024-09-18**|**SpoofCeleb: Speech Deepfake Detection and SASV In The Wild**|Jee-weon Jung et.al.|[2409.17285](http://arxiv.org/abs/2409.17285)|null|
