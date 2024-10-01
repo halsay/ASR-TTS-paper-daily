@@ -11,8 +11,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Boosting Hybrid Autoregressive Transducer-based ASR with Internal Acoustic Model Training and Dual Blank Thresholding**|Takafumi Moriya et.al.|[2409.20313](http://arxiv.org/abs/2409.20313)|null|
+|**2024-09-30**|**Alignment-Free Training for Transducer-based Multi-Talker ASR**|Takafumi Moriya et.al.|[2409.20301](http://arxiv.org/abs/2409.20301)|null|
+|**2024-09-30**|**AfriHuBERT: A self-supervised speech representation model for African languages**|Jesujoba O. Alabi et.al.|[2409.20201](http://arxiv.org/abs/2409.20201)|null|
+|**2024-09-30**|**Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems**|Oswald Zink et.al.|[2409.19990](http://arxiv.org/abs/2409.19990)|null|
+|**2024-09-30**|**HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models**|Bingshen Mu et.al.|[2409.19878](http://arxiv.org/abs/2409.19878)|null|
+|**2024-09-29**|**Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility**|Xiuwen Zheng et.al.|[2409.19818](http://arxiv.org/abs/2409.19818)|null|
+|**2024-09-29**|**Efficient Long-Form Speech Recognition for General Speech In-Context Learning**|Hao Yen et.al.|[2409.19757](http://arxiv.org/abs/2409.19757)|null|
+|**2024-09-29**|**Quantitative Analysis of Audio-Visual Tasks: An Information-Theoretic Perspective**|Chen Chen et.al.|[2409.19575](http://arxiv.org/abs/2409.19575)|null|
+|**2024-09-29**|**CoT-ST: Enhancing LLM-based Speech Translation with Multimodal Chain-of-Thought**|Yexing Du et.al.|[2409.19510](http://arxiv.org/abs/2409.19510)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
+|**2024-09-28**|**Advanced Clustering Techniques for Speech Signal Enhancement: A Review and Metanalysis of Fuzzy C-Means, K-Means, and Kernel Fuzzy C-Means Methods**|Abdulhady Abas Abdullah et.al.|[2409.19448](http://arxiv.org/abs/2409.19448)|null|
 |**2024-09-27**|**Speech-Mamba: Long-Context Speech Recognition with Selective State Spaces Models**|Xiaoxue Gao et.al.|[2409.18654](http://arxiv.org/abs/2409.18654)|null|
-|**2024-09-27**|**ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5**|Jiaming Zhou et.al.|[2409.18584](http://arxiv.org/abs/2409.18584)|null|
+|**2024-09-30**|**ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5**|Jiaming Zhou et.al.|[2409.18584](http://arxiv.org/abs/2409.18584)|null|
 |**2024-09-27**|**Improving Multilingual ASR in the Wild Using Simple N-best Re-ranking**|Brian Yan et.al.|[2409.18428](http://arxiv.org/abs/2409.18428)|null|
 |**2024-09-26**|**Unveiling the Role of Pretraining in Direct Speech Translation**|Belen Alastruey et.al.|[2409.18044](http://arxiv.org/abs/2409.18044)|null|
 |**2024-09-26**|**Are Transformers in Pre-trained LM A Good ASR Encoder? An Empirical Study**|Keyu An et.al.|[2409.17750](http://arxiv.org/abs/2409.17750)|null|
@@ -83,7 +93,7 @@ layout: default
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
 |**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong et.al.|[2409.08103](http://arxiv.org/abs/2409.08103)|null|
 |**2024-09-12**|**Auto-Landmark: Acoustic Landmark Dataset and Open-Source Toolkit for Landmark Extraction**|Xiangyu Zhang et.al.|[2409.07969](http://arxiv.org/abs/2409.07969)|null|
-|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936](http://arxiv.org/abs/2409.07936)|null|
+|**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936](http://arxiv.org/abs/2409.07936)|**[link](https://github.com/Kyhne/Detecting-and-Defending-Against-Adversarial-Attacks)**|
 |**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
 |**2024-09-11**|**Rethinking Mamba in Speech Processing by Self-Supervised Models**|Xiangyu Zhang et.al.|[2409.07273](http://arxiv.org/abs/2409.07273)|null|
 |**2024-09-11**|**ManaTTS Persian: a recipe for creating TTS datasets for lower resource languages**|Mahta Fetrat Qharabagh et.al.|[2409.07259](http://arxiv.org/abs/2409.07259)|null|
@@ -676,6 +686,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**Word-wise intonation model for cross-language TTS systems**|Tomilov A. A. et.al.|[2409.20374](http://arxiv.org/abs/2409.20374)|null|
+|**2024-09-29**|**Quantitative Analysis of Audio-Visual Tasks: An Information-Theoretic Perspective**|Chen Chen et.al.|[2409.19575](http://arxiv.org/abs/2409.19575)|null|
 |**2024-09-27**|**Audio-Based Linguistic Feature Extraction for Enhancing Multi-lingual and Low-Resource Text-to-Speech**|Youngjae Kim et.al.|[2409.18622](http://arxiv.org/abs/2409.18622)|null|
 |**2024-09-27**|**EmoPro: A Prompt Selection Strategy for Emotional Expression in LM-based Speech Synthesis**|Haoyu Wang et.al.|[2409.18512](http://arxiv.org/abs/2409.18512)|null|
 |**2024-09-26**|**Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control**|Ryuichi Yamamoto et.al.|[2409.17452](http://arxiv.org/abs/2409.17452)|null|
