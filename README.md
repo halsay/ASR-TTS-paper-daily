@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Three-in-One: Fast and Accurate Transducer for Hybrid-Autoregressive ASR**|Hainan Xu et.al.|[2410.02597](http://arxiv.org/abs/2410.02597)|null|
+|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Yakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
+|**2024-10-03**|**Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems**|Olga Iakovenko et.al.|[2410.02538](http://arxiv.org/abs/2410.02538)|null|
+|**2024-10-03**|**A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker's Shadowings**|Haopeng Geng et.al.|[2410.02239](http://arxiv.org/abs/2410.02239)|null|
+|**2024-09-27**|**A GEN AI Framework for Medical Note Generation**|Hui Yi Leong et.al.|[2410.01841](http://arxiv.org/abs/2410.01841)|null|
 |**2024-10-02**|**Spoken Grammar Assessment Using LLM**|Sunil Kumar Kopparapu et.al.|[2410.01579](http://arxiv.org/abs/2410.01579)|null|
 |**2024-10-01**|**MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages**|Marco Gaido et.al.|[2410.01036](http://arxiv.org/abs/2410.01036)|**[link](https://github.com/hlt-mt/mosel)**|
 |**2024-10-01**|**Automatic Speech Recognition for the Ika Language**|Uchenna Nzenwata et.al.|[2410.00940](http://arxiv.org/abs/2410.00940)|null|
