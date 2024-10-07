@@ -11,8 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Multi-Dialect Vietnamese: Task, Dataset, Baseline Models and Challenges**|Nguyen Van Dinh et.al.|[2410.03458](http://arxiv.org/abs/2410.03458)|null|
+|**2024-10-04**|**Team MTS @ AutoMin 2021: An Overview of Existing Summarization Approaches and Comparison to Unsupervised Summarization Techniques**|Olga Iakovenko et.al.|[2410.03412](http://arxiv.org/abs/2410.03412)|null|
 |**2024-10-03**|**Three-in-One: Fast and Accurate Transducer for Hybrid-Autoregressive ASR**|Hainan Xu et.al.|[2410.02597](http://arxiv.org/abs/2410.02597)|null|
-|**2024-10-03**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Yakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
+|**2024-10-04**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
 |**2024-10-03**|**Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems**|Olga Iakovenko et.al.|[2410.02538](http://arxiv.org/abs/2410.02538)|null|
 |**2024-10-03**|**A Pilot Study of Applying Sequence-to-Sequence Voice Conversion to Evaluate the Intelligibility of L2 Speech Using a Native Speaker's Shadowings**|Haopeng Geng et.al.|[2410.02239](http://arxiv.org/abs/2410.02239)|null|
 |**2024-09-27**|**A GEN AI Framework for Medical Note Generation**|Hui Yi Leong et.al.|[2410.01841](http://arxiv.org/abs/2410.01841)|null|
@@ -698,6 +700,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Generative Semantic Communication for Text-to-Speech Synthesis**|Jiahao Zheng et.al.|[2410.03459](http://arxiv.org/abs/2410.03459)|null|
+|**2024-10-04**|**Textless Streaming Speech-to-Speech Translation using Semantic Speech Tokens**|Jinzheng Zhao et.al.|[2410.03298](http://arxiv.org/abs/2410.03298)|null|
+|**2024-10-04**|**Narrative Player: Reviving Data Narratives with Visuals**|Zekai Shao et.al.|[2410.03268](http://arxiv.org/abs/2410.03268)|null|
+|**2024-10-04**|**MultiVerse: Efficient and Expressive Zero-Shot Multi-Task Text-to-Speech**|Taejun Bak et.al.|[2410.03192](http://arxiv.org/abs/2410.03192)|null|
 |**2024-10-01**|**Augmentation through Laundering Attacks for Audio Spoof Detection**|Hashim Ali et.al.|[2410.01108](http://arxiv.org/abs/2410.01108)|null|
 |**2024-10-01**|**Zero-Shot Text-to-Speech from Continuous Text Streams**|Trung Dang et.al.|[2410.00767](http://arxiv.org/abs/2410.00767)|null|
 |**2024-10-01**|**EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control**|Haozhe Chen et.al.|[2410.00316](http://arxiv.org/abs/2410.00316)|**[link](https://github.com/tonychenxyz/emoknob)**|
