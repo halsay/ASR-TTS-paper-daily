@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -21,7 +21,7 @@ layout: default
 |**2024-10-02**|**Spoken Grammar Assessment Using LLM**|Sunil Kumar Kopparapu et.al.|[2410.01579](http://arxiv.org/abs/2410.01579)|null|
 |**2024-10-01**|**MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages**|Marco Gaido et.al.|[2410.01036](http://arxiv.org/abs/2410.01036)|**[link](https://github.com/hlt-mt/mosel)**|
 |**2024-10-01**|**Automatic Speech Recognition for the Ika Language**|Uchenna Nzenwata et.al.|[2410.00940](http://arxiv.org/abs/2410.00940)|null|
-|**2024-10-01**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu et.al.|[2410.00822](http://arxiv.org/abs/2410.00822)|**[link](https://github.com/193746/VHASR)**|
+|**2024-10-04**|**VHASR: A Multimodal Speech Recognition System With Vision Hotwords**|Jiliang Hu et.al.|[2410.00822](http://arxiv.org/abs/2410.00822)|**[link](https://github.com/193746/VHASR)**|
 |**2024-10-01**|**End-to-End Speech Recognition with Pre-trained Masked Language Model**|Yosuke Higuchi et.al.|[2410.00528](http://arxiv.org/abs/2410.00528)|null|
 |**2024-09-30**|**Mamba for Streaming ASR Combined with Unimodal Aggregation**|Ying Fang et.al.|[2410.00070](http://arxiv.org/abs/2410.00070)|**[link](https://github.com/Audio-WestlakeU/UMA-ASR)**|
 |**2024-10-02**|**Moshi: a speech-text foundation model for real-time dialogue**|Alexandre Défossez et.al.|[2410.00037](http://arxiv.org/abs/2410.00037)|**[link](https://github.com/kyutai-labs/moshi)**|
@@ -105,7 +105,7 @@ layout: default
 |**2024-09-13**|**Large Language Model Can Transcribe Speech in Multi-Talker Scenarios with Versatile Instructions**|Lingwei Meng et.al.|[2409.08596](http://arxiv.org/abs/2409.08596)|null|
 |**2024-09-12**|**Faster Speech-LLaMA Inference with Multi-token Prediction**|Desh Raj et.al.|[2409.08148](http://arxiv.org/abs/2409.08148)|null|
 |**2024-09-12**|**WhisperNER: Unified Open Named Entity and Speech Recognition**|Gil Ayache et.al.|[2409.08107](http://arxiv.org/abs/2409.08107)|null|
-|**2024-09-12**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong et.al.|[2409.08103](http://arxiv.org/abs/2409.08103)|null|
+|**2024-10-06**|**The Faetar Benchmark: Speech Recognition in a Very Under-Resourced Language**|Michael Ong et.al.|[2409.08103](http://arxiv.org/abs/2409.08103)|null|
 |**2024-09-12**|**Auto-Landmark: Acoustic Landmark Dataset and Open-Source Toolkit for Landmark Extraction**|Xiangyu Zhang et.al.|[2409.07969](http://arxiv.org/abs/2409.07969)|null|
 |**2024-09-12**|**Detecting and Defending Against Adversarial Attacks on Automatic Speech Recognition via Diffusion Models**|Nikolai L. Kühne et.al.|[2409.07936](http://arxiv.org/abs/2409.07936)|**[link](https://github.com/Kyhne/Detecting-and-Defending-Against-Adversarial-Attacks)**|
 |**2024-09-12**|**Full-text Error Correction for Chinese Speech Recognition with Large Language Model**|Zhiyuan Tang et.al.|[2409.07790](http://arxiv.org/abs/2409.07790)|null|
