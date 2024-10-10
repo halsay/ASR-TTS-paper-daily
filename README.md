@@ -1,4 +1,4 @@
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,15 +19,15 @@
 |**2024-10-07**|**CR-CTC: Consistency regularization on CTC for improved speech recognition**|Zengwei Yao et.al.|[2410.05101](http://arxiv.org/abs/2410.05101)|null|
 |**2024-10-06**|**Punctuation Prediction for Polish Texts using Transformers**|Jakub Pokrywka et.al.|[2410.04621](http://arxiv.org/abs/2410.04621)|null|
 |**2024-10-06**|**Casablanca: Data and Models for Multidialectal Arabic Speech Recognition**|Bashar Talafha et.al.|[2410.04527](http://arxiv.org/abs/2410.04527)|null|
-|**2024-10-05**|**Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer**|Tomoki Honda et.al.|[2410.04159](http://arxiv.org/abs/2410.04159)|null|
+|**2024-10-05**|**Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer**|Tomoki Honda et.al.|[2410.04159](http://arxiv.org/abs/2410.04159)|**[link](https://github.com/mirrormouse/hybrid-h3-conformer)**|
 |**2024-10-05**|**The OCON model: an old but green solution for distributable supervised classification for acoustic monitoring in smart cities**|Stefano Giacomelli et.al.|[2410.04098](http://arxiv.org/abs/2410.04098)|null|
 |**2024-10-05**|**Enhancement of Dysarthric Speech Reconstruction by Contrastive Learning**|Keshvari Fatemeh et.al.|[2410.04092](http://arxiv.org/abs/2410.04092)|null|
 |**2024-10-04**|**Reverb: Open-Source ASR and Diarization from Rev**|Nishchal Bhandari et.al.|[2410.03930](http://arxiv.org/abs/2410.03930)|null|
-|**2024-10-04**|**Self-Powered LLM Modality Expansion for Large Speech-Text Models**|Tengfei Yu et.al.|[2410.03798](http://arxiv.org/abs/2410.03798)|null|
+|**2024-10-04**|**Self-Powered LLM Modality Expansion for Large Speech-Text Models**|Tengfei Yu et.al.|[2410.03798](http://arxiv.org/abs/2410.03798)|**[link](https://github.com/ytf-philp/self-powered-lsm)**|
 |**2024-10-02**|**SeeSay: An Assistive Device for the Visually Impaired Using Retrieval Augmented Generation**|Melody Yu et.al.|[2410.03771](http://arxiv.org/abs/2410.03771)|null|
 |**2024-10-02**|**Efficient Streaming LLM for Speech Recognition**|Junteng Jia et.al.|[2410.03752](http://arxiv.org/abs/2410.03752)|null|
 |**2024-10-01**|**Recent Advances in Speech Language Models: A Survey**|Wenqian Cui et.al.|[2410.03751](http://arxiv.org/abs/2410.03751)|null|
-|**2024-10-04**|**Multi-Dialect Vietnamese: Task, Dataset, Baseline Models and Challenges**|Nguyen Van Dinh et.al.|[2410.03458](http://arxiv.org/abs/2410.03458)|null|
+|**2024-10-04**|**Multi-Dialect Vietnamese: Task, Dataset, Baseline Models and Challenges**|Nguyen Van Dinh et.al.|[2410.03458](http://arxiv.org/abs/2410.03458)|**[link](https://github.com/nguyen-dv/ViMD_Dataset)**|
 |**2024-10-04**|**Team MTS @ AutoMin 2021: An Overview of Existing Summarization Approaches and Comparison to Unsupervised Summarization Techniques**|Olga Iakovenko et.al.|[2410.03412](http://arxiv.org/abs/2410.03412)|null|
 |**2024-10-03**|**Three-in-One: Fast and Accurate Transducer for Hybrid-Autoregressive ASR**|Hainan Xu et.al.|[2410.02597](http://arxiv.org/abs/2410.02597)|null|
 |**2024-10-04**|**Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition**|Olga Iakovenko et.al.|[2410.02560](http://arxiv.org/abs/2410.02560)|null|
@@ -79,7 +79,7 @@
 |**2024-09-21**|**MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder**|Khai Le-Duc et.al.|[2409.14074](http://arxiv.org/abs/2409.14074)|**[link](https://github.com/leduckhai/multimed)**|
 |**2024-09-20**|**Time and Tokens: Benchmarking End-to-End Speech Dysfluency Detection**|Xuanru Zhou et.al.|[2409.13582](http://arxiv.org/abs/2409.13582)|null|
 |**2024-09-20**|**LM-assisted keyword biasing with Aho-Corasick algorithm for Transducer-based ASR**|Iuliia Thorbecke et.al.|[2409.13514](http://arxiv.org/abs/2409.13514)|null|
-|**2024-09-20**|**Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper**|Iuliia Thorbecke et.al.|[2409.13499](http://arxiv.org/abs/2409.13499)|null|
+|**2024-10-07**|**Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper**|Iuliia Thorbecke et.al.|[2409.13499](http://arxiv.org/abs/2409.13499)|null|
 |**2024-09-20**|**A Multimodal Dense Retrieval Approach for Speech-Based Open-Domain Question Answering**|Georgios Sidiropoulos et.al.|[2409.13483](http://arxiv.org/abs/2409.13483)|null|
 |**2024-09-20**|**Large Language Model Should Understand Pinyin for Chinese ASR Error Correction**|Yuang Li et.al.|[2409.13262](http://arxiv.org/abs/2409.13262)|null|
 |**2024-09-19**|**Personalized Speech Recognition for Children with Test-Time Adaptation**|Zhonghao Shi et.al.|[2409.13095](http://arxiv.org/abs/2409.13095)|null|
@@ -712,7 +712,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
 ## TTS
 
@@ -938,5 +938,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
 
