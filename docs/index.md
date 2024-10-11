@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Full-Rank No More: Low-Rank Weight Training for Modern Speech Recognition Models**|Adriana Fernandez-Lopez et.al.|[2410.07771](http://arxiv.org/abs/2410.07771)|null|
+|**2024-10-09**|**Advocating Character Error Rate for Multilingual ASR Evaluation**|Thennal D K et.al.|[2410.07400](http://arxiv.org/abs/2410.07400)|null|
 |**2024-10-08**|**The USTC-NERCSLIP Systems for the CHiME-8 MMCSG Challenge**|Ya Jiang et.al.|[2410.05986](http://arxiv.org/abs/2410.05986)|null|
 |**2024-10-07**|**Incorporating Talker Identity Aids With Improving Speech Recognition in Adversarial Environments**|Sagarika Alavilli et.al.|[2410.05423](http://arxiv.org/abs/2410.05423)|null|
 |**2024-10-05**|**The OCON model: an old but gold solution for distributable supervised classification**|Stefano Giacomelli et.al.|[2410.05320](http://arxiv.org/abs/2410.05320)|null|
@@ -715,6 +717,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880](http://arxiv.org/abs/2410.07880)|null|
 |**2024-10-09**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|null|
 |**2024-10-09**|**Efficient training strategies for natural sounding speech synthesis and speaker adaptation based on FastPitch**|Teodora Răgman et.al.|[2410.06787](http://arxiv.org/abs/2410.06787)|null|
 |**2024-10-09**|**Bahasa Harmony: A Comprehensive Dataset for Bahasa Text-to-Speech Synthesis with Discrete Codec Modeling of EnGen-TTS**|Onkar Kishor Susladkar et.al.|[2410.06608](http://arxiv.org/abs/2410.06608)|null|
