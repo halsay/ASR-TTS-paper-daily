@@ -1,4 +1,4 @@
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -717,7 +717,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
 ## TTS
 
@@ -814,7 +814,7 @@
 |**2024-09-02**|**A multilingual training strategy for low resource Text to Speech**|Asma Amalas et.al.|[2409.01217](http://arxiv.org/abs/2409.01217)|null|
 |**2024-09-02**|**A Framework for Synthetic Audio Conversations Generation using Large Language Models**|Kaung Myat Kyaw et.al.|[2409.00946](http://arxiv.org/abs/2409.00946)|null|
 |**2024-09-02**|**SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis**|Haohan Guo et.al.|[2409.00933](http://arxiv.org/abs/2409.00933)|**[link](https://github.com/hhguo/socodec)**|
-|**2024-09-01**|**MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer**|Yuancheng Wang et.al.|[2409.00750](http://arxiv.org/abs/2409.00750)|null|
+|**2024-10-11**|**MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer**|Yuancheng Wang et.al.|[2409.00750](http://arxiv.org/abs/2409.00750)|null|
 |**2024-08-30**|**SelectTTS: Synthesizing Anyone's Voice via Discrete Unit-Based Frame Selection**|Ismail Rasim Ulgen et.al.|[2408.17432](http://arxiv.org/abs/2408.17432)|null|
 |**2024-08-30**|**AASIST3: KAN-Enhanced AASIST Speech Deepfake Detection using SSL Features and Additional Regularization for the ASVspoof 2024 Challenge**|Kirill Borodin et.al.|[2408.17352](http://arxiv.org/abs/2408.17352)|null|
 |**2024-09-19**|**Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model**|Zhen Ye et.al.|[2408.17175](http://arxiv.org/abs/2408.17175)|**[link](https://github.com/zhenye234/xcodec)**|
@@ -948,5 +948,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20241013>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241014>back to top</a>)</p>
 
