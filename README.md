@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**UniGlyph: A Seven-Segment Script for Universal Language Representation**|G. V. Bency Sherin et.al.|[2410.08974](http://arxiv.org/abs/2410.08974)|null|
+|**2024-10-11**|**Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities**|Aulia Adila et.al.|[2410.08828](http://arxiv.org/abs/2410.08828)|null|
 |**2024-10-10**|**Full-Rank No More: Low-Rank Weight Training for Modern Speech Recognition Models**|Adriana Fernandez-Lopez et.al.|[2410.07771](http://arxiv.org/abs/2410.07771)|null|
 |**2024-10-09**|**Advocating Character Error Rate for Multilingual ASR Evaluation**|Thennal D K et.al.|[2410.07400](http://arxiv.org/abs/2410.07400)|null|
 |**2024-10-08**|**The USTC-NERCSLIP Systems for the CHiME-8 MMCSG Challenge**|Ya Jiang et.al.|[2410.05986](http://arxiv.org/abs/2410.05986)|null|
