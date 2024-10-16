@@ -1,4 +1,4 @@
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -723,7 +723,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 ## TTS
 
@@ -732,7 +732,7 @@
 |**2024-10-14**|**Everyday Speech in the Indian Subcontinent**|Utkarsh Pathak et.al.|[2410.10508](http://arxiv.org/abs/2410.10508)|null|
 |**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|null|
 |**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880](http://arxiv.org/abs/2410.07880)|null|
-|**2024-10-09**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|**[link](https://github.com/SWivid/F5-TTS)**|
+|**2024-10-15**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885](http://arxiv.org/abs/2410.06885)|**[link](https://github.com/SWivid/F5-TTS)**|
 |**2024-10-09**|**Efficient training strategies for natural sounding speech synthesis and speaker adaptation based on FastPitch**|Teodora Răgman et.al.|[2410.06787](http://arxiv.org/abs/2410.06787)|null|
 |**2024-10-09**|**Bahasa Harmony: A Comprehensive Dataset for Bahasa Text-to-Speech Synthesis with Discrete Codec Modeling of EnGen-TTS**|Onkar Kishor Susladkar et.al.|[2410.06608](http://arxiv.org/abs/2410.06608)|null|
 |**2024-10-09**|**Can DeepFake Speech be Reliably Detected?**|Hongbin Liu et.al.|[2410.06572](http://arxiv.org/abs/2410.06572)|null|
@@ -956,5 +956,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
