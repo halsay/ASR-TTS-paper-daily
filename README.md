@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-15**|**A Framework for Adapting Human-Robot Interaction to Diverse User Groups**|Theresa Pekarek Rosin et.al.|[2410.11377](http://arxiv.org/abs/2410.11377)|null|
+|**2024-10-15**|**Investigation of Speaker Representation for Target-Speaker Speech Processing**|Takanori Ashihara et.al.|[2410.11243](http://arxiv.org/abs/2410.11243)|null|
+|**2024-10-14**|**Character-aware audio-visual subtitling in context**|Jaesung Huh et.al.|[2410.11068](http://arxiv.org/abs/2410.11068)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad et.al.|[2410.10434](http://arxiv.org/abs/2410.10434)|null|
 |**2024-10-13**|**State of NLP in Kenya: A Survey**|Cynthia Jayne Amol et.al.|[2410.09948](http://arxiv.org/abs/2410.09948)|null|
 |**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|null|
@@ -729,6 +732,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**IsoChronoMeter: A simple and effective isochronic translation evaluation metric**|Nikolai Rozanov et.al.|[2410.11127](http://arxiv.org/abs/2410.11127)|null|
+|**2024-10-14**|**DMDSpeech: Distilled Diffusion Model Surpassing The Teacher in Zero-shot Speech Synthesis via Direct Metric Optimization**|Yingahao Aaron Li et.al.|[2410.11097](http://arxiv.org/abs/2410.11097)|null|
 |**2024-10-14**|**Everyday Speech in the Indian Subcontinent**|Utkarsh Pathak et.al.|[2410.10508](http://arxiv.org/abs/2410.10508)|null|
 |**2024-10-12**|**Emphasis Rendering for Conversational Text-to-Speech with Multi-modal Multi-scale Context Modeling**|Rui Liu et.al.|[2410.09524](http://arxiv.org/abs/2410.09524)|null|
 |**2024-10-10**|**Unsupervised Data Validation Methods for Efficient Model Training**|Yurii Paniv et.al.|[2410.07880](http://arxiv.org/abs/2410.07880)|null|
