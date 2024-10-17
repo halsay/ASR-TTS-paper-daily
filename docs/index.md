@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu et.al.|[2410.11865](http://arxiv.org/abs/2410.11865)|null|
 |**2024-10-15**|**A Framework for Adapting Human-Robot Interaction to Diverse User Groups**|Theresa Pekarek Rosin et.al.|[2410.11377](http://arxiv.org/abs/2410.11377)|null|
 |**2024-10-15**|**Investigation of Speaker Representation for Target-Speaker Speech Processing**|Takanori Ashihara et.al.|[2410.11243](http://arxiv.org/abs/2410.11243)|null|
 |**2024-10-14**|**Character-aware audio-visual subtitling in context**|Jaesung Huh et.al.|[2410.11068](http://arxiv.org/abs/2410.11068)|null|
@@ -726,6 +727,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**ERVQ: Enhanced Residual Vector Quantization with Intra-and-Inter-Codebook Optimization for Neural Audio Codecs**|Rui-Chen Zheng et.al.|[2410.12359](http://arxiv.org/abs/2410.12359)|null|
+|**2024-10-16**|**Beyond Oversmoothing: Evaluating DDPM and MSE for Scalable Speech Synthesis in ASR**|Christoph Minixhofer et.al.|[2410.12279](http://arxiv.org/abs/2410.12279)|null|
 |**2024-10-14**|**IsoChronoMeter: A simple and effective isochronic translation evaluation metric**|Nikolai Rozanov et.al.|[2410.11127](http://arxiv.org/abs/2410.11127)|null|
 |**2024-10-14**|**DMDSpeech: Distilled Diffusion Model Surpassing The Teacher in Zero-shot Speech Synthesis via Direct Metric Optimization**|Yingahao Aaron Li et.al.|[2410.11097](http://arxiv.org/abs/2410.11097)|null|
 |**2024-10-14**|**Everyday Speech in the Indian Subcontinent**|Utkarsh Pathak et.al.|[2410.10508](http://arxiv.org/abs/2410.10508)|null|
@@ -772,7 +775,7 @@ layout: default
 |**2024-09-20**|**Zero-shot Cross-lingual Voice Transfer for TTS**|Fadi Biadsy et.al.|[2409.13910](http://arxiv.org/abs/2409.13910)|null|
 |**2024-09-20**|**On the Feasibility of Fully AI-automated Vishing Attacks**|João Figueiredo et.al.|[2409.13793](http://arxiv.org/abs/2409.13793)|null|
 |**2024-09-24**|**Enhancing Kurdish Text-to-Speech with Native Corpus Training: A High-Quality WaveGlow Vocoder Approach**|Abdulhady Abas Abdullah et.al.|[2409.13734](http://arxiv.org/abs/2409.13734)|null|
-|**2024-09-20**|**Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis**|Lauri Juvela et.al.|[2409.13382](http://arxiv.org/abs/2409.13382)|null|
+|**2024-09-20**|**Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis**|Lauri Juvela et.al.|[2409.13382](http://arxiv.org/abs/2409.13382)|**[link](https://github.com/ljuvela/collaborative-watermarking-with-codecs)**|
 |**2024-09-19**|**Enhancing Synthetic Training Data for Speech Commands: From ASR-Based Filtering to Domain Adaptation in SSL Latent Space**|Sebastião Quintas et.al.|[2409.12745](http://arxiv.org/abs/2409.12745)|null|
 |**2024-09-19**|**NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization**|Zhikang Niu et.al.|[2409.12717](http://arxiv.org/abs/2409.12717)|null|
 |**2024-09-19**|**Preference Alignment Improves Language Model-Based TTS**|Jinchuan Tian et.al.|[2409.12403](http://arxiv.org/abs/2409.12403)|null|
