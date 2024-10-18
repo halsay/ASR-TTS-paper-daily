@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR**|Abhishek Gupta et.al.|[2410.13445](http://arxiv.org/abs/2410.13445)|null|
+|**2024-10-17**|**Computational Approaches to Arabic-English Code-Switching**|Caroline Sabty et.al.|[2410.13318](http://arxiv.org/abs/2410.13318)|null|
+|**2024-10-17**|**Roadmap towards Superhuman Speech Understanding using Large Language Models**|Fan Bu et.al.|[2410.13268](http://arxiv.org/abs/2410.13268)|null|
+|**2024-10-17**|**Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation**|Sreyan Ghosh et.al.|[2410.13198](http://arxiv.org/abs/2410.13198)|null|
+|**2024-10-17**|**EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning**|Ashish Seth et.al.|[2410.13179](http://arxiv.org/abs/2410.13179)|**[link](https://github.com/cs20s030/ehmam)**|
+|**2024-10-17**|**Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities**|Xiangping Chen et.al.|[2410.13110](http://arxiv.org/abs/2410.13110)|null|
 |**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu et.al.|[2410.11865](http://arxiv.org/abs/2410.11865)|null|
 |**2024-10-15**|**A Framework for Adapting Human-Robot Interaction to Diverse User Groups**|Theresa Pekarek Rosin et.al.|[2410.11377](http://arxiv.org/abs/2410.11377)|null|
 |**2024-10-15**|**Investigation of Speaker Representation for Target-Speaker Speech Processing**|Takanori Ashihara et.al.|[2410.11243](http://arxiv.org/abs/2410.11243)|null|
@@ -733,6 +739,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839](http://arxiv.org/abs/2410.13839)|null|
+|**2024-10-17**|**Enhancing Crowdsourced Audio for Text-to-Speech Models**|José Giraldo et.al.|[2410.13357](http://arxiv.org/abs/2410.13357)|null|
+|**2024-10-17**|**DART: Disentanglement of Accent and Speaker Representation in Multispeaker Text-to-Speech**|Jan Melechovsky et.al.|[2410.13342](http://arxiv.org/abs/2410.13342)|null|
+|**2024-10-17**|**DurIAN-E 2: Duration Informed Attention Network with Adaptive Variational Autoencoder and Adversarial Learning for Expressive Text-to-Speech Synthesis**|Yu Gu et.al.|[2410.13288](http://arxiv.org/abs/2410.13288)|null|
+|**2024-10-17**|**Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation**|Sreyan Ghosh et.al.|[2410.13198](http://arxiv.org/abs/2410.13198)|null|
 |**2024-10-16**|**ERVQ: Enhanced Residual Vector Quantization with Intra-and-Inter-Codebook Optimization for Neural Audio Codecs**|Rui-Chen Zheng et.al.|[2410.12359](http://arxiv.org/abs/2410.12359)|null|
 |**2024-10-16**|**Beyond Oversmoothing: Evaluating DDPM and MSE for Scalable Speech Synthesis in ASR**|Christoph Minixhofer et.al.|[2410.12279](http://arxiv.org/abs/2410.12279)|null|
 |**2024-10-14**|**IsoChronoMeter: A simple and effective isochronic translation evaluation metric**|Nikolai Rozanov et.al.|[2410.11127](http://arxiv.org/abs/2410.11127)|null|
