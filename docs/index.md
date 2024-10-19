@@ -18,12 +18,12 @@ layout: default
 |**2024-10-17**|**EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning**|Ashish Seth et.al.|[2410.13179](http://arxiv.org/abs/2410.13179)|**[link](https://github.com/cs20s030/ehmam)**|
 |**2024-10-17**|**Deep Learning-based Software Engineering: Progress, Challenges, and Opportunities**|Xiangping Chen et.al.|[2410.13110](http://arxiv.org/abs/2410.13110)|null|
 |**2024-10-07**|**Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges**|Dancheng Liu et.al.|[2410.11865](http://arxiv.org/abs/2410.11865)|null|
-|**2024-10-15**|**A Framework for Adapting Human-Robot Interaction to Diverse User Groups**|Theresa Pekarek Rosin et.al.|[2410.11377](http://arxiv.org/abs/2410.11377)|null|
+|**2024-10-15**|**A Framework for Adapting Human-Robot Interaction to Diverse User Groups**|Theresa Pekarek Rosin et.al.|[2410.11377](http://arxiv.org/abs/2410.11377)|**[link](https://github.com/tpekarekrosin/uhh_ub_ageawarehri)**|
 |**2024-10-15**|**Investigation of Speaker Representation for Target-Speaker Speech Processing**|Takanori Ashihara et.al.|[2410.11243](http://arxiv.org/abs/2410.11243)|null|
 |**2024-10-14**|**Character-aware audio-visual subtitling in context**|Jaesung Huh et.al.|[2410.11068](http://arxiv.org/abs/2410.11068)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad et.al.|[2410.10434](http://arxiv.org/abs/2410.10434)|null|
 |**2024-10-13**|**State of NLP in Kenya: A Survey**|Cynthia Jayne Amol et.al.|[2410.09948](http://arxiv.org/abs/2410.09948)|null|
-|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|null|
+|**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503](http://arxiv.org/abs/2410.09503)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-10-12**|**Automatic Speech Recognition with BERT and CTC Transformers: A Review**|Noussaiba Djeffal et.al.|[2410.09456](http://arxiv.org/abs/2410.09456)|null|
 |**2024-10-11**|**UniGlyph: A Seven-Segment Script for Universal Language Representation**|G. V. Bency Sherin et.al.|[2410.08974](http://arxiv.org/abs/2410.08974)|null|
 |**2024-10-14**|**Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities**|Aulia Adila et.al.|[2410.08828](http://arxiv.org/abs/2410.08828)|null|
