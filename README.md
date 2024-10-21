@@ -1,4 +1,4 @@
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -733,7 +733,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 ## TTS
 
@@ -786,7 +786,7 @@
 |**2024-09-24**|**VoiceGuider: Enhancing Out-of-Domain Performance in Parameter-Efficient Speaker-Adaptive Text-to-Speech via Autoguidance**|Jiheum Yeom et.al.|[2409.15759](http://arxiv.org/abs/2409.15759)|null|
 |**2024-09-24**|**StyleFusion TTS: Multimodal Style-control and Enhanced Feature Fusion for Zero-shot Text-to-speech Synthesis**|Zhiyong Chen et.al.|[2409.15741](http://arxiv.org/abs/2409.15741)|null|
 |**2024-09-04**|**Real-time Robotics Situation Awareness for Accident Prevention in Industry**|Juan M. Deniz et.al.|[2409.15305](http://arxiv.org/abs/2409.15305)|null|
-|**2024-09-23**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
+|**2024-10-18**|**A Comprehensive Survey with Critical Analysis for Deepfake Speech Detection**|Lam Pham et.al.|[2409.15180](http://arxiv.org/abs/2409.15180)|null|
 |**2024-09-23**|**HiFi-Glot: Neural Formant Synthesis with Differentiable Resonant Filters**|Lauri Juvela et.al.|[2409.14823](http://arxiv.org/abs/2409.14823)|null|
 |**2024-09-23**|**LlamaPartialSpoof: An LLM-Driven Fake Speech Dataset Simulating Disinformation Generation**|Hieu-Thi Luong et.al.|[2409.14743](http://arxiv.org/abs/2409.14743)|null|
 |**2024-09-20**|**Zero-shot Cross-lingual Voice Transfer for TTS**|Fadi Biadsy et.al.|[2409.13910](http://arxiv.org/abs/2409.13910)|null|
@@ -975,5 +975,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
