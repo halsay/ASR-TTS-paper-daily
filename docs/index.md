@@ -11,9 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**VoiceBench: Benchmarking LLM-Based Voice Assistants**|Yiming Chen et.al.|[2410.17196](http://arxiv.org/abs/2410.17196)|**[link](https://github.com/matthewcym/voicebench)**|
+|**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
+|**2024-10-22**|**DENOASR: Debiasing ASRs through Selective Denoising**|Anand Kumar Rai et.al.|[2410.16712](http://arxiv.org/abs/2410.16712)|null|
+|**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu et.al.|[2410.16438](http://arxiv.org/abs/2410.16438)|null|
+|**2024-10-19**|**End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach**|Abdulhady Abas Abdullah et.al.|[2410.16330](http://arxiv.org/abs/2410.16330)|null|
 |**2024-10-21**|**Acoustic Model Optimization over Multiple Data Sources: Merging and Valuation**|Victor Junqiu Wei et.al.|[2410.15620](http://arxiv.org/abs/2410.15620)|null|
 |**2024-10-21**|**Interventional Speech Noise Injection for ASR Generalizable Spoken Language Understanding**|Yeonjoon Jung et.al.|[2410.15609](http://arxiv.org/abs/2410.15609)|null|
-|**2024-10-21**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries et.al.|[2410.15608](http://arxiv.org/abs/2410.15608)|null|
+|**2024-10-22**|**Moonshine: Speech Recognition for Live Transcription and Voice Commands**|Nat Jeffries et.al.|[2410.15608](http://arxiv.org/abs/2410.15608)|null|
 |**2024-10-20**|**Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant**|Alan Dao et.al.|[2410.15316](http://arxiv.org/abs/2410.15316)|**[link](https://github.com/homebrewltd/ichigo)**|
 |**2024-10-19**|**Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention**|Yuzhe Weng et.al.|[2410.15029](http://arxiv.org/abs/2410.15029)|**[link](https://github.com/warmcongee/sdumc)**|
 |**2024-10-18**|**AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup**|Carlos Carvalho et.al.|[2410.14910](http://arxiv.org/abs/2410.14910)|null|
@@ -740,6 +745,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Continuous Speech Tokenizer in Text To Speech**|Yixing Li et.al.|[2410.17081](http://arxiv.org/abs/2410.17081)|null|
+|**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
 |**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
 |**2024-10-18**|**A Unified Framework for Collecting Text-to-Speech Synthesis Datasets for 22 Indian Languages**|Sujitha Sathiyamoorthy et.al.|[2410.14197](http://arxiv.org/abs/2410.14197)|null|
 |**2024-10-18**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
