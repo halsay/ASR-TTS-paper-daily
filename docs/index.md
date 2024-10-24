@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@ layout: default
 |**2024-10-22**|**VoiceBench: Benchmarking LLM-Based Voice Assistants**|Yiming Chen et.al.|[2410.17196](http://arxiv.org/abs/2410.17196)|**[link](https://github.com/matthewcym/voicebench)**|
 |**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
 |**2024-10-22**|**DENOASR: Debiasing ASRs through Selective Denoising**|Anand Kumar Rai et.al.|[2410.16712](http://arxiv.org/abs/2410.16712)|null|
-|**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu et.al.|[2410.16438](http://arxiv.org/abs/2410.16438)|null|
+|**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu et.al.|[2410.16438](http://arxiv.org/abs/2410.16438)|**[link](https://github.com/liu12366262626/alignvsr)**|
 |**2024-10-19**|**End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach**|Abdulhady Abas Abdullah et.al.|[2410.16330](http://arxiv.org/abs/2410.16330)|null|
 |**2024-10-21**|**Acoustic Model Optimization over Multiple Data Sources: Merging and Valuation**|Victor Junqiu Wei et.al.|[2410.15620](http://arxiv.org/abs/2410.15620)|null|
 |**2024-10-21**|**Interventional Speech Noise Injection for ASR Generalizable Spoken Language Understanding**|Yeonjoon Jung et.al.|[2410.15609](http://arxiv.org/abs/2410.15609)|null|
