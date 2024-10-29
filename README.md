@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors**|Sadia Nowrin et.al.|[2410.20564](http://arxiv.org/abs/2410.20564)|null|
+|**2024-10-27**|**Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**|Enshi Zhang et.al.|[2410.20334](http://arxiv.org/abs/2410.20334)|null|
+|**2024-10-26**|**emg2qwerty: A Large Dataset with Baselines for Touch Typing using Surface Electromyography**|Viswanath Sivakumar et.al.|[2410.20081](http://arxiv.org/abs/2410.20081)|**[link](https://github.com/facebookresearch/emg2qwerty)**|
 |**2024-10-25**|**A Survey on Speech Large Language Models**|Jing Peng et.al.|[2410.18908](http://arxiv.org/abs/2410.18908)|null|
 |**2024-10-24**|**We Augmented Whisper With kNN and You Won't Believe What Came Next**|Maya K. Nachesa et.al.|[2410.18850](http://arxiv.org/abs/2410.18850)|null|
 |**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|null|
@@ -760,6 +763,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Mitigating Unauthorized Speech Synthesis for Voice Protection**|Zhisheng Zhang et.al.|[2410.20742](http://arxiv.org/abs/2410.20742)|**[link](https://github.com/wxzyd123/pivotal_objective_perturbation)**|
+|**2024-10-27**|**Get Large Language Models Ready to Speak: A Late-fusion Approach for Speech Generation**|Maohao Shen et.al.|[2410.20336](http://arxiv.org/abs/2410.20336)|null|
 |**2024-10-24**|**Making Social Platforms Accessible: Emotion-Aware Speech Generation with Integrated Text Analysis**|Suparna De et.al.|[2410.19199](http://arxiv.org/abs/2410.19199)|null|
 |**2024-10-24**|**STTATTS: Unified Speech-To-Text And Text-To-Speech Model**|Hawau Olamide Toyin et.al.|[2410.18607](http://arxiv.org/abs/2410.18607)|null|
 |**2024-10-24**|**Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts**|ChaeHun Park et.al.|[2410.18444](http://arxiv.org/abs/2410.18444)|null|
