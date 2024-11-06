@@ -767,6 +767,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector**|Deok-Hyeon Cho et.al.|[2411.02625](http://arxiv.org/abs/2411.02625)|**[link](https://github.com/Choddeok/EmoSpherepp)**|
 |**2024-11-04**|**Complete reconstruction of the tongue contour through acoustic to articulatory inversion using real-time MRI data**|Sofiane Azzouz et.al.|[2411.02037](http://arxiv.org/abs/2411.02037)|null|
 |**2024-11-02**|**Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis**|Shijia Liao et.al.|[2411.01156](http://arxiv.org/abs/2411.01156)|null|
 |**2024-10-31**|**Speech is More Than Words: Do Speech-to-Text Translation Systems Leverage Prosody?**|Ioannis Tsiamas et.al.|[2410.24019](http://arxiv.org/abs/2410.24019)|null|
