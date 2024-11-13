@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,7 +13,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama et.al.|[2411.06968](http://arxiv.org/abs/2411.06968)|null|
 |**2024-11-11**|**DCF-DS: Deep Cascade Fusion of Diarization and Separation for Speech Recognition under Realistic Single-Channel Conditions**|Shu-Tong Niu et.al.|[2411.06667](http://arxiv.org/abs/2411.06667)|null|
-|**2024-11-10**|**CTC-Assisted LLM-Based Contextual ASR**|Guanrou Yang et.al.|[2411.06437](http://arxiv.org/abs/2411.06437)|null|
+|**2024-11-10**|**CTC-Assisted LLM-Based Contextual ASR**|Guanrou Yang et.al.|[2411.06437](http://arxiv.org/abs/2411.06437)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
 |**2024-11-07**|**Dialectal Coverage And Generalization in Arabic Speech Recognition**|Amirbek Djanibekov et.al.|[2411.05872](http://arxiv.org/abs/2411.05872)|null|
 |**2024-11-07**|**Sentiment Analysis of Spanish Political Party Tweets Using Pre-trained Language Models**|Chuqiao Song et.al.|[2411.04862](http://arxiv.org/abs/2411.04862)|null|
 |**2024-11-07**|**Multistage Fine-tuning Strategies for Automatic Speech Recognition in Low-resource Languages**|Leena G Pillai et.al.|[2411.04573](http://arxiv.org/abs/2411.04573)|null|
