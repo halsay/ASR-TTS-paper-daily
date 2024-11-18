@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
+|**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
+|**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](http://arxiv.org/abs/2411.10193)|null|
+|**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
 |**2024-11-14**|**Everyone deserves their voice to be heard: Analyzing Predictive Gender Bias in ASR Models Applied to Dutch Speech Data**|Rik Raes et.al.|[2411.09431](http://arxiv.org/abs/2411.09431)|null|
 |**2024-11-14**|**Transferable Adversarial Attacks against ASR**|Xiaoxue Gao et.al.|[2411.09220](http://arxiv.org/abs/2411.09220)|null|
 |**2024-10-28**|**Multilingual Standalone Trustworthy Voice-Based Social Network for Disaster Situations**|Majid Behravan et.al.|[2411.08889](http://arxiv.org/abs/2411.08889)|null|
@@ -783,7 +787,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-14**|**Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation**|Kuiyuan Zhang et.al.|[2411.09167](http://arxiv.org/abs/2411.09167)|null|
-|**2024-11-13**|**Evaluating Synthetic Command Attacks on Smart Voice Assistants**|Zhengxian He et.al.|[2411.08316](http://arxiv.org/abs/2411.08316)|null|
+|**2024-11-14**|**Evaluating Synthetic Command Attacks on Smart Voice Assistants**|Zhengxian He et.al.|[2411.08316](http://arxiv.org/abs/2411.08316)|null|
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
 |**2024-11-11**|**Enhancing Accessibility in Special Libraries: A Study on AI-Powered Assistive Technologies for Patrons with Disabilities**|Snehasish Paul Shivali Chauhan et.al.|[2411.06970](http://arxiv.org/abs/2411.06970)|null|
 |**2024-11-10**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
