@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-17**|**Inter-linguistic Phonetic Composition (IPC): A Theoretical and Computational Approach to Enhance Second Language Pronunciation**|Jisang Park et.al.|[2411.10927](http://arxiv.org/abs/2411.10927)|null|
+|**2024-11-16**|**BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization**|Md. Nazmus Sadat Samin et.al.|[2411.10879](http://arxiv.org/abs/2411.10879)|null|
 |**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
 |**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
 |**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](http://arxiv.org/abs/2411.10193)|null|
@@ -780,6 +782,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**ESTVocoder: An Excitation-Spectral-Transformed Neural Vocoder Conditioned on Mel Spectrogram**|Xiao-Hang Jiang et.al.|[2411.11258](http://arxiv.org/abs/2411.11258)|null|
+|**2024-11-18**|**SAMOS: A Neural MOS Prediction Model Leveraging Semantic Representations and Acoustic Features**|Yu-Fei Shi et.al.|[2411.11232](http://arxiv.org/abs/2411.11232)|null|
+|**2024-11-15**|**SmoothCache: A Universal Inference Acceleration Technique for Diffusion Transformers**|Joseph Liu et.al.|[2411.10510](http://arxiv.org/abs/2411.10510)|**[link](https://github.com/roblox/smoothcache)**|
 |**2024-11-14**|**Robust AI-Synthesized Speech Detection Using Feature Decomposition Learning and Synthesizer Feature Augmentation**|Kuiyuan Zhang et.al.|[2411.09167](http://arxiv.org/abs/2411.09167)|null|
 |**2024-11-14**|**Evaluating Synthetic Command Attacks on Smart Voice Assistants**|Zhengxian He et.al.|[2411.08316](http://arxiv.org/abs/2411.08316)|null|
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
