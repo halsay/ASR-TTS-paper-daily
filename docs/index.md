@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,7 +13,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
 |**2024-11-17**|**Inter-linguistic Phonetic Composition (IPC): A Theoretical and Computational Approach to Enhance Second Language Pronunciation**|Jisang Park et.al.|[2411.10927](http://arxiv.org/abs/2411.10927)|null|
-|**2024-11-16**|**BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization**|Md. Nazmus Sadat Samin et.al.|[2411.10879](http://arxiv.org/abs/2411.10879)|null|
+|**2024-11-16**|**BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization**|Md. Nazmus Sadat Samin et.al.|[2411.10879](http://arxiv.org/abs/2411.10879)|**[link](https://github.com/EncryptedBinary/BanglaDialecto)**|
 |**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
 |**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
 |**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](http://arxiv.org/abs/2411.10193)|null|
