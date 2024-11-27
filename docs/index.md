@@ -11,11 +11,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Scaling Speech-Text Pre-training with Synthetic Interleaved Data**|Aohan Zeng et.al.|[2411.17607](http://arxiv.org/abs/2411.17607)|null|
+|**2024-11-26**|**Towards Maximum Likelihood Training for Transducer-based Streaming Speech Recognition**|Hyeonseung Lee et.al.|[2411.17537](http://arxiv.org/abs/2411.17537)|null|
+|**2024-11-26**|**Comparative Analysis of ASR Methods for Speech Deepfake Detection**|Davide Salvi et.al.|[2411.17349](http://arxiv.org/abs/2411.17349)|null|
+|**2024-11-26**|**k2SSL: A Faster and Better Framework for Self-Supervised Speech Representation Learning**|Yifan Yang et.al.|[2411.17100](http://arxiv.org/abs/2411.17100)|null|
+|**2024-11-22**|**TSkips: Efficiency Through Explicit Temporal Delay Connections in Spiking Neural Networks**|Prajna G. Malettira et.al.|[2411.16711](http://arxiv.org/abs/2411.16711)|null|
 |**2024-11-22**|**Transforming NLU with Babylon: A Case Study in Development of Real-time, Edge-Efficient, Multi-Intent Translation System for Automated Drive-Thru Ordering**|Mostafa Varzaneh et.al.|[2411.15372](http://arxiv.org/abs/2411.15372)|null|
 |**2024-11-20**|**From Statistical Methods to Pre-Trained Models; A Survey on Automatic Speech Recognition for Resource Scarce Urdu Language**|Muhammad Sharif et.al.|[2411.14493](http://arxiv.org/abs/2411.14493)|null|
-|**2024-11-21**|**Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge**|Ruiyang Qin et.al.|[2411.13766](http://arxiv.org/abs/2411.13766)|null|
+|**2024-11-26**|**Tiny-Align: Bridging Automatic Speech Recognition and Large Language Model on the Edge**|Ruiyang Qin et.al.|[2411.13766](http://arxiv.org/abs/2411.13766)|null|
 |**2024-11-18**|**A Novel Speech Analysis and Correction Tool for Arabic-Speaking Children**|Lamia Berriche et.al.|[2411.13592](http://arxiv.org/abs/2411.13592)|null|
-|**2024-11-15**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
+|**2024-11-26**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
 |**2024-11-20**|**CAFE A Novel Code switching Dataset for Algerian Dialect French and English**|Houssam Eddine-Othman Lachemat et.al.|[2411.13424](http://arxiv.org/abs/2411.13424)|null|
 |**2024-11-20**|**Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM**|Jiawei Yu et.al.|[2411.13159](http://arxiv.org/abs/2411.13159)|null|
 |**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
@@ -790,8 +795,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
 |**2024-11-22**|**VQalAttent: a Transparent Speech Generation Pipeline based on Transformer-learned VQ-VAE Latent Space**|Armani Rodriguez et.al.|[2411.14642](http://arxiv.org/abs/2411.14642)|null|
-|**2024-11-15**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
+|**2024-11-26**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
 |**2024-11-20**|**I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception**|Jiawei Zhang et.al.|[2411.13314](http://arxiv.org/abs/2411.13314)|null|
 |**2024-11-20**|**Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM**|Jiawei Yu et.al.|[2411.13159](http://arxiv.org/abs/2411.13159)|null|
 |**2024-11-19**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
