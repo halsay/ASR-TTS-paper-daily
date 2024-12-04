@@ -11,6 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
+|**2024-12-01**|**Late fusion ensembles for speech recognition on diverse input audio representations**|Marin Jezidžić et.al.|[2412.01861](http://arxiv.org/abs/2412.01861)|null|
+|**2024-12-01**|**Automating Feedback Analysis in Surgical Training: Detection, Categorization, and Assessment**|Firdavs Nasriddinov et.al.|[2412.00760](http://arxiv.org/abs/2412.00760)|null|
+|**2024-12-01**|**A Comparative Study of LLM-based ASR and Whisper in Low Resource and Code Switching Scenario**|Zheshu Song et.al.|[2412.00721](http://arxiv.org/abs/2412.00721)|null|
+|**2024-11-30**|**Sample adaptive data augmentation with progressive scheduling**|Hongxuan Lu et.al.|[2412.00415](http://arxiv.org/abs/2412.00415)|null|
+|**2024-11-30**|**Empowering the Deaf and Hard of Hearing Community: Enhancing Video Captions Using Large Language Models**|Nadeen Fathallah et.al.|[2412.00342](http://arxiv.org/abs/2412.00342)|null|
+|**2024-11-24**|**High-precision medical speech recognition through synthetic data and semantic correction: UNITED-MEDASR**|Sourav Banerjee et.al.|[2412.00055](http://arxiv.org/abs/2412.00055)|null|
 |**2024-11-29**|**Memristive Nanowire Network for Energy Efficient Audio Classification: Pre-Processing-Free Reservoir Computing with Reduced Latency**|Akshaya Rajesh et.al.|[2411.19611](http://arxiv.org/abs/2411.19611)|null|
 |**2024-11-28**|**ArEEG_Words: Dataset for Envisioned Speech Recognition using EEG for Arabic Words**|Hazem Darwish et.al.|[2411.18888](http://arxiv.org/abs/2411.18888)|null|
 |**2024-11-20**|**Towards Advanced Speech Signal Processing: A Statistical Perspective on Convolution-Based Architectures and its Applications**|Nirmal Joshua Kapu et.al.|[2411.18636](http://arxiv.org/abs/2411.18636)|null|
@@ -808,6 +815,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
+|**2024-11-19**|**A Context-Based Numerical Format Prediction for a Text-To-Speech System**|Yaser Darwesh et.al.|[2412.00028](http://arxiv.org/abs/2412.00028)|null|
 |**2024-11-27**|**Continual Learning in Machine Speech Chain Using Gradient Episodic Memory**|Geoffrey Tyndall et.al.|[2411.18320](http://arxiv.org/abs/2411.18320)|null|
 |**2024-11-27**|**SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation**|Wenyi Yu et.al.|[2411.18138](http://arxiv.org/abs/2411.18138)|null|
 |**2024-11-26**|**Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis**|Akshita Gupta et.al.|[2411.17690](http://arxiv.org/abs/2411.17690)|null|
