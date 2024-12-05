@@ -11,10 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
 |**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
 |**2024-12-01**|**Late fusion ensembles for speech recognition on diverse input audio representations**|Marin Jezidžić et.al.|[2412.01861](http://arxiv.org/abs/2412.01861)|null|
-|**2024-12-01**|**Automating Feedback Analysis in Surgical Training: Detection, Categorization, and Assessment**|Firdavs Nasriddinov et.al.|[2412.00760](http://arxiv.org/abs/2412.00760)|null|
-|**2024-12-01**|**A Comparative Study of LLM-based ASR and Whisper in Low Resource and Code Switching Scenario**|Zheshu Song et.al.|[2412.00721](http://arxiv.org/abs/2412.00721)|null|
+|**2024-12-01**|**Automating Feedback Analysis in Surgical Training: Detection, Categorization, and Assessment**|Firdavs Nasriddinov et.al.|[2412.00760](http://arxiv.org/abs/2412.00760)|**[link](https://github.com/firdavsn/SurgicalFeedbackAI)**|
+|**2024-12-04**|**A Comparative Study of LLM-based ASR and Whisper in Low Resource and Code Switching Scenario**|Zheshu Song et.al.|[2412.00721](http://arxiv.org/abs/2412.00721)|null|
 |**2024-11-30**|**Sample adaptive data augmentation with progressive scheduling**|Hongxuan Lu et.al.|[2412.00415](http://arxiv.org/abs/2412.00415)|null|
 |**2024-11-30**|**Empowering the Deaf and Hard of Hearing Community: Enhancing Video Captions Using Large Language Models**|Nadeen Fathallah et.al.|[2412.00342](http://arxiv.org/abs/2412.00342)|null|
 |**2024-11-24**|**High-precision medical speech recognition through synthetic data and semantic correction: UNITED-MEDASR**|Sourav Banerjee et.al.|[2412.00055](http://arxiv.org/abs/2412.00055)|null|
@@ -56,7 +57,7 @@ layout: default
 |**2024-11-11**|**Mamba-based Decoder-Only Approach with Bidirectional Speech Modeling for Speech Recognition**|Yoshiki Masuyama et.al.|[2411.06968](http://arxiv.org/abs/2411.06968)|**[link](https://github.com/YoshikiMas/madeon-asr)**|
 |**2024-11-27**|**DCF-DS: Deep Cascade Fusion of Diarization and Separation for Speech Recognition under Realistic Single-Channel Conditions**|Shu-Tong Niu et.al.|[2411.06667](http://arxiv.org/abs/2411.06667)|null|
 |**2024-11-10**|**CTC-Assisted LLM-Based Contextual ASR**|Guanrou Yang et.al.|[2411.06437](http://arxiv.org/abs/2411.06437)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
-|**2024-11-07**|**Dialectal Coverage And Generalization in Arabic Speech Recognition**|Amirbek Djanibekov et.al.|[2411.05872](http://arxiv.org/abs/2411.05872)|**[link](https://github.com/mbzuai-nlp/artst)**|
+|**2024-12-04**|**Dialectal Coverage And Generalization in Arabic Speech Recognition**|Amirbek Djanibekov et.al.|[2411.05872](http://arxiv.org/abs/2411.05872)|**[link](https://github.com/mbzuai-nlp/artst)**|
 |**2024-11-07**|**Sentiment Analysis of Spanish Political Party Tweets Using Pre-trained Language Models**|Chuqiao Song et.al.|[2411.04862](http://arxiv.org/abs/2411.04862)|null|
 |**2024-11-07**|**Multistage Fine-tuning Strategies for Automatic Speech Recognition in Low-resource Languages**|Leena G Pillai et.al.|[2411.04573](http://arxiv.org/abs/2411.04573)|null|
 |**2024-11-04**|**Unified Speech Recognition: A Single Model for Auditory, Visual, and Audiovisual Inputs**|Alexandros Haliassos et.al.|[2411.02256](http://arxiv.org/abs/2411.02256)|**[link](https://github.com/ahaliassos/usr)**|
@@ -815,6 +816,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles**|Jiaxuan Liu et.al.|[2412.03388](http://arxiv.org/abs/2412.03388)|null|
+|**2024-12-04**|**Analytic Study of Text-Free Speech Synthesis for Raw Audio using a Self-Supervised Learning Model**|Joonyong Park et.al.|[2412.03074](http://arxiv.org/abs/2412.03074)|null|
 |**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
 |**2024-11-19**|**A Context-Based Numerical Format Prediction for a Text-To-Speech System**|Yaser Darwesh et.al.|[2412.00028](http://arxiv.org/abs/2412.00028)|null|
 |**2024-11-27**|**Continual Learning in Machine Speech Chain Using Gradient Episodic Memory**|Geoffrey Tyndall et.al.|[2411.18320](http://arxiv.org/abs/2411.18320)|null|
@@ -833,7 +836,7 @@ layout: default
 |**2024-11-14**|**Evaluating Synthetic Command Attacks on Smart Voice Assistants**|Zhengxian He et.al.|[2411.08316](http://arxiv.org/abs/2411.08316)|null|
 |**2024-11-12**|**Improving Grapheme-to-Phoneme Conversion through In-Context Knowledge Retrieval with Large Language Models**|Dongrui Han et.al.|[2411.07563](http://arxiv.org/abs/2411.07563)|null|
 |**2024-11-11**|**Enhancing Accessibility in Special Libraries: A Study on AI-Powered Assistive Technologies for Patrons with Disabilities**|Snehasish Paul Shivali Chauhan et.al.|[2411.06970](http://arxiv.org/abs/2411.06970)|null|
-|**2024-11-10**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
+|**2024-12-04**|**Debatts: Zero-Shot Debating Text-to-Speech Synthesis**|Yiqiao Huang et.al.|[2411.06540](http://arxiv.org/abs/2411.06540)|null|
 |**2024-11-07**|**CUIfy the XR: An Open-Source Package to Embed LLM-powered Conversational Agents in XR**|Kadir Burak Buldu et.al.|[2411.04671](http://arxiv.org/abs/2411.04671)|null|
 |**2024-11-04**|**EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector**|Deok-Hyeon Cho et.al.|[2411.02625](http://arxiv.org/abs/2411.02625)|**[link](https://github.com/Choddeok/EmoSpherepp)**|
 |**2024-11-04**|**Complete reconstruction of the tongue contour through acoustic to articulatory inversion using real-time MRI data**|Sofiane Azzouz et.al.|[2411.02037](http://arxiv.org/abs/2411.02037)|null|
