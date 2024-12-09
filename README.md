@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Adaptive Dropout for Pruning Conformers**|Yotaro Kubo et.al.|[2412.04836](http://arxiv.org/abs/2412.04836)|null|
 |**2024-12-05**|**Comprehensive Audio Query Handling System with Integrated Expert Models and Contextual Understanding**|Vakada Naveen et.al.|[2412.03980](http://arxiv.org/abs/2412.03980)|null|
 |**2024-12-05**|**Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech**|Yerin Choi et.al.|[2412.03784](http://arxiv.org/abs/2412.03784)|null|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075](http://arxiv.org/abs/2412.03075)|null|
