@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Not All Errors Are Equal: Investigation of Speech Recognition Errors in Alzheimer's Disease Detection**|Jiawen Kang et.al.|[2412.06332](http://arxiv.org/abs/2412.06332)|null|
+|**2024-12-09**|**Leveraging Prompt Learning and Pause Encoding for Alzheimer's Disease Detection**|Yin-Long Liu et.al.|[2412.06259](http://arxiv.org/abs/2412.06259)|null|
+|**2024-12-07**|**SQ-Whisper: Speaker-Querying based Whisper Model for Target-Speaker ASR**|Pengcheng Guo et.al.|[2412.05589](http://arxiv.org/abs/2412.05589)|null|
 |**2024-12-06**|**Adaptive Dropout for Pruning Conformers**|Yotaro Kubo et.al.|[2412.04836](http://arxiv.org/abs/2412.04836)|null|
 |**2024-12-05**|**Comprehensive Audio Query Handling System with Integrated Expert Models and Contextual Understanding**|Vakada Naveen et.al.|[2412.03980](http://arxiv.org/abs/2412.03980)|null|
 |**2024-12-05**|**Speech Recognition-based Feature Extraction for Enhanced Automatic Severity Classification in Dysarthric Speech**|Yerin Choi et.al.|[2412.03784](http://arxiv.org/abs/2412.03784)|null|
@@ -54,7 +57,7 @@
 |**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
 |**2024-11-27**|**Inter-linguistic Phonetic Composition (IPC): A Theoretical and Computational Approach to Enhance Second Language Pronunciation**|Jisang Park et.al.|[2411.10927](http://arxiv.org/abs/2411.10927)|null|
 |**2024-11-16**|**BanglaDialecto: An End-to-End AI-Powered Regional Speech Standardization**|Md. Nazmus Sadat Samin et.al.|[2411.10879](http://arxiv.org/abs/2411.10879)|**[link](https://github.com/EncryptedBinary/BanglaDialecto)**|
-|**2024-11-15**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
+|**2024-12-08**|**Interactive Cycle Model -- The Linkage Combination among Automatic Speech Recognition, Large Language Models and Smart Glasses**|Libo Wang et.al.|[2411.10362](http://arxiv.org/abs/2411.10362)|null|
 |**2024-11-15**|**Systolic Arrays and Structured Pruning Co-design for Efficient Transformers in Edge Systems**|Pedro Palacios et.al.|[2411.10285](http://arxiv.org/abs/2411.10285)|null|
 |**2024-11-15**|**DiMoDif: Discourse Modality-information Differentiation for Audio-visual Deepfake Detection and Localization**|Christos Koutlis et.al.|[2411.10193](http://arxiv.org/abs/2411.10193)|null|
 |**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
@@ -825,6 +828,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey**|Tianxin Xie et.al.|[2412.06602](http://arxiv.org/abs/2412.06602)|**[link](https://github.com/imxtx/awesome-controllabe-speech-synthesis)**|
+|**2024-12-09**|**EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations**|Weizhen Bian et.al.|[2412.06581](http://arxiv.org/abs/2412.06581)|null|
+|**2024-12-01**|**Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor**|Ashwin Baluja et.al.|[2412.05315](http://arxiv.org/abs/2412.05315)|null|
 |**2024-12-04**|**DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles**|Jiaxuan Liu et.al.|[2412.03388](http://arxiv.org/abs/2412.03388)|null|
 |**2024-12-04**|**Analytic Study of Text-Free Speech Synthesis for Raw Audio using a Self-Supervised Learning Model**|Joonyong Park et.al.|[2412.03074](http://arxiv.org/abs/2412.03074)|null|
 |**2024-12-03**|**GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot**|Aohan Zeng et.al.|[2412.02612](http://arxiv.org/abs/2412.02612)|**[link](https://github.com/thudm/glm-4-voice)**|
