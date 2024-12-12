@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition**|Xiaodong Cui et.al.|[2412.08548](http://arxiv.org/abs/2412.08548)|null|
+|**2024-12-10**|**Style-agnostic evaluation of ASR using multiple reference transcripts**|Quinten McNamara et.al.|[2412.07937](http://arxiv.org/abs/2412.07937)|null|
 |**2024-12-09**|**Effective Text Adaptation for LLM-based ASR through Soft Prompt Fine-Tuning**|Yingyi Ma et.al.|[2412.06967](http://arxiv.org/abs/2412.06967)|null|
 |**2024-12-09**|**Not All Errors Are Equal: Investigation of Speech Recognition Errors in Alzheimer's Disease Detection**|Jiawen Kang et.al.|[2412.06332](http://arxiv.org/abs/2412.06332)|null|
 |**2024-12-09**|**Leveraging Prompt Learning and Pause Encoding for Alzheimer's Disease Detection**|Yin-Long Liu et.al.|[2412.06259](http://arxiv.org/abs/2412.06259)|null|
@@ -89,7 +91,7 @@ layout: default
 |**2024-10-23**|**VoiceTextBlender: Augmenting Large Language Models with Speech Capabilities via Single-Stage Joint Speech-Text Supervised Fine-Tuning**|Yifan Peng et.al.|[2410.17485](http://arxiv.org/abs/2410.17485)|null|
 |**2024-10-22**|**mmWave-Whisper: Phone Call Eavesdropping and Transcription Using Millimeter-Wave Radar**|Suryoday Basak et.al.|[2410.17457](http://arxiv.org/abs/2410.17457)|null|
 |**2024-10-22**|**Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models**|Alexander Polok et.al.|[2410.17437](http://arxiv.org/abs/2410.17437)|null|
-|**2024-11-24**|**VoiceBench: Benchmarking LLM-Based Voice Assistants**|Yiming Chen et.al.|[2410.17196](http://arxiv.org/abs/2410.17196)|**[link](https://github.com/matthewcym/voicebench)**|
+|**2024-12-11**|**VoiceBench: Benchmarking LLM-Based Voice Assistants**|Yiming Chen et.al.|[2410.17196](http://arxiv.org/abs/2410.17196)|**[link](https://github.com/matthewcym/voicebench)**|
 |**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
 |**2024-10-22**|**DENOASR: Debiasing ASRs through Selective Denoising**|Anand Kumar Rai et.al.|[2410.16712](http://arxiv.org/abs/2410.16712)|null|
 |**2024-10-21**|**AlignVSR: Audio-Visual Cross-Modal Alignment for Visual Speech Recognition**|Zehua Liu et.al.|[2410.16438](http://arxiv.org/abs/2410.16438)|**[link](https://github.com/liu12366262626/alignvsr)**|
@@ -823,8 +825,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|null|
+|**2024-12-11**|**Zero-Shot Mono-to-Binaural Speech Synthesis**|Alon Levkovitch et.al.|[2412.08356](http://arxiv.org/abs/2412.08356)|null|
+|**2024-12-11**|**A Unified Model For Voice and Accent Conversion In Speech and Singing using Self-Supervised Learning and Feature Extraction**|Sowmya Cheripally et.al.|[2412.08312](http://arxiv.org/abs/2412.08312)|null|
+|**2024-12-11**|**A Preliminary Analysis of Automatic Word and Syllable Prominence Detection in Non-Native Speech With Text-to-Speech Prosody Embeddings**|Anindita Mondal et.al.|[2412.08283](http://arxiv.org/abs/2412.08283)|null|
+|**2024-12-11**|**LatentSpeech: Latent Diffusion for Text-To-Speech Generation**|Haowei Lou et.al.|[2412.08117](http://arxiv.org/abs/2412.08117)|null|
+|**2024-12-11**|**Aligner-Guided Training Paradigm: Advancing Text-to-Speech Models with Aligner Guided Duration**|Haowei Lou et.al.|[2412.08112](http://arxiv.org/abs/2412.08112)|null|
 |**2024-12-09**|**Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey**|Tianxin Xie et.al.|[2412.06602](http://arxiv.org/abs/2412.06602)|**[link](https://github.com/imxtx/awesome-controllabe-speech-synthesis)**|
-|**2024-12-09**|**EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations**|Weizhen Bian et.al.|[2412.06581](http://arxiv.org/abs/2412.06581)|null|
+|**2024-12-11**|**EmoSpeech: A Corpus of Emotionally Rich and Contextually Detailed Speech Annotations**|Weizhen Bian et.al.|[2412.06581](http://arxiv.org/abs/2412.06581)|null|
 |**2024-12-01**|**Text Is Not All You Need: Multimodal Prompting Helps LLMs Understand Humor**|Ashwin Baluja et.al.|[2412.05315](http://arxiv.org/abs/2412.05315)|null|
 |**2024-12-04**|**DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles**|Jiaxuan Liu et.al.|[2412.03388](http://arxiv.org/abs/2412.03388)|null|
 |**2024-12-04**|**Analytic Study of Text-Free Speech Synthesis for Raw Audio using a Self-Supervised Learning Model**|Joonyong Park et.al.|[2412.03074](http://arxiv.org/abs/2412.03074)|null|
