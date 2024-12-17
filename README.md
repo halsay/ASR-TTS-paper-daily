@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Speak & Improve Corpus 2025: an L2 English Speech Corpus for Language Assessment and Feedback**|Kate Knill et.al.|[2412.11986](http://arxiv.org/abs/2412.11986)|null|
+|**2024-12-16**|**Speak & Improve Challenge 2025: Tasks and Baseline Systems**|Mengjie Qian et.al.|[2412.11985](http://arxiv.org/abs/2412.11985)|null|
+|**2024-12-16**|**Towards a Speech Foundation Model for Singapore and Beyond**|Muhammad Huzaifah et.al.|[2412.11538](http://arxiv.org/abs/2412.11538)|null|
+|**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu et.al.|[2412.11185](http://arxiv.org/abs/2412.11185)|null|
+|**2024-12-14**|**Robust Recognition of Persian Isolated Digits in Speech using Deep Neural Network**|Ali Nasr-Esfahani et.al.|[2412.10857](http://arxiv.org/abs/2412.10857)|null|
+|**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|null|
 |**2024-12-13**|**MERaLiON-AudioLLM: Technical Report**|Yingxu He et.al.|[2412.09818](http://arxiv.org/abs/2412.09818)|null|
 |**2024-11-26**|**Enhancing Code-Switching ASR Leveraging Non-Peaky CTC Loss and Deep Language Posterior Injection**|Tzu-Ting Yang et.al.|[2412.08651](http://arxiv.org/abs/2412.08651)|null|
 |**2024-12-11**|**Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition**|Xiaodong Cui et.al.|[2412.08548](http://arxiv.org/abs/2412.08548)|null|
@@ -833,7 +839,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
+|**2024-12-16**|**ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis**|Xiangheng He et.al.|[2412.11795](http://arxiv.org/abs/2412.11795)|null|
+|**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551](http://arxiv.org/abs/2412.11551)|**[link](https://github.com/cyjie429/rego)**|
+|**2024-12-16**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
+|**2024-12-16**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
 |**2024-12-13**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|null|
 |**2024-12-13**|**AMuSeD: An Attentive Deep Neural Network for Multimodal Sarcasm Detection Incorporating Bi-modal Data Augmentation**|Xiyuan Gao et.al.|[2412.10103](http://arxiv.org/abs/2412.10103)|null|
 |**2024-12-13**|**CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder**|Jianwei Cui et.al.|[2412.08918](http://arxiv.org/abs/2412.08918)|null|
@@ -857,7 +866,7 @@
 |**2024-11-26**|**WavChat: A Survey of Spoken Dialogue Models**|Shengpeng Ji et.al.|[2411.13577](http://arxiv.org/abs/2411.13577)|**[link](https://github.com/jishengpeng/wavchat)**|
 |**2024-12-02**|**I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception**|Jiawei Zhang et.al.|[2411.13314](http://arxiv.org/abs/2411.13314)|null|
 |**2024-11-20**|**Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM**|Jiawei Yu et.al.|[2411.13159](http://arxiv.org/abs/2411.13159)|null|
-|**2024-11-19**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
+|**2024-12-15**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
 |**2024-11-19**|**Leveraging Virtual Reality and AI Tutoring for Language Learning: A Case Study of a Virtual Campus Environment with OpenAI GPT Integration with Unity 3D**|Adithya TG et.al.|[2411.12619](http://arxiv.org/abs/2411.12619)|null|
 |**2024-11-18**|**ESTVocoder: An Excitation-Spectral-Transformed Neural Vocoder Conditioned on Mel Spectrogram**|Xiao-Hang Jiang et.al.|[2411.11258](http://arxiv.org/abs/2411.11258)|null|
 |**2024-11-18**|**SAMOS: A Neural MOS Prediction Model Leveraging Semantic Representations and Acoustic Features**|Yu-Fei Shi et.al.|[2411.11232](http://arxiv.org/abs/2411.11232)|null|
