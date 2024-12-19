@@ -25,7 +25,7 @@
 |**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu et.al.|[2412.11185](http://arxiv.org/abs/2412.11185)|null|
 |**2024-12-14**|**Robust Recognition of Persian Isolated Digits in Speech using Deep Neural Network**|Ali Nasr-Esfahani et.al.|[2412.10857](http://arxiv.org/abs/2412.10857)|null|
 |**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|**[link](https://github.com/ryujimorita/tokyo_whisperers)**|
-|**2024-12-13**|**MERaLiON-AudioLLM: Technical Report**|Yingxu He et.al.|[2412.09818](http://arxiv.org/abs/2412.09818)|null|
+|**2024-12-18**|**MERaLiON-AudioLLM: Bridging Audio and Language with Large Language Models**|Yingxu He et.al.|[2412.09818](http://arxiv.org/abs/2412.09818)|null|
 |**2024-11-26**|**Enhancing Code-Switching ASR Leveraging Non-Peaky CTC Loss and Deep Language Posterior Injection**|Tzu-Ting Yang et.al.|[2412.08651](http://arxiv.org/abs/2412.08651)|null|
 |**2024-12-11**|**Bilevel Joint Unsupervised and Supervised Training for Automatic Speech Recognition**|Xiaodong Cui et.al.|[2412.08548](http://arxiv.org/abs/2412.08548)|null|
 |**2024-12-10**|**Style-agnostic evaluation of ASR using multiple reference transcripts**|Quinten McNamara et.al.|[2412.07937](http://arxiv.org/abs/2412.07937)|null|
@@ -843,6 +843,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Deep Speech Synthesis from Multimodal Articulatory Representations**|Peter Wu et.al.|[2412.13387](http://arxiv.org/abs/2412.13387)|null|
+|**2024-12-17**|**Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge**|Mahieyin Rahmun et.al.|[2412.13279](http://arxiv.org/abs/2412.13279)|**[link](https://github.com/AGenCyLab/SPCUP2022)**|
 |**2024-12-17**|**Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion**|Syed Zohaib Hassan et.al.|[2412.12710](http://arxiv.org/abs/2412.12710)|null|
 |**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619](http://arxiv.org/abs/2412.12619)|null|
 |**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|null|
@@ -850,7 +852,7 @@
 |**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551](http://arxiv.org/abs/2412.11551)|**[link](https://github.com/cyjie429/rego)**|
 |**2024-12-17**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
 |**2024-12-16**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
-|**2024-12-13**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|null|
+|**2024-12-18**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|null|
 |**2024-12-13**|**AMuSeD: An Attentive Deep Neural Network for Multimodal Sarcasm Detection Incorporating Bi-modal Data Augmentation**|Xiyuan Gao et.al.|[2412.10103](http://arxiv.org/abs/2412.10103)|null|
 |**2024-12-13**|**CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder**|Jianwei Cui et.al.|[2412.08918](http://arxiv.org/abs/2412.08918)|null|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
