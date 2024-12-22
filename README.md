@@ -1,4 +1,4 @@
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -837,7 +837,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
 ## TTS
 
@@ -848,7 +848,7 @@
 |**2024-12-17**|**Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge**|Mahieyin Rahmun et.al.|[2412.13279](http://arxiv.org/abs/2412.13279)|**[link](https://github.com/AGenCyLab/SPCUP2022)**|
 |**2024-12-17**|**Enhancing Naturalness in LLM-Generated Utterances through Disfluency Insertion**|Syed Zohaib Hassan et.al.|[2412.12710](http://arxiv.org/abs/2412.12710)|null|
 |**2024-12-17**|**Phoneme-Level Feature Discrepancies: A Key to Detecting Sophisticated Speech Deepfakes**|Kuiyuan Zhang et.al.|[2412.12619](http://arxiv.org/abs/2412.12619)|null|
-|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|null|
+|**2024-12-17**|**Hierarchical Control of Emotion Rendering in Speech Synthesis**|Sho Inoue et.al.|[2412.12498](http://arxiv.org/abs/2412.12498)|**[link](https://github.com/shinshoji01/hed-project-page)**|
 |**2024-12-19**|**ProsodyFM: Unsupervised Phrasing and Intonation Control for Intelligible Speech Synthesis**|Xiangheng He et.al.|[2412.11795](http://arxiv.org/abs/2412.11795)|null|
 |**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551](http://arxiv.org/abs/2412.11551)|**[link](https://github.com/cyjie429/rego)**|
 |**2024-12-17**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
@@ -1145,5 +1145,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20241221>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241222>back to top</a>)</p>
 
