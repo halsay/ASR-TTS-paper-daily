@@ -15,13 +15,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**MathSpeech: Leveraging Small LMs for Accurate Conversion in Mathematical Speech-to-Formula**|Sieun Hyeon et.al.|[2412.15655](http://arxiv.org/abs/2412.15655)|**[link](https://github.com/hyeonsieun/mathspeech)**|
+|**2024-12-20**|**TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch**|Xingchen Song et.al.|[2412.15622](http://arxiv.org/abs/2412.15622)|null|
+|**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
+|**2024-12-19**|**LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration**|Sangmin Lee et.al.|[2412.15299](http://arxiv.org/abs/2412.15299)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-17**|**Streaming Keyword Spotting Boosted by Cross-layer Discrimination Consistency**|Yu Xi et.al.|[2412.12635](http://arxiv.org/abs/2412.12635)|null|
 |**2024-12-11**|**Greek2MathTex: A Greek Speech-to-Text Framework for LaTeX Equations Generation**|Evangelia Gkritzali et.al.|[2412.12167](http://arxiv.org/abs/2412.12167)|null|
 |**2024-12-09**|**Harnessing Transfer Learning from Swahili: Advancing Solutions for Comorian Dialects**|Naira Abdou Mohamed et.al.|[2412.12143](http://arxiv.org/abs/2412.12143)|null|
 |**2024-12-17**|**Speak & Improve Corpus 2025: an L2 English Speech Corpus for Language Assessment and Feedback**|Kate Knill et.al.|[2412.11986](http://arxiv.org/abs/2412.11986)|null|
 |**2024-12-17**|**Speak & Improve Challenge 2025: Tasks and Baseline Systems**|Mengjie Qian et.al.|[2412.11985](http://arxiv.org/abs/2412.11985)|null|
-|**2024-12-16**|**Towards a Speech Foundation Model for Singapore and Beyond**|Muhammad Huzaifah et.al.|[2412.11538](http://arxiv.org/abs/2412.11538)|null|
+|**2024-12-20**|**MERaLiON-SpeechEncoder: Towards a Speech Foundation Model for Singapore and Beyond**|Muhammad Huzaifah et.al.|[2412.11538](http://arxiv.org/abs/2412.11538)|null|
 |**2024-12-15**|**Transliterated Zero-Shot Domain Adaptation for Automatic Speech Recognition**|Han Zhu et.al.|[2412.11185](http://arxiv.org/abs/2412.11185)|null|
 |**2024-12-14**|**Robust Recognition of Persian Isolated Digits in Speech using Deep Neural Network**|Ali Nasr-Esfahani et.al.|[2412.10857](http://arxiv.org/abs/2412.10857)|null|
 |**2024-12-14**|**Efficient Adaptation of Multilingual Models for Japanese ASR**|Mark Bajo et.al.|[2412.10705](http://arxiv.org/abs/2412.10705)|**[link](https://github.com/ryujimorita/tokyo_whisperers)**|
@@ -843,6 +847,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
 |**2024-12-19**|**Scale This, Not That: Investigating Key Dataset Attributes for Efficient Speech Enhancement Scaling**|Leying Zhang et.al.|[2412.14890](http://arxiv.org/abs/2412.14890)|null|
 |**2024-12-17**|**Deep Speech Synthesis from Multimodal Articulatory Representations**|Peter Wu et.al.|[2412.13387](http://arxiv.org/abs/2412.13387)|null|
 |**2024-12-17**|**Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge**|Mahieyin Rahmun et.al.|[2412.13279](http://arxiv.org/abs/2412.13279)|**[link](https://github.com/AGenCyLab/SPCUP2022)**|
