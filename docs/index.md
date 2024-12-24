@@ -11,10 +11,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**|Orchid Chetia Phukan et.al.|[2412.17796](http://arxiv.org/abs/2412.17796)|null|
+|**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu et.al.|[2412.17507](http://arxiv.org/abs/2412.17507)|null|
+|**2024-12-23**|**Deep Learning in Proteomics Informatics: Applications, Challenges, and Future Directions**|Yindan Luo et.al.|[2412.17349](http://arxiv.org/abs/2412.17349)|null|
+|**2024-12-22**|**Uncovering the Visual Contribution in Audio-Visual Speech Recognition**|Zhaofeng Lin et.al.|[2412.17129](http://arxiv.org/abs/2412.17129)|null|
+|**2024-12-21**|**Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding**|Jiahui Zhao et.al.|[2412.16507](http://arxiv.org/abs/2412.16507)|null|
+|**2024-12-21**|**Speech Retrieval-Augmented Generation without Automatic Speech Recognition**|Do June Min et.al.|[2412.16500](http://arxiv.org/abs/2412.16500)|null|
+|**2024-12-21**|**Enhancing Multilingual ASR for Unseen Languages via Language Embedding Modeling**|Shao-Syuan Huang et.al.|[2412.16474](http://arxiv.org/abs/2412.16474)|null|
+|**2024-12-21**|**Transducer-Llama: Integrating LLMs into Streamable Transducer-based Speech Recognition**|Keqi Deng et.al.|[2412.16464](http://arxiv.org/abs/2412.16464)|null|
 |**2024-12-20**|**MathSpeech: Leveraging Small LMs for Accurate Conversion in Mathematical Speech-to-Formula**|Sieun Hyeon et.al.|[2412.15655](http://arxiv.org/abs/2412.15655)|**[link](https://github.com/hyeonsieun/mathspeech)**|
 |**2024-12-20**|**TouchASP: Elastic Automatic Speech Perception that Everyone Can Touch**|Xingchen Song et.al.|[2412.15622](http://arxiv.org/abs/2412.15622)|null|
 |**2024-12-19**|**Transcribing and Translating, Fast and Slow: Joint Speech Translation and Recognition**|Niko Moritz et.al.|[2412.15415](http://arxiv.org/abs/2412.15415)|null|
-|**2024-12-19**|**LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration**|Sangmin Lee et.al.|[2412.15299](http://arxiv.org/abs/2412.15299)|null|
+|**2024-12-23**|**LAMA-UT: Language Agnostic Multilingual ASR through Orthography Unification and Language-Specific Transliteration**|Sangmin Lee et.al.|[2412.15299](http://arxiv.org/abs/2412.15299)|null|
 |**2024-12-17**|**CAMEL: Cross-Attention Enhanced Mixture-of-Experts and Language Bias for Code-Switching Speech Recognition**|He Wang et.al.|[2412.12760](http://arxiv.org/abs/2412.12760)|null|
 |**2024-12-17**|**Streaming Keyword Spotting Boosted by Cross-layer Discrimination Consistency**|Yu Xi et.al.|[2412.12635](http://arxiv.org/abs/2412.12635)|null|
 |**2024-12-11**|**Greek2MathTex: A Greek Speech-to-Text Framework for LaTeX Equations Generation**|Evangelia Gkritzali et.al.|[2412.12167](http://arxiv.org/abs/2412.12167)|null|
@@ -841,7 +849,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-20**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
+|**2024-12-23**|**VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music**|Jiatong Shi et.al.|[2412.17667](http://arxiv.org/abs/2412.17667)|null|
+|**2024-12-22**|**Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective**|Hankun Wang et.al.|[2412.17048](http://arxiv.org/abs/2412.17048)|null|
+|**2024-12-22**|**Incremental Disentanglement for Environment-Aware Zero-Shot Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2412.16977](http://arxiv.org/abs/2412.16977)|null|
+|**2024-12-22**|**Autoregressive Speech Synthesis with Next-Distribution Prediction**|Xinfa Zhu et.al.|[2412.16846](http://arxiv.org/abs/2412.16846)|null|
+|**2024-12-23**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
 |**2024-12-19**|**Scale This, Not That: Investigating Key Dataset Attributes for Efficient Speech Enhancement Scaling**|Leying Zhang et.al.|[2412.14890](http://arxiv.org/abs/2412.14890)|null|
 |**2024-12-17**|**Deep Speech Synthesis from Multimodal Articulatory Representations**|Peter Wu et.al.|[2412.13387](http://arxiv.org/abs/2412.13387)|null|
 |**2024-12-17**|**Synthetic Speech Classification: IEEE Signal Processing Cup 2022 challenge**|Mahieyin Rahmun et.al.|[2412.13279](http://arxiv.org/abs/2412.13279)|**[link](https://github.com/AGenCyLab/SPCUP2022)**|
@@ -907,7 +919,7 @@ layout: default
 |**2024-10-22**|**Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap**|Guanrou Yang et.al.|[2410.16726](http://arxiv.org/abs/2410.16726)|null|
 |**2024-10-21**|**Continuous Speech Synthesis using per-token Latent Diffusion**|Arnon Turetzky et.al.|[2410.16048](http://arxiv.org/abs/2410.16048)|null|
 |**2024-10-18**|**A Unified Framework for Collecting Text-to-Speech Synthesis Datasets for 22 Indian Languages**|Sujitha Sathiyamoorthy et.al.|[2410.14197](http://arxiv.org/abs/2410.14197)|null|
-|**2024-10-18**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
+|**2024-12-23**|**Multi-Source Spatial Knowledge Understanding for Immersive Visual Text-to-Speech**|Shuwei He et.al.|[2410.14101](http://arxiv.org/abs/2410.14101)|**[link](https://github.com/ms2ku-vtts/ms2ku-vtts)**|
 |**2024-10-17**|**Accelerating Codec-based Speech Synthesis with Multi-Token Prediction and Speculative Decoding**|Tan Dat Nguyen et.al.|[2410.13839](http://arxiv.org/abs/2410.13839)|null|
 |**2024-10-17**|**Enhancing Crowdsourced Audio for Text-to-Speech Models**|José Giraldo et.al.|[2410.13357](http://arxiv.org/abs/2410.13357)|null|
 |**2024-10-17**|**DART: Disentanglement of Accent and Speaker Representation in Multispeaker Text-to-Speech**|Jan Melechovsky et.al.|[2410.13342](http://arxiv.org/abs/2410.13342)|null|
