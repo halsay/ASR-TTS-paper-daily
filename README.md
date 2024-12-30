@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785](http://arxiv.org/abs/2412.19785)|null|
+|**2024-12-26**|**Towards a Single ASR Model That Generalizes to Disordered Speech**|Jimmy Tobin et.al.|[2412.19315](http://arxiv.org/abs/2412.19315)|null|
+|**2024-12-26**|**Enhancing Audiovisual Speech Recognition through Bifocal Preference Optimization**|Yihan Wu et.al.|[2412.19005](http://arxiv.org/abs/2412.19005)|null|
+|**2024-12-25**|**Structured Speaker-Deficiency Adaptation of Foundation Models for Dysarthric and Elderly Speech Recognition**|Shujie Hu et.al.|[2412.18832](http://arxiv.org/abs/2412.18832)|null|
 |**2024-12-24**|**Zero-resource Speech Translation and Recognition with LLMs**|Karel Mundnich et.al.|[2412.18566](http://arxiv.org/abs/2412.18566)|null|
 |**2024-12-23**|**Trading Devil RL: Backdoor attack via Stock market, Bayesian Optimization and Reinforcement Learning**|Orson Mengara et.al.|[2412.17908](http://arxiv.org/abs/2412.17908)|null|
 |**2024-12-09**|**Ensemble Machine Learning Model for Inner Speech Recognition: A Subject-Specific Investigation**|Shahamat Mustavi Tasin et.al.|[2412.17824](http://arxiv.org/abs/2412.17824)|null|
@@ -858,6 +862,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis**|Jaemin Jung et.al.|[2412.19259](http://arxiv.org/abs/2412.19259)|null|
+|**2024-12-26**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for Unseen Entities**|Jiawei Yu et.al.|[2412.19102](http://arxiv.org/abs/2412.19102)|null|
+|**2024-12-26**|**Indonesian-English Code-Switching Speech Synthesizer Utilizing Multilingual STEN-TTS and Bert LID**|Ahmad Alfani Handoyo et.al.|[2412.19043](http://arxiv.org/abs/2412.19043)|null|
+|**2024-12-25**|**Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset**|Neil Shah et.al.|[2412.18839](http://arxiv.org/abs/2412.18839)|null|
+|**2024-12-25**|**MRI2Speech: Speech Synthesis from Articulatory Movements Recorded by Real-time MRI**|Neil Shah et.al.|[2412.18836](http://arxiv.org/abs/2412.18836)|null|
+|**2024-12-25**|**Intra- and Inter-modal Context Interaction Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2412.18733](http://arxiv.org/abs/2412.18733)|null|
 |**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
 |**2024-12-23**|**VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music**|Jiatong Shi et.al.|[2412.17667](http://arxiv.org/abs/2412.17667)|**[link](https://github.com/shinjiwlab/versa)**|
 |**2024-12-22**|**Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective**|Hankun Wang et.al.|[2412.17048](http://arxiv.org/abs/2412.17048)|null|
@@ -874,7 +884,7 @@
 |**2024-12-16**|**Region-Based Optimization in Continual Learning for Audio Deepfake Detection**|Yujie Chen et.al.|[2412.11551](http://arxiv.org/abs/2412.11551)|**[link](https://github.com/cyjie429/rego)**|
 |**2024-12-17**|**Multi-modal and Multi-scale Spatial Environment Understanding for Immersive Visual Text-to-Speech**|Rui Liu et.al.|[2412.11409](http://arxiv.org/abs/2412.11409)|**[link](https://github.com/ai-s2-lab/m2se-vtts)**|
 |**2024-12-16**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208](http://arxiv.org/abs/2412.10208)|null|
-|**2024-12-18**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|**[link](https://github.com/funaudiollm/cosyvoice)**|
+|**2024-12-25**|**CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models**|Zhihao Du et.al.|[2412.10117](http://arxiv.org/abs/2412.10117)|**[link](https://github.com/funaudiollm/cosyvoice)**|
 |**2024-12-13**|**AMuSeD: An Attentive Deep Neural Network for Multimodal Sarcasm Detection Incorporating Bi-modal Data Augmentation**|Xiyuan Gao et.al.|[2412.10103](http://arxiv.org/abs/2412.10103)|null|
 |**2024-12-13**|**CSSinger: End-to-End Chunkwise Streaming Singing Voice Synthesis System Based on Conditional Variational Autoencoder**|Jianwei Cui et.al.|[2412.08918](http://arxiv.org/abs/2412.08918)|null|
 |**2024-12-11**|**Multimodal Latent Language Modeling with Next-Token Diffusion**|Yutao Sun et.al.|[2412.08635](http://arxiv.org/abs/2412.08635)|**[link](https://github.com/microsoft/unilm/tree/master/LatentLM)**|
