@@ -15,6 +15,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
+|**2025-01-01**|**Incremental Dialogue Management: Survey, Discussion, and Implications for HRI**|Casey Kennington et.al.|[2501.00953](http://arxiv.org/abs/2501.00953)|null|
+|**2025-01-01**|**Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation**|Shoutao Guo et.al.|[2501.00868](http://arxiv.org/abs/2501.00868)|null|
+|**2025-01-01**|**Automatic Text Pronunciation Correlation Generation and Application for Contextual Biasing**|Gaofeng Cheng et.al.|[2501.00804](http://arxiv.org/abs/2501.00804)|null|
+|**2024-12-31**|**Fotheidil: an Automatic Transcription System for the Irish Language**|Liam Lonergan et.al.|[2501.00509](http://arxiv.org/abs/2501.00509)|null|
+|**2024-12-31**|**Whisper Turns Stronger: Augmenting Wav2Vec 2.0 for Superior ASR in Low-Resource Languages**|Or Haim Anidjar et.al.|[2501.00425](http://arxiv.org/abs/2501.00425)|null|
+|**2024-12-30**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
+|**2024-12-30**|**DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition**|Alexander Polok et.al.|[2501.00114](http://arxiv.org/abs/2501.00114)|null|
+|**2024-12-25**|**Speech Recognition With LLMs Adapted to Disordered Speech Using Reinforcement Learning**|Chirag Nagpal et.al.|[2501.00039](http://arxiv.org/abs/2501.00039)|null|
 |**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785](http://arxiv.org/abs/2412.19785)|null|
 |**2024-12-26**|**Towards a Single ASR Model That Generalizes to Disordered Speech**|Jimmy Tobin et.al.|[2412.19315](http://arxiv.org/abs/2412.19315)|null|
 |**2024-12-26**|**Enhancing Audiovisual Speech Recognition through Bifocal Preference Optimization**|Yihan Wu et.al.|[2412.19005](http://arxiv.org/abs/2412.19005)|**[link](https://github.com/espnet/espnet)**|
@@ -862,6 +871,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
+|**2025-01-02**|**Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT**|Dongyang Dai et.al.|[2501.01102](http://arxiv.org/abs/2501.01102)|null|
+|**2024-12-30**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
+|**2024-12-16**|**SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models**|Linqin Wang et.al.|[2501.00018](http://arxiv.org/abs/2501.00018)|null|
 |**2024-12-28**|**Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting**|Wooseok Han et.al.|[2412.20155](http://arxiv.org/abs/2412.20155)|null|
 |**2024-12-28**|**CrossSpeech++: Cross-lingual Speech Synthesis with Decoupled Language and Speaker Generation**|Ji-Hoon Kim et.al.|[2412.20048](http://arxiv.org/abs/2412.20048)|null|
 |**2024-12-26**|**VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis**|Jaemin Jung et.al.|[2412.19259](http://arxiv.org/abs/2412.19259)|null|
