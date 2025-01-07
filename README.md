@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Samba-asr state-of-the-art speech recognition leveraging structured state-space models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
+|**2025-01-05**|**Reducing the Gap Between Pretrained Speech Enhancement and Recognition Models Using a Real Speech-Trained Bridging Module**|Zhongjian Cui et.al.|[2501.02452](http://arxiv.org/abs/2501.02452)|null|
 |**2025-01-03**|**Improving Transducer-Based Spoken Language Understanding with Self-Conditioned CTC and Knowledge Transfer**|Vishal Sunder et.al.|[2501.01936](http://arxiv.org/abs/2501.01936)|null|
 |**2025-01-02**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
 |**2025-01-01**|**Incremental Dialogue Management: Survey, Discussion, and Implications for HRI**|Casey Kennington et.al.|[2501.00953](http://arxiv.org/abs/2501.00953)|null|
@@ -36,7 +38,7 @@
 |**2024-12-23**|**UME: Upcycling Mixture-of-Experts for Scalable and Efficient Automatic Speech Recognition**|Li Fu et.al.|[2412.17507](http://arxiv.org/abs/2412.17507)|null|
 |**2024-12-23**|**Deep Learning in Proteomics Informatics: Applications, Challenges, and Future Directions**|Yindan Luo et.al.|[2412.17349](http://arxiv.org/abs/2412.17349)|null|
 |**2024-12-22**|**Uncovering the Visual Contribution in Audio-Visual Speech Recognition**|Zhaofeng Lin et.al.|[2412.17129](http://arxiv.org/abs/2412.17129)|null|
-|**2024-12-24**|**Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding**|Jiahui Zhao et.al.|[2412.16507](http://arxiv.org/abs/2412.16507)|null|
+|**2025-01-05**|**Adapting Whisper for Code-Switching through Encoding Refining and Language-Aware Decoding**|Jiahui Zhao et.al.|[2412.16507](http://arxiv.org/abs/2412.16507)|null|
 |**2025-01-03**|**Speech Retrieval-Augmented Generation without Automatic Speech Recognition**|Do June Min et.al.|[2412.16500](http://arxiv.org/abs/2412.16500)|null|
 |**2024-12-21**|**Enhancing Multilingual ASR for Unseen Languages via Language Embedding Modeling**|Shao-Syuan Huang et.al.|[2412.16474](http://arxiv.org/abs/2412.16474)|null|
 |**2024-12-21**|**Transducer-Llama: Integrating LLMs into Streamable Transducer-based Speech Recognition**|Keqi Deng et.al.|[2412.16464](http://arxiv.org/abs/2412.16464)|null|
@@ -81,7 +83,7 @@
 |**2024-11-27**|**Continual Learning in Machine Speech Chain Using Gradient Episodic Memory**|Geoffrey Tyndall et.al.|[2411.18320](http://arxiv.org/abs/2411.18320)|null|
 |**2024-11-27**|**Aligning Pre-trained Models for Spoken Language Translation**|Šimon Sedláček et.al.|[2411.18294](http://arxiv.org/abs/2411.18294)|null|
 |**2024-11-27**|**Efficient Nonlinear Function Approximation in Analog Resistive Crossbars for Recurrent Neural Networks**|Junyi Yang et.al.|[2411.18271](http://arxiv.org/abs/2411.18271)|null|
-|**2024-11-27**|**How to Learn a New Language? An Efficient Solution for Self-Supervised Learning Models Unseen Languages Adaption in Low-Resource Scenario**|Shih-Heng Wang et.al.|[2411.18217](http://arxiv.org/abs/2411.18217)|null|
+|**2025-01-05**|**How to Learn a New Language? An Efficient Solution for Self-Supervised Learning Models Unseen Languages Adaption in Low-Resource Scenario**|Shih-Heng Wang et.al.|[2411.18217](http://arxiv.org/abs/2411.18217)|null|
 |**2024-11-27**|**MSA-ASR: Efficient Multilingual Speaker Attribution with frozen ASR Models**|Thai-Binh Nguyen et.al.|[2411.18152](http://arxiv.org/abs/2411.18152)|null|
 |**2024-11-27**|**SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation**|Wenyi Yu et.al.|[2411.18138](http://arxiv.org/abs/2411.18138)|null|
 |**2024-11-27**|**Fusion of Discrete Representations and Self-Augmented Representations for Multilingual Automatic Speech Recognition**|Shih-heng Wang et.al.|[2411.18107](http://arxiv.org/abs/2411.18107)|null|
@@ -872,6 +874,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles**|Tian-Hao Zhang et.al.|[2501.03181](http://arxiv.org/abs/2501.03181)|null|
 |**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|**[link](https://github.com/seongho608/ringformer)**|
 |**2025-01-02**|**Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT**|Dongyang Dai et.al.|[2501.01102](http://arxiv.org/abs/2501.01102)|null|
 |**2024-12-30**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
