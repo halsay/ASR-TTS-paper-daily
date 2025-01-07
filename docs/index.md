@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@ layout: default
 |**2025-01-03**|**Improving Transducer-Based Spoken Language Understanding with Self-Conditioned CTC and Knowledge Transfer**|Vishal Sunder et.al.|[2501.01936](http://arxiv.org/abs/2501.01936)|null|
 |**2025-01-02**|**Advancing Singlish Understanding: Bridging the Gap with Datasets and Multimodal Models**|Bin Wang et.al.|[2501.01034](http://arxiv.org/abs/2501.01034)|null|
 |**2025-01-01**|**Incremental Dialogue Management: Survey, Discussion, and Implications for HRI**|Casey Kennington et.al.|[2501.00953](http://arxiv.org/abs/2501.00953)|null|
-|**2025-01-01**|**Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation**|Shoutao Guo et.al.|[2501.00868](http://arxiv.org/abs/2501.00868)|null|
+|**2025-01-01**|**Large Language Models Are Read/Write Policy-Makers for Simultaneous Generation**|Shoutao Guo et.al.|[2501.00868](http://arxiv.org/abs/2501.00868)|**[link](https://github.com/ictnlp/LSG)**|
 |**2025-01-01**|**Automatic Text Pronunciation Correlation Generation and Application for Contextual Biasing**|Gaofeng Cheng et.al.|[2501.00804](http://arxiv.org/abs/2501.00804)|null|
 |**2024-12-31**|**Fotheidil: an Automatic Transcription System for the Irish Language**|Liam Lonergan et.al.|[2501.00509](http://arxiv.org/abs/2501.00509)|null|
 |**2024-12-31**|**Whisper Turns Stronger: Augmenting Wav2Vec 2.0 for Superior ASR in Low-Resource Languages**|Or Haim Anidjar et.al.|[2501.00425](http://arxiv.org/abs/2501.00425)|null|
@@ -866,7 +866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|null|
+|**2025-01-02**|**RingFormer: A Neural Vocoder with Ring Attention and Convolution-Augmented Transformer**|Seongho Hong et.al.|[2501.01182](http://arxiv.org/abs/2501.01182)|**[link](https://github.com/seongho608/ringformer)**|
 |**2025-01-02**|**Disambiguation of Chinese Polyphones in an End-to-End Framework with Semantic Features Extracted by Pre-trained BERT**|Dongyang Dai et.al.|[2501.01102](http://arxiv.org/abs/2501.01102)|null|
 |**2024-12-30**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
 |**2024-12-16**|**SECodec: Structural Entropy-based Compressive Speech Representation Codec for Speech Language Models**|Linqin Wang et.al.|[2501.00018](http://arxiv.org/abs/2501.00018)|null|
