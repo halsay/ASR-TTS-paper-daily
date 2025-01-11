@@ -33,7 +33,7 @@
 |**2024-12-31**|**Fotheidil: an Automatic Transcription System for the Irish Language**|Liam Lonergan et.al.|[2501.00509](http://arxiv.org/abs/2501.00509)|null|
 |**2024-12-31**|**Whisper Turns Stronger: Augmenting Wav2Vec 2.0 for Superior ASR in Low-Resource Languages**|Or Haim Anidjar et.al.|[2501.00425](http://arxiv.org/abs/2501.00425)|null|
 |**2025-01-06**|**Takeaways from Applying LLM Capabilities to Multiple Conversational Avatars in a VR Pilot Study**|Mykola Maslych et.al.|[2501.00168](http://arxiv.org/abs/2501.00168)|null|
-|**2024-12-30**|**DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition**|Alexander Polok et.al.|[2501.00114](http://arxiv.org/abs/2501.00114)|null|
+|**2024-12-30**|**DiCoW: Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition**|Alexander Polok et.al.|[2501.00114](http://arxiv.org/abs/2501.00114)|**[link](https://github.com/BUTSpeechFIT/TS-ASR-Whisper)**|
 |**2024-12-25**|**Speech Recognition With LLMs Adapted to Disordered Speech Using Reinforcement Learning**|Chirag Nagpal et.al.|[2501.00039](http://arxiv.org/abs/2501.00039)|null|
 |**2024-12-27**|**Enhancing Whisper's Accuracy and Speed for Indian Languages through Prompt-Tuning and Tokenization**|Kumud Tripathi et.al.|[2412.19785](http://arxiv.org/abs/2412.19785)|null|
 |**2024-12-26**|**Towards a Single ASR Model That Generalizes to Disordered Speech**|Jimmy Tobin et.al.|[2412.19315](http://arxiv.org/abs/2412.19315)|null|
