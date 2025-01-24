@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
+|**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642](http://arxiv.org/abs/2501.13642)|null|
+|**2025-01-23**|**DQ-Data2vec: Decoupling Quantization for Multilingual Speech Recognition**|Qijie Shao et.al.|[2501.13497](http://arxiv.org/abs/2501.13497)|null|
+|**2025-01-23**|**OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia**|Xuelong Geng et.al.|[2501.13306](http://arxiv.org/abs/2501.13306)|null|
+|**2025-01-22**|**Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions**|Yan Ru Pei et.al.|[2501.13230](http://arxiv.org/abs/2501.13230)|**[link](https://github.com/Brainchip-Inc/Centaurus)**|
 |**2025-01-22**|**FlanEC: Exploring Flan-T5 for Post-ASR Error Correction**|Moreno La Quatra et.al.|[2501.12979](http://arxiv.org/abs/2501.12979)|**[link](https://github.com/morenolaquatra/flanec)**|
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
 |**2025-01-21**|**DOTA-ME-CS: Daily Oriented Text Audio-Mandarin English-Code Switching Dataset**|Yupei Li et.al.|[2501.12122](http://arxiv.org/abs/2501.12122)|null|
@@ -912,6 +917,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Generative Data Augmentation Challenge: Zero-Shot Speech Synthesis for Personalized Speech Enhancement**|Jae-Sung Bae et.al.|[2501.13372](http://arxiv.org/abs/2501.13372)|null|
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
 |**2025-01-20**|**A Non-autoregressive Model for Joint STT and TTS**|Vishal Sunder et.al.|[2501.09104](http://arxiv.org/abs/2501.09104)|null|
 |**2025-01-15**|**Speech Synthesis along Perceptual Voice Quality Dimensions**|Frederik Rautenberg et.al.|[2501.08791](http://arxiv.org/abs/2501.08791)|null|
@@ -929,7 +935,7 @@
 |**2025-01-09**|**JELLY: Joint Emotion Recognition and Context Reasoning with LLMs for Conversational Speech Synthesis**|Jun-Hyeok Cha et.al.|[2501.04904](http://arxiv.org/abs/2501.04904)|null|
 |**2025-01-08**|**Cued Speech Generation Leveraging a Pre-trained Audiovisual Text-to-Speech Model**|Sanjana Sankar et.al.|[2501.04799](http://arxiv.org/abs/2501.04799)|null|
 |**2025-01-08**|**FleSpeech: Flexibly Controllable Speech Generation with Various Prompts**|Hanzhao Li et.al.|[2501.04644](http://arxiv.org/abs/2501.04644)|null|
-|**2025-01-09**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|null|
+|**2025-01-23**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561](http://arxiv.org/abs/2501.04561)|**[link](https://github.com/rainbowluocs/openomni)**|
 |**2025-01-08**|**DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions**|Weidong Chen et.al.|[2501.04256](http://arxiv.org/abs/2501.04256)|null|
 |**2025-01-07**|**NeuroIncept Decoder for High-Fidelity Speech Reconstruction from Neural Activity**|Owais Mujtaba Khanday et.al.|[2501.03757](http://arxiv.org/abs/2501.03757)|**[link](https://github.com/owaismujtaba/NeuroInceptDecoder)**|
 |**2025-01-02**|**FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles**|Tian-Hao Zhang et.al.|[2501.03181](http://arxiv.org/abs/2501.03181)|null|
@@ -942,7 +948,7 @@
 |**2024-12-26**|**VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis**|Jaemin Jung et.al.|[2412.19259](http://arxiv.org/abs/2412.19259)|null|
 |**2024-12-26**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for Unseen Entities**|Jiawei Yu et.al.|[2412.19102](http://arxiv.org/abs/2412.19102)|null|
 |**2024-12-26**|**Indonesian-English Code-Switching Speech Synthesizer Utilizing Multilingual STEN-TTS and Bert LID**|Ahmad Alfani Handoyo et.al.|[2412.19043](http://arxiv.org/abs/2412.19043)|null|
-|**2024-12-25**|**Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset**|Neil Shah et.al.|[2412.18839](http://arxiv.org/abs/2412.18839)|null|
+|**2025-01-23**|**Advancing NAM-to-Speech Conversion with Novel Methods and the MultiNAM Dataset**|Neil Shah et.al.|[2412.18839](http://arxiv.org/abs/2412.18839)|null|
 |**2025-01-17**|**MRI2Speech: Speech Synthesis from Articulatory Movements Recorded by Real-time MRI**|Neil Shah et.al.|[2412.18836](http://arxiv.org/abs/2412.18836)|null|
 |**2024-12-25**|**Intra- and Inter-modal Context Interaction Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2412.18733](http://arxiv.org/abs/2412.18733)|null|
 |**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
