@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Optimized Self-supervised Training with BEST-RQ for Speech Recognition**|Ilja Baumann et.al.|[2501.16131](http://arxiv.org/abs/2501.16131)|null|
+|**2025-01-27**|**Classification Error Bound for Low Bayes Error Conditions in Machine Learning**|Zijian Yang et.al.|[2501.15977](http://arxiv.org/abs/2501.15977)|null|
+|**2025-01-26**|**End-to-End Target Speaker Speech Recognition Using Context-Aware Attention Mechanisms for Challenging Enrollment Scenario**|Mohsen Ghane et.al.|[2501.15466](http://arxiv.org/abs/2501.15466)|null|
+|**2025-01-25**|**The Multicultural Medical Assistant: Can LLMs Improve Medical ASR Errors Across Borders?**|Ayo Adedeji et.al.|[2501.15310](http://arxiv.org/abs/2501.15310)|null|
+|**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|null|
+|**2025-01-25**|**Robust Cross-Etiology and Speaker-Independent Dysarthric Speech Recognition**|Satwinder Singh et.al.|[2501.14994](http://arxiv.org/abs/2501.14994)|null|
+|**2025-01-08**|**Methods to Increase the Amount of Data for Speech Recognition for Low Resource Languages**|Alexan Ayrapetyan et.al.|[2501.14788](http://arxiv.org/abs/2501.14788)|null|
 |**2025-01-24**|**FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition Models from Encoder-Decoder to LLM Integration**|Kai-Tuo Xu et.al.|[2501.14350](http://arxiv.org/abs/2501.14350)|null|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
 |**2025-01-23**|**Integrating Persian Lip Reading in Surena-V Humanoid Robot for Human-Robot Interaction**|Ali Farshian Abbasi et.al.|[2501.13996](http://arxiv.org/abs/2501.13996)|null|
@@ -921,6 +928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**Overview of the Amphion Toolkit (v0.2)**|Jiaqi Li et.al.|[2501.15442](http://arxiv.org/abs/2501.15442)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-24**|**Characteristic-Specific Partial Fine-Tuning for Efficient Emotion and Speaker Adaptation in Codec Language Text-to-Speech Models**|Tianrui Wang et.al.|[2501.14273](http://arxiv.org/abs/2501.14273)|null|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
