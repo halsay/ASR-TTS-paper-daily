@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899](http://arxiv.org/abs/2501.16899)|**[link](https://github.com/shadynasrat/rdmm)**|
+|**2025-01-28**|**AVE Speech Dataset: A Comprehensive Benchmark for Multi-Modal Speech Recognition Integrating Audio, Visual, and Electromyographic Signals**|Dongliang Zhou et.al.|[2501.16780](http://arxiv.org/abs/2501.16780)|null|
+|**2025-01-28**|**SCDiar: a streaming diarization system based on speaker change detection and speech recognition**|Naijun Zheng et.al.|[2501.16641](http://arxiv.org/abs/2501.16641)|null|
 |**2025-01-27**|**Optimized Self-supervised Training with BEST-RQ for Speech Recognition**|Ilja Baumann et.al.|[2501.16131](http://arxiv.org/abs/2501.16131)|null|
 |**2025-01-27**|**Classification Error Bound for Low Bayes Error Conditions in Machine Learning**|Zijian Yang et.al.|[2501.15977](http://arxiv.org/abs/2501.15977)|null|
 |**2025-01-26**|**End-to-End Target Speaker Speech Recognition Using Context-Aware Attention Mechanisms for Challenging Enrollment Scenario**|Mohsen Ghane et.al.|[2501.15466](http://arxiv.org/abs/2501.15466)|null|
