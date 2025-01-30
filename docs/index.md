@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Cross-lingual Embedding Clustering for Hierarchical Softmax in Low-Resource Multilingual Speech Recognition**|Zhengdong Yang et.al.|[2501.17615](http://arxiv.org/abs/2501.17615)|null|
 |**2025-01-28**|**RDMM: Fine-Tuned LLM Models for On-Device Robotic Decision Making with Enhanced Contextual Awareness in Specific Domains**|Shady Nasrat et.al.|[2501.16899](http://arxiv.org/abs/2501.16899)|**[link](https://github.com/shadynasrat/rdmm)**|
 |**2025-01-28**|**AVE Speech Dataset: A Comprehensive Benchmark for Multi-Modal Speech Recognition Integrating Audio, Visual, and Electromyographic Signals**|Dongliang Zhou et.al.|[2501.16780](http://arxiv.org/abs/2501.16780)|null|
 |**2025-01-28**|**SCDiar: a streaming diarization system based on speaker change detection and speech recognition**|Naijun Zheng et.al.|[2501.16641](http://arxiv.org/abs/2501.16641)|null|
@@ -925,6 +926,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
+|**2025-01-28**|**Compact Neural TTS Voices for Accessibility**|Kunal Jain et.al.|[2501.17332](http://arxiv.org/abs/2501.17332)|null|
 |**2025-01-26**|**Overview of the Amphion Toolkit (v0.2)**|Jiaqi Li et.al.|[2501.15442](http://arxiv.org/abs/2501.15442)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-24**|**Characteristic-Specific Partial Fine-Tuning for Efficient Emotion and Speaker Adaptation in Codec Language Text-to-Speech Models**|Tianrui Wang et.al.|[2501.14273](http://arxiv.org/abs/2501.14273)|null|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
