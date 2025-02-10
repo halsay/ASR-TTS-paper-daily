@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Evaluating Standard and Dialectal Frisian ASR: Multilingual Fine-tuning and Language Identification for Improved Low-resource Performance**|Reihaneh Amooie et.al.|[2502.04883](http://arxiv.org/abs/2502.04883)|null|
+|**2025-02-07**|**Lightweight Operations for Visual Speech Recognition**|Iason Ioannis Panagos et.al.|[2502.04834](http://arxiv.org/abs/2502.04834)|null|
 |**2025-02-06**|**Afrispeech-Dialog: A Benchmark Dataset for Spontaneous English Conversations in Healthcare and Beyond**|Mardhiyah Sanni et.al.|[2502.03945](http://arxiv.org/abs/2502.03945)|null|
 |**2025-02-06**|**Rule-Based Modeling of Low-Dimensional Data with PCA and Binary Particle Swarm Optimization (BPSO) in ANFIS**|Afnan Al-Ali et.al.|[2502.03895](http://arxiv.org/abs/2502.03895)|null|
 |**2025-02-05**|**Integrating automatic speech recognition into remote healthcare interpreting: A pilot study of its impact on interpreting quality**|Shiyi Tan et.al.|[2502.03381](http://arxiv.org/abs/2502.03381)|null|
@@ -39,7 +41,7 @@ layout: default
 |**2025-01-25**|**The Multicultural Medical Assistant: Can LLMs Improve Medical ASR Errors Across Borders?**|Ayo Adedeji et.al.|[2501.15310](http://arxiv.org/abs/2501.15310)|null|
 |**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|**[link](https://github.com/world1tree/SpeechTranslationRefinement)**|
 |**2025-01-25**|**Robust Cross-Etiology and Speaker-Independent Dysarthric Speech Recognition**|Satwinder Singh et.al.|[2501.14994](http://arxiv.org/abs/2501.14994)|null|
-|**2025-01-08**|**Methods to Increase the Amount of Data for Speech Recognition for Low Resource Languages**|Alexan Ayrapetyan et.al.|[2501.14788](http://arxiv.org/abs/2501.14788)|null|
+|**2025-02-07**|**Methods to Increase the Amount of Data for Speech Recognition for Low Resource Languages**|Alexan Ayrapetyan et.al.|[2501.14788](http://arxiv.org/abs/2501.14788)|null|
 |**2025-01-24**|**FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition Models from Encoder-Decoder to LLM Integration**|Kai-Tuo Xu et.al.|[2501.14350](http://arxiv.org/abs/2501.14350)|**[link](https://github.com/fireredteam/fireredasr)**|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
 |**2025-01-23**|**Integrating Persian Lip Reading in Surena-V Humanoid Robot for Human-Robot Interaction**|Ali Farshian Abbasi et.al.|[2501.13996](http://arxiv.org/abs/2501.13996)|null|
