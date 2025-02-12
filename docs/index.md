@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification**|Pengyu Wang et.al.|[2502.07205](http://arxiv.org/abs/2502.07205)|null|
+|**2025-02-10**|**A Comparative Study of ASR Implementations in Resource-Constrained Wireless Sensor Networks for Real-Time Voice Communication**|Qutaiba I. Ali et.al.|[2502.06969](http://arxiv.org/abs/2502.06969)|null|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|null|
 |**2025-02-07**|**Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance**|Shehzeen Hussain et.al.|[2502.05236](http://arxiv.org/abs/2502.05236)|null|
@@ -26,7 +28,7 @@ layout: default
 |**2025-02-03**|**Adapter-Based Multi-Agent AVSR Extension for Pre-Trained ASR Models**|Christopher Simic et.al.|[2502.01709](http://arxiv.org/abs/2502.01709)|null|
 |**2025-01-29**|**Privacy-Preserving Edge Speech Understanding with Tiny Foundation Models**|Afsara Benazir et.al.|[2502.01649](http://arxiv.org/abs/2502.01649)|null|
 |**2025-02-03**|**A Differentiable Alignment Framework for Sequence-to-Sequence Modeling via Optimal Transport**|Yacouba Kaloga et.al.|[2502.01588](http://arxiv.org/abs/2502.01588)|null|
-|**2025-02-03**|**mWhisper-Flamingo for Multilingual Audio-Visual Noise-Robust Speech Recognition**|Andrew Rouditchenko et.al.|[2502.01547](http://arxiv.org/abs/2502.01547)|**[link](https://github.com/roudimit/whisper-flamingo)**|
+|**2025-02-11**|**mWhisper-Flamingo for Multilingual Audio-Visual Noise-Robust Speech Recognition**|Andrew Rouditchenko et.al.|[2502.01547](http://arxiv.org/abs/2502.01547)|**[link](https://github.com/roudimit/whisper-flamingo)**|
 |**2025-02-03**|**Gradient Norm-based Fine-Tuning for Backdoor Defense in Automatic Speech Recognition**|Nanjun Zhou et.al.|[2502.01152](http://arxiv.org/abs/2502.01152)|null|
 |**2025-02-01**|**Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition**|Anna Seo Gyeong Choi et.al.|[2502.00583](http://arxiv.org/abs/2502.00583)|null|
 |**2025-02-01**|**Evaluation of End-to-End Continuous Spanish Lipreading in Different Data Conditions**|David Gimeno-Gómez et.al.|[2502.00464](http://arxiv.org/abs/2502.00464)|null|
@@ -950,6 +952,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**LoRP-TTS: Low-Rank Personalized Text-To-Speech**|Łukasz Bondaruk et.al.|[2502.07562](http://arxiv.org/abs/2502.07562)|null|
+|**2025-02-11**|**Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction**|Leying Zhang et.al.|[2502.07345](http://arxiv.org/abs/2502.07345)|null|
+|**2025-02-11**|**Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement**|Xueyao Zhang et.al.|[2502.07243](http://arxiv.org/abs/2502.07243)|null|
+|**2025-02-10**|**Synthetic Audio Helps for Cognitive State Tasks**|Adil Soubki et.al.|[2502.06922](http://arxiv.org/abs/2502.06922)|null|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**Non-invasive electromyographic speech neuroprosthesis: a geometric perspective**|Harshavardhana T. Gowda et.al.|[2502.05762](http://arxiv.org/abs/2502.05762)|null|
 |**2025-02-09**|**BnTTS: Few-Shot Speaker Adaptation in Low-Resource Setting**|Mohammad Jahid Ibna Basher et.al.|[2502.05729](http://arxiv.org/abs/2502.05729)|null|
@@ -965,7 +971,7 @@ layout: default
 |**2025-01-31**|**VisualSpeech: Enhance Prosody with Visual Context in TTS**|Shumin Que et.al.|[2501.19258](http://arxiv.org/abs/2501.19258)|null|
 |**2025-01-29**|**BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights**|Chan-Jan Hsu et.al.|[2501.17790](http://arxiv.org/abs/2501.17790)|null|
 |**2025-01-28**|**Compact Neural TTS Voices for Accessibility**|Kunal Jain et.al.|[2501.17332](http://arxiv.org/abs/2501.17332)|null|
-|**2025-01-26**|**Overview of the Amphion Toolkit (v0.2)**|Jiaqi Li et.al.|[2501.15442](http://arxiv.org/abs/2501.15442)|**[link](https://github.com/open-mmlab/amphion)**|
+|**2025-02-11**|**Overview of the Amphion Toolkit (v0.2)**|Jiaqi Li et.al.|[2501.15442](http://arxiv.org/abs/2501.15442)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-01-24**|**Characteristic-Specific Partial Fine-Tuning for Efficient Emotion and Speaker Adaptation in Codec Language Text-to-Speech Models**|Tianrui Wang et.al.|[2501.14273](http://arxiv.org/abs/2501.14273)|null|
 |**2025-01-24**|**Generalizable Audio Deepfake Detection via Latent Space Refinement and Augmentation**|Wen Huang et.al.|[2501.14240](http://arxiv.org/abs/2501.14240)|null|
 |**2025-01-24**|**LoCoML: A Framework for Real-World ML Inference Pipelines**|Kritin Maddireddy et.al.|[2501.14165](http://arxiv.org/abs/2501.14165)|null|
