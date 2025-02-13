@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 |**2025-02-11**|**VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification**|Pengyu Wang et.al.|[2502.07205](http://arxiv.org/abs/2502.07205)|null|
 |**2025-02-10**|**A Comparative Study of ASR Implementations in Resource-Constrained Wireless Sensor Networks for Real-Time Voice Communication**|Qutaiba I. Ali et.al.|[2502.06969](http://arxiv.org/abs/2502.06969)|null|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
