@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
+|**2025-02-17**|**Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration**|Yan Zhang et.al.|[2502.11720](http://arxiv.org/abs/2502.11720)|null|
+|**2025-02-16**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
+|**2025-02-16**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|null|
+|**2025-02-11**|**MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition**|Sungnyun Kim et.al.|[2502.10447](http://arxiv.org/abs/2502.10447)|null|
 |**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373](http://arxiv.org/abs/2502.10373)|null|
 |**2025-02-14**|**MTLM: an Innovative Language Model Training Paradigm for ASR**|Qingliang Meng et.al.|[2502.10058](http://arxiv.org/abs/2502.10058)|null|
 |**2025-02-14**|**A Preliminary Exploration with GPT-4o Voice Mode**|Yu-Xiang Lin et.al.|[2502.09940](http://arxiv.org/abs/2502.09940)|null|
@@ -19,7 +24,7 @@ layout: default
 |**2025-02-13**|**Quantum Approaches for Dysphonia Assessment in Small Speech Datasets**|Ha Tran et.al.|[2502.08968](http://arxiv.org/abs/2502.08968)|null|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 |**2025-02-11**|**VINP: Variational Bayesian Inference with Neural Speech Prior for Joint ASR-Effective Speech Dereverberation and Blind RIR Identification**|Pengyu Wang et.al.|[2502.07205](http://arxiv.org/abs/2502.07205)|**[link](https://github.com/Audio-WestlakeU/VINP)**|
-|**2025-02-10**|**A Comparative Study of ASR Implementations in Resource-Constrained Wireless Sensor Networks for Real-Time Voice Communication**|Qutaiba I. Ali et.al.|[2502.06969](http://arxiv.org/abs/2502.06969)|null|
+|**2025-02-16**|**A Comparative Study of ASR Implementations in Resource-Constrained Wireless Sensor Networks for Real-Time Voice Communication**|Inaam F. Qutaiba I. Ali et.al.|[2502.06969](http://arxiv.org/abs/2502.06969)|null|
 |**2025-02-09**|**Speech to Speech Translation with Translatotron: A State of the Art Review**|Jules R. Kala et.al.|[2502.05980](http://arxiv.org/abs/2502.05980)|null|
 |**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|**[link](https://github.com/jxzhanggg/DistillAV)**|
 |**2025-02-07**|**Koel-TTS: Enhancing LLM based Speech Generation with Preference Alignment and Classifier Free Guidance**|Shehzeen Hussain et.al.|[2502.05236](http://arxiv.org/abs/2502.05236)|null|
@@ -38,7 +43,7 @@ layout: default
 |**2025-02-11**|**mWhisper-Flamingo for Multilingual Audio-Visual Noise-Robust Speech Recognition**|Andrew Rouditchenko et.al.|[2502.01547](http://arxiv.org/abs/2502.01547)|**[link](https://github.com/roudimit/whisper-flamingo)**|
 |**2025-02-03**|**Gradient Norm-based Fine-Tuning for Backdoor Defense in Automatic Speech Recognition**|Nanjun Zhou et.al.|[2502.01152](http://arxiv.org/abs/2502.01152)|null|
 |**2025-02-01**|**Data-Driven Mispronunciation Pattern Discovery for Robust Speech Recognition**|Anna Seo Gyeong Choi et.al.|[2502.00583](http://arxiv.org/abs/2502.00583)|null|
-|**2025-02-01**|**Evaluation of End-to-End Continuous Spanish Lipreading in Different Data Conditions**|David Gimeno-Gómez et.al.|[2502.00464](http://arxiv.org/abs/2502.00464)|null|
+|**2025-02-17**|**Evaluation of End-to-End Continuous Spanish Lipreading in Different Data Conditions**|David Gimeno-Gómez et.al.|[2502.00464](http://arxiv.org/abs/2502.00464)|null|
 |**2025-02-01**|**Sagalee: an Open Source Automatic Speech Recognition Dataset for Oromo Language**|Turi Abu et.al.|[2502.00421](http://arxiv.org/abs/2502.00421)|**[link](https://github.com/turinaf/sagalee)**|
 |**2025-02-01**|**When End-to-End is Overkill: Rethinking Cascaded Speech-to-Text Translation**|Anna Min et.al.|[2502.00377](http://arxiv.org/abs/2502.00377)|null|
 |**2025-02-03**|**SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions**|Dominik Wagner et.al.|[2501.19377](http://arxiv.org/abs/2501.19377)|null|
@@ -62,7 +67,7 @@ layout: default
 |**2025-01-23**|**Predicting Compact Phrasal Rewrites with Large Language Models for ASR Post Editing**|Hao Zhang et.al.|[2501.13831](http://arxiv.org/abs/2501.13831)|null|
 |**2025-01-23**|**Learning-based A Posteriori Speech Presence Probability Estimation and Applications**|Shuai Tao et.al.|[2501.13642](http://arxiv.org/abs/2501.13642)|null|
 |**2025-01-23**|**DQ-Data2vec: Decoupling Quantization for Multilingual Speech Recognition**|Qijie Shao et.al.|[2501.13497](http://arxiv.org/abs/2501.13497)|null|
-|**2025-01-23**|**OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia**|Xuelong Geng et.al.|[2501.13306](http://arxiv.org/abs/2501.13306)|**[link](https://github.com/aslp-lab/osum)**|
+|**2025-02-16**|**OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia**|Xuelong Geng et.al.|[2501.13306](http://arxiv.org/abs/2501.13306)|**[link](https://github.com/aslp-lab/osum)**|
 |**2025-01-22**|**Let SSMs be ConvNets: State-space Modeling with Optimal Tensor Contractions**|Yan Ru Pei et.al.|[2501.13230](http://arxiv.org/abs/2501.13230)|null|
 |**2025-01-22**|**FlanEC: Exploring Flan-T5 for Post-ASR Error Correction**|Moreno La Quatra et.al.|[2501.12979](http://arxiv.org/abs/2501.12979)|**[link](https://github.com/morenolaquatra/flanec)**|
 |**2025-01-21**|**A Domain Adaptation Framework for Speech Recognition Systems with Only Synthetic data**|Minh Tran et.al.|[2501.12501](http://arxiv.org/abs/2501.12501)|null|
@@ -959,6 +964,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond**|Shreya Shukla et.al.|[2502.12048](http://arxiv.org/abs/2502.12048)|null|
+|**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
+|**2025-02-16**|**FELLE: Autoregressive Speech Synthesis with Token-Wise Coarse-to-Fine Flow Matching**|Hui Wang et.al.|[2502.11128](http://arxiv.org/abs/2502.11128)|null|
+|**2025-02-16**|**SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**|Zhengyan Sheng et.al.|[2502.11094](http://arxiv.org/abs/2502.11094)|null|
 |**2025-02-14**|**VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect**|Qingyuan Fei et.al.|[2502.10329](http://arxiv.org/abs/2502.10329)|null|
 |**2025-02-13**|**TokenSynth: A Token-based Neural Synthesizer for Instrument Cloning and Text-to-Instrument**|Kyungsu Kim et.al.|[2502.08939](http://arxiv.org/abs/2502.08939)|**[link](https://github.com/kyungsukim42/tokensynth)**|
 |**2025-02-14**|**ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**|Xin Wang et.al.|[2502.08857](http://arxiv.org/abs/2502.08857)|null|
