@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**From Voice to Safety: Language AI Powered Pilot-ATC Communication Understanding for Airport Surface Movement Collision Risk Assessment**|Yutian Pang et.al.|[2503.04974](http://arxiv.org/abs/2503.04974)|null|
+|**2025-03-04**|**Normalization through Fine-tuning: Understanding Wav2vec 2.0 Embeddings for Phonetic Analysis**|Yiming Wang et.al.|[2503.04814](http://arxiv.org/abs/2503.04814)|null|
+|**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
 |**2025-03-06**|**Self-Supervised Models for Phoneme Recognition: Applications in Children's Speech for Reading Learning**|Lucas Block Medin et.al.|[2503.04710](http://arxiv.org/abs/2503.04710)|null|
 |**2025-03-03**|**Fine-Tuning Whisper for Inclusive Prosodic Stress Analysis**|Samuel S. Sohn et.al.|[2503.02907](http://arxiv.org/abs/2503.02907)|null|
 |**2025-03-04**|**Go Beyond Your Means: Unlearning with Per-Sample Gradient Orthogonalization**|Aviv Shamsian et.al.|[2503.02312](http://arxiv.org/abs/2503.02312)|null|
@@ -1002,6 +1005,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**DiVISe: Direct Visual-Input Speech Synthesis Preserving Speaker Characteristics And Intelligibility**|Yifan Liu et.al.|[2503.05223](http://arxiv.org/abs/2503.05223)|null|
+|**2025-03-03**|**Direct Speech to Speech Translation: A Review**|Mohammad Sarim et.al.|[2503.04799](http://arxiv.org/abs/2503.04799)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
 |**2025-03-06**|**Scaling Rich Style-Prompted Text-to-Speech Datasets**|Anuj Diwan et.al.|[2503.04713](http://arxiv.org/abs/2503.04713)|null|
 |**2025-03-05**|**Good practices for evaluation of synthesized speech**|Erica Cooper et.al.|[2503.03250](http://arxiv.org/abs/2503.03250)|null|
