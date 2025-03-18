@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -13,7 +13,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-14**|**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**|Jeong Hun Yeo et.al.|[2503.11315](http://arxiv.org/abs/2503.11315)|null|
 |**2025-03-13**|**Whisper Speaker Identification: Leveraging Pre-Trained Multilingual Transformers for Robust Speaker Embeddings**|Jakaria Islam Emon et.al.|[2503.10446](http://arxiv.org/abs/2503.10446)|**[link](https://github.com/jakariaemon/WSI)**|
-|**2025-03-12**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
+|**2025-03-14**|**Proceedings of the ISCA/ITG Workshop on Diversity in Large Speech and Language Models**|Sebastian Möller et.al.|[2503.10298](http://arxiv.org/abs/2503.10298)|null|
 |**2025-03-12**|**ValSub: Subsampling Validation Data to Mitigate Forgetting during ASR Personalization**|Haaris Mehmood et.al.|[2503.09906](http://arxiv.org/abs/2503.09906)|null|
 |**2025-03-12**|**Quantization for OpenAI's Whisper Models: A Comparative Analysis**|Allison Andreyev et.al.|[2503.09905](http://arxiv.org/abs/2503.09905)|null|
 |**2025-03-12**|**Everything Can Be Described in Words: A Simple Unified Multi-Modal Framework with Semantic and Temporal Alignment**|Xiaowei Bi et.al.|[2503.09081](http://arxiv.org/abs/2503.09081)|null|
