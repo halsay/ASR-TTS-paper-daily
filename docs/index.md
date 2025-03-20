@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Evaluating ASR Confidence Scores for Automated Error Detection in User-Assisted Correction Interfaces**|Korbinian Kuhn et.al.|[2503.15124](http://arxiv.org/abs/2503.15124)|null|
+|**2025-03-19**|**Communication Access Real-Time Translation Through Collaborative Correction of Automatic Speech Recognition**|Korbinian Kuhn et.al.|[2503.15120](http://arxiv.org/abs/2503.15120)|null|
 |**2025-03-07**|**A Causal Inference Approach for Quantifying Research Impact**|Keiichi Ochiai et.al.|[2503.13485](http://arxiv.org/abs/2503.13485)|null|
 |**2025-03-17**|**Halving transcription time: A fast, user-friendly and GDPR-compliant workflow to create AI-assisted transcripts for content analysis**|Jakob Sponholz et.al.|[2503.13031](http://arxiv.org/abs/2503.13031)|null|
 |**2025-03-04**|**CORDIC Is All You Need**|Omkar Kokane et.al.|[2503.11685](http://arxiv.org/abs/2503.11685)|null|
@@ -1015,7 +1017,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|null|
+|**2025-03-19**|**MoonCast: High-Quality Zero-Shot Podcast Generation**|Zeqian Ju et.al.|[2503.14345](http://arxiv.org/abs/2503.14345)|**[link](https://github.com/jzq2000/mooncast)**|
 |**2025-03-18**|**InnerSelf: Designing Self-Deepfaked Voice for Emotional Well-being**|Guang Dai et.al.|[2503.14257](http://arxiv.org/abs/2503.14257)|null|
 |**2025-03-14**|**MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation**|Sungwoo Cho et.al.|[2503.11026](http://arxiv.org/abs/2503.11026)|null|
 |**2025-03-11**|**An Exhaustive Evaluation of TTS- and VC-based Data Augmentation for ASR**|Sewade Ogun et.al.|[2503.08954](http://arxiv.org/abs/2503.08954)|null|
