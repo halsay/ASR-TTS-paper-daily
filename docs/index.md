@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Whispering in Amharic: Fine-tuning Whisper for Low-resource Language**|Dawit Ketema Gete et.al.|[2503.18485](http://arxiv.org/abs/2503.18485)|null|
+|**2025-03-23**|**Elevating Robust Multi-Talker ASR by Decoupling Speaker Separation and Speech Recognition**|Yufeng Yang et.al.|[2503.17886](http://arxiv.org/abs/2503.17886)|null|
+|**2025-03-21**|**Your voice is your voice: Supporting Self-expression through Speech Generation and LLMs in Augmented and Alternative Communication**|Yiwen Xu et.al.|[2503.17479](http://arxiv.org/abs/2503.17479)|null|
 |**2025-03-20**|**SeniorTalk: A Chinese Conversation Dataset with Rich Annotations for Super-Aged Seniors**|Yang Chen et.al.|[2503.16578](http://arxiv.org/abs/2503.16578)|null|
 |**2025-03-19**|**A Comprehensive Survey on Architectural Advances in Deep CNNs: Challenges, Applications, and Emerging Research Directions**|Saddam Hussain Khan et.al.|[2503.16546](http://arxiv.org/abs/2503.16546)|null|
 |**2025-02-27**|**ACE, Action and Control via Explanations: A Proposal for LLMs to Provide Human-Centered Explainability for Multimodal AI Assistants**|Elizabeth Anne Watkins et.al.|[2503.16466](http://arxiv.org/abs/2503.16466)|null|
@@ -1020,6 +1023,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Your voice is your voice: Supporting Self-expression through Speech Generation and LLMs in Augmented and Alternative Communication**|Yiwen Xu et.al.|[2503.17479](http://arxiv.org/abs/2503.17479)|null|
 |**2025-03-21**|**From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**|Ji-Hoon Kim et.al.|[2503.16956](http://arxiv.org/abs/2503.16956)|null|
 |**2025-03-20**|**WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching**|Tianze Luo et.al.|[2503.16689](http://arxiv.org/abs/2503.16689)|null|
 |**2025-03-10**|**VocalEyes: Enhancing Environmental Perception for the Visually Impaired through Vision-Language Models and Distance-Aware Object Detection**|Kunal Chavan et.al.|[2503.16488](http://arxiv.org/abs/2503.16488)|null|
