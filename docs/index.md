@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Contextual Metric Meta-Evaluation by Measuring Local Metric Accuracy**|Athiya Deviyani et.al.|[2503.19828](http://arxiv.org/abs/2503.19828)|null|
+|**2025-03-25**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic Representation Optimization**|Weifei Jin et.al.|[2503.19591](http://arxiv.org/abs/2503.19591)|null|
+|**2025-03-25**|**Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment**|Ghazanfar Ali et.al.|[2503.19334](http://arxiv.org/abs/2503.19334)|null|
+|**2025-03-22**|**A Survey on Structured State Space Sequence (S4) Models**|Shriyank Somvanshi et.al.|[2503.18970](http://arxiv.org/abs/2503.18970)|null|
 |**2025-03-24**|**Whispering in Amharic: Fine-tuning Whisper for Low-resource Language**|Dawit Ketema Gete et.al.|[2503.18485](http://arxiv.org/abs/2503.18485)|null|
 |**2025-03-23**|**Elevating Robust Multi-Talker ASR by Decoupling Speaker Separation and Speech Recognition**|Yufeng Yang et.al.|[2503.17886](http://arxiv.org/abs/2503.17886)|null|
 |**2025-03-21**|**Your voice is your voice: Supporting Self-expression through Speech Generation and LLMs in Augmented and Alternative Communication**|Yiwen Xu et.al.|[2503.17479](http://arxiv.org/abs/2503.17479)|null|
@@ -1089,7 +1093,7 @@ layout: default
 |**2025-03-17**|**CodecFake+: A Large-Scale Neural Audio Codec-Based Deepfake Speech Dataset**|Xuanjun Chen et.al.|[2501.08238](http://arxiv.org/abs/2501.08238)|null|
 |**2025-01-13**|**Exploring the encoding of linguistic representations in the Fully-Connected Layer of generative CNNs for Speech**|Bruno Ferenc Šegedin et.al.|[2501.07726](http://arxiv.org/abs/2501.07726)|null|
 |**2025-01-19**|**MathReader : Text-to-Speech for Mathematical Documents**|Sieun Hyeon et.al.|[2501.07088](http://arxiv.org/abs/2501.07088)|**[link](https://github.com/hyeonsieun/mathreader)**|
-|**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|null|
+|**2025-01-11**|**Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis**|Rui Liu et.al.|[2501.06467](http://arxiv.org/abs/2501.06467)|**[link](https://github.com/coder-jzq/radka-css)**|
 |**2025-01-10**|**TTS-Transducer: End-to-End Speech Synthesis with Neural Transducer**|Vladimir Bataev et.al.|[2501.06320](http://arxiv.org/abs/2501.06320)|null|
 |**2025-01-10**|**MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**|Qian Chen et.al.|[2501.06282](http://arxiv.org/abs/2501.06282)|null|
 |**2025-01-10**|**PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control**|Shaozuo Zhang et.al.|[2501.06276](http://arxiv.org/abs/2501.06276)|null|
