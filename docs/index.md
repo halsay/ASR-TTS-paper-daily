@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Dolphin: A Large-Scale Automatic Speech Recognition Model for Eastern Languages**|Yangyang Meng et.al.|[2503.20212](http://arxiv.org/abs/2503.20212)|null|
 |**2025-03-25**|**Contextual Metric Meta-Evaluation by Measuring Local Metric Accuracy**|Athiya Deviyani et.al.|[2503.19828](http://arxiv.org/abs/2503.19828)|null|
 |**2025-03-25**|**Boosting the Transferability of Audio Adversarial Examples with Acoustic Representation Optimization**|Weifei Jin et.al.|[2503.19591](http://arxiv.org/abs/2503.19591)|null|
 |**2025-03-25**|**Design of Seamless Multi-modal Interaction Framework for Intelligent Virtual Agents in Wearable Mixed Reality Environment**|Ghazanfar Ali et.al.|[2503.19334](http://arxiv.org/abs/2503.19334)|null|
@@ -1027,6 +1028,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
 |**2025-03-21**|**Your voice is your voice: Supporting Self-expression through Speech Generation and LLMs in Augmented and Alternative Communication**|Yiwen Xu et.al.|[2503.17479](http://arxiv.org/abs/2503.17479)|null|
 |**2025-03-21**|**From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**|Ji-Hoon Kim et.al.|[2503.16956](http://arxiv.org/abs/2503.16956)|null|
 |**2025-03-20**|**WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching**|Tianze Luo et.al.|[2503.16689](http://arxiv.org/abs/2503.16689)|null|
