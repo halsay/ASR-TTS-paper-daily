@@ -11,6 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
+|**2025-03-31**|**TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
+|**2025-03-30**|**Whisper-LM: Improving ASR Models with Language Models for Low-Resource Languages**|Xabier de Zuazo et.al.|[2503.23542](http://arxiv.org/abs/2503.23542)|**[link](https://github.com/hitz-zentroa/whisper-lm)**|
+|**2025-03-30**|**Scaling Auditory Cognition via Test-Time Compute in Audio Language Models**|Ting Dang et.al.|[2503.23395](http://arxiv.org/abs/2503.23395)|null|
+|**2025-03-24**|**Risk-Calibrated Affective Speech Recognition via Conformal Coverage Guarantees: A Stochastic Calibrative Framework for Emergent Uncertainty Quantification**|Zijun Jia et.al.|[2503.22712](http://arxiv.org/abs/2503.22712)|null|
+|**2025-03-13**|**Enhancing Aviation Communication Transcription: Fine-Tuning Distil-Whisper with LoRA**|Shokoufeh Mirzaei et.al.|[2503.22692](http://arxiv.org/abs/2503.22692)|null|
+|**2025-03-05**|**Qieemo: Speech Is All You Need in the Emotion Recognition in Conversations**|Jinming Chen et.al.|[2503.22687](http://arxiv.org/abs/2503.22687)|null|
 |**2025-03-11**|**Lend a Hand: Semi Training-Free Cued Speech Recognition via MLLM-Driven Hand Modeling for Barrier-free Communication**|Guanjie Huang et.al.|[2503.21785](http://arxiv.org/abs/2503.21785)|null|
 |**2025-03-27**|**VALLR: Visual ASR Language Model for Lip Reading**|Marshall Thomas et.al.|[2503.21408](http://arxiv.org/abs/2503.21408)|null|
 |**2025-03-27**|**A 71.2- $μ$ W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337](http://arxiv.org/abs/2503.21337)|null|
@@ -1033,6 +1041,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-03-31**|**SpeechDialogueFactory: Generating High-Quality Speech Dialogue Data to Accelerate Your Speech-LLM Development**|Minghan Wang et.al.|[2503.23848](http://arxiv.org/abs/2503.23848)|null|
+|**2025-03-30**|**Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**|Hyunjong Ok et.al.|[2503.23439](http://arxiv.org/abs/2503.23439)|null|
+|**2025-03-29**|**SupertonicTTS: Towards Highly Scalable and Efficient Text-to-Speech System**|Hyeongju Kim et.al.|[2503.23108](http://arxiv.org/abs/2503.23108)|null|
+|**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728](http://arxiv.org/abs/2503.22728)|null|
 |**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265](http://arxiv.org/abs/2503.22265)|null|
 |**2025-03-26**|**Text-Driven Voice Conversion via Latent State-Space Modeling**|Wen Li et.al.|[2503.20999](http://arxiv.org/abs/2503.20999)|null|
 |**2025-03-28**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499](http://arxiv.org/abs/2503.20499)|null|
