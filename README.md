@@ -1,4 +1,4 @@
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -45,7 +45,7 @@
 |**2025-03-11**|**An Exhaustive Evaluation of TTS- and VC-based Data Augmentation for ASR**|Sewade Ogun et.al.|[2503.08954](http://arxiv.org/abs/2503.08954)|null|
 |**2025-03-11**|**Prompt2LVideos: Exploring Prompts for Understanding Long-Form Multimodal Videos**|Soumya Shamarao Jahagirdar et.al.|[2503.08335](http://arxiv.org/abs/2503.08335)|null|
 |**2025-03-10**|**Building English ASR model with regional language support**|Purvi Agrawal et.al.|[2503.07522](http://arxiv.org/abs/2503.07522)|null|
-|**2025-03-10**|**Automatic Speech Recognition for Non-Native English: Accuracy and Disfluency Handling**|Michael McGuire et.al.|[2503.06924](http://arxiv.org/abs/2503.06924)|null|
+|**2025-03-30**|**Automatic Speech Recognition for Non-Native English: Accuracy and Disfluency Handling**|Michael McGuire et.al.|[2503.06924](http://arxiv.org/abs/2503.06924)|null|
 |**2025-03-09**|**Adaptive Audio-Visual Speech Recognition via Matryoshka-Based Multimodal LLMs**|Umberto Cappellazzo et.al.|[2503.06362](http://arxiv.org/abs/2503.06362)|null|
 |**2025-03-08**|**Zero-AVSR: Zero-Shot Audio-Visual Speech Recognition with LLMs by Learning Language-Agnostic Speech Representations**|Jeong Hun Yeo et.al.|[2503.06273](http://arxiv.org/abs/2503.06273)|**[link](https://github.com/JeongHun0716/zero-avsr)**|
 |**2025-03-08**|**A Noise-Robust Turn-Taking System for Real-World Dialogue Robots: A Field Experiment**|Koji Inoue et.al.|[2503.06241](http://arxiv.org/abs/2503.06241)|null|
@@ -1033,7 +1033,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
 ## TTS
 
@@ -1135,7 +1135,7 @@
 |**2025-01-17**|**MRI2Speech: Speech Synthesis from Articulatory Movements Recorded by Real-time MRI**|Neil Shah et.al.|[2412.18836](http://arxiv.org/abs/2412.18836)|null|
 |**2024-12-25**|**Intra- and Inter-modal Context Interaction Modeling for Conversational Speech Synthesis**|Zhenqi Jia et.al.|[2412.18733](http://arxiv.org/abs/2412.18733)|null|
 |**2024-12-24**|**GenPod: Constructive News Framing in AI-Generated Podcasts More Effectively Reduces Negative Emotions Than Non-Constructive Framing**|Wen Ku et.al.|[2412.18300](http://arxiv.org/abs/2412.18300)|null|
-|**2025-03-27**|**VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music**|Jiatong Shi et.al.|[2412.17667](http://arxiv.org/abs/2412.17667)|**[link](https://github.com/shinjiwlab/versa)**|
+|**2025-03-27**|**VERSA: A Versatile Evaluation Toolkit for Speech, Audio, and Music**|Jiatong Shi et.al.|[2412.17667](http://arxiv.org/abs/2412.17667)|**[link](https://github.com/wavlab-speech/versa)**|
 |**2024-12-22**|**Why Do Speech Language Models Fail to Generate Semantically Coherent Outputs? A Modality Evolving Perspective**|Hankun Wang et.al.|[2412.17048](http://arxiv.org/abs/2412.17048)|null|
 |**2024-12-22**|**Incremental Disentanglement for Environment-Aware Zero-Shot Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2412.16977](http://arxiv.org/abs/2412.16977)|null|
 |**2024-12-22**|**Autoregressive Speech Synthesis with Next-Distribution Prediction**|Xinfa Zhu et.al.|[2412.16846](http://arxiv.org/abs/2412.16846)|null|
@@ -1442,5 +1442,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
 
