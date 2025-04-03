@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Chain of Correction for Full-text Speech Recognition with Large Language Models**|Zhiyuan Tang et.al.|[2504.01519](http://arxiv.org/abs/2504.01519)|null|
+|**2025-04-01**|**Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems**|Weifei Jin et.al.|[2504.00858](http://arxiv.org/abs/2504.00858)|**[link](https://github.com/WeifeiJin/AudioShield)**|
 |**2025-03-31**|**SVLA: A Unified Speech-Vision-Language Assistant with Multimodal Reasoning and Speech Generation**|Ngoc Dung Huynh et.al.|[2503.24164](http://arxiv.org/abs/2503.24164)|null|
 |**2025-04-02**|**TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
 |**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
