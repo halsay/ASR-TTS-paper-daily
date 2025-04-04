@@ -1,4 +1,4 @@
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -97,7 +97,7 @@
 |**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
 |**2025-02-17**|**Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration**|Yan Zhang et.al.|[2502.11720](http://arxiv.org/abs/2502.11720)|null|
 |**2025-02-28**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
-|**2025-03-05**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|**[link](https://github.com/khfs/DuplexMamba)**|
+|**2025-04-03**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|**[link](https://github.com/khfs/DuplexMamba)**|
 |**2025-02-11**|**MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition**|Sungnyun Kim et.al.|[2502.10447](http://arxiv.org/abs/2502.10447)|null|
 |**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373](http://arxiv.org/abs/2502.10373)|null|
 |**2025-02-14**|**MTLM: an Innovative Language Model Training Paradigm for ASR**|Qingliang Meng et.al.|[2502.10058](http://arxiv.org/abs/2502.10058)|null|
@@ -1043,7 +1043,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 
 ## TTS
 
@@ -1457,5 +1457,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
 

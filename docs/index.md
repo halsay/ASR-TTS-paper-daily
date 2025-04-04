@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -93,7 +93,7 @@ layout: default
 |**2025-02-17**|**NaturalL2S: End-to-End High-quality Multispeaker Lip-to-Speech Synthesis with Differential Digital Signal Processing**|Yifan Liang et.al.|[2502.12002](http://arxiv.org/abs/2502.12002)|null|
 |**2025-02-17**|**Can you pass that tool?: Implications of Indirect Speech in Physical Human-Robot Collaboration**|Yan Zhang et.al.|[2502.11720](http://arxiv.org/abs/2502.11720)|null|
 |**2025-02-28**|**In Situ Optimization of an Optoelectronic Reservoir Computer with Digital Delayed Feedback**|Fyodor Morozko et.al.|[2502.11126](http://arxiv.org/abs/2502.11126)|null|
-|**2025-03-05**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|**[link](https://github.com/khfs/DuplexMamba)**|
+|**2025-04-03**|**DuplexMamba: Enhancing Real-time Speech Conversations with Duplex and Streaming Capabilities**|Xiangyu Lu et.al.|[2502.11123](http://arxiv.org/abs/2502.11123)|**[link](https://github.com/khfs/DuplexMamba)**|
 |**2025-02-11**|**MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition**|Sungnyun Kim et.al.|[2502.10447](http://arxiv.org/abs/2502.10447)|null|
 |**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373](http://arxiv.org/abs/2502.10373)|null|
 |**2025-02-14**|**MTLM: an Innovative Language Model Training Paradigm for ASR**|Qingliang Meng et.al.|[2502.10058](http://arxiv.org/abs/2502.10058)|null|
