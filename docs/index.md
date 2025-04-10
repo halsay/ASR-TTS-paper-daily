@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**RNN-Transducer-based Losses for Speech Recognition on Noisy Targets**|Vladimir Bataev et.al.|[2504.06963](http://arxiv.org/abs/2504.06963)|null|
 |**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
 |**2025-04-06**|**Public speech recognition transcripts as a configuring parameter**|Damien Rudaz et.al.|[2504.04488](http://arxiv.org/abs/2504.04488)|null|
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394](http://arxiv.org/abs/2504.04394)|null|
