@@ -1,4 +1,4 @@
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,7 +18,7 @@
 |**2025-04-11**|**Spatial Audio Processing with Large Language Model on Wearable Devices**|Ayushi Mishra et.al.|[2504.08907](http://arxiv.org/abs/2504.08907)|null|
 |**2025-04-10**|**From Speech to Summary: A Comprehensive Survey of Speech Summarization**|Fabian Retkowski et.al.|[2504.08024](http://arxiv.org/abs/2504.08024)|null|
 |**2025-04-09**|**Visual-Aware Speech Recognition for Noisy Scenarios**|Lakshmipathi Balaji et.al.|[2504.07229](http://arxiv.org/abs/2504.07229)|null|
-|**2025-04-09**|**RNN-Transducer-based Losses for Speech Recognition on Noisy Targets**|Vladimir Bataev et.al.|[2504.06963](http://arxiv.org/abs/2504.06963)|null|
+|**2025-04-09**|**RNN-Transducer-based Losses for Speech Recognition on Noisy Targets**|Vladimir Bataev et.al.|[2504.06963](http://arxiv.org/abs/2504.06963)|**[link](https://github.com/artbataev/uol_final)**|
 |**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
 |**2025-04-06**|**Public speech recognition transcripts as a configuring parameter**|Damien Rudaz et.al.|[2504.04488](http://arxiv.org/abs/2504.04488)|null|
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394](http://arxiv.org/abs/2504.04394)|null|
@@ -1055,7 +1055,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 
 ## TTS
 
@@ -1481,5 +1481,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
 

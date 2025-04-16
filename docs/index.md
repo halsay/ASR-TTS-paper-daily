@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@ layout: default
 |**2025-04-11**|**Spatial Audio Processing with Large Language Model on Wearable Devices**|Ayushi Mishra et.al.|[2504.08907](http://arxiv.org/abs/2504.08907)|null|
 |**2025-04-10**|**From Speech to Summary: A Comprehensive Survey of Speech Summarization**|Fabian Retkowski et.al.|[2504.08024](http://arxiv.org/abs/2504.08024)|null|
 |**2025-04-09**|**Visual-Aware Speech Recognition for Noisy Scenarios**|Lakshmipathi Balaji et.al.|[2504.07229](http://arxiv.org/abs/2504.07229)|null|
-|**2025-04-09**|**RNN-Transducer-based Losses for Speech Recognition on Noisy Targets**|Vladimir Bataev et.al.|[2504.06963](http://arxiv.org/abs/2504.06963)|null|
+|**2025-04-09**|**RNN-Transducer-based Losses for Speech Recognition on Noisy Targets**|Vladimir Bataev et.al.|[2504.06963](http://arxiv.org/abs/2504.06963)|**[link](https://github.com/artbataev/uol_final)**|
 |**2025-04-07**|**DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation**|Xinglin Lyu et.al.|[2504.05122](http://arxiv.org/abs/2504.05122)|null|
 |**2025-04-06**|**Public speech recognition transcripts as a configuring parameter**|Damien Rudaz et.al.|[2504.04488](http://arxiv.org/abs/2504.04488)|null|
 |**2025-04-06**|**Selective Masking Adversarial Attack on Automatic Speech Recognition Systems**|Zheng Fang et.al.|[2504.04394](http://arxiv.org/abs/2504.04394)|null|
