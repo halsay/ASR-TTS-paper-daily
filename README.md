@@ -1,4 +1,4 @@
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -26,7 +26,7 @@
 |**2025-04-03**|**Edge Intelligence for Wildlife Conservation: Real-Time Hornbill Call Classification Using TinyML**|Kong Ka Hing et.al.|[2504.12272](http://arxiv.org/abs/2504.12272)|null|
 |**2025-04-19**|**Advancing Arabic Speech Recognition Through Large-Scale Weakly Supervised Learning**|Mahmoud Salhab et.al.|[2504.12254](http://arxiv.org/abs/2504.12254)|null|
 |**2025-04-15**|**Real-Time Word-Level Temporal Segmentation in Streaming Speech Recognition**|Naoto Nishida et.al.|[2504.10849](http://arxiv.org/abs/2504.10849)|null|
-|**2025-04-11**|**Spatial Audio Processing with Large Language Model on Wearable Devices**|Ayushi Mishra et.al.|[2504.08907](http://arxiv.org/abs/2504.08907)|null|
+|**2025-04-25**|**Spatial Audio Processing with Large Language Model on Wearable Devices**|Ayushi Mishra et.al.|[2504.08907](http://arxiv.org/abs/2504.08907)|null|
 |**2025-04-10**|**From Speech to Summary: A Comprehensive Survey of Speech Summarization**|Fabian Retkowski et.al.|[2504.08024](http://arxiv.org/abs/2504.08024)|null|
 |**2025-04-09**|**Visual-Aware Speech Recognition for Noisy Scenarios**|Lakshmipathi Balaji et.al.|[2504.07229](http://arxiv.org/abs/2504.07229)|null|
 |**2025-04-09**|**RNN-Transducer-based Losses for Speech Recognition on Noisy Targets**|Vladimir Bataev et.al.|[2504.06963](http://arxiv.org/abs/2504.06963)|**[link](https://github.com/artbataev/uol_final)**|
@@ -45,7 +45,7 @@
 |**2025-03-30**|**The Impact of Code-switched Synthetic Data Quality is Task Dependent: Insights from MT and ASR**|Injy Hamed et.al.|[2503.23576](http://arxiv.org/abs/2503.23576)|null|
 |**2025-03-30**|**Whisper-LM: Improving ASR Models with Language Models for Low-Resource Languages**|Xabier de Zuazo et.al.|[2503.23542](http://arxiv.org/abs/2503.23542)|**[link](https://github.com/hitz-zentroa/whisper-lm)**|
 |**2025-03-30**|**Scaling Auditory Cognition via Test-Time Compute in Audio Language Models**|Ting Dang et.al.|[2503.23395](http://arxiv.org/abs/2503.23395)|null|
-|**2025-03-24**|**Risk-Calibrated Affective Speech Recognition via Conformal Coverage Guarantees: A Stochastic Calibrative Framework for Emergent Uncertainty Quantification**|Zijun Jia et.al.|[2503.22712](http://arxiv.org/abs/2503.22712)|null|
+|**2025-04-25**|**Coverage-Guaranteed Speech Emotion Recognition via Calibrated Uncertainty-Adaptive Prediction Sets**|Zijun Jia et.al.|[2503.22712](http://arxiv.org/abs/2503.22712)|null|
 |**2025-03-13**|**Enhancing Aviation Communication Transcription: Fine-Tuning Distil-Whisper with LoRA**|Shokoufeh Mirzaei et.al.|[2503.22692](http://arxiv.org/abs/2503.22692)|null|
 |**2025-03-05**|**Qieemo: Speech Is All You Need in the Emotion Recognition in Conversations**|Jinming Chen et.al.|[2503.22687](http://arxiv.org/abs/2503.22687)|null|
 |**2025-03-11**|**Lend a Hand: Semi Training-Free Cued Speech Recognition via MLLM-Driven Hand Modeling for Barrier-free Communication**|Guanjie Huang et.al.|[2503.21785](http://arxiv.org/abs/2503.21785)|**[link](https://github.com/dennishgj/stf_acsr)**|
@@ -1066,7 +1066,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## TTS
 
@@ -1135,7 +1135,7 @@
 |**2025-02-16**|**SyncSpeech: Low-Latency and Efficient Dual-Stream Text-to-Speech based on Temporal Masked Transformer**|Zhengyan Sheng et.al.|[2502.11094](http://arxiv.org/abs/2502.11094)|null|
 |**2025-02-14**|**VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect**|Qingyuan Fei et.al.|[2502.10329](http://arxiv.org/abs/2502.10329)|null|
 |**2025-02-13**|**TokenSynth: A Token-based Neural Synthesizer for Instrument Cloning and Text-to-Instrument**|Kyungsu Kim et.al.|[2502.08939](http://arxiv.org/abs/2502.08939)|**[link](https://github.com/kyungsukim42/tokensynth)**|
-|**2025-03-02**|**ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**|Xin Wang et.al.|[2502.08857](http://arxiv.org/abs/2502.08857)|null|
+|**2025-04-24**|**ASVspoof 5: Design, Collection and Validation of Resources for Spoofing, Deepfake, and Adversarial Attack Detection Using Crowdsourced Speech**|Xin Wang et.al.|[2502.08857](http://arxiv.org/abs/2502.08857)|null|
 |**2025-02-11**|**LoRP-TTS: Low-Rank Personalized Text-To-Speech**|Łukasz Bondaruk et.al.|[2502.07562](http://arxiv.org/abs/2502.07562)|null|
 |**2025-02-11**|**Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction**|Leying Zhang et.al.|[2502.07345](http://arxiv.org/abs/2502.07345)|null|
 |**2025-02-11**|**Vevo: Controllable Zero-Shot Voice Imitation with Self-Supervised Disentanglement**|Xueyao Zhang et.al.|[2502.07243](http://arxiv.org/abs/2502.07243)|null|
@@ -1502,5 +1502,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
