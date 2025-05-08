@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**SwinLip: An Efficient Visual Speech Encoder for Lip Reading Using Swin Transformer**|Young-Hu Park et.al.|[2505.04394](http://arxiv.org/abs/2505.04394)|null|
+|**2025-05-07**|**Robust Speech Recognition with Schrödinger Bridge-Based Speech Enhancement**|Rauf Nasretdinov et.al.|[2505.04237](http://arxiv.org/abs/2505.04237)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Fairness of Automatic Speech Recognition in Cleft Lip and Palate Speech**|Susmita Bhattacharjee et.al.|[2505.03697](http://arxiv.org/abs/2505.03697)|null|
 |**2025-05-06**|**SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation**|Zhaoxi Mu et.al.|[2505.03273](http://arxiv.org/abs/2505.03273)|null|
@@ -1079,6 +1081,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**|Xueyao Zhang et.al.|[2505.04113](http://arxiv.org/abs/2505.04113)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**SonicRAG : High Fidelity Sound Effects Synthesis Based on Retrival Augmented Generation**|Yu-Ren Guo et.al.|[2505.03244](http://arxiv.org/abs/2505.03244)|null|
 |**2025-05-05**|**Generating Narrated Lecture Videos from Slides with Synchronized Highlights**|Alexander Holmberg et.al.|[2505.02966](http://arxiv.org/abs/2505.02966)|null|
