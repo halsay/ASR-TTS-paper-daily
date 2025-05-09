@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**Teochew-Wild: The First In-the-wild Teochew Dataset with Orthographic Annotations**|Linrong Pan et.al.|[2505.05056](http://arxiv.org/abs/2505.05056)|null|
 |**2025-05-07**|**SwinLip: An Efficient Visual Speech Encoder for Lip Reading Using Swin Transformer**|Young-Hu Park et.al.|[2505.04394](http://arxiv.org/abs/2505.04394)|null|
 |**2025-05-07**|**Robust Speech Recognition with Schrödinger Bridge-Based Speech Enhancement**|Rauf Nasretdinov et.al.|[2505.04237](http://arxiv.org/abs/2505.04237)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
@@ -18,14 +19,14 @@ layout: default
 |**2025-05-06**|**SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation**|Zhaoxi Mu et.al.|[2505.03273](http://arxiv.org/abs/2505.03273)|null|
 |**2025-05-06**|**CoGenAV: Versatile Audio-Visual Representation Learning via Contrastive-Generative Synchronization**|Detao Bai et.al.|[2505.03186](http://arxiv.org/abs/2505.03186)|null|
 |**2025-05-05**|**Voila: Voice-Language Foundation Models for Real-Time Autonomous Interaction and Voice Role-Play**|Yemin Shi et.al.|[2505.02707](http://arxiv.org/abs/2505.02707)|**[link](https://github.com/maitrix-org/voila)**|
-|**2025-05-08**|**Transforming faces into video stories -- VideoFace2.0**|Branko Brkljač et.al.|[2505.02060](http://arxiv.org/abs/2505.02060)|null|
+|**2025-05-08**|**Transforming faces into video stories -- VideoFace2.0**|Branko Brkljač et.al.|[2505.02060](http://arxiv.org/abs/2505.02060)|**[link](https://github.com/brkljac/videoface2.0)**|
 |**2025-05-06**|**A Synergistic Framework of Nonlinear Acoustic Computing and Reinforcement Learning for Real-World Human-Robot Interaction**|Xiaoliang Chen et.al.|[2505.01998](http://arxiv.org/abs/2505.01998)|null|
 |**2025-05-02**|**Transfer Learning-Based Deep Residual Learning for Speech Recognition in Clean and Noisy Environments**|Noussaiba Djeffal et.al.|[2505.01632](http://arxiv.org/abs/2505.01632)|null|
 |**2025-05-01**|**Scaling On-Device GPU Inference for Large Generative Models**|Jiuqiang Tang et.al.|[2505.00232](http://arxiv.org/abs/2505.00232)|null|
 |**2025-04-30**|**BERSting at the Screams: A Benchmark for Distanced, Emotional and Shouted Speech Recognition**|Paige Tuttösí et.al.|[2505.00059](http://arxiv.org/abs/2505.00059)|**[link](https://github.com/myHaiven/data-collection)**|
 |**2025-04-30**|**Retrieval-Enhanced Few-Shot Prompting for Speech Event Extraction**|Máté Gedeon et.al.|[2504.21372](http://arxiv.org/abs/2504.21372)|null|
 |**2025-04-28**|**A Comprehensive Part-of-Speech Tagging to Standardize Central-Kurdish Language: A Research Guide for Kurdish Natural Language Processing Tasks**|Shadan Shukr Sabr et.al.|[2504.19645](http://arxiv.org/abs/2504.19645)|null|
-|**2025-04-25**|**Kimi-Audio Technical Report**|KimiTeam et.al.|[2504.18425](http://arxiv.org/abs/2504.18425)|null|
+|**2025-04-25**|**Kimi-Audio Technical Report**|KimiTeam et.al.|[2504.18425](http://arxiv.org/abs/2504.18425)|**[link](https://github.com/moonshotai/kimi-audio)**|
 |**2025-04-28**|**Augmenting Captions with Emotional Cues: An AR Interface for Real-Time Accessible Communication**|Sunday David Ubur et.al.|[2504.17171](http://arxiv.org/abs/2504.17171)|null|
 |**2025-04-22**|**TinyML for Speech Recognition**|Andrew Barovic et.al.|[2504.16213](http://arxiv.org/abs/2504.16213)|null|
 |**2025-04-22**|**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**|Joya Chen et.al.|[2504.16030](http://arxiv.org/abs/2504.16030)|null|
@@ -1081,6 +1082,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech**|Linhan Ma et.al.|[2505.05159](http://arxiv.org/abs/2505.05159)|null|
+|**2025-05-08**|**Teochew-Wild: The First In-the-wild Teochew Dataset with Orthographic Annotations**|Linrong Pan et.al.|[2505.05056](http://arxiv.org/abs/2505.05056)|null|
+|**2025-05-08**|**A Multi-Agent AI Framework for Immersive Audiobook Production through Spatial Audio and Neural Narration**|Shaja Arul Selvamani et.al.|[2505.04885](http://arxiv.org/abs/2505.04885)|null|
 |**2025-05-07**|**Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**|Xueyao Zhang et.al.|[2505.04113](http://arxiv.org/abs/2505.04113)|null|
 |**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**SonicRAG : High Fidelity Sound Effects Synthesis Based on Retrival Augmented Generation**|Yu-Ren Guo et.al.|[2505.03244](http://arxiv.org/abs/2505.03244)|null|
