@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**LipDiffuser: Lip-to-Speech Generation with Conditional Diffusion Models**|Danilo de Oliveira et.al.|[2505.11391](http://arxiv.org/abs/2505.11391)|null|
+|**2025-05-16**|**LegoSLM: Connecting LLM with Speech Encoder using CTC Posteriors**|Rao Ma et.al.|[2505.11352](http://arxiv.org/abs/2505.11352)|null|
+|**2025-05-16**|**Survey of End-to-End Multi-Speaker Automatic Speech Recognition for Monaural Audio**|Xinlu He et.al.|[2505.10975](http://arxiv.org/abs/2505.10975)|null|
+|**2025-05-16**|**Multi-Stage Speaker Diarization for Noisy Classrooms**|Ali Sartaz Khan et.al.|[2505.10879](http://arxiv.org/abs/2505.10879)|null|
+|**2025-05-15**|**Inclusivity of AI Speech in Healthcare: A Decade Look Back**|Retno Larasati et.al.|[2505.10596](http://arxiv.org/abs/2505.10596)|null|
 |**2025-05-15**|**Quantized Approximate Signal Processing (QASP): Towards Homomorphic Encryption for audio**|Tu Duyen Nguyen et.al.|[2505.10500](http://arxiv.org/abs/2505.10500)|null|
 |**2025-05-12**|**Full simulation on the dynamics of auditory synaptic fusion: Strong clustering of calcium channel might be the origin of the coherent release in the auditory hair cells**|Jaeyun Yoo et.al.|[2505.07273](http://arxiv.org/abs/2505.07273)|null|
 |**2025-05-09**|**Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients**|Jinsheng Yuan et.al.|[2505.06335](http://arxiv.org/abs/2505.06335)|null|
@@ -1091,6 +1096,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Audio Turing Test: Benchmarking the Human-likeness of Large Language Model-based Text-to-Speech Systems in Chinese**|Xihuai Wang et.al.|[2505.11200](http://arxiv.org/abs/2505.11200)|null|
+|**2025-05-16**|**BanglaFake: Constructing and Evaluating a Specialized Bengali Deepfake Audio Dataset**|Istiaq Ahmed Fahad et.al.|[2505.10885](http://arxiv.org/abs/2505.10885)|null|
+|**2025-05-15**|**UDDETTS: Unifying Discrete and Dimensional Emotions for Controllable Emotional Text-to-Speech**|Jiaxuan Liu et.al.|[2505.10599](http://arxiv.org/abs/2505.10599)|null|
 |**2025-05-14**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
 |**2025-05-13**|**Investigating self-supervised features for expressive, multilingual voice conversion**|Álvaro Martín-Cortinas et.al.|[2505.08278](http://arxiv.org/abs/2505.08278)|null|
 |**2025-05-12**|**MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable Speaker Encoder**|Bowen Zhang et.al.|[2505.07916](http://arxiv.org/abs/2505.07916)|null|
