@@ -11,6 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits**|Tiantian Feng et.al.|[2505.14648](http://arxiv.org/abs/2505.14648)|null|
+|**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638](http://arxiv.org/abs/2505.14638)|null|
+|**2025-05-20**|**PersonaTAB: Predicting Personality Traits using Textual, Acoustic, and Behavioral Cues in Fully-Duplex Speech Dialogs**|Sho Inoue et.al.|[2505.14356](http://arxiv.org/abs/2505.14356)|null|
+|**2025-05-20**|**Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach**|Umberto Cappellazzo et.al.|[2505.14336](http://arxiv.org/abs/2505.14336)|null|
+|**2025-05-20**|**HausaNLP: Current Status, Challenges and Future Directions for Hausa Natural Language Processing**|Shamsuddeen Hassan Muhammad et.al.|[2505.14311](http://arxiv.org/abs/2505.14311)|null|
+|**2025-05-20**|**The Multimodal Information Based Speech Processing (MISP) 2025 Challenge: Audio-Visual Diarization and Recognition**|Ming Gao et.al.|[2505.13971](http://arxiv.org/abs/2505.13971)|null|
+|**2025-05-20**|**Transfer Learning from Visual Speech Recognition to Mouthing Recognition in German Sign Language**|Dinh Nam Pham et.al.|[2505.13784](http://arxiv.org/abs/2505.13784)|**[link](https://github.com/nphamdinh/transfer-learning-vsr-mouthing-sign-language)**|
+|**2025-05-19**|**Multi-head Temporal Latent Attention**|Keqi Deng et.al.|[2505.13544](http://arxiv.org/abs/2505.13544)|null|
 |**2025-05-19**|**Granary: Speech Recognition and Translation Dataset in 25 European Languages**|Nithin Rao Koluguri et.al.|[2505.13404](http://arxiv.org/abs/2505.13404)|null|
 |**2025-05-19**|**Cross-modal Knowledge Transfer Learning as Graph Matching Based on Optimal Transport for ASR**|Xugang Lu et.al.|[2505.13079](http://arxiv.org/abs/2505.13079)|null|
 |**2025-05-19**|**KIT's Offline Speech Translation and Instruction Following Submission for IWSLT 2025**|Sai Koneru et.al.|[2505.13036](http://arxiv.org/abs/2505.13036)|null|
@@ -1097,6 +1105,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Pairwise Evaluation of Accent Similarity in Speech Synthesis**|Jinzuomu Zhong et.al.|[2505.14410](http://arxiv.org/abs/2505.14410)|null|
+|**2025-05-20**|**FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2505.14351](http://arxiv.org/abs/2505.14351)|null|
+|**2025-05-20**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
+|**2025-05-20**|**SeamlessEdit: Background Noise Aware Zero-Shot Speech Editing with in-Context Enhancement**|Kuan-Yu Chen et.al.|[2505.14066](http://arxiv.org/abs/2505.14066)|null|
+|**2025-05-20**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
+|**2025-05-20**|**Articulatory Feature Prediction from Surface EMG during Speech Production**|Jihwan Lee et.al.|[2505.13814](http://arxiv.org/abs/2505.13814)|null|
 |**2025-05-19**|**Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**|Zhengrui Ma et.al.|[2505.13181](http://arxiv.org/abs/2505.13181)|**[link](https://github.com/ictnlp/sled-tts)**|
 |**2025-05-19**|**OZSpeech: One-step Zero-shot Speech Synthesis with Learned-Prior-Conditioned Flow Matching**|Hieu-Nghia Huynh-Nguyen et.al.|[2505.12800](http://arxiv.org/abs/2505.12800)|null|
 |**2025-05-19**|**RoVo: Robust Voice Protection Against Unauthorized Speech Synthesis with Embedding-Level Perturbations**|Seungmin Kim et.al.|[2505.12686](http://arxiv.org/abs/2505.12686)|null|
