@@ -15,9 +15,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-21**|**Word Level Timestamp Generation for Automatic Speech Recognition and Translation**|Ke Hu et.al.|[2505.15646](http://arxiv.org/abs/2505.15646)|null|
+|**2025-05-22**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991](http://arxiv.org/abs/2505.16991)|null|
+|**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|null|
+|**2025-05-22**|**SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding**|Sushant Gautam et.al.|[2505.16630](http://arxiv.org/abs/2505.16630)|null|
+|**2025-05-22**|**X-ARES: A Comprehensive Framework for Assessing Audio Encoder Performance**|Junbo Zhang et.al.|[2505.16369](http://arxiv.org/abs/2505.16369)|null|
+|**2025-05-22**|**Large Language Models based ASR Error Correction for Child Conversations**|Anfeng Xu et.al.|[2505.16212](http://arxiv.org/abs/2505.16212)|null|
+|**2025-05-22**|**Differentiable K-means for Fully-optimized Discrete Token-based ASR**|Kentaro Onda et.al.|[2505.16207](http://arxiv.org/abs/2505.16207)|null|
+|**2025-05-22**|**Prosodically Enhanced Foreign Accent Simulation by Discrete Token-based Resynthesis Only with Native Speech Corpora**|Kentaro Onda et.al.|[2505.16191](http://arxiv.org/abs/2505.16191)|null|
+|**2025-05-22**|**Selective Invocation for Multilingual ASR: A Cost-effective Approach Adapting to Speech Recognition Difficulty**|Hongfei Xue et.al.|[2505.16168](http://arxiv.org/abs/2505.16168)|null|
+|**2025-05-21**|**Word Level Timestamp Generation for Automatic Speech Recognition and Translation**|Ke Hu et.al.|[2505.15646](http://arxiv.org/abs/2505.15646)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2025-05-20**|**In-Context Learning Boosts Speech Recognition via Human-like Adaptation to Speakers and Language Varieties**|Nathan Roll et.al.|[2505.14887](http://arxiv.org/abs/2505.14887)|null|
-|**2025-05-20**|**Towards Inclusive ASR: Investigating Voice Conversion for Dysarthric Speech Recognition in Low-Resource Languages**|Chin-Jou Li et.al.|[2505.14874](http://arxiv.org/abs/2505.14874)|null|
+|**2025-05-20**|**Towards Inclusive ASR: Investigating Voice Conversion for Dysarthric Speech Recognition in Low-Resource Languages**|Chin-Jou Li et.al.|[2505.14874](http://arxiv.org/abs/2505.14874)|**[link](https://github.com/chinjouli/dysaug-vc)**|
 |**2025-05-20**|**Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits**|Tiantian Feng et.al.|[2505.14648](http://arxiv.org/abs/2505.14648)|**[link](https://github.com/tiantiaf0627/vox-profile-release)**|
 |**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638](http://arxiv.org/abs/2505.14638)|null|
 |**2025-05-20**|**PersonaTAB: Predicting Personality Traits using Textual, Acoustic, and Behavioral Cues in Fully-Duplex Speech Dialogs**|Sho Inoue et.al.|[2505.14356](http://arxiv.org/abs/2505.14356)|**[link](https://github.com/shinshoji01/personality-prediction-for-conversation-agents)**|
@@ -1114,6 +1122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|null|
 |**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
 |**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
 |**2025-05-21**|**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**|Zirui Song et.al.|[2505.15406](http://arxiv.org/abs/2505.15406)|**[link](https://github.com/mbzuai-nlp/audiojailbreak)**|
