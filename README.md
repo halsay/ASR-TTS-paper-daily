@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -27,7 +27,7 @@
 |**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|**[link](https://github.com/tianduowang/speech-bt)**|
 |**2025-05-22**|**SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding**|Sushant Gautam et.al.|[2505.16630](http://arxiv.org/abs/2505.16630)|null|
 |**2025-05-22**|**X-ARES: A Comprehensive Framework for Assessing Audio Encoder Performance**|Junbo Zhang et.al.|[2505.16369](http://arxiv.org/abs/2505.16369)|**[link](https://github.com/jimbozhang/xares)**|
-|**2025-05-22**|**Large Language Models based ASR Error Correction for Child Conversations**|Anfeng Xu et.al.|[2505.16212](http://arxiv.org/abs/2505.16212)|null|
+|**2025-05-24**|**Large Language Models based ASR Error Correction for Child Conversations**|Anfeng Xu et.al.|[2505.16212](http://arxiv.org/abs/2505.16212)|null|
 |**2025-05-22**|**Differentiable K-means for Fully-optimized Discrete Token-based ASR**|Kentaro Onda et.al.|[2505.16207](http://arxiv.org/abs/2505.16207)|null|
 |**2025-05-22**|**Prosodically Enhanced Foreign Accent Simulation by Discrete Token-based Resynthesis Only with Native Speech Corpora**|Kentaro Onda et.al.|[2505.16191](http://arxiv.org/abs/2505.16191)|null|
 |**2025-05-22**|**Selective Invocation for Multilingual ASR: A Cost-effective Approach Adapting to Speech Recognition Difficulty**|Hongfei Xue et.al.|[2505.16168](http://arxiv.org/abs/2505.16168)|null|
@@ -1124,7 +1124,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## TTS
 
@@ -1132,13 +1132,13 @@
 |---|---|---|---|---|
 |**2025-05-23**|**CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training**|Zhihao Du et.al.|[2505.17589](http://arxiv.org/abs/2505.17589)|null|
 |**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
-|**2025-05-23**|**UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information**|Rui Wang et.al.|[2505.17426](http://arxiv.org/abs/2505.17426)|**[link](https://github.com/IDEA-Emdoor-Lab/UniTTS)**|
+|**2025-05-23**|**UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information**|Rui Wang et.al.|[2505.17426](http://arxiv.org/abs/2505.17426)|null|
 |**2025-05-23**|**Speechless: Speech Instruction Training Without Speech for Low Resource Languages**|Alan Dao et.al.|[2505.17417](http://arxiv.org/abs/2505.17417)|null|
 |**2025-05-22**|**Benchmarking Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2**|Zackary Rackauckas et.al.|[2505.17320](http://arxiv.org/abs/2505.17320)|null|
 |**2025-05-21**|**Voicing Personas: Rewriting Persona Descriptions into Style Prompts for Controllable Text-to-Speech**|Yejin Lee et.al.|[2505.17093](http://arxiv.org/abs/2505.17093)|null|
 |**2025-05-20**|**Impact of Frame Rates on Speech Tokenizer: A Case Study on Mandarin and English**|Haoyang Zhang et.al.|[2505.17076](http://arxiv.org/abs/2505.17076)|null|
 |**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|**[link](https://github.com/tianduowang/speech-bt)**|
-|**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
+|**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Yifan Cheng et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
 |**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
 |**2025-05-21**|**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**|Zirui Song et.al.|[2505.15406](http://arxiv.org/abs/2505.15406)|**[link](https://github.com/mbzuai-nlp/audiojailbreak)**|
 |**2025-05-21**|**Prosody-Adaptable Audio Codecs for Zero-Shot Voice Conversion via In-Context Learning**|Junchuan Zhao et.al.|[2505.15402](http://arxiv.org/abs/2505.15402)|null|
@@ -1608,5 +1608,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
