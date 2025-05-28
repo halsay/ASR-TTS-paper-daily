@@ -15,6 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Towards One-bit ASR: Extremely Low-bit Conformer Quantization Using Co-training and Stochastic Precision**|Zhaoqing Li et.al.|[2505.21245](http://arxiv.org/abs/2505.21245)|null|
+|**2025-05-27**|**PSRB: A Comprehensive Benchmark for Evaluating Persian ASR Systems**|Nima Sedghiyeh et.al.|[2505.21230](http://arxiv.org/abs/2505.21230)|null|
+|**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
+|**2025-05-27**|**Leveraging LLM and Self-Supervised Training Models for Speech Recognition in Chinese Dialects: A Comparative Analysis**|Tianyi Xu et.al.|[2505.21138](http://arxiv.org/abs/2505.21138)|null|
+|**2025-05-27**|**Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data Augmentation**|Dancheng Liu et.al.|[2505.20606](http://arxiv.org/abs/2505.20606)|null|
+|**2025-05-26**|**The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages**|Chris Emezue et.al.|[2505.20564](http://arxiv.org/abs/2505.20564)|null|
+|**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
+|**2025-05-26**|**In-context Language Learning for Endangered Languages in Speech Recognition**|Zhaolin Li et.al.|[2505.20445](http://arxiv.org/abs/2505.20445)|null|
+|**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
+|**2025-05-26**|**Exploring Generative Error Correction for Dysarthric Speech Recognition**|Moreno La Quatra et.al.|[2505.20163](http://arxiv.org/abs/2505.20163)|null|
 |**2025-05-26**|**Mixture of LoRA Experts for Low-Resourced Multi-Accent Automatic Speech Recognition**|Raphaël Bagat et.al.|[2505.20006](http://arxiv.org/abs/2505.20006)|null|
 |**2025-05-26**|**Novel Loss-Enhanced Universal Adversarial Patches for Sustainable Speaker Privacy**|Elvir Karimov et.al.|[2505.19951](http://arxiv.org/abs/2505.19951)|null|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
@@ -1139,6 +1149,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Spotlight-TTS: Spotlighting the Style via Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech**|Nam-Gyu Kim et.al.|[2505.20868](http://arxiv.org/abs/2505.20868)|null|
+|**2025-05-26**|**ArVoice: A Multi-Speaker Dataset for Arabic Speech Synthesis**|Hawau Olamide Toyin et.al.|[2505.20506](http://arxiv.org/abs/2505.20506)|null|
 |**2025-05-26**|**Accelerating Flow-Matching-Based Text-to-Speech via Empirically Pruned Step Sampling**|Qixi Zheng et.al.|[2505.19931](http://arxiv.org/abs/2505.19931)|null|
 |**2025-05-26**|**DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech**|Deok-Hyeon Cho et.al.|[2505.19687](http://arxiv.org/abs/2505.19687)|null|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
