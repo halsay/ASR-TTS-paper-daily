@@ -11,6 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Running Conventional Automatic Speech Recognition on Memristor Hardware: A Simulated Approach**|Nick Rossenbach et.al.|[2505.24721](http://arxiv.org/abs/2505.24721)|null|
+|**2025-05-30**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
+|**2025-05-30**|**SuPseudo: A Pseudo-supervised Learning Method for Neural Speech Enhancement in Far-field Speech Recognition**|Longjie Luo et.al.|[2505.24450](http://arxiv.org/abs/2505.24450)|null|
+|**2025-05-30**|**Pseudo Labels-based Neural Speech Enhancement for the AVSR Task in the MISP-Meeting Challenge**|Longjie Luo et.al.|[2505.24446](http://arxiv.org/abs/2505.24446)|null|
+|**2025-05-30**|**Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction**|Yangui Fang et.al.|[2505.24347](http://arxiv.org/abs/2505.24347)|null|
+|**2025-05-30**|**Dynamic Context-Aware Streaming Pretrained Language Model For Inverse Text Normalization**|Luong Ho et.al.|[2505.24229](http://arxiv.org/abs/2505.24229)|null|
+|**2025-05-30**|**MOPSA: Mixture of Prompt-Experts Based Speaker Adaptation for Elderly Speech Recognition**|Chengxi Deng et.al.|[2505.24224](http://arxiv.org/abs/2505.24224)|null|
+|**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
+|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
 |**2025-05-29**|**Prompting Whisper for Improved Verbatim Transcription and End-to-end Miscue Detection**|Griffin Dietz Smith et.al.|[2505.23627](http://arxiv.org/abs/2505.23627)|null|
 |**2025-05-29**|**Contextualized Automatic Speech Recognition with Dynamic Vocabulary Prediction and Activation**|Zhennan Lin et.al.|[2505.23077](http://arxiv.org/abs/2505.23077)|null|
 |**2025-05-29**|**AISHELL-5: The First Open-Source In-Car Multi-Channel Multi-Speaker Speech Dataset for Automatic Speech Diarization and Recognition**|Yuhang Dai et.al.|[2505.23036](http://arxiv.org/abs/2505.23036)|null|
@@ -1157,6 +1166,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
+|**2025-05-30**|**DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec**|Peijie Chen et.al.|[2505.24314](http://arxiv.org/abs/2505.24314)|null|
+|**2025-05-29**|**Can Emotion Fool Anti-spoofing?**|Aurosweta Mahapatra et.al.|[2505.23962](http://arxiv.org/abs/2505.23962)|null|
 |**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|null|
 |**2025-05-29**|**EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge**|Ruskin Raj Manku et.al.|[2505.23009](http://arxiv.org/abs/2505.23009)|**[link](https://github.com/boson-ai/emergenttts-eval-public)**|
 |**2025-05-29**|**LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting**|Pai Zhu et.al.|[2505.22995](http://arxiv.org/abs/2505.22995)|null|
@@ -1169,7 +1181,7 @@ layout: default
 |**2025-05-26**|**DiEmo-TTS: Disentangled Emotion Representations via Self-Supervised Distillation for Cross-Speaker Emotion Transfer in Text-to-Speech**|Deok-Hyeon Cho et.al.|[2505.19687](http://arxiv.org/abs/2505.19687)|null|
 |**2025-05-26**|**KIT's Low-resource Speech Translation Systems for IWSLT2025: System Enhancement with Synthetic Data and Model Regularization**|Zhaolin Li et.al.|[2505.19679](http://arxiv.org/abs/2505.19679)|null|
 |**2025-05-26**|**Zero-Shot Streaming Text to Speech Synthesis with Transducer and Auto-Regressive Modeling**|Haiyang Sun et.al.|[2505.19669](http://arxiv.org/abs/2505.19669)|null|
-|**2025-05-26**|**Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment**|Jeongsoo Choi et.al.|[2505.19595](http://arxiv.org/abs/2505.19595)|**[link](https://github.com/zhikangniu/a-dma)**|
+|**2025-05-30**|**Accelerating Diffusion-based Text-to-Speech Model Training with Dual Modality Alignment**|Jeongsoo Choi et.al.|[2505.19595](http://arxiv.org/abs/2505.19595)|**[link](https://github.com/zhikangniu/a-dma)**|
 |**2025-05-26**|**GSA-TTS : Toward Zero-Shot Speech Synthesis based on Gradual Style Adaptor**|Seokgi Lee et.al.|[2505.19384](http://arxiv.org/abs/2505.19384)|null|
 |**2025-05-25**|**SpeakStream: Streaming Text-to-Speech with Interleaved Data**|Richard He Bai et.al.|[2505.19206](http://arxiv.org/abs/2505.19206)|null|
 |**2025-05-25**|**CloneShield: A Framework for Universal Perturbation Against Zero-Shot Voice Cloning**|Renyuan Li et.al.|[2505.19119](http://arxiv.org/abs/2505.19119)|null|
