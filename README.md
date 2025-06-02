@@ -1,4 +1,4 @@
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -47,15 +47,15 @@
 |**2025-05-25**|**BR-ASR: Efficient and Scalable Bias Retrieval Framework for Contextual Biasing ASR in Speech LLM**|Xun Gong et.al.|[2505.19179](http://arxiv.org/abs/2505.19179)|null|
 |**2025-05-24**|**Building a Functional Machine Translation Corpus for Kpelle**|Kweku Andoh Yamoah et.al.|[2505.18905](http://arxiv.org/abs/2505.18905)|null|
 |**2025-05-24**|**StandUp4AI: A New Multilingual Dataset for Humor Detection in Stand-up Comedy Videos**|Valentin Barriere et.al.|[2505.18903](http://arxiv.org/abs/2505.18903)|null|
-|**2025-05-24**|**CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR**|Natarajan Balaji Shankar et.al.|[2505.18463](http://arxiv.org/abs/2505.18463)|null|
+|**2025-05-24**|**CHSER: A Dataset and Case Study on Generative Speech Error Correction for Child ASR**|Natarajan Balaji Shankar et.al.|[2505.18463](http://arxiv.org/abs/2505.18463)|**[link](https://github.com/balaji1312/chser)**|
 |**2025-05-23**|**Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities**|Ziwei Zhou et.al.|[2505.17862](http://arxiv.org/abs/2505.17862)|**[link](https://github.com/lliar-liar/daily-omni)**|
 |**2025-05-27**|**CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training**|Zhihao Du et.al.|[2505.17589](http://arxiv.org/abs/2505.17589)|null|
 |**2025-05-23**|**Swedish Whispers; Leveraging a Massive Speech Corpus for Swedish Speech Recognition**|Leonora Vesterbacka et.al.|[2505.17538](http://arxiv.org/abs/2505.17538)|null|
-|**2025-05-23**|**Speechless: Speech Instruction Training Without Speech for Low Resource Languages**|Alan Dao et.al.|[2505.17417](http://arxiv.org/abs/2505.17417)|null|
+|**2025-05-23**|**Speechless: Speech Instruction Training Without Speech for Low Resource Languages**|Alan Dao et.al.|[2505.17417](http://arxiv.org/abs/2505.17417)|**[link](https://github.com/menloresearch/ichigo)**|
 |**2025-05-23**|**LLM-based Generative Error Correction for Rare Words with Synthetic Data and Phonetic Context**|Natsuo Yamashita et.al.|[2505.17410](http://arxiv.org/abs/2505.17410)|**[link](https://github.com/natsuooo/llm-ger)**|
 |**2025-05-23**|**An End-to-End Approach for Child Reading Assessment in the Xhosa Language**|Sergio Chevtchenko et.al.|[2505.17371](http://arxiv.org/abs/2505.17371)|null|
 |**2025-05-20**|**From Weak Labels to Strong Results: Utilizing 5,000 Hours of Noisy Classroom Transcripts with Minimal Accurate Data**|Ahmed Adel Attia et.al.|[2505.17088](http://arxiv.org/abs/2505.17088)|null|
-|**2025-05-20**|**Impact of Frame Rates on Speech Tokenizer: A Case Study on Mandarin and English**|Haoyang Zhang et.al.|[2505.17076](http://arxiv.org/abs/2505.17076)|null|
+|**2025-05-30**|**Impact of Frame Rates on Speech Tokenizer: A Case Study on Mandarin and English**|Haoyang Zhang et.al.|[2505.17076](http://arxiv.org/abs/2505.17076)|null|
 |**2025-05-28**|**An Effective Training Framework for Light-Weight Automatic Speech Recognition Models**|Abdul Hannan et.al.|[2505.16991](http://arxiv.org/abs/2505.16991)|null|
 |**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|**[link](https://github.com/tianduowang/speech-bt)**|
 |**2025-05-22**|**SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding**|Sushant Gautam et.al.|[2505.16630](http://arxiv.org/abs/2505.16630)|null|
@@ -66,7 +66,7 @@
 |**2025-05-22**|**Selective Invocation for Multilingual ASR: A Cost-effective Approach Adapting to Speech Recognition Difficulty**|Hongfei Xue et.al.|[2505.16168](http://arxiv.org/abs/2505.16168)|null|
 |**2025-05-21**|**Word Level Timestamp Generation for Automatic Speech Recognition and Translation**|Ke Hu et.al.|[2505.15646](http://arxiv.org/abs/2505.15646)|**[link](https://github.com/NVIDIA/NeMo)**|
 |**2025-05-20**|**In-Context Learning Boosts Speech Recognition via Human-like Adaptation to Speakers and Language Varieties**|Nathan Roll et.al.|[2505.14887](http://arxiv.org/abs/2505.14887)|null|
-|**2025-05-27**|**Towards Inclusive ASR: Investigating Voice Conversion for Dysarthric Speech Recognition in Low-Resource Languages**|Chin-Jou Li et.al.|[2505.14874](http://arxiv.org/abs/2505.14874)|**[link](https://github.com/chinjouli/dysaug-vc)**|
+|**2025-05-30**|**Towards Inclusive ASR: Investigating Voice Conversion for Dysarthric Speech Recognition in Low-Resource Languages**|Chin-Jou Li et.al.|[2505.14874](http://arxiv.org/abs/2505.14874)|**[link](https://github.com/chinjouli/dysaug-vc)**|
 |**2025-05-20**|**Vox-Profile: A Speech Foundation Model Benchmark for Characterizing Diverse Speaker and Speech Traits**|Tiantian Feng et.al.|[2505.14648](http://arxiv.org/abs/2505.14648)|**[link](https://github.com/tiantiaf0627/vox-profile-release)**|
 |**2025-05-20**|**Dual Precision Quantization for Efficient and Accurate Deep Neural Networks Inference**|Tomer Gafni et.al.|[2505.14638](http://arxiv.org/abs/2505.14638)|**[link](https://github.com/intel/neural-compressor)**|
 |**2025-05-20**|**PersonaTAB: Predicting Personality Traits using Textual, Acoustic, and Behavioral Cues in Fully-Duplex Speech Dialogs**|Sho Inoue et.al.|[2505.14356](http://arxiv.org/abs/2505.14356)|**[link](https://github.com/shinshoji01/personality-prediction-for-conversation-agents)**|
@@ -1157,14 +1157,14 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|null|
-|**2025-05-29**|**EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge**|Ruskin Raj Manku et.al.|[2505.23009](http://arxiv.org/abs/2505.23009)|null|
+|**2025-05-29**|**EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge**|Ruskin Raj Manku et.al.|[2505.23009](http://arxiv.org/abs/2505.23009)|**[link](https://github.com/boson-ai/emergenttts-eval-public)**|
 |**2025-05-29**|**LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting**|Pai Zhu et.al.|[2505.22995](http://arxiv.org/abs/2505.22995)|null|
 |**2025-05-28**|**BinauralFlow: A Causal and Streamable Approach for High-Quality Binaural Speech Synthesis with Flow Matching Models**|Susan Liang et.al.|[2505.22865](http://arxiv.org/abs/2505.22865)|null|
 |**2025-05-28**|**Tell me Habibi, is it Real or Fake?**|Kartik Kuckreja et.al.|[2505.22581](http://arxiv.org/abs/2505.22581)|null|
@@ -1184,11 +1184,11 @@
 |**2025-05-24**|**MPE-TTS: Customized Emotion Zero-Shot Text-To-Speech Using Multi-Modal Prompt**|Zhichao Wu et.al.|[2505.18453](http://arxiv.org/abs/2505.18453)|null|
 |**2025-05-27**|**CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and Post-training**|Zhihao Du et.al.|[2505.17589](http://arxiv.org/abs/2505.17589)|null|
 |**2025-05-23**|**What You Read Isn't What You Hear: Linguistic Sensitivity in Deepfake Speech Detection**|Binh Nguyen et.al.|[2505.17513](http://arxiv.org/abs/2505.17513)|null|
-|**2025-05-23**|**UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information**|Rui Wang et.al.|[2505.17426](http://arxiv.org/abs/2505.17426)|**[link](https://github.com/idea-emdoor-lab/distilcodec)**|
-|**2025-05-23**|**Speechless: Speech Instruction Training Without Speech for Low Resource Languages**|Alan Dao et.al.|[2505.17417](http://arxiv.org/abs/2505.17417)|null|
+|**2025-05-23**|**UniTTS: An end-to-end TTS system without decoupling of acoustic and semantic information**|Rui Wang et.al.|[2505.17426](http://arxiv.org/abs/2505.17426)|**[link](https://github.com/IDEA-Emdoor-Lab/UniTTS)**|
+|**2025-05-23**|**Speechless: Speech Instruction Training Without Speech for Low Resource Languages**|Alan Dao et.al.|[2505.17417](http://arxiv.org/abs/2505.17417)|**[link](https://github.com/menloresearch/ichigo)**|
 |**2025-05-22**|**Benchmarking Expressive Japanese Character Text-to-Speech with VITS and Style-BERT-VITS2**|Zackary Rackauckas et.al.|[2505.17320](http://arxiv.org/abs/2505.17320)|null|
 |**2025-05-21**|**Voicing Personas: Rewriting Persona Descriptions into Style Prompts for Controllable Text-to-Speech**|Yejin Lee et.al.|[2505.17093](http://arxiv.org/abs/2505.17093)|null|
-|**2025-05-20**|**Impact of Frame Rates on Speech Tokenizer: A Case Study on Mandarin and English**|Haoyang Zhang et.al.|[2505.17076](http://arxiv.org/abs/2505.17076)|null|
+|**2025-05-30**|**Impact of Frame Rates on Speech Tokenizer: A Case Study on Mandarin and English**|Haoyang Zhang et.al.|[2505.17076](http://arxiv.org/abs/2505.17076)|null|
 |**2025-05-22**|**From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition**|Tianduo Wang et.al.|[2505.16972](http://arxiv.org/abs/2505.16972)|**[link](https://github.com/tianduowang/speech-bt)**|
 |**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Yifan Cheng et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
 |**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
@@ -1660,5 +1660,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
 
