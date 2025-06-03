@@ -1,4 +1,4 @@
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -43,7 +43,7 @@
 |**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
 |**2025-05-27**|**Leveraging LLM and Self-Supervised Training Models for Speech Recognition in Chinese Dialects: A Comparative Analysis**|Tianyi Xu et.al.|[2505.21138](http://arxiv.org/abs/2505.21138)|null|
 |**2025-05-27**|**Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data Augmentation**|Dancheng Liu et.al.|[2505.20606](http://arxiv.org/abs/2505.20606)|null|
-|**2025-05-26**|**The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages**|Chris Emezue et.al.|[2505.20564](http://arxiv.org/abs/2505.20564)|null|
+|**2025-05-30**|**The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages**|Chris Emezue et.al.|[2505.20564](http://arxiv.org/abs/2505.20564)|null|
 |**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
 |**2025-05-28**|**In-context Language Learning for Endangered Languages in Speech Recognition**|Zhaolin Li et.al.|[2505.20445](http://arxiv.org/abs/2505.20445)|null|
 |**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
@@ -1166,7 +1166,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 
 ## TTS
 
@@ -1672,5 +1672,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250602>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250603>back to top</a>)</p>
 

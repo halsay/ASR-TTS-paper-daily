@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -39,7 +39,7 @@ layout: default
 |**2025-05-27**|**Topological Deep Learning for Speech Data**|Zhiwang Yu et.al.|[2505.21173](http://arxiv.org/abs/2505.21173)|null|
 |**2025-05-27**|**Leveraging LLM and Self-Supervised Training Models for Speech Recognition in Chinese Dialects: A Comparative Analysis**|Tianyi Xu et.al.|[2505.21138](http://arxiv.org/abs/2505.21138)|null|
 |**2025-05-27**|**Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data Augmentation**|Dancheng Liu et.al.|[2505.20606](http://arxiv.org/abs/2505.20606)|null|
-|**2025-05-26**|**The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages**|Chris Emezue et.al.|[2505.20564](http://arxiv.org/abs/2505.20564)|null|
+|**2025-05-30**|**The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages**|Chris Emezue et.al.|[2505.20564](http://arxiv.org/abs/2505.20564)|null|
 |**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
 |**2025-05-28**|**In-context Language Learning for Endangered Languages in Speech Recognition**|Zhaolin Li et.al.|[2505.20445](http://arxiv.org/abs/2505.20445)|null|
 |**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
