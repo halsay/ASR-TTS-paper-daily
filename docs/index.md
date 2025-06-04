@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1200,7 +1200,7 @@ layout: default
 |**2025-05-21**|**Segmentation-Variant Codebooks for Preservation of Paralinguistic and Prosodic Information**|Nicholas Sanders et.al.|[2505.15667](http://arxiv.org/abs/2505.15667)|null|
 |**2025-05-21**|**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**|Zirui Song et.al.|[2505.15406](http://arxiv.org/abs/2505.15406)|**[link](https://github.com/mbzuai-nlp/audiojailbreak)**|
 |**2025-05-21**|**Prosody-Adaptable Audio Codecs for Zero-Shot Voice Conversion via In-Context Learning**|Junchuan Zhao et.al.|[2505.15402](http://arxiv.org/abs/2505.15402)|null|
-|**2025-05-21**|**Accelerating Autoregressive Speech Synthesis Inference With Speech Speculative Decoding**|Zijian Lin et.al.|[2505.15380](http://arxiv.org/abs/2505.15380)|null|
+|**2025-06-03**|**Accelerating Autoregressive Speech Synthesis Inference With Speech Speculative Decoding**|Zijian Lin et.al.|[2505.15380](http://arxiv.org/abs/2505.15380)|null|
 |**2025-05-20**|**Pairwise Evaluation of Accent Similarity in Speech Synthesis**|Jinzuomu Zhong et.al.|[2505.14410](http://arxiv.org/abs/2505.14410)|null|
 |**2025-05-20**|**FMSD-TTS: Few-shot Multi-Speaker Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2505.14351](http://arxiv.org/abs/2505.14351)|null|
 |**2025-05-21**|**AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models**|Guangke Chen et.al.|[2505.14103](http://arxiv.org/abs/2505.14103)|null|
