@@ -11,6 +11,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**A Multi-Dialectal Dataset for German Dialect ASR and Dialect-to-Standard Speech Translation**|Verena Blaschke et.al.|[2506.02894](http://arxiv.org/abs/2506.02894)|null|
+|**2025-06-03**|**Overcoming Data Scarcity in Multi-Dialectal Arabic ASR via Whisper Fine-Tuning**|Ömer Tarik Özyilmaz et.al.|[2506.02627](http://arxiv.org/abs/2506.02627)|null|
+|**2025-06-03**|**On the Language and Gender Biases in PSTN, VoIP and Neural Audio Codecs**|Kemal Altwlkany et.al.|[2506.02545](http://arxiv.org/abs/2506.02545)|null|
+|**2025-06-03**|**SOVA-Bench: Benchmarking the Speech Conversation Ability for LLM-based Voice Assistant**|Yixuan Hou et.al.|[2506.02457](http://arxiv.org/abs/2506.02457)|null|
+|**2025-06-03**|**Enhancing Lyrics Transcription on Music Mixtures with Consistency Loss**|Jiawen Huang et.al.|[2506.02339](http://arxiv.org/abs/2506.02339)|null|
+|**2025-06-02**|**Cocktail-Party Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.02178](http://arxiv.org/abs/2506.02178)|null|
+|**2025-06-02**|**HENT-SRT: Hierarchical Efficient Neural Transducer with Self-Distillation for Joint Speech Recognition and Translation**|Amir Hussein et.al.|[2506.02157](http://arxiv.org/abs/2506.02157)|null|
+|**2025-06-01**|**Enhancing Speech Instruction Understanding and Disambiguation in Robotics via Speech Prosody**|David Sasu et.al.|[2506.02057](http://arxiv.org/abs/2506.02057)|null|
+|**2025-05-31**|**No Audiogram: Leveraging Existing Scores for Personalized Speech Intelligibility Prediction**|Haoshuai Zhou et.al.|[2506.02039](http://arxiv.org/abs/2506.02039)|null|
+|**2025-05-27**|**Leveraging Large Language Models in Visual Speech Recognition: Model Scaling, Context-Aware Decoding, and Iterative Polishing**|Zehua Liu et.al.|[2506.02012](http://arxiv.org/abs/2506.02012)|null|
+|**2025-05-27**|**CNVSRC 2024: The Second Chinese Continuous Visual Speech Recognition Challenge**|Zehua Liu et.al.|[2506.02010](http://arxiv.org/abs/2506.02010)|null|
+|**2025-06-02**|**DNCASR: End-to-End Training for Speaker-Attributed ASR**|Xianrui Zheng et.al.|[2506.01916](http://arxiv.org/abs/2506.01916)|null|
+|**2025-06-02**|**Reasoning-Based Approach with Chain-of-Thought for Alzheimer's Detection Using Speech and Large Language Models**|Chanwoo Park et.al.|[2506.01683](http://arxiv.org/abs/2506.01683)|null|
+|**2025-06-02**|**Self-Supervised Speech Quality Assessment (S3QA): Leveraging Speech Foundation Models for a Scalable Speech Quality Metric**|Mattson Ogg et.al.|[2506.01655](http://arxiv.org/abs/2506.01655)|null|
+|**2025-06-02**|**Riemannian Time Warping: Multiple Sequence Alignment in Curved Spaces**|Julian Richter et.al.|[2506.01635](http://arxiv.org/abs/2506.01635)|null|
+|**2025-06-02**|**Unsupervised Rhythm and Voice Conversion to Improve ASR on Dysarthric Speech**|Karl El Hajal et.al.|[2506.01618](http://arxiv.org/abs/2506.01618)|null|
+|**2025-06-02**|**Analyzing the Importance of Blank for CTC-Based Knowledge Distillation**|Benedikt Hilmes et.al.|[2506.01503](http://arxiv.org/abs/2506.01503)|null|
+|**2025-06-02**|**TalTech Systems for the Interspeech 2025 ML-SUPERB 2.0 Challenge**|Tanel Alumäe et.al.|[2506.01458](http://arxiv.org/abs/2506.01458)|null|
+|**2025-06-02**|**Whale: Large-Scale multilingual ASR model with w2v-BERT and E-Branchformer with large speech data**|Yosuke Kashiwagi et.al.|[2506.01439](http://arxiv.org/abs/2506.01439)|null|
+|**2025-06-02**|**Speech-to-Speech Translation Pipelines for Conversations in Low-Resource Languages**|Andrei Popescu-Belis et.al.|[2506.01406](http://arxiv.org/abs/2506.01406)|null|
+|**2025-06-02**|**CleanS2S: Single-file Framework for Proactive Speech-to-Speech Interaction**|Yudong Lu et.al.|[2506.01268](http://arxiv.org/abs/2506.01268)|null|
+|**2025-06-02**|**WCTC-Biasing: Retraining-free Contextual Biasing ASR with Wildcard CTC-based Keyword Spotting and Inter-layer Biasing**|Yu Nakagome et.al.|[2506.01263](http://arxiv.org/abs/2506.01263)|null|
+|**2025-06-01**|**GigaAM: Efficient Self-Supervised Learner for Speech Recognition**|Aleksandr Kutsakov et.al.|[2506.01192](http://arxiv.org/abs/2506.01192)|null|
+|**2025-06-01**|**What do self-supervised speech models know about Dutch? Analyzing advantages of language-specific pre-training**|Marianne de Heer Kloots et.al.|[2506.00981](http://arxiv.org/abs/2506.00981)|null|
+|**2025-06-01**|**Fine-Tuning ASR for Stuttered Speech: Personalized vs. Generalized Approaches**|Dena Mujtaba et.al.|[2506.00853](http://arxiv.org/abs/2506.00853)|null|
+|**2025-05-31**|**Chain-of-Thought Training for Open E2E Spoken Dialogue Systems**|Siddhant Arora et.al.|[2506.00722](http://arxiv.org/abs/2506.00722)|null|
+|**2025-05-31**|**Towards Temporally Explainable Dysarthric Speech Clarity Assessment**|Seohyun Park et.al.|[2506.00454](http://arxiv.org/abs/2506.00454)|null|
+|**2025-05-31**|**DYNAC: Dynamic Vocabulary based Non-Autoregressive Contextualization for Speech Recognition**|Yui Sudo et.al.|[2506.00422](http://arxiv.org/abs/2506.00422)|null|
+|**2025-05-31**|**Causal Structure Discovery for Error Diagnostics of Children's ASR**|Vishwanath Pratap Singh et.al.|[2506.00402](http://arxiv.org/abs/2506.00402)|null|
+|**2025-05-30**|**Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs**|Payal Mohapatra et.al.|[2506.00304](http://arxiv.org/abs/2506.00304)|null|
+|**2025-05-30**|**Vedavani: A Benchmark Corpus for ASR on Vedic Sanskrit Poetry**|Sujeet Kumar et.al.|[2506.00145](http://arxiv.org/abs/2506.00145)|null|
+|**2025-05-30**|**SwitchLingua: The First Large-Scale Multilingual and Multi-Ethnic Code-Switching Dataset**|Peng Xie et.al.|[2506.00087](http://arxiv.org/abs/2506.00087)|null|
 |**2025-05-30**|**Running Conventional Automatic Speech Recognition on Memristor Hardware: A Simulated Approach**|Nick Rossenbach et.al.|[2505.24721](http://arxiv.org/abs/2505.24721)|null|
 |**2025-06-02**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
 |**2025-05-30**|**SuPseudo: A Pseudo-supervised Learning Method for Neural Speech Enhancement in Far-field Speech Recognition**|Longjie Luo et.al.|[2505.24450](http://arxiv.org/abs/2505.24450)|null|
@@ -18,7 +50,7 @@ layout: default
 |**2025-05-30**|**Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction**|Yangui Fang et.al.|[2505.24347](http://arxiv.org/abs/2505.24347)|null|
 |**2025-05-30**|**Dynamic Context-Aware Streaming Pretrained Language Model For Inverse Text Normalization**|Luong Ho et.al.|[2505.24229](http://arxiv.org/abs/2505.24229)|null|
 |**2025-05-30**|**MOPSA: Mixture of Prompt-Experts Based Speaker Adaptation for Elderly Speech Recognition**|Chengxi Deng et.al.|[2505.24224](http://arxiv.org/abs/2505.24224)|null|
-|**2025-05-30**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
+|**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
 |**2025-05-29**|**Prompting Whisper for Improved Verbatim Transcription and End-to-end Miscue Detection**|Griffin Dietz Smith et.al.|[2505.23627](http://arxiv.org/abs/2505.23627)|null|
 |**2025-05-29**|**Contextualized Automatic Speech Recognition with Dynamic Vocabulary Prediction and Activation**|Zhennan Lin et.al.|[2505.23077](http://arxiv.org/abs/2505.23077)|null|
@@ -1166,6 +1198,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
+|**2025-06-03**|**Towards a Japanese Full-duplex Spoken Dialogue System**|Atsumoto Ohashi et.al.|[2506.02979](http://arxiv.org/abs/2506.02979)|null|
+|**2025-06-03**|**CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech**|Helin Wang et.al.|[2506.02863](http://arxiv.org/abs/2506.02863)|null|
+|**2025-06-03**|**Prompt-Unseen-Emotion: Zero-shot Expressive Speech Synthesis with Prompt-LLM Contextual Knowledge for Mixed Emotions**|Xiaoxue Gao et.al.|[2506.02742](http://arxiv.org/abs/2506.02742)|null|
+|**2025-06-03**|**Trusted Fake Audio Detection Based on Dirichlet Distribution**|Chi Ding et.al.|[2506.02401](http://arxiv.org/abs/2506.02401)|null|
+|**2025-06-02**|**SALF-MOS: Speaker Agnostic Latent Features Downsampled for MOS Prediction**|Saurabh Agrawal et.al.|[2506.02082](http://arxiv.org/abs/2506.02082)|null|
+|**2025-06-02**|**Speech-to-Speech Translation Pipelines for Conversations in Low-Resource Languages**|Andrei Popescu-Belis et.al.|[2506.01406](http://arxiv.org/abs/2506.01406)|null|
+|**2025-06-02**|**Zero-Shot Text-to-Speech for Vietnamese**|Thi Vu et.al.|[2506.01322](http://arxiv.org/abs/2506.01322)|null|
+|**2025-06-02**|**CleanS2S: Single-file Framework for Proactive Speech-to-Speech Interaction**|Yudong Lu et.al.|[2506.01268](http://arxiv.org/abs/2506.01268)|null|
+|**2025-06-02**|**WCTC-Biasing: Retraining-free Contextual Biasing ASR with Wildcard CTC-based Keyword Spotting and Inter-layer Biasing**|Yu Nakagome et.al.|[2506.01263](http://arxiv.org/abs/2506.01263)|null|
+|**2025-06-01**|**DS-TTS: Zero-Shot Speaker Style Adaptation from Voice Clips via Dynamic Dual-Style Feature Modulation**|Ming Meng et.al.|[2506.01020](http://arxiv.org/abs/2506.01020)|null|
+|**2025-06-01**|**Counterfactual Activation Editing for Post-hoc Prosody and Mispronunciation Correction in TTS Models**|Kyowoon Lee et.al.|[2506.00832](http://arxiv.org/abs/2506.00832)|null|
+|**2025-05-31**|**Chain-of-Thought Training for Open E2E Spoken Dialogue Systems**|Siddhant Arora et.al.|[2506.00722](http://arxiv.org/abs/2506.00722)|null|
+|**2025-05-30**|**Werewolf: A Straightforward Game Framework with TTS for Improved User Engagement**|Qihui Fan et.al.|[2506.00160](http://arxiv.org/abs/2506.00160)|null|
+|**2025-05-30**|**SwitchLingua: The First Large-Scale Multilingual and Multi-Ethnic Code-Switching Dataset**|Peng Xie et.al.|[2506.00087](http://arxiv.org/abs/2506.00087)|null|
 |**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
 |**2025-05-30**|**DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec**|Peijie Chen et.al.|[2505.24314](http://arxiv.org/abs/2505.24314)|null|
 |**2025-05-29**|**Can Emotion Fool Anti-spoofing?**|Aurosweta Mahapatra et.al.|[2505.23962](http://arxiv.org/abs/2505.23962)|null|
