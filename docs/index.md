@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**MFLA: Monotonic Finite Look-ahead Attention for Streaming Speech Recognition**|Yinfeng Xia et.al.|[2506.03722](http://arxiv.org/abs/2506.03722)|null|
 |**2025-06-03**|**A Multi-Dialectal Dataset for German Dialect ASR and Dialect-to-Standard Speech Translation**|Verena Blaschke et.al.|[2506.02894](http://arxiv.org/abs/2506.02894)|null|
 |**2025-06-03**|**Overcoming Data Scarcity in Multi-Dialectal Arabic ASR via Whisper Fine-Tuning**|Ömer Tarik Özyilmaz et.al.|[2506.02627](http://arxiv.org/abs/2506.02627)|null|
 |**2025-06-03**|**On the Language and Gender Biases in PSTN, VoIP and Neural Audio Codecs**|Kemal Altwlkany et.al.|[2506.02545](http://arxiv.org/abs/2506.02545)|null|
@@ -1198,6 +1199,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152](http://arxiv.org/abs/2506.04152)|null|
+|**2025-06-04**|**UniCUE: Unified Recognition and Generation Framework for Chinese Cued Speech Video-to-Speech Generation**|Jinting Wang et.al.|[2506.04134](http://arxiv.org/abs/2506.04134)|null|
+|**2025-06-04**|**A Novel Data Augmentation Approach for Automatic Speaking Assessment on Opinion Expressions**|Chung-Chun Wang et.al.|[2506.04077](http://arxiv.org/abs/2506.04077)|null|
+|**2025-06-04**|**Kinship in Speech: Leveraging Linguistic Relatedness for Zero-Shot TTS in Indian Languages**|Utkarsh Pathak et.al.|[2506.03884](http://arxiv.org/abs/2506.03884)|null|
+|**2025-06-04**|**Mark My Words: A Robust Multilingual Model for Punctuation in Text and Speech Transcripts**|Sidharth Pulipaka et.al.|[2506.03793](http://arxiv.org/abs/2506.03793)|null|
+|**2025-06-04**|**Comparative Analysis of Fast and High-Fidelity Neural Vocoders for Low-Latency Streaming Synthesis in Resource-Constrained Environments**|Reo Yoneyama et.al.|[2506.03554](http://arxiv.org/abs/2506.03554)|null|
+|**2025-06-04**|**BitTTS: Highly Compact Text-to-Speech Using 1.58-bit Quantization and Weight Indexing**|Masaya Kawamura et.al.|[2506.03515](http://arxiv.org/abs/2506.03515)|null|
 |**2025-06-03**|**Controllable Text-to-Speech Synthesis with Masked-Autoencoded Style-Rich Representation**|Yongqi Wang et.al.|[2506.02997](http://arxiv.org/abs/2506.02997)|null|
 |**2025-06-03**|**Towards a Japanese Full-duplex Spoken Dialogue System**|Atsumoto Ohashi et.al.|[2506.02979](http://arxiv.org/abs/2506.02979)|null|
 |**2025-06-03**|**CapSpeech: Enabling Downstream Applications in Style-Captioned Text-to-Speech**|Helin Wang et.al.|[2506.02863](http://arxiv.org/abs/2506.02863)|null|
