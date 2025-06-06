@@ -1,4 +1,4 @@
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -52,7 +52,7 @@
 |**2025-06-02**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
 |**2025-05-30**|**SuPseudo: A Pseudo-supervised Learning Method for Neural Speech Enhancement in Far-field Speech Recognition**|Longjie Luo et.al.|[2505.24450](http://arxiv.org/abs/2505.24450)|null|
 |**2025-05-30**|**Pseudo Labels-based Neural Speech Enhancement for the AVSR Task in the MISP-Meeting Challenge**|Longjie Luo et.al.|[2505.24446](http://arxiv.org/abs/2505.24446)|null|
-|**2025-05-30**|**Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction**|Yangui Fang et.al.|[2505.24347](http://arxiv.org/abs/2505.24347)|null|
+|**2025-06-05**|**Fewer Hallucinations, More Verification: A Three-Stage LLM-Based Framework for ASR Error Correction**|Yangui Fang et.al.|[2505.24347](http://arxiv.org/abs/2505.24347)|null|
 |**2025-05-30**|**Dynamic Context-Aware Streaming Pretrained Language Model For Inverse Text Normalization**|Luong Ho et.al.|[2505.24229](http://arxiv.org/abs/2505.24229)|null|
 |**2025-05-30**|**MOPSA: Mixture of Prompt-Experts Based Speaker Adaptation for Elderly Speech Recognition**|Chengxi Deng et.al.|[2505.24224](http://arxiv.org/abs/2505.24224)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
@@ -61,7 +61,7 @@
 |**2025-05-29**|**Contextualized Automatic Speech Recognition with Dynamic Vocabulary Prediction and Activation**|Zhennan Lin et.al.|[2505.23077](http://arxiv.org/abs/2505.23077)|null|
 |**2025-05-29**|**AISHELL-5: The First Open-Source In-Car Multi-Channel Multi-Speaker Speech Dataset for Automatic Speech Diarization and Recognition**|Yuhang Dai et.al.|[2505.23036](http://arxiv.org/abs/2505.23036)|null|
 |**2025-05-28**|**NGPU-LM: GPU-Accelerated N-Gram Language Model for Context-Biasing in Greedy ASR Decoding**|Vladimir Bataev et.al.|[2505.22857](http://arxiv.org/abs/2505.22857)|null|
-|**2025-05-28**|**Evaluation of LLMs in Speech is Often Flawed: Test Set Contamination in Large Language Models for Speech Recognition**|Yuan Tseng et.al.|[2505.22251](http://arxiv.org/abs/2505.22251)|null|
+|**2025-06-05**|**Evaluation of LLMs in Speech is Often Flawed: Test Set Contamination in Large Language Models for Speech Recognition**|Yuan Tseng et.al.|[2505.22251](http://arxiv.org/abs/2505.22251)|null|
 |**2025-05-28**|**Advancing Hearing Assessment: An ASR-Based Frequency-Specific Speech Test for Diagnosing Presbycusis**|Stefan Bleeck et.al.|[2505.22231](http://arxiv.org/abs/2505.22231)|null|
 |**2025-05-28**|**On-the-fly Routing for Zero-shot MoE Speaker Adaptation of Speech Foundation Models for Dysarthric Speech Recognition**|Shujie HU et.al.|[2505.22072](http://arxiv.org/abs/2505.22072)|null|
 |**2025-05-28**|**Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR**|Mingchen Shao et.al.|[2505.22063](http://arxiv.org/abs/2505.22063)|null|
@@ -78,7 +78,7 @@
 |**2025-05-27**|**Towards Pretraining Robust ASR Foundation Model with Acoustic-Aware Data Augmentation**|Dancheng Liu et.al.|[2505.20606](http://arxiv.org/abs/2505.20606)|null|
 |**2025-05-30**|**The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages**|Chris Emezue et.al.|[2505.20564](http://arxiv.org/abs/2505.20564)|null|
 |**2025-05-26**|**Robust fine-tuning of speech recognition models via model merging: application to disordered speech**|Alexandre Ducorroy et.al.|[2505.20477](http://arxiv.org/abs/2505.20477)|null|
-|**2025-05-28**|**In-context Language Learning for Endangered Languages in Speech Recognition**|Zhaolin Li et.al.|[2505.20445](http://arxiv.org/abs/2505.20445)|null|
+|**2025-06-05**|**In-context Language Learning for Endangered Languages in Speech Recognition**|Zhaolin Li et.al.|[2505.20445](http://arxiv.org/abs/2505.20445)|null|
 |**2025-05-26**|**Continuous Learning for Children's ASR: Overcoming Catastrophic Forgetting with Elastic Weight Consolidation and Synaptic Intelligence**|Edem Ahadzi et.al.|[2505.20216](http://arxiv.org/abs/2505.20216)|null|
 |**2025-05-26**|**Exploring Generative Error Correction for Dysarthric Speech Recognition**|Moreno La Quatra et.al.|[2505.20163](http://arxiv.org/abs/2505.20163)|**[link](https://github.com/morenolaquatra/ger4dys)**|
 |**2025-05-26**|**Mixture of LoRA Experts for Low-Resourced Multi-Accent Automatic Speech Recognition**|Raphaël Bagat et.al.|[2505.20006](http://arxiv.org/abs/2505.20006)|null|
@@ -1199,7 +1199,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 ## TTS
 
@@ -1727,5 +1727,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
