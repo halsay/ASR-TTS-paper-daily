@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1230,7 +1230,7 @@ layout: default
 |**2025-05-30**|**Speech Token Prediction via Compressed-to-fine Language Modeling for Speech Generation**|Wenrui Liu et.al.|[2505.24496](http://arxiv.org/abs/2505.24496)|null|
 |**2025-05-30**|**DS-Codec: Dual-Stage Training with Mirror-to-NonMirror Architecture Switching for Speech Codec**|Peijie Chen et.al.|[2505.24314](http://arxiv.org/abs/2505.24314)|null|
 |**2025-05-29**|**Can Emotion Fool Anti-spoofing?**|Aurosweta Mahapatra et.al.|[2505.23962](http://arxiv.org/abs/2505.23962)|null|
-|**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|null|
+|**2025-05-29**|**Few-Shot Speech Deepfake Detection Adaptation with Gaussian Processes**|Neta Glazer et.al.|[2505.23619](http://arxiv.org/abs/2505.23619)|**[link](https://github.com/NetaGlazer/ADD-GP)**|
 |**2025-05-29**|**EmergentTTS-Eval: Evaluating TTS Models on Complex Prosodic, Expressiveness, and Linguistic Challenges Using Model-as-a-Judge**|Ruskin Raj Manku et.al.|[2505.23009](http://arxiv.org/abs/2505.23009)|**[link](https://github.com/boson-ai/emergenttts-eval-public)**|
 |**2025-05-29**|**LLM-Synth4KWS: Scalable Automatic Generation and Synthesis of Confusable Data for Custom Keyword Spotting**|Pai Zhu et.al.|[2505.22995](http://arxiv.org/abs/2505.22995)|null|
 |**2025-05-28**|**BinauralFlow: A Causal and Streamable Approach for High-Quality Binaural Speech Synthesis with Flow Matching Models**|Susan Liang et.al.|[2505.22865](http://arxiv.org/abs/2505.22865)|null|
