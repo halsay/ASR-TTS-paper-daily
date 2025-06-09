@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Lightweight Prompt Biasing for Contextualized End-to-End ASR Systems**|Bo Ren et.al.|[2506.06252](http://arxiv.org/abs/2506.06252)|null|
+|**2025-06-06**|**Phonetically-Augmented Discriminative Rescoring for Voice Search Error Correction**|Christophe Van Gysel et.al.|[2506.06117](http://arxiv.org/abs/2506.06117)|null|
+|**2025-06-06**|**Diarization-Aware Multi-Speaker Automatic Speech Recognition via Large Language Models**|Yuke Lin et.al.|[2506.05796](http://arxiv.org/abs/2506.05796)|null|
+|**2025-06-06**|**Bridging the Modality Gap: Softly Discretizing Audio Representation for LLM-based Automatic Speech Recognition**|Mu Yang et.al.|[2506.05706](http://arxiv.org/abs/2506.05706)|null|
+|**2025-06-06**|**Low-Resource Domain Adaptation for Speech LLMs via Text-Only Fine-Tuning**|Yangui Fang et.al.|[2506.05671](http://arxiv.org/abs/2506.05671)|null|
+|**2025-06-03**|**Auto Review: Second Stage Error Detection for Highly Accurate Information Extraction from Phone Conversations**|Ayesha Qamar et.al.|[2506.05400](http://arxiv.org/abs/2506.05400)|null|
 |**2025-06-05**|**LLM-based phoneme-to-grapheme for phoneme-based speech recognition**|Te Ma et.al.|[2506.04711](http://arxiv.org/abs/2506.04711)|null|
 |**2025-06-05**|**ViCocktail: Automated Multi-Modal Data Collection for Vietnamese Audio-Visual Speech Recognition**|Thai-Binh Nguyen et.al.|[2506.04635](http://arxiv.org/abs/2506.04635)|null|
 |**2025-06-05**|**LESS: Large Language Model Enhanced Semi-Supervised Learning for Speech Foundational Models**|Wen Ding et.al.|[2506.04586](http://arxiv.org/abs/2506.04586)|null|
@@ -1209,6 +1215,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Voice Impression Control in Zero-Shot TTS**|Keinichi Fujita et.al.|[2506.05688](http://arxiv.org/abs/2506.05688)|null|
+|**2025-05-28**|**Speaking images. A novel framework for the automated self-description of artworks**|Valentine Bernasconi et.al.|[2506.05368](http://arxiv.org/abs/2506.05368)|null|
 |**2025-06-05**|**Grapheme-Coherent Phonemic and Prosodic Annotation of Speech by Implicit and Explicit Grapheme Conditioning**|Hien Ohnaka et.al.|[2506.04527](http://arxiv.org/abs/2506.04527)|null|
 |**2025-06-04**|**Can we reconstruct a dysarthric voice with the large speech model Parler TTS?**|Ariadna Sanchez et.al.|[2506.04397](http://arxiv.org/abs/2506.04397)|null|
 |**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152](http://arxiv.org/abs/2506.04152)|null|
