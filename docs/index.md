@@ -11,6 +11,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Uncovering the Functional Roles of Nonlinearity in Memory**|Manuel Brenner et.al.|[2506.07919](http://arxiv.org/abs/2506.07919)|null|
+|**2025-06-09**|**Unified Semi-Supervised Pipeline for Automatic Speech Recognition**|Nune Tadevosyan et.al.|[2506.07659](http://arxiv.org/abs/2506.07659)|null|
+|**2025-06-09**|**Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**|Rui Hu et.al.|[2506.07646](http://arxiv.org/abs/2506.07646)|null|
+|**2025-06-09**|**Speaker-Distinguishable CTC: Learning Speaker Distinction Using CTC for Multi-Talker Speech Recognition**|Asahi Sakuma et.al.|[2506.07515](http://arxiv.org/abs/2506.07515)|null|
+|**2025-06-09**|**DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction**|Solee Im et.al.|[2506.07510](http://arxiv.org/abs/2506.07510)|null|
+|**2025-06-09**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
+|**2025-06-08**|**Speech Recognition on TV Series with Video-guided Post-Correction**|Haoyuan Yang et.al.|[2506.07323](http://arxiv.org/abs/2506.07323)|null|
+|**2025-06-08**|**Technical Report: A Practical Guide to Kaldi ASR Optimization**|Mengze Hong et.al.|[2506.07149](http://arxiv.org/abs/2506.07149)|null|
+|**2025-06-07**|**Automatic Speech Recognition of African American English: Lexical and Contextual Effects**|Hamid Mojarad et.al.|[2506.06888](http://arxiv.org/abs/2506.06888)|null|
+|**2025-06-07**|**Beyond Classification: Towards Speech Emotion Reasoning with Multitask AudioLLMs**|Wenyu Zhang et.al.|[2506.06820](http://arxiv.org/abs/2506.06820)|null|
+|**2025-06-07**|**A Survey of Retentive Network**|Haiqi Yang et.al.|[2506.06708](http://arxiv.org/abs/2506.06708)|null|
+|**2025-06-06**|**AS-ASR: A Lightweight Framework for Aphasia-Specific Automatic Speech Recognition**|Chen Bao et.al.|[2506.06566](http://arxiv.org/abs/2506.06566)|null|
+|**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374](http://arxiv.org/abs/2506.06374)|null|
 |**2025-06-06**|**Lightweight Prompt Biasing for Contextualized End-to-End ASR Systems**|Bo Ren et.al.|[2506.06252](http://arxiv.org/abs/2506.06252)|null|
 |**2025-06-06**|**Phonetically-Augmented Discriminative Rescoring for Voice Search Error Correction**|Christophe Van Gysel et.al.|[2506.06117](http://arxiv.org/abs/2506.06117)|null|
 |**2025-06-06**|**Diarization-Aware Multi-Speaker Automatic Speech Recognition via Large Language Models**|Yuke Lin et.al.|[2506.05796](http://arxiv.org/abs/2506.05796)|null|
@@ -1209,6 +1222,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**|Rui Hu et.al.|[2506.07646](http://arxiv.org/abs/2506.07646)|null|
+|**2025-06-07**|**SynHate: Detecting Hate Speech in Synthetic Deepfake Audio**|Rishabh Ranjan et.al.|[2506.06772](http://arxiv.org/abs/2506.06772)|null|
 |**2025-06-06**|**Voice Impression Control in Zero-Shot TTS**|Keinichi Fujita et.al.|[2506.05688](http://arxiv.org/abs/2506.05688)|null|
 |**2025-05-28**|**Speaking images. A novel framework for the automated self-description of artworks**|Valentine Bernasconi et.al.|[2506.05368](http://arxiv.org/abs/2506.05368)|null|
 |**2025-06-05**|**Grapheme-Coherent Phonemic and Prosodic Annotation of Speech by Implicit and Explicit Grapheme Conditioning**|Hien Ohnaka et.al.|[2506.04527](http://arxiv.org/abs/2506.04527)|null|
