@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -44,11 +44,11 @@ layout: default
 |**2025-06-02**|**Speech-to-Speech Translation Pipelines for Conversations in Low-Resource Languages**|Andrei Popescu-Belis et.al.|[2506.01406](http://arxiv.org/abs/2506.01406)|null|
 |**2025-06-02**|**CleanS2S: Single-file Framework for Proactive Speech-to-Speech Interaction**|Yudong Lu et.al.|[2506.01268](http://arxiv.org/abs/2506.01268)|null|
 |**2025-06-02**|**WCTC-Biasing: Retraining-free Contextual Biasing ASR with Wildcard CTC-based Keyword Spotting and Inter-layer Biasing**|Yu Nakagome et.al.|[2506.01263](http://arxiv.org/abs/2506.01263)|null|
-|**2025-06-01**|**GigaAM: Efficient Self-Supervised Learner for Speech Recognition**|Aleksandr Kutsakov et.al.|[2506.01192](http://arxiv.org/abs/2506.01192)|null|
-|**2025-06-01**|**What do self-supervised speech models know about Dutch? Analyzing advantages of language-specific pre-training**|Marianne de Heer Kloots et.al.|[2506.00981](http://arxiv.org/abs/2506.00981)|null|
+|**2025-06-01**|**GigaAM: Efficient Self-Supervised Learner for Speech Recognition**|Aleksandr Kutsakov et.al.|[2506.01192](http://arxiv.org/abs/2506.01192)|**[link](https://github.com/salute-developers/gigaam)**|
+|**2025-06-01**|**What do self-supervised speech models know about Dutch? Analyzing advantages of language-specific pre-training**|Marianne de Heer Kloots et.al.|[2506.00981](http://arxiv.org/abs/2506.00981)|**[link](https://github.com/mdhk/ssl-nl-eval)**|
 |**2025-06-01**|**Fine-Tuning ASR for Stuttered Speech: Personalized vs. Generalized Approaches**|Dena Mujtaba et.al.|[2506.00853](http://arxiv.org/abs/2506.00853)|null|
 |**2025-05-31**|**Chain-of-Thought Training for Open E2E Spoken Dialogue Systems**|Siddhant Arora et.al.|[2506.00722](http://arxiv.org/abs/2506.00722)|null|
-|**2025-05-31**|**Towards Temporally Explainable Dysarthric Speech Clarity Assessment**|Seohyun Park et.al.|[2506.00454](http://arxiv.org/abs/2506.00454)|null|
+|**2025-05-31**|**Towards Temporally Explainable Dysarthric Speech Clarity Assessment**|Seohyun Park et.al.|[2506.00454](http://arxiv.org/abs/2506.00454)|**[link](https://github.com/augmented-human-lab/interspeech25_speechtherapy)**|
 |**2025-05-31**|**DYNAC: Dynamic Vocabulary based Non-Autoregressive Contextualization for Speech Recognition**|Yui Sudo et.al.|[2506.00422](http://arxiv.org/abs/2506.00422)|null|
 |**2025-05-31**|**Causal Structure Discovery for Error Diagnostics of Children's ASR**|Vishwanath Pratap Singh et.al.|[2506.00402](http://arxiv.org/abs/2506.00402)|null|
 |**2025-05-30**|**Can LLMs Understand Unvoiced Speech? Exploring EMG-to-Text Conversion with LLMs**|Payal Mohapatra et.al.|[2506.00304](http://arxiv.org/abs/2506.00304)|null|
@@ -62,10 +62,10 @@ layout: default
 |**2025-05-30**|**Dynamic Context-Aware Streaming Pretrained Language Model For Inverse Text Normalization**|Luong Ho et.al.|[2505.24229](http://arxiv.org/abs/2505.24229)|null|
 |**2025-05-30**|**MOPSA: Mixture of Prompt-Experts Based Speaker Adaptation for Elderly Speech Recognition**|Chengxi Deng et.al.|[2505.24224](http://arxiv.org/abs/2505.24224)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
-|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|null|
+|**2025-05-29**|**BeaverTalk: Oregon State University's IWSLT 2025 Simultaneous Speech Translation System**|Matthew Raffel et.al.|[2505.24016](http://arxiv.org/abs/2505.24016)|**[link](https://github.com/osu-starlab/beavertalk)**|
 |**2025-05-29**|**Prompting Whisper for Improved Verbatim Transcription and End-to-end Miscue Detection**|Griffin Dietz Smith et.al.|[2505.23627](http://arxiv.org/abs/2505.23627)|null|
 |**2025-05-29**|**Contextualized Automatic Speech Recognition with Dynamic Vocabulary Prediction and Activation**|Zhennan Lin et.al.|[2505.23077](http://arxiv.org/abs/2505.23077)|null|
-|**2025-05-29**|**AISHELL-5: The First Open-Source In-Car Multi-Channel Multi-Speaker Speech Dataset for Automatic Speech Diarization and Recognition**|Yuhang Dai et.al.|[2505.23036](http://arxiv.org/abs/2505.23036)|null|
+|**2025-05-29**|**AISHELL-5: The First Open-Source In-Car Multi-Channel Multi-Speaker Speech Dataset for Automatic Speech Diarization and Recognition**|Yuhang Dai et.al.|[2505.23036](http://arxiv.org/abs/2505.23036)|**[link](https://github.com/daiyvhang/aishell-5)**|
 |**2025-05-28**|**NGPU-LM: GPU-Accelerated N-Gram Language Model for Context-Biasing in Greedy ASR Decoding**|Vladimir Bataev et.al.|[2505.22857](http://arxiv.org/abs/2505.22857)|null|
 |**2025-06-05**|**Evaluation of LLMs in Speech is Often Flawed: Test Set Contamination in Large Language Models for Speech Recognition**|Yuan Tseng et.al.|[2505.22251](http://arxiv.org/abs/2505.22251)|null|
 |**2025-05-28**|**Advancing Hearing Assessment: An ASR-Based Frequency-Specific Speech Test for Diagnosing Presbycusis**|Stefan Bleeck et.al.|[2505.22231](http://arxiv.org/abs/2505.22231)|null|
