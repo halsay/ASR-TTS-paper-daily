@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-09**|**Transcript-Prompted Whisper with Dictionary-Enhanced Decoding for Japanese Speech Annotation**|Rui Hu et.al.|[2506.07646](http://arxiv.org/abs/2506.07646)|null|
 |**2025-06-09**|**Speaker-Distinguishable CTC: Learning Speaker Distinction Using CTC for Multi-Talker Speech Recognition**|Asahi Sakuma et.al.|[2506.07515](http://arxiv.org/abs/2506.07515)|null|
 |**2025-06-09**|**DeRAGEC: Denoising Named Entity Candidates with Synthetic Rationale for ASR Error Correction**|Solee Im et.al.|[2506.07510](http://arxiv.org/abs/2506.07510)|null|
-|**2025-06-09**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
+|**2025-06-11**|**Towards Energy-Efficient and Low-Latency Voice-Controlled Smart Homes: A Proposal for Offline Speech Recognition and IoT Integration**|Peng Huang et.al.|[2506.07494](http://arxiv.org/abs/2506.07494)|null|
 |**2025-06-08**|**Speech Recognition on TV Series with Video-guided Post-Correction**|Haoyuan Yang et.al.|[2506.07323](http://arxiv.org/abs/2506.07323)|null|
 |**2025-06-08**|**Technical Report: A Practical Guide to Kaldi ASR Optimization**|Mengze Hong et.al.|[2506.07149](http://arxiv.org/abs/2506.07149)|null|
 |**2025-06-07**|**Automatic Speech Recognition of African American English: Lexical and Contextual Effects**|Hamid Mojarad et.al.|[2506.06888](http://arxiv.org/abs/2506.06888)|null|
