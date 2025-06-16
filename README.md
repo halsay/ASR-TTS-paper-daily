@@ -15,6 +15,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Enabling automatic transcription of child-centered audio recordings from real-world environments**|Daniil Kocharov et.al.|[2506.11747](http://arxiv.org/abs/2506.11747)|null|
+|**2025-06-13**|**Lightweight and Robust Multi-Channel End-to-End Speech Recognition with Spherical Harmonic Transform**|Xiangzhu Kong et.al.|[2506.11630](http://arxiv.org/abs/2506.11630)|null|
+|**2025-06-13**|**(SimPhon Speech Test): A Data-Driven Method for In Silico Design and Validation of a Phonetically Balanced Speech Test**|Stefan Bleeck et.al.|[2506.11620](http://arxiv.org/abs/2506.11620)|null|
+|**2025-06-13**|**Machine Unlearning for Robust DNNs: Attribution-Guided Partitioning and Neuron Pruning in Noisy Environments**|Deliang Jin et.al.|[2506.11615](http://arxiv.org/abs/2506.11615)|null|
+|**2025-06-12**|**Advances in Small-Footprint Keyword Spotting: A Comprehensive Review of Efficient Models and Algorithms**|Soumen Garai et.al.|[2506.11169](http://arxiv.org/abs/2506.11169)|null|
+|**2025-06-10**|**ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams**|Freddie Grabovski et.al.|[2506.11125](http://arxiv.org/abs/2506.11125)|null|
+|**2025-06-09**|**Benchmarking Foundation Speech and Language Models for Alzheimer's Disease and Related Dementia Detection from Spontaneous Speech**|Jingyu Li et.al.|[2506.11119](http://arxiv.org/abs/2506.11119)|null|
+|**2025-06-05**|**Customizing Speech Recognition Model with Large Language Model Feedback**|Shaoshi Ling et.al.|[2506.11091](http://arxiv.org/abs/2506.11091)|null|
+|**2025-06-05**|**Better Pseudo-labeling with Multi-ASR Fusion and Error Correction by SpeechLLM**|Jeena Prakash et.al.|[2506.11089](http://arxiv.org/abs/2506.11089)|null|
+|**2025-06-04**|**Improving Child Speech Recognition and Reading Mistake Detection by Using Prompts**|Lingyun Gao et.al.|[2506.11079](http://arxiv.org/abs/2506.11079)|null|
+|**2025-06-02**|**Regularized Federated Learning for Privacy-Preserving Dysarthric and Elderly Speech Recognition**|Tao Zhong et.al.|[2506.11069](http://arxiv.org/abs/2506.11069)|null|
+|**2025-05-31**|**PMF-CEC: Phoneme-augmented Multimodal Fusion for Context-aware ASR Error Correction with Error-specific Selective Decoding**|Jiajun He et.al.|[2506.11064](http://arxiv.org/abs/2506.11064)|null|
 |**2025-06-12**|**Improving Named Entity Transcription with Contextual LLM-based Revision**|Viet Anh Trinh et.al.|[2506.10779](http://arxiv.org/abs/2506.10779)|null|
 |**2025-06-12**|**FairASR: Fair Audio Contrastive Learning for Automatic Speech Recognition**|Jongsuk Kim et.al.|[2506.10747](http://arxiv.org/abs/2506.10747)|null|
 |**2025-06-12**|**Joint ASR and Speaker Role Tagging with Serialized Output Training**|Anfeng Xu et.al.|[2506.10349](http://arxiv.org/abs/2506.10349)|null|
@@ -1235,6 +1247,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-11**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamlessly Speech-Text Alignment and Streaming Speech Decoder**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
+|**2025-06-10**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
+|**2025-06-10**|**GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions**|Wenkang Han et.al.|[2506.11127](http://arxiv.org/abs/2506.11127)|null|
+|**2025-06-10**|**ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams**|Freddie Grabovski et.al.|[2506.11125](http://arxiv.org/abs/2506.11125)|null|
+|**2025-06-05**|**Intelligibility of Text-to-Speech Systems for Mathematical Expressions**|Sujoy Roychowdhury et.al.|[2506.11086](http://arxiv.org/abs/2506.11086)|null|
 |**2025-06-12**|**Scheduled Interleaved Speech-Text Training for Speech-to-Speech Translation with LLMs**|Hayato Futami et.al.|[2506.10299](http://arxiv.org/abs/2506.10299)|null|
 |**2025-06-11**|**UmbraTTS: Adapting Text-to-Speech to Environmental Contexts with Flow Matching**|Neta Glazer et.al.|[2506.09874](http://arxiv.org/abs/2506.09874)|null|
 |**2025-06-11**|**EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection**|Christoph Schuhmann et.al.|[2506.09827](http://arxiv.org/abs/2506.09827)|null|
