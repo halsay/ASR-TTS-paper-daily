@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Qwen vs. Gemma Integration with Whisper: A Comparative Study in Multilingual SpeechLLM Systems**|Tuan Nguyen et.al.|[2506.13596](http://arxiv.org/abs/2506.13596)|null|
+|**2025-06-16**|**BUT System for the MLC-SLM Challenge**|Alexander Polok et.al.|[2506.13414](http://arxiv.org/abs/2506.13414)|null|
+|**2025-06-16**|**Bi-directional Context-Enhanced Speech Large Language Models for Multilingual Conversational ASR**|Yizhou Peng et.al.|[2506.13396](http://arxiv.org/abs/2506.13396)|null|
+|**2025-06-16**|**NTU Speechlab LLM-Based Multilingual ASR System for Interspeech MLC-SLM Challenge 2025**|Yizhou Peng et.al.|[2506.13339](http://arxiv.org/abs/2506.13339)|null|
+|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
+|**2025-06-15**|**SC-SOT: Conditioning the Decoder on Diarized Speaker Information for End-to-End Overlapped Speech Recognition**|Yuta Hirano et.al.|[2506.12672](http://arxiv.org/abs/2506.12672)|null|
+|**2025-06-13**|**Adapting Whisper for Streaming Speech Recognition via Two-Pass Decoding**|Haoran Zhou et.al.|[2506.12154](http://arxiv.org/abs/2506.12154)|null|
+|**2025-05-31**|**CMT-LLM: Contextual Multi-Talker ASR Utilizing Large Language Models**|Jiajun He et.al.|[2506.12059](http://arxiv.org/abs/2506.12059)|null|
 |**2025-06-13**|**Enabling automatic transcription of child-centered audio recordings from real-world environments**|Daniil Kocharov et.al.|[2506.11747](http://arxiv.org/abs/2506.11747)|null|
 |**2025-06-13**|**Lightweight and Robust Multi-Channel End-to-End Speech Recognition with Spherical Harmonic Transform**|Xiangzhu Kong et.al.|[2506.11630](http://arxiv.org/abs/2506.11630)|null|
 |**2025-06-13**|**(SimPhon Speech Test): A Data-Driven Method for In Silico Design and Validation of a Phonetically Balanced Speech Test**|Stefan Bleeck et.al.|[2506.11620](http://arxiv.org/abs/2506.11620)|null|
@@ -1247,8 +1255,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**From Flat to Feeling: A Feasibility and Impact Study on Dynamic Facial Emotions in AI-Generated Avatars**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
+|**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|null|
+|**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
+|**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
 |**2025-06-11**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamlessly Speech-Text Alignment and Streaming Speech Decoder**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
-|**2025-06-10**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
+|**2025-06-16**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng-Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
 |**2025-06-10**|**GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions**|Wenkang Han et.al.|[2506.11127](http://arxiv.org/abs/2506.11127)|null|
 |**2025-06-10**|**ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams**|Freddie Grabovski et.al.|[2506.11125](http://arxiv.org/abs/2506.11125)|null|
 |**2025-06-05**|**Intelligibility of Text-to-Speech Systems for Mathematical Expressions**|Sujoy Roychowdhury et.al.|[2506.11086](http://arxiv.org/abs/2506.11086)|null|
