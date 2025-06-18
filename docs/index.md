@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@ layout: default
 |**2025-06-16**|**BUT System for the MLC-SLM Challenge**|Alexander Polok et.al.|[2506.13414](http://arxiv.org/abs/2506.13414)|null|
 |**2025-06-16**|**Bi-directional Context-Enhanced Speech Large Language Models for Multilingual Conversational ASR**|Yizhou Peng et.al.|[2506.13396](http://arxiv.org/abs/2506.13396)|null|
 |**2025-06-16**|**NTU Speechlab LLM-Based Multilingual ASR System for Interspeech MLC-SLM Challenge 2025**|Yizhou Peng et.al.|[2506.13339](http://arxiv.org/abs/2506.13339)|null|
-|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
+|**2025-06-17**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
 |**2025-06-15**|**SC-SOT: Conditioning the Decoder on Diarized Speaker Information for End-to-End Overlapped Speech Recognition**|Yuta Hirano et.al.|[2506.12672](http://arxiv.org/abs/2506.12672)|null|
 |**2025-06-13**|**Adapting Whisper for Streaming Speech Recognition via Two-Pass Decoding**|Haoran Zhou et.al.|[2506.12154](http://arxiv.org/abs/2506.12154)|null|
 |**2025-05-31**|**CMT-LLM: Contextual Multi-Talker ASR Utilizing Large Language Models**|Jiajun He et.al.|[2506.12059](http://arxiv.org/abs/2506.12059)|null|

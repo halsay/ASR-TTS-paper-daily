@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -19,7 +19,7 @@
 |**2025-06-16**|**BUT System for the MLC-SLM Challenge**|Alexander Polok et.al.|[2506.13414](http://arxiv.org/abs/2506.13414)|null|
 |**2025-06-16**|**Bi-directional Context-Enhanced Speech Large Language Models for Multilingual Conversational ASR**|Yizhou Peng et.al.|[2506.13396](http://arxiv.org/abs/2506.13396)|null|
 |**2025-06-16**|**NTU Speechlab LLM-Based Multilingual ASR System for Interspeech MLC-SLM Challenge 2025**|Yizhou Peng et.al.|[2506.13339](http://arxiv.org/abs/2506.13339)|null|
-|**2025-06-16**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
+|**2025-06-17**|**Seewo's Submission to MLC-SLM: Lessons learned from Speech Reasoning Language Models**|Bo Li et.al.|[2506.13300](http://arxiv.org/abs/2506.13300)|null|
 |**2025-06-15**|**SC-SOT: Conditioning the Decoder on Diarized Speaker Information for End-to-End Overlapped Speech Recognition**|Yuta Hirano et.al.|[2506.12672](http://arxiv.org/abs/2506.12672)|null|
 |**2025-06-13**|**Adapting Whisper for Streaming Speech Recognition via Two-Pass Decoding**|Haoran Zhou et.al.|[2506.12154](http://arxiv.org/abs/2506.12154)|null|
 |**2025-05-31**|**CMT-LLM: Contextual Multi-Talker ASR Utilizing Large Language Models**|Jiajun He et.al.|[2506.12059](http://arxiv.org/abs/2506.12059)|null|
@@ -1249,7 +1249,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## TTS
 
@@ -1800,5 +1800,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
