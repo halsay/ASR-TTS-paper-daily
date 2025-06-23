@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Simultaneous Translation with Offline Speech and LLM Models in CUNI Submission to IWSLT 2025**|Dominik Macháček et.al.|[2506.17077](http://arxiv.org/abs/2506.17077)|null|
+|**2025-06-20**|**Instituto de Telecomunicações at IWSLT 2025: Aligning Small-Scale Speech and Language Models for Speech-to-Text Learning**|Giuseppe Attanasio et.al.|[2506.17019](http://arxiv.org/abs/2506.17019)|null|
+|**2025-06-20**|**State-Space Models in Efficient Whispered and Multi-dialect Speech Recognition**|Aref Farhadipour et.al.|[2506.16969](http://arxiv.org/abs/2506.16969)|null|
+|**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
+|**2025-06-19**|**Weight Factorization and Centralization for Continual Learning in Speech Recognition**|Enes Yavuz Ugan et.al.|[2506.16574](http://arxiv.org/abs/2506.16574)|null|
+|**2025-06-19**|**Automatic Speech Recognition Biases in Newcastle English: an Error Analysis**|Dana Serditova et.al.|[2506.16558](http://arxiv.org/abs/2506.16558)|null|
 |**2025-06-18**|**Exploiting Music Source Separation for Automatic Lyrics Transcription with Whisper**|Jaza Syed et.al.|[2506.15514](http://arxiv.org/abs/2506.15514)|null|
 |**2025-06-18**|**Foundation of Affective Computing and Interaction**|Changzeng Fu et.al.|[2506.15497](http://arxiv.org/abs/2506.15497)|null|
 |**2025-06-17**|**Thinking in Directivity: Speech Large Language Model for Multi-Talker Directional Speech Recognition**|Jiamin Xie et.al.|[2506.14973](http://arxiv.org/abs/2506.14973)|null|
@@ -1262,6 +1268,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**RapFlow-TTS: Rapid and High-Fidelity Text-to-Speech with Improved Consistency Flow Matching**|Hyun Joon Park et.al.|[2506.16741](http://arxiv.org/abs/2506.16741)|null|
+|**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
+|**2025-06-20**|**V-CASS: Vision-context-aware Expressive Speech Synthesis for Enhancing User Understanding of Videos**|Qixin Wang et.al.|[2506.16716](http://arxiv.org/abs/2506.16716)|null|
+|**2025-06-19**|**Streaming Non-Autoregressive Model for Accent Conversion and Pronunciation Improvement**|Tuan-Nam Nguyen et.al.|[2506.16580](http://arxiv.org/abs/2506.16580)|null|
+|**2025-06-19**|**InstructTTSEval: Benchmarking Complex Natural-Language Instruction Following in Text-to-Speech Systems**|Kexin Huang et.al.|[2506.16381](http://arxiv.org/abs/2506.16381)|null|
+|**2025-06-19**|**Optimizing Multilingual Text-To-Speech with Accents & Emotions**|Pranav Pawar et.al.|[2506.16310](http://arxiv.org/abs/2506.16310)|null|
 |**2025-06-18**|**TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**|Kentaro Seki et.al.|[2506.15614](http://arxiv.org/abs/2506.15614)|null|
 |**2025-06-18**|**PredGen: Accelerated Inference of Large Language Models through Input-Time Speculation for Real-Time Speech Interaction**|Shufan Li et.al.|[2506.15556](http://arxiv.org/abs/2506.15556)|null|
 |**2025-06-18**|**EmojiVoice: Towards long-term controllable expressivity in robot speech**|Paige Tuttösí et.al.|[2506.15085](http://arxiv.org/abs/2506.15085)|null|
@@ -1270,10 +1282,10 @@
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
 |**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|null|
 |**2025-06-16**|**From Flat to Feeling: A Feasibility and Impact Study on Dynamic Facial Emotions in AI-Generated Avatars**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
-|**2025-06-20**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|null|
+|**2025-06-20**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
-|**2025-06-11**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamlessly Speech-Text Alignment and Streaming Speech Decoder**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
+|**2025-06-20**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Streaming Speech Generation**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
 |**2025-06-16**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng-Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
 |**2025-06-10**|**GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions**|Wenkang Han et.al.|[2506.11127](http://arxiv.org/abs/2506.11127)|null|
 |**2025-06-10**|**ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams**|Freddie Grabovski et.al.|[2506.11125](http://arxiv.org/abs/2506.11125)|null|
