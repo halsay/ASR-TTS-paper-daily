@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Accurate, fast, cheap: Choose three. Replacing Multi-Head-Attention with Bidirectional Recurrent Attention for Long-Form ASR**|Martin Ratajczak et.al.|[2506.19761](http://arxiv.org/abs/2506.19761)|null|
 |**2025-06-23**|**Context Biasing for Pronunciations-Orthography Mismatch in Automatic Speech Recognition**|Christian Huber et.al.|[2506.18703](http://arxiv.org/abs/2506.18703)|null|
 |**2025-06-23**|**Evaluating Multichannel Speech Enhancement Algorithms at the Phoneme Scale Across Genders**|Nasser-Eddine Monir et.al.|[2506.18691](http://arxiv.org/abs/2506.18691)|null|
 |**2025-06-23**|**End-to-End Spoken Grammatical Error Correction**|Mengjie Qian et.al.|[2506.18532](http://arxiv.org/abs/2506.18532)|null|
@@ -1276,6 +1277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
 |**2025-06-23**|**Selecting N-lowest scores for training MOS prediction models**|Yuto Kondo et.al.|[2506.18326](http://arxiv.org/abs/2506.18326)|null|
 |**2025-06-23**|**Rethinking Mean Opinion Scores in Speech Quality Assessment: Aggregation through Quantized Distribution Fitting**|Yuto Kondo et.al.|[2506.18307](http://arxiv.org/abs/2506.18307)|null|
 |**2025-06-23**|**JIS: A Speech Corpus of Japanese Idol Speakers with Various Speaking Styles**|Yuto Kondo et.al.|[2506.18296](http://arxiv.org/abs/2506.18296)|null|
