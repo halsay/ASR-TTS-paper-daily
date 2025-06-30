@@ -11,6 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Cross-lingual Data Selection Using Clip-level Acoustic Similarity for Enhancing Low-resource Automatic Speech Recognition**|Shunsuke Mitsumori et.al.|[2506.22194](http://arxiv.org/abs/2506.22194)|null|
+|**2025-06-27**|**SAGE: Spliced-Audio Generated Data for Enhancing Foundational Models in Low-Resource Arabic-English Code-Switched Speech Recognition**|Muhammad Umar Farooq et.al.|[2506.22143](http://arxiv.org/abs/2506.22143)|null|
+|**2025-06-27**|**Analyzing and Fine-Tuning Whisper Models for Multilingual Pilot Speech Transcription in the Cockpit**|Kartheek Kumar Reddy Nareddy et.al.|[2506.21990](http://arxiv.org/abs/2506.21990)|null|
+|**2025-06-23**|**Adapting Foundation Speech Recognition Models to Impaired Speech: A Semantic Re-chaining Approach for Personalization of German Speech**|Niclas Pokel et.al.|[2506.21622](http://arxiv.org/abs/2506.21622)|null|
+|**2025-06-16**|**Language-Aware Prompt Tuning for Parameter-Efficient Seamless Language Expansion in Multilingual ASR**|Hongli Yang et.al.|[2506.21577](http://arxiv.org/abs/2506.21577)|null|
+|**2025-06-16**|**Adapting Whisper for Parameter-efficient Code-Switching Speech Recognition via Soft Prompt Tuning**|Hongli Yang et.al.|[2506.21576](http://arxiv.org/abs/2506.21576)|null|
+|**2025-06-12**|**FormosanBench: Benchmarking Low-Resource Austronesian Languages in the Era of Large Language Models**|Kaiying Kevin Lin et.al.|[2506.21563](http://arxiv.org/abs/2506.21563)|null|
+|**2025-06-11**|**Efficient Multilingual ASR Finetuning via LoRA Language Experts**|Jiahong Li et.al.|[2506.21555](http://arxiv.org/abs/2506.21555)|null|
 |**2025-06-25**|**Multimodal Representation Learning and Fusion**|Qihang Jin et.al.|[2506.20494](http://arxiv.org/abs/2506.20494)|null|
 |**2025-06-25**|**Lightweight Target-Speaker-Based Overlap Transcription for Practical Streaming ASR**|Aleš Pražák et.al.|[2506.20288](http://arxiv.org/abs/2506.20288)|null|
 |**2025-06-24**|**Accurate, fast, cheap: Choose three. Replacing Multi-Head-Attention with Bidirectional Recurrent Attention for Long-Form ASR**|Martin Ratajczak et.al.|[2506.19761](http://arxiv.org/abs/2506.19761)|null|
@@ -1273,6 +1281,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
+|**2025-06-27**|**Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy**|Bohan Li et.al.|[2506.22023](http://arxiv.org/abs/2506.22023)|null|
+|**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
 |**2025-06-26**|**A Multi-Stage Framework for Multimodal Controllable Speech Synthesis**|Rui Niu et.al.|[2506.20945](http://arxiv.org/abs/2506.20945)|null|
 |**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190](http://arxiv.org/abs/2506.20190)|null|
 |**2025-06-24**|**TTSDS2: Resources and Benchmark for Evaluating Human-Quality Text to Speech Systems**|Christoph Minixhofer et.al.|[2506.19441](http://arxiv.org/abs/2506.19441)|null|
