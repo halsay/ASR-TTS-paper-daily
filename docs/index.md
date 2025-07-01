@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-29**|**Research on Comprehensive Classroom Evaluation System Based on Multiple AI Models**|Cong Xie et.al.|[2506.23079](http://arxiv.org/abs/2506.23079)|null|
+|**2025-06-28**|**Mind the Gap: Entity-Preserved Context-Aware ASR Structured Transcriptions**|Duygu Altinok et.al.|[2506.22858](http://arxiv.org/abs/2506.22858)|null|
+|**2025-06-28**|**Boosting CTC-Based ASR Using LLM-Based Intermediate Loss Regularization**|Duygu Altinok et.al.|[2506.22846](http://arxiv.org/abs/2506.22846)|null|
+|**2025-06-28**|**A Self-Training Approach for Whisper to Enhance Long Dysarthric Speech Recognition**|Shiyao Wang et.al.|[2506.22810](http://arxiv.org/abs/2506.22810)|null|
+|**2025-06-27**|**Speaker Targeting via Self-Speaker Adaptation for Multi-talker ASR**|Weiqing Wang et.al.|[2506.22646](http://arxiv.org/abs/2506.22646)|null|
 |**2025-06-27**|**Cross-lingual Data Selection Using Clip-level Acoustic Similarity for Enhancing Low-resource Automatic Speech Recognition**|Shunsuke Mitsumori et.al.|[2506.22194](http://arxiv.org/abs/2506.22194)|null|
 |**2025-06-27**|**SAGE: Spliced-Audio Generated Data for Enhancing Foundational Models in Low-Resource Arabic-English Code-Switched Speech Recognition**|Muhammad Umar Farooq et.al.|[2506.22143](http://arxiv.org/abs/2506.22143)|null|
 |**2025-06-27**|**Analyzing and Fine-Tuning Whisper Models for Multilingual Pilot Speech Transcription in the Cockpit**|Kartheek Kumar Reddy Nareddy et.al.|[2506.21990](http://arxiv.org/abs/2506.21990)|null|
@@ -1281,6 +1286,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
+|**2025-06-29**|**You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties**|Paige Tuttösí et.al.|[2506.23367](http://arxiv.org/abs/2506.23367)|null|
 |**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
 |**2025-06-27**|**Robust and Efficient Autoregressive Speech Synthesis with Dynamic Chunk-wise Prediction Policy**|Bohan Li et.al.|[2506.22023](http://arxiv.org/abs/2506.22023)|null|
 |**2025-06-23**|**IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**|Siyi Zhou et.al.|[2506.21619](http://arxiv.org/abs/2506.21619)|null|
