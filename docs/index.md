@@ -11,6 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Adaptability of ASR Models on Low-Resource Language: A Comparative Study of Whisper and Wav2Vec-BERT on Bangla**|Md Sazzadul Islam Ridoy et.al.|[2507.01931](http://arxiv.org/abs/2507.01931)|null|
+|**2025-07-02**|**First Steps Towards Voice Anonymization for Code-Switching Speech**|Sarina Meyer et.al.|[2507.01765](http://arxiv.org/abs/2507.01765)|null|
+|**2025-07-02**|**PERTINENCE: Input-based Opportunistic Neural Network Dynamic Execution**|Omkar Shende et.al.|[2507.01695](http://arxiv.org/abs/2507.01695)|null|
+|**2025-07-02**|**Learning from Random Subspace Exploration: Generalized Test-Time Augmentation with Self-supervised Distillation**|Andrei Jelea et.al.|[2507.01347](http://arxiv.org/abs/2507.01347)|null|
+|**2025-07-02**|**AI Meets Maritime Training: Precision Analytics for Enhanced Safety and Performance**|Vishakha Lall et.al.|[2507.01274](http://arxiv.org/abs/2507.01274)|null|
+|**2025-06-16**|**Hello Afrika: Speech Commands in Kinyarwanda**|George Igwegbe et.al.|[2507.01024](http://arxiv.org/abs/2507.01024)|null|
+|**2025-07-01**|**MambAttention: Mamba with Multi-Head Attention for Generalizable Single-Channel Speech Enhancement**|Nikolai Lund Kühne et.al.|[2507.00966](http://arxiv.org/abs/2507.00966)|null|
+|**2025-07-01**|**Rectifying Magnitude Neglect in Linear Attention**|Qihang Fan et.al.|[2507.00698](http://arxiv.org/abs/2507.00698)|null|
+|**2025-07-01**|**Audio-3DVG: Unified Audio - Point Cloud Fusion for 3D Visual Grounding**|Duc Cao-Dinh et.al.|[2507.00669](http://arxiv.org/abs/2507.00669)|null|
 |**2025-06-29**|**Research on Comprehensive Classroom Evaluation System Based on Multiple AI Models**|Cong Xie et.al.|[2506.23079](http://arxiv.org/abs/2506.23079)|null|
 |**2025-06-28**|**Mind the Gap: Entity-Preserved Context-Aware ASR Structured Transcriptions**|Duygu Altinok et.al.|[2506.22858](http://arxiv.org/abs/2506.22858)|null|
 |**2025-06-28**|**Boosting CTC-Based ASR Using LLM-Based Intermediate Loss Regularization**|Duygu Altinok et.al.|[2506.22846](http://arxiv.org/abs/2506.22846)|null|
@@ -1286,6 +1295,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**A Dataset for Automatic Assessment of TTS Quality in Spanish**|Alejandro Sosa Welford et.al.|[2507.01805](http://arxiv.org/abs/2507.01805)|null|
+|**2025-07-02**|**Voice Conversion for Likability Control via Automated Rating of Speech Synthesis Corpora**|Hitoshi Suda et.al.|[2507.01356](http://arxiv.org/abs/2507.01356)|null|
+|**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
+|**2025-07-02**|**Multi-interaction TTS toward professional recording reproduction**|Hiroki Kanagawa et.al.|[2507.00808](http://arxiv.org/abs/2507.00808)|null|
+|**2025-07-01**|**MuteSwap: Silent Face-based Voice Conversion**|Yifan Liu et.al.|[2507.00498](http://arxiv.org/abs/2507.00498)|null|
+|**2025-06-30**|**Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges**|Hashim Ali et.al.|[2507.00324](http://arxiv.org/abs/2507.00324)|null|
+|**2025-06-30**|**Investigating Stochastic Methods for Prosody Modeling in Speech Synthesis**|Paul Mayer et.al.|[2507.00227](http://arxiv.org/abs/2507.00227)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2025-06-29**|**You Sound a Little Tense: L2 Tailored Clear TTS Using Durational Vowel Properties**|Paige Tuttösí et.al.|[2506.23367](http://arxiv.org/abs/2506.23367)|null|
 |**2025-06-27**|**Evaluating Pointing Gestures for Target Selection in Human-Robot Collaboration**|Noora Sassali et.al.|[2506.22116](http://arxiv.org/abs/2506.22116)|null|
