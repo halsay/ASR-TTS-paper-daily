@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Open-Source System for Multilingual Translation and Cloned Speech Synthesis**|Mateo Cámara et.al.|[2507.02530](http://arxiv.org/abs/2507.02530)|null|
+|**2025-07-03**|**A Cookbook for Community-driven Data Collection of Impaired Speech in LowResource Languages**|Sumaya Ahmed Salihs et.al.|[2507.02428](http://arxiv.org/abs/2507.02428)|null|
+|**2025-07-03**|**Benchmarking Akan ASR Models Across Domain-Specific Datasets: A Comparative Evaluation of Performance, Scalability, and Adaptability**|Mark Atta Mensah et.al.|[2507.02407](http://arxiv.org/abs/2507.02407)|null|
 |**2025-07-02**|**Adaptability of ASR Models on Low-Resource Language: A Comparative Study of Whisper and Wav2Vec-BERT on Bangla**|Md Sazzadul Islam Ridoy et.al.|[2507.01931](http://arxiv.org/abs/2507.01931)|null|
 |**2025-07-02**|**First Steps Towards Voice Anonymization for Code-Switching Speech**|Sarina Meyer et.al.|[2507.01765](http://arxiv.org/abs/2507.01765)|null|
 |**2025-07-02**|**PERTINENCE: Input-based Opportunistic Neural Network Dynamic Execution**|Omkar Shende et.al.|[2507.01695](http://arxiv.org/abs/2507.01695)|null|
@@ -1301,6 +1304,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Open-Source System for Multilingual Translation and Cloned Speech Synthesis**|Mateo Cámara et.al.|[2507.02530](http://arxiv.org/abs/2507.02530)|null|
+|**2025-07-03**|**JoyTTS: LLM-based Spoken Chatbot With Voice Cloning**|Fangru Zhou et.al.|[2507.02380](http://arxiv.org/abs/2507.02380)|null|
+|**2025-07-02**|**Analyzing and Improving Speaker Similarity Assessment for Speech Synthesis**|Marc-André Carbonneau et.al.|[2507.02176](http://arxiv.org/abs/2507.02176)|null|
+|**2025-07-02**|**Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams**|Zirui Li et.al.|[2507.02115](http://arxiv.org/abs/2507.02115)|null|
 |**2025-07-02**|**A Dataset for Automatic Assessment of TTS Quality in Spanish**|Alejandro Sosa Welford et.al.|[2507.01805](http://arxiv.org/abs/2507.01805)|null|
 |**2025-07-02**|**Voice Conversion for Likability Control via Automated Rating of Speech Synthesis Corpora**|Hitoshi Suda et.al.|[2507.01356](http://arxiv.org/abs/2507.01356)|null|
 |**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
