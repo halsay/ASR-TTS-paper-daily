@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -12,7 +12,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**Adaptive Slimming for Scalable and Efficient Speech Enhancement**|Riccardo Miccini et.al.|[2507.04879](http://arxiv.org/abs/2507.04879)|null|
-|**2025-07-04**|**SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge**|Yuxiang Mei et.al.|[2507.03343](http://arxiv.org/abs/2507.03343)|null|
+|**2025-07-08**|**SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge**|Yuxiang Mei et.al.|[2507.03343](http://arxiv.org/abs/2507.03343)|null|
 |**2025-06-26**|**A Unified Speech LLM for Diarization and Speech Recognition in Multilingual Conversations**|Phurich Saengthong et.al.|[2507.02927](http://arxiv.org/abs/2507.02927)|null|
 |**2025-07-03**|**Open-Source System for Multilingual Translation and Cloned Speech Synthesis**|Mateo Cámara et.al.|[2507.02530](http://arxiv.org/abs/2507.02530)|null|
 |**2025-07-03**|**A Cookbook for Community-driven Data Collection of Impaired Speech in LowResource Languages**|Sumaya Ahmed Salihs et.al.|[2507.02428](http://arxiv.org/abs/2507.02428)|null|
@@ -1301,7 +1301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-07**|**OpenS2S: Advancing Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
+|**2025-07-08**|**OpenS2S: Advancing Fully Open-Source End-to-End Empathetic Large Speech Language Model**|Chen Wang et.al.|[2507.05177](http://arxiv.org/abs/2507.05177)|null|
 |**2025-07-07**|**Multi-Step Prediction and Control of Hierarchical Emotion Distribution in Text-to-Speech Synthesis**|Sho Inoue et.al.|[2507.04598](http://arxiv.org/abs/2507.04598)|null|
 |**2025-07-06**|**TTS-CtrlNet: Time varying emotion aligned text-to-speech generation with ControlNet**|Jaeseok Jeong et.al.|[2507.04349](http://arxiv.org/abs/2507.04349)|null|
 |**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
@@ -1314,7 +1314,7 @@ layout: default
 |**2025-07-04**|**Pronunciation Editing for Finnish Speech using Phonetic Posteriorgrams**|Zirui Li et.al.|[2507.02115](http://arxiv.org/abs/2507.02115)|null|
 |**2025-07-02**|**A Dataset for Automatic Assessment of TTS Quality in Spanish**|Alejandro Sosa Welford et.al.|[2507.01805](http://arxiv.org/abs/2507.01805)|null|
 |**2025-07-02**|**Voice Conversion for Likability Control via Automated Rating of Speech Synthesis Corpora**|Hitoshi Suda et.al.|[2507.01356](http://arxiv.org/abs/2507.01356)|null|
-|**2025-07-02**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Cheng Zhuangfei et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
+|**2025-07-08**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Zhuangfei Cheng et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
 |**2025-07-02**|**Multi-interaction TTS toward professional recording reproduction**|Hiroki Kanagawa et.al.|[2507.00808](http://arxiv.org/abs/2507.00808)|null|
 |**2025-07-01**|**MuteSwap: Silent Face-based Voice Conversion**|Yifan Liu et.al.|[2507.00498](http://arxiv.org/abs/2507.00498)|null|
 |**2025-06-30**|**Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges**|Hashim Ali et.al.|[2507.00324](http://arxiv.org/abs/2507.00324)|null|
@@ -1344,11 +1344,11 @@ layout: default
 |**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226](http://arxiv.org/abs/2506.14226)|null|
 |**2025-06-17**|**Pushing the Performance of Synthetic Speech Detection with Kolmogorov-Arnold Networks and Self-Supervised Learning Models**|Tuan Dat Phuong et.al.|[2506.14153](http://arxiv.org/abs/2506.14153)|**[link](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab/XLSR-GRKAN-Conformer)**|
 |**2025-06-16**|**EmoNews: A Spoken Dialogue System for Expressive News Conversations**|Ryuki Matsuura et.al.|[2506.13894](http://arxiv.org/abs/2506.13894)|**[link](https://github.com/dhatchi711/espnet-emotional-news)**|
-|**2025-06-16**|**From Flat to Feeling: A Feasibility and Impact Study on Dynamic Facial Emotions in AI-Generated Avatars**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
+|**2025-07-08**|**Multimodal Integration Challenges in Emotionally Expressive Child Avatars for Training Applications**|Pegah Salehi et.al.|[2506.13477](http://arxiv.org/abs/2506.13477)|null|
 |**2025-06-20**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053](http://arxiv.org/abs/2506.13053)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-14**|**StreamMel: Real-Time Zero-shot Text-to-Speech via Interleaved Continuous Autoregressive Modeling**|Hui Wang et.al.|[2506.12570](http://arxiv.org/abs/2506.12570)|null|
 |**2025-06-14**|**Phonikud: Hebrew Grapheme-to-Phoneme Conversion for Real-Time Text-to-Speech**|Yakov Kolani et.al.|[2506.12311](http://arxiv.org/abs/2506.12311)|null|
-|**2025-06-23**|**S2ST-Omni: An Efficient and Scalable Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Streaming Speech Generation**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
+|**2025-07-08**|**S2ST-Omni: An Efficient Multilingual Speech-to-Speech Translation Framework via Seamless Speech-Text Alignment and Progressive Fine-tuning**|Yu Pan et.al.|[2506.11160](http://arxiv.org/abs/2506.11160)|null|
 |**2025-06-16**|**A Self-Refining Framework for Enhancing ASR Using TTS-Synthesized Data**|Cheng-Kang Chou et.al.|[2506.11130](http://arxiv.org/abs/2506.11130)|null|
 |**2025-06-10**|**GUIRoboTron-Speech: Towards Automated GUI Agents Based on Speech Instructions**|Wenkang Han et.al.|[2506.11127](http://arxiv.org/abs/2506.11127)|null|
 |**2025-06-10**|**ASRJam: Human-Friendly AI Speech Jamming to Prevent Automated Phone Scams**|Freddie Grabovski et.al.|[2506.11125](http://arxiv.org/abs/2506.11125)|null|
