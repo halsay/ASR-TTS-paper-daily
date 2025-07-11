@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
+|**2025-07-10**|**Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review**|Maha Tufail Agro et.al.|[2507.07741](http://arxiv.org/abs/2507.07741)|null|
 |**2025-07-08**|**Deep Feed-Forward Neural Network for Bangla Isolated Speech Recognition**|Dipayan Bhadra et.al.|[2507.07068](http://arxiv.org/abs/2507.07068)|null|
 |**2025-07-04**|**Pronunciation-Lexicon Free Training for Phoneme-based Crosslingual ASR via Joint Stochastic Approximation**|Saierdaer Yusuyin et.al.|[2507.06249](http://arxiv.org/abs/2507.06249)|null|
 |**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
@@ -1307,6 +1309,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799](http://arxiv.org/abs/2507.07799)|null|
 |**2025-07-09**|**Learning Japanese with Jouzu: Interaction Outcomes with Stylized Dialogue Fictional Agents**|Zackary Rackauckas et.al.|[2507.06483](http://arxiv.org/abs/2507.06483)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
