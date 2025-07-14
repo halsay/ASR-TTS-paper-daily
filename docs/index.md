@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**The Impact of Automatic Speech Transcription on Speaker Attribution**|Cristina Aggazzotti et.al.|[2507.08660](http://arxiv.org/abs/2507.08660)|null|
+|**2025-07-11**|**ILT-Iterative LoRA Training through Focus-Feedback-Fix for Multilingual Speech Recognition**|Qingliang Meng et.al.|[2507.08477](http://arxiv.org/abs/2507.08477)|null|
+|**2025-07-10**|**DARAS: Dynamic Audio-Room Acoustic Synthesis for Blind Room Impulse Response Estimation**|Chunxi Wang et.al.|[2507.08135](http://arxiv.org/abs/2507.08135)|null|
+|**2025-07-10**|**Modèle physique variationnel pour l'estimation de réponses impulsionnelles de salles**|Louis Lalay et.al.|[2507.08051](http://arxiv.org/abs/2507.08051)|null|
 |**2025-07-10**|**Edge-ASR: Towards Low-Bit Quantization of Automatic Speech Recognition Models**|Chen Feng et.al.|[2507.07877](http://arxiv.org/abs/2507.07877)|null|
 |**2025-07-10**|**Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review**|Maha Tufail Agro et.al.|[2507.07741](http://arxiv.org/abs/2507.07741)|null|
 |**2025-07-08**|**Deep Feed-Forward Neural Network for Bangla Isolated Speech Recognition**|Dipayan Bhadra et.al.|[2507.07068](http://arxiv.org/abs/2507.07068)|null|
@@ -1309,6 +1313,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Unlocking Speech Instruction Data Potential with Query Rewriting**|Yonghua Hei et.al.|[2507.08603](http://arxiv.org/abs/2507.08603)|null|
+|**2025-07-11**|**MIDI-VALLE: Improving Expressive Piano Performance Synthesis Through Neural Codec Language Modelling**|Jingjing Tang et.al.|[2507.08530](http://arxiv.org/abs/2507.08530)|null|
+|**2025-07-11**|**Active Learning for Text-to-Speech Synthesis with Informative Sample Collection**|Kentaro Seki et.al.|[2507.08319](http://arxiv.org/abs/2507.08319)|null|
+|**2025-07-05**|**RepeaTTS: Towards Feature Discovery through Repeated Fine-Tuning**|Atli Sigurgeirsson et.al.|[2507.08012](http://arxiv.org/abs/2507.08012)|null|
 |**2025-07-10**|**SecureSpeech: Prompt-based Speaker and Content Protection**|Belinda Soh Hui Hui et.al.|[2507.07799](http://arxiv.org/abs/2507.07799)|null|
 |**2025-07-09**|**Learning Japanese with Jouzu: Interaction Outcomes with Stylized Dialogue Fictional Agents**|Zackary Rackauckas et.al.|[2507.06483](http://arxiv.org/abs/2507.06483)|null|
 |**2025-07-08**|**Speech Quality Assessment Model Based on Mixture of Experts: System-Level Performance Enhancement and Utterance-Level Challenge Analysis**|Xintong Hu et.al.|[2507.06116](http://arxiv.org/abs/2507.06116)|null|
