@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1313,7 +1313,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
 ## TTS
 
@@ -1333,7 +1333,7 @@
 |**2025-07-05**|**PresentAgent: Multimodal Agent for Presentation Video Generation**|Jingwei Shi et.al.|[2507.04036](http://arxiv.org/abs/2507.04036)|null|
 |**2025-07-05**|**Prosody Labeling with Phoneme-BERT and Speech Foundation Models**|Tomoki Koriyama et.al.|[2507.03912](http://arxiv.org/abs/2507.03912)|null|
 |**2025-07-05**|**Traceable TTS: Toward Watermark-Free TTS with Strong Traceability**|Yuxiang Zhao et.al.|[2507.03887](http://arxiv.org/abs/2507.03887)|null|
-|**2025-07-03**|**DeepGesture: A conversational gesture synthesis system based on emotions and semantics**|Thanh Hoang-Minh et.al.|[2507.03147](http://arxiv.org/abs/2507.03147)|null|
+|**2025-07-14**|**DeepGesture: A conversational gesture synthesis system based on emotions and semantics**|Thanh Hoang-Minh et.al.|[2507.03147](http://arxiv.org/abs/2507.03147)|null|
 |**2025-07-03**|**Open-Source System for Multilingual Translation and Cloned Speech Synthesis**|Mateo Cámara et.al.|[2507.02530](http://arxiv.org/abs/2507.02530)|null|
 |**2025-07-03**|**JoyTTS: LLM-based Spoken Chatbot With Voice Cloning**|Fangru Zhou et.al.|[2507.02380](http://arxiv.org/abs/2507.02380)|null|
 |**2025-07-02**|**Analyzing and Improving Speaker Similarity Assessment for Speech Synthesis**|Marc-André Carbonneau et.al.|[2507.02176](http://arxiv.org/abs/2507.02176)|null|
@@ -1915,5 +1915,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250715>back to top</a>)</p>
 
