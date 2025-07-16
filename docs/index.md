@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -14,7 +14,7 @@ layout: default
 |**2025-07-14**|**DQLoRA: A Lightweight Domain-Aware Denoising ASR via Adapter-guided Distillation**|Yiru Yang et.al.|[2507.10313](http://arxiv.org/abs/2507.10313)|null|
 |**2025-07-13**|**The DKU System for Multi-Speaker Automatic Speech Recognition in MLC-SLM Challenge**|Yuke Lin et.al.|[2507.09499](http://arxiv.org/abs/2507.09499)|null|
 |**2025-07-12**|**Can We Really Repurpose Multi-Speaker ASR Corpus for Speaker Diarization?**|Shota Horiguchi et.al.|[2507.09226](http://arxiv.org/abs/2507.09226)|null|
-|**2025-07-12**|**Mixture of LoRA Experts with Multi-Modal and Multi-Granularity LLM Generative Error Correction for Accented Speech Recognition**|Bingshen Mu et.al.|[2507.09116](http://arxiv.org/abs/2507.09116)|null|
+|**2025-07-15**|**Mixture of LoRA Experts with Multi-Modal and Multi-Granularity LLM Generative Error Correction for Accented Speech Recognition**|Bingshen Mu et.al.|[2507.09116](http://arxiv.org/abs/2507.09116)|null|
 |**2025-07-06**|**A Hybrid Machine Learning Framework for Optimizing Crop Selection via Agronomic and Economic Forecasting**|Niranjan Mallikarjun Sindhur et.al.|[2507.08832](http://arxiv.org/abs/2507.08832)|null|
 |**2025-07-11**|**The Impact of Automatic Speech Transcription on Speaker Attribution**|Cristina Aggazzotti et.al.|[2507.08660](http://arxiv.org/abs/2507.08660)|null|
 |**2025-07-11**|**ILT-Iterative LoRA Training through Focus-Feedback-Fix for Multilingual Speech Recognition**|Qingliang Meng et.al.|[2507.08477](http://arxiv.org/abs/2507.08477)|null|
