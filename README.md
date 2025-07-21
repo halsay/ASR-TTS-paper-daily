@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,7 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-17**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|R. Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
+|**2025-07-18**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|Retief Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**UniSLU: Unified Spoken Language Understanding from Heterogeneous Cross-Task Datasets**|Zhichao Sheng et.al.|[2507.12951](http://arxiv.org/abs/2507.12951)|null|
 |**2025-07-17**|**Task-Specific Audio Coding for Machines: Machine-Learned Latent Features Are Codes for That Machine**|Anastasia Kuznetsova et.al.|[2507.12701](http://arxiv.org/abs/2507.12701)|null|
@@ -1325,7 +1325,7 @@
 |**2023-12-21**|**Self-Supervised Adaptive AV Fusion Module for Pre-Trained ASR Models**|Christopher Simic et.al.|[2312.13873](http://arxiv.org/abs/2312.13873)|null|
 |**2024-02-03**|**kNN-CTC: Enhancing ASR via Retrieval of CTC Pseudo Labels**|Jiaming Zhou et.al.|[2312.13560](http://arxiv.org/abs/2312.13560)|**[link](https://github.com/nku-hlt/knn-ctc)**|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## TTS
 
@@ -1369,7 +1369,7 @@
 |**2025-07-02**|**Voice Conversion for Likability Control via Automated Rating of Speech Synthesis Corpora**|Hitoshi Suda et.al.|[2507.01356](http://arxiv.org/abs/2507.01356)|null|
 |**2025-07-08**|**SpeechAccentLLM: A Unified Framework for Foreign Accent Conversion and Text to Speech**|Zhuangfei Cheng et.al.|[2507.01348](http://arxiv.org/abs/2507.01348)|null|
 |**2025-07-02**|**Multi-interaction TTS toward professional recording reproduction**|Hiroki Kanagawa et.al.|[2507.00808](http://arxiv.org/abs/2507.00808)|null|
-|**2025-07-01**|**MuteSwap: Silent Face-based Voice Conversion**|Yifan Liu et.al.|[2507.00498](http://arxiv.org/abs/2507.00498)|null|
+|**2025-07-18**|**MuteSwap: Visual-informed Silent Video Identity Conversion**|Yifan Liu et.al.|[2507.00498](http://arxiv.org/abs/2507.00498)|null|
 |**2025-06-30**|**Collecting, Curating, and Annotating Good Quality Speech deepfake dataset for Famous Figures: Process and Challenges**|Hashim Ali et.al.|[2507.00324](http://arxiv.org/abs/2507.00324)|null|
 |**2025-06-30**|**Investigating Stochastic Methods for Prosody Modeling in Speech Synthesis**|Paul Mayer et.al.|[2507.00227](http://arxiv.org/abs/2507.00227)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
@@ -1942,5 +1942,5 @@
 |**2024-06-11**|**Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody Modeling**|Yuepeng Jiang et.al.|[2406.05681](http://arxiv.org/abs/2406.05681)|null|
 |**2024-06-12**|**Text-aware and Context-aware Expressive Audiobook Speech Synthesis**|Dake Guo et.al.|[2406.05672](http://arxiv.org/abs/2406.05672)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
