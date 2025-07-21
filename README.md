@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Open Automatic Speech Recognition Models for Classical and Modern Standard Arabic**|Lilit Grigoryan et.al.|[2507.13977](http://arxiv.org/abs/2507.13977)|null|
+|**2025-07-18**|**Optimizing ASR for Catalan-Spanish Code-Switching: A Comparative Analysis of Methodologies**|Carlos Mena et.al.|[2507.13875](http://arxiv.org/abs/2507.13875)|null|
+|**2025-07-17**|**Reading Between the Lines: Combining Pause Dynamics and Semantic Coherence for Automated Assessment of Thought Disorder**|Feng Chen et.al.|[2507.13551](http://arxiv.org/abs/2507.13551)|null|
 |**2025-07-18**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|Retief Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**UniSLU: Unified Spoken Language Understanding from Heterogeneous Cross-Task Datasets**|Zhichao Sheng et.al.|[2507.12951](http://arxiv.org/abs/2507.12951)|null|
@@ -1331,6 +1334,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**|Kirill Borodin et.al.|[2507.13563](http://arxiv.org/abs/2507.13563)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
 |**2025-07-17**|**Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes**|Zhou Feng et.al.|[2507.12932](http://arxiv.org/abs/2507.12932)|null|
