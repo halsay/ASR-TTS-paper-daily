@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Mixture to Beamformed Mixture: Leveraging Beamformed Mixture as Weak-Supervision for Speech Enhancement and Noise-Robust ASR**|Zhong-Qiu Wang et.al.|[2507.15229](http://arxiv.org/abs/2507.15229)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-19**|**Adapting Whisper for Lightweight and Efficient Automatic Speech Recognition of Children for On-device Edge Applications**|Satwik Dutta et.al.|[2507.14451](http://arxiv.org/abs/2507.14451)|null|
 |**2025-07-18**|**Open Automatic Speech Recognition Models for Classical and Modern Standard Arabic**|Lilit Grigoryan et.al.|[2507.13977](http://arxiv.org/abs/2507.13977)|null|
 |**2025-07-18**|**Optimizing ASR for Catalan-Spanish Code-Switching: A Comparative Analysis of Methodologies**|Carlos Mena et.al.|[2507.13875](http://arxiv.org/abs/2507.13875)|null|
 |**2025-07-17**|**Reading Between the Lines: Combining Pause Dynamics and Semantic Coherence for Automated Assessment of Thought Disorder**|Feng Chen et.al.|[2507.13551](http://arxiv.org/abs/2507.13551)|null|
@@ -34,7 +37,7 @@ layout: default
 |**2025-07-10**|**Code-Switching in End-to-End Automatic Speech Recognition: A Systematic Literature Review**|Maha Tufail Agro et.al.|[2507.07741](http://arxiv.org/abs/2507.07741)|null|
 |**2025-07-08**|**Deep Feed-Forward Neural Network for Bangla Isolated Speech Recognition**|Dipayan Bhadra et.al.|[2507.07068](http://arxiv.org/abs/2507.07068)|null|
 |**2025-07-04**|**Pronunciation-Lexicon Free Training for Phoneme-based Crosslingual ASR via Joint Stochastic Approximation**|Saierdaer Yusuyin et.al.|[2507.06249](http://arxiv.org/abs/2507.06249)|null|
-|**2025-07-08**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
+|**2025-07-21**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-08**|**How to Evaluate Automatic Speech Recognition: Comparing Different Performance and Bias Measures**|Tanvina Patel et.al.|[2507.05885](http://arxiv.org/abs/2507.05885)|null|
 |**2025-07-08**|**ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark**|He Wang et.al.|[2507.05727](http://arxiv.org/abs/2507.05727)|null|
 |**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
@@ -1328,6 +1331,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
+|**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
+|**2025-07-20**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
+|**2025-07-20**|**DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis**|Yinghao Aaron Li et.al.|[2507.14988](http://arxiv.org/abs/2507.14988)|null|
 |**2025-07-17**|**A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**|Kirill Borodin et.al.|[2507.13563](http://arxiv.org/abs/2507.13563)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
 |**2025-07-17**|**Intelligent Virtual Sonographer (IVS): Enhancing Physician-Robot-Patient Communication**|Tianyu Song et.al.|[2507.13052](http://arxiv.org/abs/2507.13052)|null|
