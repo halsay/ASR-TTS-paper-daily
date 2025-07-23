@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -40,7 +40,7 @@ layout: default
 |**2025-07-21**|**VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**|Alexandre Symeonidis-Herzig et.al.|[2507.06060](http://arxiv.org/abs/2507.06060)|null|
 |**2025-07-08**|**How to Evaluate Automatic Speech Recognition: Comparing Different Performance and Bias Measures**|Tanvina Patel et.al.|[2507.05885](http://arxiv.org/abs/2507.05885)|null|
 |**2025-07-08**|**ContextASR-Bench: A Massive Contextual Speech Recognition Benchmark**|He Wang et.al.|[2507.05727](http://arxiv.org/abs/2507.05727)|null|
-|**2025-07-08**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
+|**2025-07-21**|**Omni-Router: Sharing Routing Decisions in Sparse Mixture-of-Experts for Speech Recognition**|Zijin Gu et.al.|[2507.05724](http://arxiv.org/abs/2507.05724)|null|
 |**2025-07-07**|**Adaptive Slimming for Scalable and Efficient Speech Enhancement**|Riccardo Miccini et.al.|[2507.04879](http://arxiv.org/abs/2507.04879)|null|
 |**2025-07-08**|**SHNU Multilingual Conversational Speech Recognition System for INTERSPEECH 2025 MLC-SLM Challenge**|Yuxiang Mei et.al.|[2507.03343](http://arxiv.org/abs/2507.03343)|null|
 |**2025-06-26**|**A Unified Speech LLM for Diarization and Speech Recognition in Multilingual Conversations**|Phurich Saengthong et.al.|[2507.02927](http://arxiv.org/abs/2507.02927)|null|
@@ -1333,7 +1333,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
-|**2025-07-20**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
+|**2025-07-22**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
 |**2025-07-20**|**DMOSpeech 2: Reinforcement Learning for Duration Prediction in Metric-Optimized Speech Synthesis**|Yinghao Aaron Li et.al.|[2507.14988](http://arxiv.org/abs/2507.14988)|null|
 |**2025-07-17**|**A Data-Centric Framework for Addressing Phonetic and Prosodic Challenges in Russian Speech Generative Models**|Kirill Borodin et.al.|[2507.13563](http://arxiv.org/abs/2507.13563)|null|
 |**2025-07-17**|**NonverbalTTS: A Public English Corpus of Text-Aligned Nonverbal Vocalizations with Emotion Annotations for Text-to-Speech**|Maksim Borisov et.al.|[2507.13155](http://arxiv.org/abs/2507.13155)|null|
