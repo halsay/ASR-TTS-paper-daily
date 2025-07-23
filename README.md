@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Step-Audio 2 Technical Report**|Boyong Wu et.al.|[2507.16632](http://arxiv.org/abs/2507.16632)|null|
+|**2025-07-22**|**An approach to measuring the performance of Automatic Speech Recognition (ASR) models in the context of Large Language Model (LLM) powered applications**|Sujith Pulikodan et.al.|[2507.16456](http://arxiv.org/abs/2507.16456)|null|
+|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043](http://arxiv.org/abs/2507.16043)|null|
 |**2025-07-21**|**Mixture to Beamformed Mixture: Leveraging Beamformed Mixture as Weak-Supervision for Speech Enhancement and Noise-Robust ASR**|Zhong-Qiu Wang et.al.|[2507.15229](http://arxiv.org/abs/2507.15229)|null|
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
 |**2025-07-19**|**Adapting Whisper for Lightweight and Efficient Automatic Speech Recognition of Children for On-device Edge Applications**|Satwik Dutta et.al.|[2507.14451](http://arxiv.org/abs/2507.14451)|null|
