@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**Synthetic Voice Data for Automatic Speech Recognition in African Languages**|Brian DeRenzi et.al.|[2507.17578](http://arxiv.org/abs/2507.17578)|null|
+|**2025-07-23**|**BoSS: Beyond-Semantic Speech**|Qing Wang et.al.|[2507.17563](http://arxiv.org/abs/2507.17563)|null|
+|**2025-07-23**|**Application of Whisper in Clinical Practice: the Post-Stroke Speech Assessment during a Naming Task**|Milena Davudova et.al.|[2507.17326](http://arxiv.org/abs/2507.17326)|null|
+|**2025-07-23**|**Triple X: A LLM-Based Multilingual Speech Recognition System for the INTERSPEECH2025 MLC-SLM Challenge**|Miaomiao Gao et.al.|[2507.17288](http://arxiv.org/abs/2507.17288)|null|
+|**2025-07-20**|**Weak Supervision Techniques towards Enhanced ASR Models in Industry-level CRM Systems**|Zhongsheng Wang et.al.|[2507.16843](http://arxiv.org/abs/2507.16843)|null|
+|**2025-07-15**|**Towards Robust Speech Recognition for Jamaican Patois Music Transcription**|Jordan Madden et.al.|[2507.16834](http://arxiv.org/abs/2507.16834)|null|
 |**2025-07-22**|**Step-Audio 2 Technical Report**|Boyong Wu et.al.|[2507.16632](http://arxiv.org/abs/2507.16632)|null|
 |**2025-07-22**|**An approach to measuring the performance of Automatic Speech Recognition (ASR) models in the context of Large Language Model (LLM) powered applications**|Sujith Pulikodan et.al.|[2507.16456](http://arxiv.org/abs/2507.16456)|null|
 |**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043](http://arxiv.org/abs/2507.16043)|null|
@@ -1340,6 +1347,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**BoSS: Beyond-Semantic Speech**|Qing Wang et.al.|[2507.17563](http://arxiv.org/abs/2507.17563)|null|
+|**2025-07-22**|**SplitMeanFlow: Interval Splitting Consistency in Few-Step Generative Modeling**|Yi Guo et.al.|[2507.16884](http://arxiv.org/abs/2507.16884)|null|
+|**2025-07-15**|**Evaluating Speech-to-Text x LLM x Text-to-Speech Combinations for AI Interview Systems**|Nima Yazdani et.al.|[2507.16835](http://arxiv.org/abs/2507.16835)|null|
 |**2025-07-21**|**A2TTS: TTS for Low Resource Indian Languages**|Ayush Singh Bhadoriya et.al.|[2507.15272](http://arxiv.org/abs/2507.15272)|null|
 |**2025-07-21**|**EchoVoices: Preserving Generational Voices and Memories for Seniors and Children**|Haiying Xu et.al.|[2507.15221](http://arxiv.org/abs/2507.15221)|null|
 |**2025-07-22**|**Hear Your Code Fail, Voice-Assisted Debugging for Python**|Sayed Mahbub Hasan Amiri et.al.|[2507.15007](http://arxiv.org/abs/2507.15007)|null|
