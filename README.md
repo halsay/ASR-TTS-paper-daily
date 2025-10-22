@@ -46,7 +46,7 @@
 |**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
 |**2025-10-06**|**Evaluating Self-Supervised Speech Models via Text-Based LLMS**|Takashi Maekaku et.al.|[2510.04463](http://arxiv.org/abs/2510.04463)|null|
 |**2025-10-05**|**Probing Whisper for Dysarthric Speech in Detection and Assessment**|Zhengjun Yue et.al.|[2510.04219](http://arxiv.org/abs/2510.04219)|null|
-|**2025-10-05**|**Drax: Speech Recognition with Discrete Flow Matching**|Aviv Navon et.al.|[2510.04162](http://arxiv.org/abs/2510.04162)|null|
+|**2025-10-05**|**Drax: Speech Recognition with Discrete Flow Matching**|Aviv Navon et.al.|[2510.04162](http://arxiv.org/abs/2510.04162)|**[link](https://github.com/aiola-lab/drax)**|
 |**2025-10-05**|**MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2510.04136](http://arxiv.org/abs/2510.04136)|null|
 |**2025-10-04**|**Adapting Diarization-Conditioned Whisper for End-to-End Multi-Talker Speech Recognition**|Martin Kocour et.al.|[2510.03723](http://arxiv.org/abs/2510.03723)|null|
 |**2025-10-04**|**Towards Unsupervised Speech Recognition at the Syllable-Level**|Liming Wang et.al.|[2510.03639](http://arxiv.org/abs/2510.03639)|null|
@@ -63,7 +63,7 @@
 |**2025-09-30**|**ASR Under Noise: Exploring Robustness for Sundanese and Javanese**|Salsabila Zahirah Pranida et.al.|[2509.25878](http://arxiv.org/abs/2509.25878)|null|
 |**2025-09-29**|**Beyond WER: Probing Whisper's Sub-token Decoder Across Diverse Language Resource Levels**|Siyu Liang et.al.|[2509.25516](http://arxiv.org/abs/2509.25516)|null|
 |**2025-09-29**|**Confidence-Guided Error Correction for Disordered Speech Recognition**|Abner Hernandez et.al.|[2509.25048](http://arxiv.org/abs/2509.25048)|null|
-|**2025-10-05**|**HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**|Gio Paik et.al.|[2509.24613](http://arxiv.org/abs/2509.24613)|null|
+|**2025-10-05**|**HiKE: Hierarchical Evaluation Framework for Korean-English Code-Switching Speech Recognition**|Gio Paik et.al.|[2509.24613](http://arxiv.org/abs/2509.24613)|**[link](https://github.com/ThetaOne-AI/HiKE)**|
 |**2025-09-29**|**A Text-To-Text Alignment Algorithm for Better Evaluation of Modern Speech Recognition Systems**|Lasse Borgholt et.al.|[2509.24478](http://arxiv.org/abs/2509.24478)|null|
 |**2025-09-29**|**Code-switching Speech Recognition Under the Lens: Model- and Data-Centric Perspectives**|Hexin Liu et.al.|[2509.24310](http://arxiv.org/abs/2509.24310)|null|
 |**2025-09-28**|**AISHELL6-whisper: A Chinese Mandarin Audio-visual Whisper Speech Dataset with Speech Recognition Baselines**|Cancan Li et.al.|[2509.23833](http://arxiv.org/abs/2509.23833)|null|
@@ -92,7 +92,7 @@
 |**2025-09-24**|**MNV-17: A High-Quality Performative Mandarin Dataset for Nonverbal Vocalization Recognition in Speech**|Jialong Mai et.al.|[2509.18196](http://arxiv.org/abs/2509.18196)|null|
 |**2025-09-22**|**Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation**|Yiwen Guan et.al.|[2509.17930](http://arxiv.org/abs/2509.17930)|null|
 |**2025-09-22**|**Leveraging Audio-Visual Data to Reduce the Multilingual Gap in Self-Supervised Speech Models**|María Andrea Cruz Blandón et.al.|[2509.17523](http://arxiv.org/abs/2509.17523)|null|
-|**2025-09-29**|**Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing**|Wataru Nakata et.al.|[2509.17052](http://arxiv.org/abs/2509.17052)|null|
+|**2025-09-29**|**Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing**|Wataru Nakata et.al.|[2509.17052](http://arxiv.org/abs/2509.17052)|**[link](https://github.com/sarulab-speech/Sidon/)**|
 |**2025-09-20**|**Idiosyncratic Versus Normative Modeling of Atypical Speech Recognition: Dysarthric Case Studies**|Vishnu Raja et.al.|[2509.16718](http://arxiv.org/abs/2509.16718)|null|
 |**2025-10-09**|**Audio-Conditioned Diffusion LLMs for ASR and Deliberation Processing**|Mengqi Wang et.al.|[2509.16622](http://arxiv.org/abs/2509.16622)|null|
 |**2025-09-26**|**GLip: A Global-Local Integrated Progressive Framework for Robust Visual Speech Recognition**|Tianyue Wang et.al.|[2509.16031](http://arxiv.org/abs/2509.16031)|null|
@@ -1469,7 +1469,7 @@
 |**2025-10-07**|**ECTSpeech: Enhancing Efficient Speech Synthesis via Easy Consistency Tuning**|Tao Zhu et.al.|[2510.05984](http://arxiv.org/abs/2510.05984)|null|
 |**2025-10-07**|**Data-efficient Targeted Token-level Preference Optimization for LLM-based Text-to-Speech**|Rikuto Kotoge et.al.|[2510.05799](http://arxiv.org/abs/2510.05799)|null|
 |**2025-10-07**|**Sparse deepfake detection promotes better disentanglement**|Antoine Teissier et.al.|[2510.05696](http://arxiv.org/abs/2510.05696)|null|
-|**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|null|
+|**2025-10-09**|**Paper2Video: Automatic Video Generation from Scientific Papers**|Zeyu Zhu et.al.|[2510.05096](http://arxiv.org/abs/2510.05096)|**[link](https://github.com/showlab/Paper2Video)**|
 |**2025-10-06**|**Speak, Edit, Repeat: High-Fidelity Voice Editing and Zero-Shot TTS with Cross-Attentive Mamba**|Baher Mohammad et.al.|[2510.04738](http://arxiv.org/abs/2510.04738)|null|
 |**2025-10-06**|**UniVoice: Unifying Autoregressive ASR and Flow-Matching based TTS with Large Language Models**|Wenhao Guan et.al.|[2510.04593](http://arxiv.org/abs/2510.04593)|null|
 |**2025-10-07**|**Synthetic Audio Forensics Evaluation (SAFE) Challenge**|Kirill Trapeznikov et.al.|[2510.03387](http://arxiv.org/abs/2510.03387)|null|
@@ -1481,12 +1481,12 @@
 |**2025-09-30**|**HiStyle: Hierarchical Style Embedding Predictor for Text-Prompt-Guided Controllable Speech Synthesis**|Ziyu Zhang et.al.|[2509.25842](http://arxiv.org/abs/2509.25842)|null|
 |**2025-09-30**|**LTA-L2S: Lexical Tone-Aware Lip-to-Speech Synthesis for Mandarin with Cross-Lingual Transfer Learning**|Kang Yang et.al.|[2509.25670](http://arxiv.org/abs/2509.25670)|null|
 |**2025-09-29**|**Emotion-Aligned Generation in Diffusion Text to Speech Models via Preference-Guided Optimization**|Jiacheng Shi et.al.|[2509.25416](http://arxiv.org/abs/2509.25416)|null|
-|**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|null|
+|**2025-09-29**|**MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech**|Chengyao Wang et.al.|[2509.25131](http://arxiv.org/abs/2509.25131)|**[link](https://github.com/dvlab-research/MGM-Omni)**|
 |**2025-09-30**|**VSSFlow: Unifying Video-conditioned Sound and Speech Generation via Joint Learning**|Xin Cheng et.al.|[2509.24773](http://arxiv.org/abs/2509.24773)|null|
 |**2025-09-29**|**VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning**|Yixuan Zhou et.al.|[2509.24650](http://arxiv.org/abs/2509.24650)|null|
 |**2025-09-29**|**Word-Level Emotional Expression Control in Zero-Shot Text-to-Speech Synthesis**|Tianrui Wang et.al.|[2509.24629](http://arxiv.org/abs/2509.24629)|null|
 |**2025-09-29**|**ISSE: An Instruction-Guided Speech Style Editing Dataset And Benchmark**|Yun Chen et.al.|[2509.24570](http://arxiv.org/abs/2509.24570)|null|
-|**2025-09-29**|**UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**|Xuenan Xu et.al.|[2509.24391](http://arxiv.org/abs/2509.24391)|null|
+|**2025-09-29**|**UniFlow-Audio: Unified Flow Matching for Audio Generation from Omni-Modalities**|Xuenan Xu et.al.|[2509.24391](http://arxiv.org/abs/2509.24391)|**[link](https://github.com/wsntxxn/UniFlow-Audio)**|
 |**2025-09-28**|**Generalizable Speech Deepfake Detection via Information Bottleneck Enhanced Adversarial Alignment**|Pu Huang et.al.|[2509.23618](http://arxiv.org/abs/2509.23618)|null|
 |**2025-09-27**|**BFA: Real-time Multilingual Text-to-speech Forced Alignment**|Abdul Rehman et.al.|[2509.23147](http://arxiv.org/abs/2509.23147)|null|
 |**2025-09-26**|**ArFake: A Multi-Dialect Benchmark and Baselines for Arabic Spoof-Speech Detection**|Mohamed Maged et.al.|[2509.22808](http://arxiv.org/abs/2509.22808)|null|
@@ -1516,11 +1516,11 @@
 |**2025-09-22**|**TMD-TTS: A Unified Tibetan Multi-Dialect Text-to-Speech Synthesis for Ü-Tsang, Amdo and Kham Speech Dataset Generation**|Yutong Liu et.al.|[2509.18060](http://arxiv.org/abs/2509.18060)|null|
 |**2025-09-22**|**Nord-Parl-TTS: Finnish and Swedish TTS Dataset from Parliament Speech**|Zirui Li et.al.|[2509.17988](http://arxiv.org/abs/2509.17988)|null|
 |**2025-09-22**|**Audiobook-CC: Controllable Long-context Speech Generation for Multicast Audiobook**|Min Liu et.al.|[2509.17516](http://arxiv.org/abs/2509.17516)|null|
-|**2025-09-29**|**Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing**|Wataru Nakata et.al.|[2509.17052](http://arxiv.org/abs/2509.17052)|null|
+|**2025-09-29**|**Sidon: Fast and Robust Open-Source Multilingual Speech Restoration for Large-scale Dataset Cleansing**|Wataru Nakata et.al.|[2509.17052](http://arxiv.org/abs/2509.17052)|**[link](https://github.com/sarulab-speech/Sidon/)**|
 |**2025-09-21**|**Bridging the gap between training and inference in LM-based TTS models**|Ruonan Zhang et.al.|[2509.17021](http://arxiv.org/abs/2509.17021)|null|
 |**2025-09-21**|**MBCodec:Thorough disentangle for high-fidelity audio compression**|Ruonan Zhang et.al.|[2509.17006](http://arxiv.org/abs/2509.17006)|null|
 |**2025-09-19**|**Fed-PISA: Federated Voice Cloning via Personalized Identity-Style Adaptation**|Qi Wang et.al.|[2509.16010](http://arxiv.org/abs/2509.16010)|null|
-|**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|null|
+|**2025-09-19**|**VoXtream: Full-Stream Text-to-Speech with Extremely Low Latency**|Nikita Torgashov et.al.|[2509.15969](http://arxiv.org/abs/2509.15969)|**[link](https://github.com/herimor/voxtream)**|
 |**2025-09-19**|**Deep Dubbing: End-to-End Auto-Audiobook System with Text-to-Timbre and Context-Aware Instruct-TTS**|Ziqi Dai et.al.|[2509.15845](http://arxiv.org/abs/2509.15845)|null|
 |**2025-09-19**|**LibriTTS-VI: A Public Corpus and Novel Methods for Efficient Voice Impression Control**|Junki Ohmura et.al.|[2509.15626](http://arxiv.org/abs/2509.15626)|null|
 |**2025-09-19**|**Beyond Video-to-SFX: Video to Audio Synthesis with Environmentally Aware Speech**|Xinlei Niu et.al.|[2509.15492](http://arxiv.org/abs/2509.15492)|null|
