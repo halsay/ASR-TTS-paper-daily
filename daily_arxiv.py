@@ -104,7 +104,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
+        # code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -122,13 +122,15 @@ def get_daily_papers(topic,query="slam", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]    
         paper_url = arxiv_url + 'abs/' + paper_key
+        code_url = base_url + paper_key
         
         try:
             # source code link    
             r = requests.get(code_url).json()
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            if "githubRepo" in r:
+                repo_url = r["githubRepo"]
+
             # TODO: not found, two more chances  
             # else: 
             #    repo_url = get_code_link(paper_title)
@@ -442,4 +444,3 @@ if __name__ == "__main__":
     config = load_config(args.config_path)
     config = {**config, 'update_paper_links':args.update_paper_links}
     demo(**config)
-
