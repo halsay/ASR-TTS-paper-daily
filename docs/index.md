@@ -11,7 +11,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-10-23**|**refess-qi: reference-free evaluation for speech separation with joint quality and intelligibility scoring**|Ari Frummer et.al.|[2510.21014](http://arxiv.org/abs/2510.21014)|null|
+|**2025-10-27**|**LibriConvo: Simulating Conversations from Read Literature for ASR and Diarization**|Máté Gedeon et.al.|[2510.23320](http://arxiv.org/abs/2510.23320)|null|
+|**2025-10-27**|**Arabic Little STT: Arabic Children Speech Recognition Dataset**|Mouhand Alkadri et.al.|[2510.23319](http://arxiv.org/abs/2510.23319)|null|
+|**2025-10-27**|**Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?**|Tawsif Tashwar Dipto et.al.|[2510.23252](http://arxiv.org/abs/2510.23252)|null|
+|**2025-10-27**|**Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement**|Sarabeth S. Mullins et.al.|[2510.23141](http://arxiv.org/abs/2510.23141)|null|
+|**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
+|**2025-10-26**|**LRW-Persian: Lip-reading in the Wild Dataset for Persian Language**|Zahra Taghizadeh et.al.|[2510.22716](http://arxiv.org/abs/2510.22716)|null|
+|**2025-10-26**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMS**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|**[link](https://github.com/umbertocappellazzo/Llama-AVSR)**|
+|**2025-10-26**|**A Sociophonetic Analysis of Racial Bias in Commercial ASR Systems Using the Pacific Northwest English Corpus**|Michael Scott et.al.|[2510.22495](http://arxiv.org/abs/2510.22495)|null|
+|**2025-10-26**|**The Tonogenesis Continuum in Tibetan: A Computational Investigation**|Siyu Liang et.al.|[2510.22485](http://arxiv.org/abs/2510.22485)|null|
+|**2025-10-25**|**M-CIF: Multi-Scale Alignment For CIF-Based Non-Autoregressive ASR**|Ruixiang Mao et.al.|[2510.22172](http://arxiv.org/abs/2510.22172)|null|
+|**2025-10-27**|**ReFESS-QI: Reference-Free Evaluation For Speech Separation With Joint Quality And Intelligibility Scoring**|Ari Frummer et.al.|[2510.21014](http://arxiv.org/abs/2510.21014)|null|
 |**2025-10-21**|**Can large audio language models understand child stuttering speech? speech summarization, and source separation**|Chibuzor Okocha et.al.|[2510.20850](http://arxiv.org/abs/2510.20850)|null|
 |**2025-10-23**|**Speaking Clearly: A Simplified Whisper-Based Codec for Low-Bitrate Speech Coding**|Xin Zhang et.al.|[2510.20504](http://arxiv.org/abs/2510.20504)|null|
 |**2025-10-23**|**SpeechAgent: An End-to-End Mobile Infrastructure for Speech Impairment Assistance**|Haowei Lou et.al.|[2510.20113](http://arxiv.org/abs/2510.20113)|null|
@@ -1450,6 +1460,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-10-27**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
+|**2025-10-26**|**UltraVoice: Scaling Fine-Grained Style-Controlled Speech Conversations for Spoken Dialogue Models**|Wenming Tu et.al.|[2510.22588](http://arxiv.org/abs/2510.22588)|null|
 |**2025-10-23**|**Vox-Evaluator: Enhancing Stability and Fidelity for Zero-shot TTS with A Multi-Level Evaluator**|Hualei Wang et.al.|[2510.20210](http://arxiv.org/abs/2510.20210)|null|
 |**2025-10-23**|**SpeechAgent: An End-to-End Mobile Infrastructure for Speech Impairment Assistance**|Haowei Lou et.al.|[2510.20113](http://arxiv.org/abs/2510.20113)|null|
 |**2025-10-22**|**Style Attack Disguise: When Fonts Become a Camouflage for Adversarial Intent**|Yangshijie Zhang et.al.|[2510.19641](http://arxiv.org/abs/2510.19641)|null|
