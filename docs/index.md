@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.28
+## Updated on 2025.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -29,7 +29,7 @@ layout: default
 |**2025-10-23**|**FLASH Viterbi: Fast and Adaptive Viterbi Decoding for Modern Data Systems**|Ziheng Deng et.al.|[2510.19301](http://arxiv.org/abs/2510.19301)|null|
 |**2025-10-22**|**Tibetan Language and AI: A Comprehensive Survey of Resources, Methods and Challenges**|Cheng Huang et.al.|[2510.19144](http://arxiv.org/abs/2510.19144)|null|
 |**2025-10-21**|**StutterZero and StutterFormer: End-to-End Speech Conversion for Stuttering Transcription and Correction**|Qianheng Xu et.al.|[2510.18938](http://arxiv.org/abs/2510.18938)|null|
-|**2025-10-21**|**RIR-Mega: a large-scale simulated room impulse response dataset for machine learning and room acoustics modeling**|Mandip Goswami et.al.|[2510.18917](http://arxiv.org/abs/2510.18917)|**[link](https://github.com/mandip42/rirmega)**|
+|**2025-10-28**|**RIR-Mega: a large-scale simulated room impulse response dataset for machine learning and room acoustics modeling**|Mandip Goswami et.al.|[2510.18917](http://arxiv.org/abs/2510.18917)|**[link](https://github.com/mandip42/rirmega)**|
 |**2025-10-23**|**MLMA: Towards Multilingual ASR With Mamba-based Architectures**|Mohamed Nabih Ali et.al.|[2510.18684](http://arxiv.org/abs/2510.18684)|null|
 |**2025-10-19**|**Zero- and One-Shot Data Augmentation for Sentence-Level Dysarthric Speech Recognition in Constrained Scenarios**|Shiyao Wang et.al.|[2510.16700](http://arxiv.org/abs/2510.16700)|null|
 |**2025-10-18**|**Hallucination Benchmark for Speech Foundation Models**|Alkis Koudounas et.al.|[2510.16567](http://arxiv.org/abs/2510.16567)|null|
