@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.10.29
+## Updated on 2025.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -18,7 +18,7 @@ layout: default
 |**2025-10-27**|**A Neural Model for Contextual Biasing Score Learning and Filtering**|Wanting Huang et.al.|[2510.23849](http://arxiv.org/abs/2510.23849)|null|
 |**2025-10-27**|**LibriConvo: Simulating Conversations from Read Literature for ASR and Diarization**|Máté Gedeon et.al.|[2510.23320](http://arxiv.org/abs/2510.23320)|null|
 |**2025-10-27**|**Arabic Little STT: Arabic Children Speech Recognition Dataset**|Mouhand Alkadri et.al.|[2510.23319](http://arxiv.org/abs/2510.23319)|null|
-|**2025-10-27**|**Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?**|Tawsif Tashwar Dipto et.al.|[2510.23252](http://arxiv.org/abs/2510.23252)|null|
+|**2025-10-29**|**Are ASR foundation models generalized enough to capture features of regional dialects for low-resource languages?**|Tawsif Tashwar Dipto et.al.|[2510.23252](http://arxiv.org/abs/2510.23252)|null|
 |**2025-10-27**|**Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement**|Sarabeth S. Mullins et.al.|[2510.23141](http://arxiv.org/abs/2510.23141)|null|
 |**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
 |**2025-10-26**|**LRW-Persian: Lip-reading in the Wild Dataset for Persian Language**|Zahra Taghizadeh et.al.|[2510.22716](http://arxiv.org/abs/2510.22716)|null|
