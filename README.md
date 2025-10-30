@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-28**|**POWSM: A Phonetic Open Whisper-Style Speech Foundation Model**|Chin-Jou Li et.al.|[2510.24992](http://arxiv.org/abs/2510.24992)|null|
+|**2025-10-28**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
 |**2025-10-28**|**BEST-RQ-Based Self-Supervised Learning for Whisper Domain Adaptation**|Raphaël Bagat et.al.|[2510.24570](http://arxiv.org/abs/2510.24570)|null|
 |**2025-10-28**|**Audio Signal Processing Using Time Domain Mel-Frequency Wavelet Coefficient**|Rinku Sebastian et.al.|[2510.24519](http://arxiv.org/abs/2510.24519)|null|
 |**2025-10-28**|**V-SAT: Video Subtitle Annotation Tool**|Arpita Kundu et.al.|[2510.24180](http://arxiv.org/abs/2510.24180)|null|
@@ -1471,6 +1473,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-27**|**SFMS-ALR: Script-First Multilingual Speech Synthesis with Adaptive Locale Resolution**|Dharma Teja Donepudi et.al.|[2510.25178](http://arxiv.org/abs/2510.25178)|null|
 |**2025-10-28**|**Levée d'ambiguïtés par grammaires locales**|Eric G. C. Laporte et.al.|[2510.24530](http://arxiv.org/abs/2510.24530)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
 |**2025-10-28**|**SoulX-Podcast: Towards Realistic Long-form Podcasts with Dialectal and Paralinguistic Diversity**|Hanke Xie et.al.|[2510.23541](http://arxiv.org/abs/2510.23541)|null|
