@@ -31,7 +31,7 @@
 |**2025-10-27**|**Treble10: A high-quality dataset for far-field speech recognition, dereverberation, and enhancement**|Sarabeth S. Mullins et.al.|[2510.23141](http://arxiv.org/abs/2510.23141)|null|
 |**2025-10-27**|**Adapting Speech Foundation Models with Large Language Models for Unified Speech Recognition**|Jing-Xuan Zhang et.al.|[2510.22961](http://arxiv.org/abs/2510.22961)|null|
 |**2025-10-26**|**LRW-Persian: Lip-reading in the Wild Dataset for Persian Language**|Zahra Taghizadeh et.al.|[2510.22716](http://arxiv.org/abs/2510.22716)|null|
-|**2025-10-26**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMS**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|**[link](https://github.com/umbertocappellazzo/Llama-AVSR)**|
+|**2025-11-02**|**Mitigating Attention Sinks and Massive Activations in Audio-Visual Speech Recognition with LLMs**|Anand et.al.|[2510.22603](http://arxiv.org/abs/2510.22603)|**[link](https://github.com/umbertocappellazzo/Llama-AVSR)**|
 |**2025-10-26**|**A Sociophonetic Analysis of Racial Bias in Commercial ASR Systems Using the Pacific Northwest English Corpus**|Michael Scott et.al.|[2510.22495](http://arxiv.org/abs/2510.22495)|null|
 |**2025-10-26**|**The Tonogenesis Continuum in Tibetan: A Computational Investigation**|Siyu Liang et.al.|[2510.22485](http://arxiv.org/abs/2510.22485)|null|
 |**2025-10-25**|**M-CIF: Multi-Scale Alignment For CIF-Based Non-Autoregressive ASR**|Ruixiang Mao et.al.|[2510.22172](http://arxiv.org/abs/2510.22172)|null|
