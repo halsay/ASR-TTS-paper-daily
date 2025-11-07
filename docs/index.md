@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-06**|**CantoASR: Prosody-Aware ASR-LALM Collaboration for Low-Resource Cantonese**|Dazhong Chen et.al.|[2511.04139](http://arxiv.org/abs/2511.04139)|null|
+|**2025-11-06**|**WST: Weakly Supervised Transducer for Automatic Speech Recognition**|Dongji Gao et.al.|[2511.04035](http://arxiv.org/abs/2511.04035)|null|
+|**2025-11-06**|**Accelerating scientific discovery with the common task framework**|J. Nathan Kutz et.al.|[2511.04001](http://arxiv.org/abs/2511.04001)|null|
 |**2025-11-05**|**Open Source State-Of-the-Art Solution for Romanian Speech Recognition**|Gabriel Pirlogeanu et.al.|[2511.03361](http://arxiv.org/abs/2511.03361)|null|
 |**2025-11-05**|**TASU: Text-Only Alignment for Speech Understanding**|Jing Peng et.al.|[2511.03310](http://arxiv.org/abs/2511.03310)|null|
 |**2025-11-05**|**How to Evaluate Speech Translation with Source-Aware Neural MT Metrics**|Mauro Cettolo et.al.|[2511.03295](http://arxiv.org/abs/2511.03295)|null|
