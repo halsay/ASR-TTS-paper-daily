@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**Surgical Agent Orchestration Platform for Voice-directed Patient Data Interaction**|Hyeryun Park et.al.|[2511.07392](http://arxiv.org/abs/2511.07392)|null|
+|**2025-11-10**|**Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large Language Models**|Umberto Cappellazzo et.al.|[2511.07253](http://arxiv.org/abs/2511.07253)|**[link](https://github.com/umbertocappellazzo/Omni-AVSR)**|
+|**2025-11-10**|**Improving Remote Patient Monitoring Systems Using a Fog-based IoT Platform with Speech Recognition**|Marc Jayson Baucas et.al.|[2511.07189](http://arxiv.org/abs/2511.07189)|null|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
+|**2025-11-10**|**CLiFT-ASR: A Cross-Lingual Fine-Tuning Framework for Low-Resource Taiwanese Hokkien Speech Recognition**|Hung-Yang Sung et.al.|[2511.06860](http://arxiv.org/abs/2511.06860)|null|
 |**2025-11-06**|**CantoASR: Prosody-Aware ASR-LALM Collaboration for Low-Resource Cantonese**|Dazhong Chen et.al.|[2511.04139](http://arxiv.org/abs/2511.04139)|null|
 |**2025-11-06**|**WST: Weakly Supervised Transducer for Automatic Speech Recognition**|Dongji Gao et.al.|[2511.04035](http://arxiv.org/abs/2511.04035)|null|
 |**2025-11-06**|**Accelerating scientific discovery with the common task framework**|J. Nathan Kutz et.al.|[2511.04001](http://arxiv.org/abs/2511.04001)|null|
@@ -1478,6 +1483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-10**|**E2E-VGuard: Adversarial Prevention for Production LLM-based End-To-End Speech Synthesis**|Zhisheng Zhang et.al.|[2511.07099](http://arxiv.org/abs/2511.07099)|null|
 |**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**PolyNorm: Few-Shot LLM-Based Text Normalization for Text-to-Speech**|Michel Wong et.al.|[2511.03080](http://arxiv.org/abs/2511.03080)|null|
