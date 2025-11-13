@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.12
+## Updated on 2025.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -2321,6 +2321,7 @@ layout: default
 |**2023-09-15**|**Diff-TTSG: Denoising probabilistic integrated speech and gesture synthesis**|Shivam Mehta et.al.|[2306.09417](http://arxiv.org/abs/2306.09417)|null|
 |**2023-06-02**|**EmoMix: Emotion Mixing via Diffusion Models for Emotional Speech Synthesis**|Haobin Tang et.al.|[2306.00648](http://arxiv.org/abs/2306.00648)|null|
 |**2023-05-29**|**Text Generation with Speech Synthesis for ASR Data Augmentation**|Zhuangqun Huang et.al.|[2305.16333](http://arxiv.org/abs/2305.16333)|null|
+|**2023-05-24**|**Source-Filter-Based Generative Adversarial Neural Vocoder for High Fidelity Speech Synthesis**|Ye-Xin Lu et.al.|[2304.13270](http://arxiv.org/abs/2304.13270)|null|
 |**2023-12-19**|**Zero-shot text-to-speech synthesis conditioned using self-supervised speech representation model**|Kenichi Fujita et.al.|[2304.11976](http://arxiv.org/abs/2304.11976)|null|
 |**2023-05-31**|**NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers**|Kai Shen et.al.|[2304.09116](http://arxiv.org/abs/2304.09116)|**[link](https://github.com/adelacvg/ns2vc)**|
 |**2023-03-28**|**Text is All You Need: Personalizing ASR Models using Controllable Speech Synthesis**|Karren Yang et.al.|[2303.14885](http://arxiv.org/abs/2303.14885)|null|
