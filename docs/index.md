@@ -11,11 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**Scriboora: Rethinking Human Pose Forecasting**|Daniel Bermuth et.al.|[2511.15565](http://arxiv.org/abs/2511.15565)|null|
+|**2025-11-18**|**Quality-Controlled Multimodal Emotion Recognition in Conversations with Identity-Based Transfer Learning and MAMBA Fusion**|Zanxu Wang et.al.|[2511.14969](http://arxiv.org/abs/2511.14969)|null|
 |**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
 |**2025-11-18**|**IMSE: Efficient U-Net-based Speech Enhancement using Inception Depthwise Convolution and Amplitude-Aware Linear Attention**|Xinxin Tang et.al.|[2511.14515](http://arxiv.org/abs/2511.14515)|null|
 |**2025-11-18**|**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**|Wei Liu et.al.|[2511.14410](http://arxiv.org/abs/2511.14410)|null|
 |**2025-11-18**|**AfriSpeech-MultiBench: A Verticalized Multidomain Multicountry Benchmark Suite for African Accented English ASR**|Gabrial Zencha Ashungafac et.al.|[2511.14255](http://arxiv.org/abs/2511.14255)|null|
-|**2025-11-18**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
+|**2025-11-19**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
 |**2025-11-18**|**Listen Like a Teacher: Mitigating Whisper Hallucinations using Adaptive Layer Attention and Knowledge Distillation**|Kumud Tripathi et.al.|[2511.14219](http://arxiv.org/abs/2511.14219)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 |**2025-11-17**|**Segmenting Collision Sound Sources in Egocentric Videos**|Kranti Kumar Parida et.al.|[2511.13863](http://arxiv.org/abs/2511.13863)|null|
@@ -1633,9 +1635,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-19**|**PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback**|Sirui Chen et.al.|[2511.15253](http://arxiv.org/abs/2511.15253)|null|
+|**2025-11-18**|**Quality-Controlled Multimodal Emotion Recognition in Conversations with Identity-Based Transfer Learning and MAMBA Fusion**|Zanxu Wang et.al.|[2511.14969](http://arxiv.org/abs/2511.14969)|null|
+|**2025-11-18**|**Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech**|Nam-Gyu Kim et.al.|[2511.14824](http://arxiv.org/abs/2511.14824)|null|
+|**2025-11-06**|**The Impact of Prosodic Segmentation on Speech Synthesis of Spontaneous Speech**|Julio Cesar Galdino et.al.|[2511.14779](http://arxiv.org/abs/2511.14779)|null|
 |**2025-11-18**|**Ground Truth Generation for Multilingual Historical NLP using LLMs**|Clovis Gladstone et.al.|[2511.14688](http://arxiv.org/abs/2511.14688)|null|
 |**2025-11-18**|**TTA: Transcribe, Translate and Alignment for Cross-lingual Speech Representation**|Wei Liu et.al.|[2511.14410](http://arxiv.org/abs/2511.14410)|null|
-|**2025-11-18**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
+|**2025-11-19**|**StreamingTalker: Audio-driven 3D Facial Animation with Autoregressive Diffusion Model**|Yifan Yang et.al.|[2511.14223](http://arxiv.org/abs/2511.14223)|null|
 |**2025-11-18**|**FxSearcher: gradient-free text-driven audio transformation**|Hojoon Ki et.al.|[2511.14138](http://arxiv.org/abs/2511.14138)|null|
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 |**2025-11-17**|**Passive Dementia Screening via Facial Temporal Micro-Dynamics Analysis of In-the-Wild Talking-Head Video**|Filippo Cenacchi. Longbing Cao et.al.|[2511.13802](http://arxiv.org/abs/2511.13802)|null|
@@ -1678,7 +1684,7 @@ layout: default
 |**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
 |**2025-11-07**|**Synthesizing speech with selected perceptual voice qualities - A case study with creaky voice**|Frederik Rautenberg et.al.|[2511.05143](http://arxiv.org/abs/2511.05143)|null|
 |**2025-11-06**|**PromptSep: Generative Audio Separation via Multimodal Prompting**|Yutong Wen et.al.|[2511.04623](http://arxiv.org/abs/2511.04623)|null|
-|**2025-11-05**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
+|**2025-11-19**|**Step-Audio-EditX Technical Report**|Chao Yan et.al.|[2511.03601](http://arxiv.org/abs/2511.03601)|null|
 |**2025-11-05**|**Seeing What You Say: Expressive Image Generation from Speech**|Jiyoung Lee et.al.|[2511.03423](http://arxiv.org/abs/2511.03423)|null|
 |**2025-11-05**|**TASU: Text-Only Alignment for Speech Understanding**|Jing Peng et.al.|[2511.03310](http://arxiv.org/abs/2511.03310)|null|
 |**2025-11-11**|**How to Evaluate Speech Translation with Source-Aware Neural MT Metrics**|Mauro Cettolo et.al.|[2511.03295](http://arxiv.org/abs/2511.03295)|null|
