@@ -11,6 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Neural Architecture Search for Quantum Autoencoders**|Hibah Agha et.al.|[2511.19246](http://arxiv.org/abs/2511.19246)|null|
+|**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|null|
+|**2025-11-24**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
+|**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
+|**2025-11-24**|**AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation**|Omar Garib et.al.|[2511.18718](http://arxiv.org/abs/2511.18718)|null|
+|**2025-11-23**|**A Multimodal Conversational Agent for Tabular Data Analysis**|Mohammad Nour Al Awad et.al.|[2511.18405](http://arxiv.org/abs/2511.18405)|null|
+|**2025-11-21**|**Point of Order: Action-Aware LLM Persona Modeling for Realistic Civic Simulation**|Scott Merrill et.al.|[2511.17813](http://arxiv.org/abs/2511.17813)|null|
+|**2025-11-12**|**Speech Recognition Model Improves Text-to-Speech Synthesis using Fine-Grained Reward**|Guansu Wang et.al.|[2511.17555](http://arxiv.org/abs/2511.17555)|null|
 |**2025-11-21**|**Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition**|Ayhan Kucukmanisa et.al.|[2511.17477](http://arxiv.org/abs/2511.17477)|null|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori et.al.|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
 |**2025-11-21**|**Investigating self-supervised representations for audio-visual deepfake detection**|Dragos-Alexandru Boldisor et.al.|[2511.17181](http://arxiv.org/abs/2511.17181)|null|
@@ -33,7 +41,7 @@ layout: default
 |**2025-11-17**|**Spatial Blind Spot: Auditory Motion Perception Deficits in Audio LLMs**|Zhe Sun et.al.|[2511.13273](http://arxiv.org/abs/2511.13273)|null|
 |**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|null|
 |**2025-11-16**|**Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans**|Hongbin Huang et.al.|[2511.12662](http://arxiv.org/abs/2511.12662)|null|
-|**2025-11-16**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|**[link](https://github.com/HITsz-TMG/Uni-MoE)**|
+|**2025-11-23**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|**[link](https://github.com/HITsz-TMG/Uni-MoE)**|
 |**2025-11-15**|**How Far Do SSL Speech Models Listen for Tone? Temporal Focus of Tone Representation under Low-resource Transfer**|Minu Kim et.al.|[2511.12285](http://arxiv.org/abs/2511.12285)|null|
 |**2025-11-15**|**Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets**|Huy M. Le et.al.|[2511.12255](http://arxiv.org/abs/2511.12255)|null|
 |**2025-11-12**|**Tighter Truncated Rectangular Prism Approximation for RNN Robustness Verification**|Xingqi Lin et.al.|[2511.11699](http://arxiv.org/abs/2511.11699)|null|
@@ -49,7 +57,7 @@ layout: default
 |**2025-11-11**|**Quantizing Whisper-small: How design choices affect ASR performance**|Arthur Söhler et.al.|[2511.08093](http://arxiv.org/abs/2511.08093)|null|
 |**2025-11-11**|**Speech Emotion Recognition with Phonation Excitation Information and Articulatory Kinematics**|Ziqian Zhang et.al.|[2511.07955](http://arxiv.org/abs/2511.07955)|null|
 |**2025-11-13**|**SpikCommander: A High-performance Spiking Transformer with Multi-view Learning for Efficient Speech Command Recognition**|Jiaqi Wang et.al.|[2511.07883](http://arxiv.org/abs/2511.07883)|null|
-|**2025-11-11**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
+|**2025-11-24**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
 |**2025-11-10**|**LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration**|Tung Vu et.al.|[2511.07552](http://arxiv.org/abs/2511.07552)|null|
 |**2025-11-10**|**Enabling Automatic Self-Talk Detection via Earables**|Euihyeok Lee et.al.|[2511.07493](http://arxiv.org/abs/2511.07493)|null|
 |**2025-11-11**|**Surgical Agent Orchestration Platform for Voice-directed Patient Data Interaction**|Hyeryun Park et.al.|[2511.07392](http://arxiv.org/abs/2511.07392)|null|
@@ -1641,13 +1649,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
+|**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
+|**2025-11-24**|**AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation**|Omar Garib et.al.|[2511.18718](http://arxiv.org/abs/2511.18718)|null|
+|**2025-11-23**|**InstructAudio: Unified speech and music generation with natural language instruction**|Chunyu Qiang et.al.|[2511.18487](http://arxiv.org/abs/2511.18487)|null|
+|**2025-11-23**|**A Multimodal Conversational Agent for Tabular Data Analysis**|Mohammad Nour Al Awad et.al.|[2511.18405](http://arxiv.org/abs/2511.18405)|null|
+|**2025-11-22**|**A superpersuasive autonomous policy debating system**|Allen Roush et.al.|[2511.17854](http://arxiv.org/abs/2511.17854)|null|
+|**2025-11-12**|**Speech Recognition Model Improves Text-to-Speech Synthesis using Fine-Grained Reward**|Guansu Wang et.al.|[2511.17555](http://arxiv.org/abs/2511.17555)|null|
 |**2025-11-21**|**AI in Music and Sound: Pedagogical Reflections, Post-Structuralist Approaches and Creative Outcomes in Seminar Practice**|Guilherme Coelho et.al.|[2511.17425](http://arxiv.org/abs/2511.17425)|null|
 |**2025-11-21**|**Robot Confirmation Generation and Action Planning Using Long-context Q-Former Integrated with Multimodal LLM**|Chiori Hori et.al.|[2511.17335](http://arxiv.org/abs/2511.17335)|null|
 |**2025-11-20**|**Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation**|Wei-Cheng Tseng et.al.|[2511.16757](http://arxiv.org/abs/2511.16757)|null|
 |**2025-11-20**|**Codec2Vec: Self-Supervised Speech Representation Learning Using Neural Speech Codecs**|Wei-Cheng Tseng et.al.|[2511.16639](http://arxiv.org/abs/2511.16639)|null|
 |**2025-11-20**|**SceneGuard: Training-Time Voice Protection with Scene-Consistent Audible Background Noise**|Rui Sang et.al.|[2511.16114](http://arxiv.org/abs/2511.16114)|null|
 |**2025-11-19**|**Step-Audio-R1 Technical Report**|Fei Tian et.al.|[2511.15848](http://arxiv.org/abs/2511.15848)|**[link](https://github.com/stepfun-ai/Step-Audio-R1)**|
-|**2025-11-19**|**PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback**|Sirui Chen et.al.|[2511.15253](http://arxiv.org/abs/2511.15253)|null|
+|**2025-11-24**|**PresentCoach: Dual-Agent Presentation Coaching through Exemplars and Interactive Feedback**|Sirui Chen et.al.|[2511.15253](http://arxiv.org/abs/2511.15253)|null|
 |**2025-11-18**|**Quality-Controlled Multimodal Emotion Recognition in Conversations with Identity-Based Transfer Learning and MAMBA Fusion**|Zanxu Wang et.al.|[2511.14969](http://arxiv.org/abs/2511.14969)|null|
 |**2025-11-18**|**Voiced-Aware Style Extraction and Style Direction Adjustment for Expressive Text-to-Speech**|Nam-Gyu Kim et.al.|[2511.14824](http://arxiv.org/abs/2511.14824)|null|
 |**2025-11-06**|**The Impact of Prosodic Segmentation on Speech Synthesis of Spontaneous Speech**|Julio Cesar Galdino et.al.|[2511.14779](http://arxiv.org/abs/2511.14779)|null|
@@ -1658,12 +1673,12 @@ layout: default
 |**2025-11-17**|**Human-centric Maintenance Process Through Integration of AI, Speech, and AR**|Parul Khanna et.al.|[2511.13918](http://arxiv.org/abs/2511.13918)|null|
 |**2025-11-17**|**Passive Dementia Screening via Facial Temporal Micro-Dynamics Analysis of In-the-Wild Talking-Head Video**|Filippo Cenacchi. Longbing Cao et.al.|[2511.13802](http://arxiv.org/abs/2511.13802)|null|
 |**2025-11-17**|**Computational Measurement of Political Positions: A Review of Text-Based Ideal Point Estimation Algorithms**|Patrick Parschan et.al.|[2511.13238](http://arxiv.org/abs/2511.13238)|null|
-|**2025-11-17**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
+|**2025-11-24**|**FoleyBench: A Benchmark For Video-to-Audio Models**|Satvik Dixit et.al.|[2511.13219](http://arxiv.org/abs/2511.13219)|null|
 |**2025-11-17**|**Distinguishing Repetition Disfluency from Morphological Reduplication in Bangla ASR Transcripts: A Novel Corpus and Benchmarking Analysis**|Zaara Zabeen Arpa et.al.|[2511.13159](http://arxiv.org/abs/2511.13159)|null|
 |**2025-11-17**|**A Smart-Glasses for Emergency Medical Services via Multimodal Multitask Learning**|Liuyi Jin et.al.|[2511.13078](http://arxiv.org/abs/2511.13078)|null|
 |**2025-11-16**|**Improving Direct Persian-English Speech-to-Speech Translation with Discrete Units and Synthetic Parallel Data**|Sina Rashidi et.al.|[2511.12690](http://arxiv.org/abs/2511.12690)|null|
 |**2025-11-16**|**Hi-Reco: High-Fidelity Real-Time Conversational Digital Humans**|Hongbin Huang et.al.|[2511.12662](http://arxiv.org/abs/2511.12662)|null|
-|**2025-11-16**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|**[link](https://github.com/HITsz-TMG/Uni-MoE)**|
+|**2025-11-23**|**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**|Yunxin Li et.al.|[2511.12609](http://arxiv.org/abs/2511.12609)|**[link](https://github.com/HITsz-TMG/Uni-MoE)**|
 |**2025-11-16**|**DenseAnnotate: Enabling Scalable Dense Caption Collection for Images and 3D Scenes via Spoken Descriptions**|Xiaoyu Lin et.al.|[2511.12452](http://arxiv.org/abs/2511.12452)|null|
 |**2025-11-15**|**VoiceCraft-X: Unifying Multilingual, Voice-Cloning Speech Synthesis and Speech Editing**|Zhisheng Zheng et.al.|[2511.12347](http://arxiv.org/abs/2511.12347)|null|
 |**2025-11-15**|**Fusionista2.0: Efficiency Retrieval System for Large-Scale Datasets**|Huy M. Le et.al.|[2511.12255](http://arxiv.org/abs/2511.12255)|null|
@@ -1685,7 +1700,7 @@ layout: default
 |**2025-11-11**|**ParliaBench: An Evaluation and Benchmarking Framework for LLM-Generated Parliamentary Speech**|Marios Koniaris et.al.|[2511.08247](http://arxiv.org/abs/2511.08247)|null|
 |**2025-11-11**|**State of the Art in Text Classification for South Slavic Languages: Fine-Tuning or Prompting?**|Taja Kuzman Pungeršek et.al.|[2511.07989](http://arxiv.org/abs/2511.07989)|null|
 |**2025-11-11**|**SpeechJudge: Towards Human-Level Judgment for Speech Naturalness**|Xueyao Zhang et.al.|[2511.07931](http://arxiv.org/abs/2511.07931)|null|
-|**2025-11-11**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
+|**2025-11-24**|**SynTTS-Commands: A Public Dataset for On-Device KWS via TTS-Synthesized Multilingual Speech**|Lu Gan et.al.|[2511.07821](http://arxiv.org/abs/2511.07821)|null|
 |**2025-11-10**|**Conditional Diffusion as Latent Constraints for Controllable Symbolic Music Generation**|Matteo Pettenó et.al.|[2511.07156](http://arxiv.org/abs/2511.07156)|null|
 |**2025-11-10**|**Generating Novel and Realistic Speakers for Voice Conversion**|Meiying Melissa Chen et.al.|[2511.07135](http://arxiv.org/abs/2511.07135)|null|
 |**2025-11-10**|**On the Joint Minimization of Regularization Loss Functions in Deep Variational Bayesian Methods for Attribute-Controlled Symbolic Music Generation**|Matteo Pettenó et.al.|[2511.07118](http://arxiv.org/abs/2511.07118)|null|
