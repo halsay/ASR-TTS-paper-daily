@@ -11,6 +11,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**Scaling HuBERT for African Languages: From Base to Large and XL**|Antoine Caubrière et.al.|[2511.23370](http://arxiv.org/abs/2511.23370)|null|
+|**2025-11-28**|**HPSU: A Benchmark for Human-Level Perception in Real-World Spoken Speech Understanding**|Chen Li et.al.|[2511.23178](http://arxiv.org/abs/2511.23178)|null|
+|**2025-11-28**|**Group-Aware Partial Model Merging for Children's Automatic Speech Recognition**|Thomas Rolland et.al.|[2511.23098](http://arxiv.org/abs/2511.23098)|null|
+|**2025-11-27**|**Modeling Romanized Hindi and Bengali: Dataset Creation and Multilingual LLM Integration**|Kanchon Gharami et.al.|[2511.22769](http://arxiv.org/abs/2511.22769)|null|
+|**2025-11-27**|**Do You See What I Say? Generalizable Deepfake Detection based on Visual Speech Recognition**|Maheswar Bora et.al.|[2511.22443](http://arxiv.org/abs/2511.22443)|null|
+|**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
+|**2025-11-16**|**On the Cross-lingual Transferability of Pre-trained wav2vec2-based Models**|Jonatas Grosman et.al.|[2511.21704](http://arxiv.org/abs/2511.21704)|null|
 |**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
 |**2025-11-26**|**ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features**|Ye Bhone Lin et.al.|[2511.21088](http://arxiv.org/abs/2511.21088)|null|
 |**2025-11-26**|**Towards Audio Token Compression in Large Audio Language Models**|Saurabhchand Bhati et.al.|[2511.20973](http://arxiv.org/abs/2511.20973)|null|
@@ -21,7 +28,7 @@ layout: default
 |**2025-11-25**|**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**|Xiangyu Zhao et.al.|[2511.19877](http://arxiv.org/abs/2511.19877)|null|
 |**2025-11-24**|**Neural Architecture Search for Quantum Autoencoders**|Hibah Agha et.al.|[2511.19246](http://arxiv.org/abs/2511.19246)|null|
 |**2025-11-24**|**AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization**|Christos Koutlis et.al.|[2511.18993](http://arxiv.org/abs/2511.18993)|null|
-|**2025-11-25**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
+|**2025-11-27**|**PrismAudio: Decomposed Chain-of-Thoughts and Multi-dimensional Rewards for Video-to-Audio Generation**|Huadai Liu et.al.|[2511.18833](http://arxiv.org/abs/2511.18833)|null|
 |**2025-11-24**|**Context-Aware Whisper for Arabic ASR Under Linguistic Varieties**|Bashar Talafha et.al.|[2511.18774](http://arxiv.org/abs/2511.18774)|null|
 |**2025-11-24**|**AIRHILT: A Human-in-the-Loop Testbed for Multimodal Conflict Detection in Aviation**|Omar Garib et.al.|[2511.18718](http://arxiv.org/abs/2511.18718)|null|
 |**2025-11-23**|**A Multimodal Conversational Agent for Tabular Data Analysis**|Mohammad Nour Al Awad et.al.|[2511.18405](http://arxiv.org/abs/2511.18405)|null|
@@ -1657,6 +1664,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-28**|**CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation**|Fengyi Fang et.al.|[2511.22863](http://arxiv.org/abs/2511.22863)|null|
+|**2025-11-27**|**PURE Codec: Progressive Unfolding of Residual Entropy for Speech Codec Learning**|Jiatong Shi et.al.|[2511.22687](http://arxiv.org/abs/2511.22687)|null|
+|**2025-11-27**|**Joint Speech and Text Training for LLM-Based End-to-End Spoken Dialogue State Tracking**|Katia Vendrame et.al.|[2511.22503](http://arxiv.org/abs/2511.22503)|null|
+|**2025-11-27**|**GLA-Grad++: An Improved Griffin-Lim Guided Diffusion Model for Speech Synthesis**|Teysir Baoueb et.al.|[2511.22293](http://arxiv.org/abs/2511.22293)|null|
+|**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
+|**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
+|**2025-11-26**|**Advancing Marine Bioacoustics with Deep Generative Models: A Hybrid Augmentation Strategy for Southern Resident Killer Whale Detection**|Bruno Padovese et.al.|[2511.21872](http://arxiv.org/abs/2511.21872)|null|
+|**2025-11-21**|**Decoding inner speech with an end-to-end brain-to-text neural interface**|Yizi Zhang et.al.|[2511.21740](http://arxiv.org/abs/2511.21740)|null|
 |**2025-11-26**|**Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation**|Lina Conti et.al.|[2511.21517](http://arxiv.org/abs/2511.21517)|null|
 |**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
 |**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974](http://arxiv.org/abs/2511.20974)|null|
@@ -1734,7 +1749,7 @@ layout: default
 |**2025-11-03**|**Toward Objective and Interpretable Prosody Evaluation in Text-to-Speech: A Linguistically Motivated Approach**|Cedric Chan et.al.|[2511.02104](http://arxiv.org/abs/2511.02104)|null|
 |**2025-11-03**|**SeaLLMs-Audio: Large Audio-Language Models for Southeast Asia**|Chaoqun Liu et.al.|[2511.01670](http://arxiv.org/abs/2511.01670)|null|
 |**2025-11-03**|**Speech-DRAME: A Framework for Human-Aligned Benchmarks in Speech Role-Play**|Jiatong Shi et.al.|[2511.01261](http://arxiv.org/abs/2511.01261)|null|
-|**2025-10-31**|**LongCat-Flash-Omni Technical Report**|Meituan LongCat Team et.al.|[2511.00279](http://arxiv.org/abs/2511.00279)|null|
+|**2025-11-28**|**LongCat-Flash-Omni Technical Report**|Meituan LongCat Team et.al.|[2511.00279](http://arxiv.org/abs/2511.00279)|null|
 |**2025-10-31**|**Reconstructing Unseen Sentences from Speech-related Biosignals for Open-vocabulary Neural Communication**|Deok-Seon Kim et.al.|[2510.27247](http://arxiv.org/abs/2510.27247)|null|
 |**2025-10-30**|**UniTok-Audio: A Unified Audio Generation Framework via Generative Modeling on Discrete Codec Tokens**|Chengwei Liu et.al.|[2510.26372](http://arxiv.org/abs/2510.26372)|null|
 |**2025-10-30**|**SP-MCQA: Evaluating Intelligibility of TTS Beyond the Word Level**|Hitomi Jin Ling Tee et.al.|[2510.26190](http://arxiv.org/abs/2510.26190)|null|
@@ -1744,7 +1759,7 @@ layout: default
 |**2025-10-30**|**Evaluating Emotion Recognition in Spoken Language Models on Emotionally Incongruent Speech**|Pedro Corrêa et.al.|[2510.25054](http://arxiv.org/abs/2510.25054)|null|
 |**2025-10-28**|**POWSM: A Phonetic Open Whisper-Style Speech Foundation Model**|Chin-Jou Li et.al.|[2510.24992](http://arxiv.org/abs/2510.24992)|null|
 |**2025-11-25**|**Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation**|Inclusion AI et.al.|[2510.24821](http://arxiv.org/abs/2510.24821)|null|
-|**2025-10-28**|**STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence**|Zihan Liu et.al.|[2510.24693](http://arxiv.org/abs/2510.24693)|**[link](https://github.com/InternLM/StarBench)**|
+|**2025-11-28**|**STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D Intelligence**|Zihan Liu et.al.|[2510.24693](http://arxiv.org/abs/2510.24693)|**[link](https://github.com/InternLM/StarBench)**|
 |**2025-10-28**|**Levée d'ambiguïtés par grammaires locales**|Eric G. C. Laporte et.al.|[2510.24530](http://arxiv.org/abs/2510.24530)|null|
 |**2025-10-28**|**Bayesian Speech synthesizers Can Learn from Multiple Teachers**|Ziyang Zhang et.al.|[2510.24372](http://arxiv.org/abs/2510.24372)|null|
 |**2025-10-28**|**Abjad AI at NADI 2025: CATT-Whisper: Multimodal Diacritic Restoration Using Text and Speech Representations**|Ahmad Ghannam et.al.|[2510.24247](http://arxiv.org/abs/2510.24247)|null|
