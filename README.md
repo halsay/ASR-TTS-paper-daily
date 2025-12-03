@@ -15,6 +15,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
+|**2025-12-02**|**Bangla Hate Speech Classification with Fine-tuned Transformer Models**|Yalda Keivan Jafari et.al.|[2512.02845](http://arxiv.org/abs/2512.02845)|null|
+|**2025-12-02**|**Reasoning-Aware Multimodal Fusion for Hateful Video Detection**|Shuonan Yang et.al.|[2512.02743](http://arxiv.org/abs/2512.02743)|null|
+|**2025-12-02**|**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**|Junwon Lee et.al.|[2512.02650](http://arxiv.org/abs/2512.02650)|null|
+|**2025-12-01**|**See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models**|Le Thien Phuc Nguyen et.al.|[2512.02231](http://arxiv.org/abs/2512.02231)|null|
+|**2025-12-01**|**Swivuriso: The South African Next Voices Multilingual Speech Dataset**|Vukosi Marivatee et.al.|[2512.02201](http://arxiv.org/abs/2512.02201)|null|
+|**2025-11-18**|**On the Difficulty of Token-Level Modeling of Dysfluency and Fluency Shaping Artifacts**|Kashaf Gulzar et.al.|[2512.02027](http://arxiv.org/abs/2512.02027)|null|
 |**2025-12-01**|**MAC-SLU: Multi-Intent Automotive Cabin Spoken Language Understanding Benchmark**|Yuezhang Peng et.al.|[2512.01603](http://arxiv.org/abs/2512.01603)|null|
 |**2025-12-01**|**ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation**|Yuezhang Peng et.al.|[2512.01267](http://arxiv.org/abs/2512.01267)|null|
 |**2025-11-28**|**OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion**|Sai Koneru et.al.|[2512.00234](http://arxiv.org/abs/2512.00234)|**[link](https://github.com/saikoneru/OmniFusion)**|
@@ -1673,6 +1680,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-02**|**BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion**|Sai Koneru et.al.|[2512.02817](http://arxiv.org/abs/2512.02817)|null|
+|**2025-12-02**|**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**|Junwon Lee et.al.|[2512.02650](http://arxiv.org/abs/2512.02650)|null|
+|**2025-12-02**|**Spoken Conversational Agents with Large Language Models**|Chao-Han Huck Yang et.al.|[2512.02593](http://arxiv.org/abs/2512.02593)|null|
 |**2025-12-01**|**MCAT: Scaling Many-to-Many Speech-to-Text Translation with MLLMs to 70 Languages**|Yexing Du et.al.|[2512.01512](http://arxiv.org/abs/2512.01512)|null|
 |**2025-12-01**|**fMRI2GES: Co-speech Gesture Reconstruction from fMRI Signal with Dual Brain Decoding Alignment**|Chunzheng Zhu et.al.|[2512.01189](http://arxiv.org/abs/2512.01189)|null|
 |**2025-11-30**|**Arabic TTS with FastPitch: Reproducible Baselines, Adversarial Training, and Oversmoothing Analysis**|Lars Nippert et.al.|[2512.00937](http://arxiv.org/abs/2512.00937)|null|
