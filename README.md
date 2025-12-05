@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
+|**2025-12-04**|**Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention**|Cong Wang et.al.|[2512.04551](http://arxiv.org/abs/2512.04551)|null|
 |**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
 |**2025-12-02**|**MAViD: A Multimodal Framework for Audio-Visual Dialogue Understanding and Generation**|Youxin Pang et.al.|[2512.03034](http://arxiv.org/abs/2512.03034)|null|
 |**2025-12-02**|**Bangla Hate Speech Classification with Fine-tuned Transformer Models**|Yalda Keivan Jafari et.al.|[2512.02845](http://arxiv.org/abs/2512.02845)|null|
@@ -1681,6 +1683,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|null|
+|**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
+|**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
 |**2025-12-02**|**How to DP-fy Your Data: A Practical Guide to Generating Synthetic Data With Differential Privacy**|Natalia Ponomareva et.al.|[2512.03238](http://arxiv.org/abs/2512.03238)|null|
 |**2025-12-02**|**BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion**|Sai Koneru et.al.|[2512.02817](http://arxiv.org/abs/2512.02817)|null|
 |**2025-12-02**|**Hear What Matters! Text-conditioned Selective Video-to-Audio Generation**|Junwon Lee et.al.|[2512.02650](http://arxiv.org/abs/2512.02650)|null|
