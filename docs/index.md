@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-04**|**Multi-Loss Learning for Speech Emotion Recognition with Energy-Adaptive Mixup and Frame-Level Attention**|Cong Wang et.al.|[2512.04551](http://arxiv.org/abs/2512.04551)|null|
 |**2025-12-02**|**Comparing Unsupervised and Supervised Semantic Speech Tokens: A Case Study of Child ASR**|Mohan Shi et.al.|[2512.03301](http://arxiv.org/abs/2512.03301)|null|
@@ -1677,6 +1678,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures**|Panuthep Tasawong et.al.|[2512.05501](http://arxiv.org/abs/2512.05501)|null|
+|**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
 |**2025-12-04**|**HiPPO: Exploring A Novel Hierarchical Pronunciation Assessment Approach for Spoken Languages**|Bi-Cheng Yan et.al.|[2512.04964](http://arxiv.org/abs/2512.04964)|null|
 |**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720](http://arxiv.org/abs/2512.04720)|null|
 |**2025-12-04**|**RRPO: Robust Reward Policy Optimization for LLM-based Emotional TTS**|Cong Wang et.al.|[2512.04552](http://arxiv.org/abs/2512.04552)|null|
@@ -1696,7 +1699,7 @@ layout: default
 |**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
 |**2025-11-27**|**Layover or Direct Flight: Rethinking Audio-Guided Image Segmentation**|Joel Alberto Santos et.al.|[2511.22025](http://arxiv.org/abs/2511.22025)|null|
 |**2025-11-26**|**Advancing Marine Bioacoustics with Deep Generative Models: A Hybrid Augmentation Strategy for Southern Resident Killer Whale Detection**|Bruno Padovese et.al.|[2511.21872](http://arxiv.org/abs/2511.21872)|null|
-|**2025-11-21**|**Decoding inner speech with an end-to-end brain-to-text neural interface**|Yizi Zhang et.al.|[2511.21740](http://arxiv.org/abs/2511.21740)|null|
+|**2025-12-05**|**Decoding inner speech with an end-to-end brain-to-text neural interface**|Yizi Zhang et.al.|[2511.21740](http://arxiv.org/abs/2511.21740)|null|
 |**2025-11-26**|**Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation**|Lina Conti et.al.|[2511.21517](http://arxiv.org/abs/2511.21517)|null|
 |**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
 |**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974](http://arxiv.org/abs/2511.20974)|null|
