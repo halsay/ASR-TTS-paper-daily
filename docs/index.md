@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Robust Speech Activity Detection in the Presence of Singing Voice**|Philipp Grundhuber et.al.|[2512.09713](http://arxiv.org/abs/2512.09713)|null|
+|**2025-12-02**|**Enhancing Automatic Speech Recognition Through Integrated Noise Detection Architecture**|Karamvir Singh et.al.|[2512.08973](http://arxiv.org/abs/2512.08973)|null|
 |**2025-12-08**|**A Simple Method to Enhance Pre-trained Language Models with Speech Tokens for Classification**|Nicolas Calbucura et.al.|[2512.07571](http://arxiv.org/abs/2512.07571)|null|
 |**2025-12-08**|**Efficient ASR for Low-Resource Languages: Leveraging Cross-Lingual Unlabeled Data**|Srihari Bandarupalli et.al.|[2512.07277](http://arxiv.org/abs/2512.07277)|null|
 |**2025-12-06**|**Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction**|Kush Revankar et.al.|[2512.06485](http://arxiv.org/abs/2512.06485)|null|
@@ -1682,7 +1684,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|null|
+|**2025-12-10**|**DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance**|Kang Yin et.al.|[2512.09504](http://arxiv.org/abs/2512.09504)|null|
+|**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](http://arxiv.org/abs/2512.09000)|null|
+|**2025-12-08**|**Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS**|Mahta Fetrat et.al.|[2512.08006](http://arxiv.org/abs/2512.08006)|**[link](https://github.com/MahtaFetrat/Piper-with-LCA-Phonemizer)**|
 |**2025-12-06**|**Sanvaad: A Multimodal Accessibility Framework for ISL Recognition and Voice-Based Interaction**|Kush Revankar et.al.|[2512.06485](http://arxiv.org/abs/2512.06485)|null|
 |**2025-12-05**|**SEA-SafeguardBench: Evaluating AI Safety in SEA Languages and Cultures**|Panuthep Tasawong et.al.|[2512.05501](http://arxiv.org/abs/2512.05501)|null|
 |**2025-11-23**|**SyncVoice: Towards Video Dubbing with Vision-Augmented Pretrained TTS Model**|Kaidi Wang et.al.|[2512.05126](http://arxiv.org/abs/2512.05126)|null|
