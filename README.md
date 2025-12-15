@@ -15,6 +15,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-12**|**All-in-One ASR: Unifying Encoder-Decoder Models of CTC, Attention, and Transducer in Dual-Mode ASR**|Takafumi Moriya et.al.|[2512.11543](http://arxiv.org/abs/2512.11543)|null|
+|**2025-12-12**|**The Affective Bridge: Unifying Feature Representations for Speech Deepfake Detection**|Yupei Li et.al.|[2512.11241](http://arxiv.org/abs/2512.11241)|null|
+|**2025-12-11**|**The TCG CREST -- RKMVERI Submission for the NCIIPC Startup India AI Grand Challenge**|Nikhil Raghav et.al.|[2512.11009](http://arxiv.org/abs/2512.11009)|null|
+|**2025-11-30**|**Benchmarking Automatic Speech Recognition Models for African Languages**|Alvin Nahabwe et.al.|[2512.10968](http://arxiv.org/abs/2512.10968)|null|
+|**2025-11-30**|**ASR Under the Stethoscope: Evaluating Biases in Clinical Speech Recognition across Indian Languages**|Subham Kumar et.al.|[2512.10967](http://arxiv.org/abs/2512.10967)|null|
 |**2025-12-11**|**TRIDENT: A Redundant Architecture for Caribbean-Accented Emergency Speech Triage**|Elroy Galbraith et.al.|[2512.10741](http://arxiv.org/abs/2512.10741)|null|
 |**2025-12-10**|**Robust Speech Activity Detection in the Presence of Singing Voice**|Philipp Grundhuber et.al.|[2512.09713](http://arxiv.org/abs/2512.09713)|null|
 |**2025-12-02**|**Enhancing Automatic Speech Recognition Through Integrated Noise Detection Architecture**|Karamvir Singh et.al.|[2512.08973](http://arxiv.org/abs/2512.08973)|null|
