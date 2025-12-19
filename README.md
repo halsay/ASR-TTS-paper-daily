@@ -15,11 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
 |**2025-12-16**|**ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples**|Yunfei Yang et.al.|[2512.15641](http://arxiv.org/abs/2512.15641)|null|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**Scalable Frameworks for Real-World Audio-Visual Speech Recognition**|Sungnyun Kim et.al.|[2512.14083](http://arxiv.org/abs/2512.14083)|null|
 |**2025-12-15**|**Reproducing and Dissecting Denoising Language Models for Speech Recognition**|Dorian Koch et.al.|[2512.13576](http://arxiv.org/abs/2512.13576)|null|
-|**2025-12-14**|**Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models (ASTA)**|Mohammad Jalili Torkamani et.al.|[2512.12769](http://arxiv.org/abs/2512.12769)|null|
+|**2025-12-18**|**Adaptive Edge-Cloud Inference for Speech-to-Action Systems Using ASR and Large Language Models**|Mohammad Jalili Torkamani et.al.|[2512.12769](http://arxiv.org/abs/2512.12769)|null|
 |**2025-12-13**|**System X: A Mobile Voice-Based AI System for EMR Generation and Clinical Decision Support in Low-Resource Maternal Healthcare**|Maryam Mustafa et.al.|[2512.12240](http://arxiv.org/abs/2512.12240)|null|
 |**2025-12-12**|**All-in-One ASR: Unifying Encoder-Decoder Models of CTC, Attention, and Transducer in Dual-Mode ASR**|Takafumi Moriya et.al.|[2512.11543](http://arxiv.org/abs/2512.11543)|null|
 |**2025-12-12**|**The Affective Bridge: Unifying Feature Representations for Speech Deepfake Detection**|Yupei Li et.al.|[2512.11241](http://arxiv.org/abs/2512.11241)|null|
@@ -1702,11 +1703,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|**[link](https://github.com/sarapapi/hearing2translate)**|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
-|**2025-12-16**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
+|**2025-12-18**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
 |**2025-12-15**|**Reproducing and Dissecting Denoising Language Models for Speech Recognition**|Dorian Koch et.al.|[2512.13576](http://arxiv.org/abs/2512.13576)|null|
-|**2025-12-15**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251](http://arxiv.org/abs/2512.13251)|null|
+|**2025-12-18**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251](http://arxiv.org/abs/2512.13251)|null|
 |**2025-12-11**|**CompanionCast: A Multi-Agent Conversational AI Framework with Spatial Audio for Social Co-Viewing Experiences**|Yiyang Wang et.al.|[2512.10918](http://arxiv.org/abs/2512.10918)|null|
 |**2025-12-10**|**DMP-TTS: Disentangled multi-modal Prompting for Controllable Text-to-Speech with Chained Guidance**|Kang Yin et.al.|[2512.09504](http://arxiv.org/abs/2512.09504)|null|
 |**2025-12-09**|**LG Uplus System with Multi-Speaker IDs and Discriminator-based Sub-Judges for the WildSpoof Challenge**|Jinyoung Park et.al.|[2512.09000](http://arxiv.org/abs/2512.09000)|null|
