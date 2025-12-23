@@ -15,12 +15,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-22**|**From Speech to Subtitles: Evaluating ASR Models in Subtitling Italian Television Programs**|Alessandro Lucca et.al.|[2512.19161](http://arxiv.org/abs/2512.19161)|null|
+|**2025-12-22**|**Enhancing Fully Formatted End-to-End Speech Recognition with Knowledge Distillation via Multi-Codebook Vector Quantization**|Jian You et.al.|[2512.18967](http://arxiv.org/abs/2512.18967)|null|
+|**2025-12-20**|**Phoneme-based speech recognition driven by large language models and sampling marginalization**|Te Ma et.al.|[2512.18371](http://arxiv.org/abs/2512.18371)|null|
+|**2025-12-20**|**TICL+: A Case Study On Speech In-Context Learning for Children's Speech Recognition**|Haolong Zheng et.al.|[2512.18263](http://arxiv.org/abs/2512.18263)|null|
+|**2025-11-27**|**Supplementary Resources and Analysis for Automatic Speech Recognition Systems Trained on the Loquacious Dataset**|Nick Rossenbach et.al.|[2512.17915](http://arxiv.org/abs/2512.17915)|null|
 |**2025-12-19**|**Peeking Into The Future For Contextual Biasing**|Ramaneswaran Selvakumar et.al.|[2512.17657](http://arxiv.org/abs/2512.17657)|null|
 |**2025-12-19**|**When De-noising Hurts: A Systematic Study of Speech Enhancement Effects on Modern Medical ASR Systems**|Sujal Chondhekar et.al.|[2512.17562](http://arxiv.org/abs/2512.17562)|null|
 |**2025-12-19**|**Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models**|Ali Alsayegh et.al.|[2512.17474](http://arxiv.org/abs/2512.17474)|null|
 |**2025-12-19**|**Incorporating Error Level Noise Embedding for Improving LLM-Assisted Robustness in Persian Speech Recognition**|Zahra Rahmani et.al.|[2512.17247](http://arxiv.org/abs/2512.17247)|null|
 |**2025-11-04**|**V-Agent: An Interactive Video Search System Using Vision-Language Models**|SunYoung Park et.al.|[2512.16925](http://arxiv.org/abs/2512.16925)|null|
-|**2025-12-18**|**Bridging the Reality Gap: Efficient Adaptation of ASR systems for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
+|**2025-12-22**|**Navigating the Reality Gap: Privacy-Preserving Adaptation of ASR for Challenging Low-Resource Domains**|Darshil Chauhan et.al.|[2512.16401](http://arxiv.org/abs/2512.16401)|null|
 |**2025-12-16**|**ComMark: Covert and Robust Black-Box Model Watermarking with Compressed Samples**|Yunfei Yang et.al.|[2512.15641](http://arxiv.org/abs/2512.15641)|null|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**Scalable Frameworks for Real-World Audio-Visual Speech Recognition**|Sungnyun Kim et.al.|[2512.14083](http://arxiv.org/abs/2512.14083)|null|
@@ -1708,6 +1713,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-21**|**Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform**|Yichuan Zhang et.al.|[2512.18791](http://arxiv.org/abs/2512.18791)|null|
+|**2025-12-21**|**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**|Pengchao Feng et.al.|[2512.18699](http://arxiv.org/abs/2512.18699)|null|
 |**2025-12-19**|**Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability**|Tingxiao Zhou et.al.|[2512.17356](http://arxiv.org/abs/2512.17356)|null|
 |**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
 |**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|**[link](https://github.com/sarapapi/hearing2translate)**|
