@@ -69,7 +69,7 @@
 |**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
 |**2025-11-26**|**ASR Error Correction in Low-Resource Burmese with Alignment-Enhanced Transformers using Phonetic Features**|Ye Bhone Lin et.al.|[2511.21088](http://arxiv.org/abs/2511.21088)|null|
 |**2025-11-26**|**Towards Audio Token Compression in Large Audio Language Models**|Saurabhchand Bhati et.al.|[2511.20973](http://arxiv.org/abs/2511.20973)|null|
-|**2025-11-26**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|**[link](https://github.com/SingingSDS/SingingSDS)**|
+|**2025-12-24**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|**[link](https://github.com/SingingSDS/SingingSDS)**|
 |**2025-11-25**|**Bridging the Language Gap: Synthetic Voice Diversity via Latent Mixup for Equitable Speech Recognition**|Wesley Bian et.al.|[2511.20534](http://arxiv.org/abs/2511.20534)|null|
 |**2025-11-25**|**Mispronunciation Detection and Diagnosis Without Model Training: A Retrieval-Based Approach**|Huu Tuong Tu et.al.|[2511.20107](http://arxiv.org/abs/2511.20107)|null|
 |**2025-11-25**|**EM2LDL: A Multilingual Speech Corpus for Mixed Emotion Recognition through Label Distribution Learning**|Xingfeng Li et.al.|[2511.20106](http://arxiv.org/abs/2511.20106)|null|
@@ -1719,7 +1719,7 @@
 |**2025-12-21**|**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**|Pengchao Feng et.al.|[2512.18699](http://arxiv.org/abs/2512.18699)|null|
 |**2025-12-19**|**Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability**|Tingxiao Zhou et.al.|[2512.17356](http://arxiv.org/abs/2512.17356)|null|
 |**2025-12-19**|**Robust TTS Training via Self-Purifying Flow Matching for the WildSpoof 2026 TTS Track**|June Young Yi et.al.|[2512.17293](http://arxiv.org/abs/2512.17293)|null|
-|**2025-12-18**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|**[link](https://github.com/sarapapi/hearing2translate)**|
+|**2025-12-24**|**Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs**|Sara Papi et.al.|[2512.16378](http://arxiv.org/abs/2512.16378)|**[link](https://github.com/sarapapi/hearing2translate)**|
 |**2025-12-16**|**Adapting Speech Language Model to Singing Voice Synthesis**|Yiwen Zhao et.al.|[2512.14657](http://arxiv.org/abs/2512.14657)|null|
 |**2025-12-16**|**GLM-TTS Technical Report**|Jiayan Cui et.al.|[2512.14291](http://arxiv.org/abs/2512.14291)|null|
 |**2025-12-18**|**A stylometric analysis of speaker attribution from speech transcripts**|Cristina Aggazzotti et.al.|[2512.13667](http://arxiv.org/abs/2512.13667)|null|
@@ -1755,7 +1755,7 @@
 |**2025-11-26**|**Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation**|Lina Conti et.al.|[2511.21517](http://arxiv.org/abs/2511.21517)|null|
 |**2025-11-26**|**Multi-Reward GRPO for Stable and Prosodic Single-Codebook TTS LLMs at Scale**|Yicheng Zhong et.al.|[2511.21270](http://arxiv.org/abs/2511.21270)|null|
 |**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974](http://arxiv.org/abs/2511.20974)|null|
-|**2025-11-26**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|**[link](https://github.com/SingingSDS/SingingSDS)**|
+|**2025-12-24**|**SingingSDS: A Singing-Capable Spoken Dialogue System for Conversational Roleplay Applications**|Jionghao Han et.al.|[2511.20972](http://arxiv.org/abs/2511.20972)|**[link](https://github.com/SingingSDS/SingingSDS)**|
 |**2025-11-25**|**Continual Audio Deepfake Detection via Universal Adversarial Perturbation**|Wangjie Li et.al.|[2511.19974](http://arxiv.org/abs/2511.19974)|null|
 |**2025-11-25**|**It Hears, It Sees too: Multi-Modal LLM for Depression Detection By Integrating Visual Understanding into Audio Language Models**|Xiangyu Zhao et.al.|[2511.19877](http://arxiv.org/abs/2511.19877)|null|
 |**2025-11-24**|**Dynamic Multi-Species Bird Soundscape Generation with Acoustic Patterning and 3D Spatialization**|Ellie L. Zhang et.al.|[2511.19275](http://arxiv.org/abs/2511.19275)|null|
