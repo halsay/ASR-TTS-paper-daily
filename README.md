@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**SLM-TTA: A Framework for Test-Time Adaptation of Generative Spoken Language Models**|Yuan-Kuei Wu et.al.|[2512.24739](http://arxiv.org/abs/2512.24739)|null|
 |**2025-12-29**|**PROFASR-BENCH: A Benchmark for Context-Conditioned ASR in High-Stakes Professional Speech**|Deepak Babu Piskala et.al.|[2512.23686](http://arxiv.org/abs/2512.23686)|null|
 |**2025-12-17**|**Marco-ASR: A Principled and Metric-Driven Framework for Fine-Tuning Large-Scale ASR Models for Domain Adaptation**|Xuanfan Ni et.al.|[2512.22165](http://arxiv.org/abs/2512.22165)|null|
 |**2025-12-14**|**EEG-to-Voice Decoding of Spoken and Imagined speech Using Non-Invasive EEG**|Hanbeot Park et.al.|[2512.22146](http://arxiv.org/abs/2512.22146)|null|
@@ -1722,7 +1723,7 @@
 |**2025-12-29**|**AI4Reading: Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration**|Minjiang Huang et.al.|[2512.23300](http://arxiv.org/abs/2512.23300)|null|
 |**2025-12-27**|**ManchuTTS: Towards High-Quality Manchu Speech Synthesis via Flow Matching and Hierarchical Text Representation**|Suhua Wang et.al.|[2512.22491](http://arxiv.org/abs/2512.22491)|null|
 |**2025-12-25**|**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**|Most. Sharmin Sultana Samu et.al.|[2512.21702](http://arxiv.org/abs/2512.21702)|null|
-|**2025-12-26**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
+|**2025-12-30**|**Fun-Audio-Chat Technical Report**|Tongyi Fun Team et.al.|[2512.20156](http://arxiv.org/abs/2512.20156)|null|
 |**2025-12-21**|**Smark: A Watermark for Text-to-Speech Diffusion Models via Discrete Wavelet Transform**|Yichuan Zhang et.al.|[2512.18791](http://arxiv.org/abs/2512.18791)|null|
 |**2025-12-21**|**Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis**|Pengchao Feng et.al.|[2512.18699](http://arxiv.org/abs/2512.18699)|null|
 |**2025-12-19**|**Training Text-to-Speech Model with Purely Synthetic Data: Feasibility, Sensitivity, and Generalization Capability**|Tingxiao Zhou et.al.|[2512.17356](http://arxiv.org/abs/2512.17356)|null|
