@@ -11,8 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-08**|**LLMs-Integrated Automatic Hate Speech Recognition Using Controllable Text Generation Models**|Ryutaro Oshima et.al.|[2601.04654](http://arxiv.org/abs/2601.04654)|null|
+|**2026-01-08**|**WESR: Scaling and Evaluating Word-level Event-Speech Recognition**|Chenchen Yang et.al.|[2601.04508](http://arxiv.org/abs/2601.04508)|null|
+|**2026-01-08**|**Latent-Level Enhancement with Flow Matching for Robust Automatic Speech Recognition**|Da-Hee Yang et.al.|[2601.04459](http://arxiv.org/abs/2601.04459)|null|
 |**2026-01-07**|**Stuttering-Aware Automatic Speech Recognition for Indonesian Language**|Fadhil Muhammad et.al.|[2601.03727](http://arxiv.org/abs/2601.03727)|null|
-|**2026-01-07**|**TellWhisper: Tell Whisper Who Speaks When**|Yifan Hu et.al.|[2601.03712](http://arxiv.org/abs/2601.03712)|null|
+|**2026-01-08**|**TellWhisper: Tell Whisper Who Speaks When**|Yifan Hu et.al.|[2601.03712](http://arxiv.org/abs/2601.03712)|null|
 |**2026-01-06**|**Linear Script Representations in Speech Foundation Models Enable Zero-Shot Transliteration**|Ryan Soh-Eun Shim et.al.|[2601.02906](http://arxiv.org/abs/2601.02906)|null|
 |**2026-01-06**|**Multi-channel multi-speaker transformer for speech recognition**|Guo Yifan et.al.|[2601.02688](http://arxiv.org/abs/2601.02688)|null|
 |**2026-01-05**|**Dynamic Quantization Error Propagation in Encoder-Decoder ASR Quantization**|Xinyu Wang et.al.|[2601.02455](http://arxiv.org/abs/2601.02455)|null|
@@ -1727,7 +1730,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-07**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888](http://arxiv.org/abs/2601.03888)|null|
+|**2026-01-08**|**FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions**|Dekun Chen et.al.|[2601.04656](http://arxiv.org/abs/2601.04656)|null|
+|**2026-01-08**|**LLMs-Integrated Automatic Hate Speech Recognition Using Controllable Text Generation Models**|Ryutaro Oshima et.al.|[2601.04654](http://arxiv.org/abs/2601.04654)|null|
+|**2026-01-08**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888](http://arxiv.org/abs/2601.03888)|null|
 |**2026-01-07**|**Stuttering-Aware Automatic Speech Recognition for Indonesian Language**|Fadhil Muhammad et.al.|[2601.03727](http://arxiv.org/abs/2601.03727)|null|
 |**2026-01-07**|**Domain Adaptation of the Pyannote Diarization Pipeline for Conversational Indonesian Audio**|Muhammad Daffa'i Rafi Prasetyo et.al.|[2601.03684](http://arxiv.org/abs/2601.03684)|null|
 |**2026-01-07**|**ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis**|Haitao Li et.al.|[2601.03632](http://arxiv.org/abs/2601.03632)|null|
@@ -1738,7 +1743,7 @@ layout: default
 |**2026-01-06**|**Vclip: Face-based Speaker Generation by Face-voice Association Learning**|Yao Shi et.al.|[2601.02753](http://arxiv.org/abs/2601.02753)|null|
 |**2026-01-05**|**VocalBridge: Latent Diffusion-Bridge Purification for Defeating Perturbation-Based Voiceprint Defenses**|Maryam Abbasihafshejani et.al.|[2601.02444](http://arxiv.org/abs/2601.02444)|null|
 |**2026-01-05**|**Towards Prosodically Informed Mizo TTS without Explicit Tone Markings**|Abhijit Mohanta et.al.|[2601.02073](http://arxiv.org/abs/2601.02073)|null|
-|**2026-01-04**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
+|**2026-01-08**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
 |**2026-01-04**|**OV-InstructTTS: Towards Open-Vocabulary Instruct Text-to-Speech**|Yong Ren et.al.|[2601.01459](http://arxiv.org/abs/2601.01459)|null|
 |**2026-01-02**|**Improving Code-Switching Speech Recognition with TTS Data Augmentation**|Yue Heng Yeo et.al.|[2601.00935](http://arxiv.org/abs/2601.00935)|null|
 |**2026-01-01**|**DepFlow: Disentangled Speech Generation to Mitigate Semantic Bias in Depression Detection**|Yuxin Li et.al.|[2601.00303](http://arxiv.org/abs/2601.00303)|null|
