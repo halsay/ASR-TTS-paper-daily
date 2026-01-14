@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Robust CAPTCHA Using Audio Illusions in the Era of Large Language Models: from Evaluation to Advances**|Ziqi Ding et.al.|[2601.08516](http://arxiv.org/abs/2601.08516)|null|
 |**2026-01-12**|**Towards Comprehensive Semantic Speech Embeddings for Chinese Dialects**|Kalvin Chang et.al.|[2601.07274](http://arxiv.org/abs/2601.07274)|null|
 |**2026-01-11**|**Task Arithmetic with Support Languages for Low-Resource ASR**|Emma Rafkin et.al.|[2601.07038](http://arxiv.org/abs/2601.07038)|null|
 |**2026-01-11**|**Categorize Early, Integrate Late: Divergent Processing Strategies in Automatic Speech Recognition**|Nathan Roll et.al.|[2601.06972](http://arxiv.org/abs/2601.06972)|null|
@@ -22,7 +23,7 @@
 |**2026-01-11**|**Doing More with Less: Data Augmentation for Sudanese Dialect Automatic Speech Recognition**|Ayman Mansour et.al.|[2601.06802](http://arxiv.org/abs/2601.06802)|null|
 |**2026-01-10**|**QMAVIS: Long Video-Audio Understanding using Fusion of Large Multimodal Models**|Zixing Lin et.al.|[2601.06573](http://arxiv.org/abs/2601.06573)|null|
 |**2026-01-09**|**An Intelligent AI glasses System with Multi-Agent Architecture for Real-Time Voice Processing and Task Execution**|Sheng-Kai Chen et.al.|[2601.06235](http://arxiv.org/abs/2601.06235)|null|
-|**2025-12-31**|**GenAITEd Ghana_A Blueprint Prototype for Context-Aware and Region-Specific Conversational AI Agent for Teacher Education**|Matthew Nyaaba et.al.|[2601.06093](http://arxiv.org/abs/2601.06093)|null|
+|**2026-01-13**|**GenAITEd Ghana: A First-of-Its-Kind Context-Aware and Curriculum-Aligned Conversational AI Agent for Teacher Education**|Matthew Nyaaba et.al.|[2601.06093](http://arxiv.org/abs/2601.06093)|null|
 |**2026-01-09**|**Multimodal In-context Learning for ASR of Low-resource Languages**|Zhaolin Li et.al.|[2601.05707](http://arxiv.org/abs/2601.05707)|null|
 |**2026-01-08**|**LLMs-Integrated Automatic Hate Speech Recognition Using Controllable Text Generation Models**|Ryutaro Oshima et.al.|[2601.04654](http://arxiv.org/abs/2601.04654)|null|
 |**2026-01-08**|**WESR: Scaling and Evaluating Word-level Event-Speech Recognition**|Chenchen Yang et.al.|[2601.04508](http://arxiv.org/abs/2601.04508)|null|
@@ -1745,6 +1746,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**Decoding Order Matters in Autoregressive Speech Synthesis**|Minghui Zhao et.al.|[2601.08450](http://arxiv.org/abs/2601.08450)|null|
+|**2026-01-13**|**Detecting Mental Manipulation in Speech via Synthetic Multi-Speaker Dialogue**|Run Chen et.al.|[2601.08342](http://arxiv.org/abs/2601.08342)|null|
 |**2026-01-12**|**FOCAL: A Novel Benchmarking Technique for Multi-modal Agents**|Aditya Choudhary et.al.|[2601.07367](http://arxiv.org/abs/2601.07367)|null|
 |**2026-01-12**|**ESDD2: Environment-Aware Speech and Sound Deepfake Detection Challenge Evaluation Plan**|Xueping Zhang et.al.|[2601.07303](http://arxiv.org/abs/2601.07303)|null|
 |**2026-01-10**|**Lightweight Resolution-Aware Audio Deepfake Detection via Cross-Scale Attention and Consistency Learning**|K. A. Shahriar et.al.|[2601.06560](http://arxiv.org/abs/2601.06560)|null|
