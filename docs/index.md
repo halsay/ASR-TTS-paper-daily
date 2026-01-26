@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-21**|**Test-Time Adaptation for Speech Emotion Recognition**|Jiaheng Dong et.al.|[2601.16240](http://arxiv.org/abs/2601.16240)|null|
+|**2026-01-20**|**SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**|Aafiya Hussain et.al.|[2601.16231](http://arxiv.org/abs/2601.16231)|null|
 |**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|
 |**2026-01-22**|**Distillation-based Layer Dropping (DLD) Effective End-to-end Framework for Dynamic Speech Networks**|Abdul Hannan et.al.|[2601.16117](http://arxiv.org/abs/2601.16117)|null|
 |**2026-01-20**|**Lost in Transcription: How Speech-to-Text Errors Derail Code Understanding**|Jayant Havare et.al.|[2601.15339](http://arxiv.org/abs/2601.15339)|null|
@@ -1759,6 +1761,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation**|Zhuoyue Gao et.al.|[2601.16225](http://arxiv.org/abs/2601.16225)|null|
 |**2026-01-22**|**Timbre-Aware LLM-based Direct Speech-to-Speech Translation Extendable to Multiple Language Pairs**|Lalaram Arya et.al.|[2601.16023](http://arxiv.org/abs/2601.16023)|null|
 |**2026-01-22**|**Qwen3-TTS Technical Report**|Hangrui Hu et.al.|[2601.15621](http://arxiv.org/abs/2601.15621)|**[link](https://github.com/QwenLM/Qwen3-TTS)**|
 |**2026-01-22**|**DeepASMR: LLM-Based Zero-Shot ASMR Speech Generation for Anyone of Any Voice**|Leying Zhang et.al.|[2601.15596](http://arxiv.org/abs/2601.15596)|null|
