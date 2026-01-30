@@ -15,6 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**|Xiuwen Zheng et.al.|[2601.21347](http://arxiv.org/abs/2601.21347)|null|
+|**2026-01-29**|**Qwen3-ASR Technical Report**|Xian Shi et.al.|[2601.21337](http://arxiv.org/abs/2601.21337)|null|
+|**2026-01-28**|**asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation**|Oleg Sedukhin et.al.|[2601.20992](http://arxiv.org/abs/2601.20992)|null|
+|**2026-01-28**|**Text-only adaptation in LLM-based ASR through text denoising**|Sergio Burdisso et.al.|[2601.20900](http://arxiv.org/abs/2601.20900)|null|
+|**2026-01-28**|**Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection**|Sergio Burdisso et.al.|[2601.20898](http://arxiv.org/abs/2601.20898)|null|
+|**2026-01-28**|**A Study of Data Selection Strategies for Pre-training Self-Supervised Speech Models**|Ryan Whetten et.al.|[2601.20896](http://arxiv.org/abs/2601.20896)|null|
+|**2026-01-28**|**SW-ASR: A Context-Aware Hybrid ASR Pipeline for Robust Single Word Speech Recognition**|Manali Sharma et.al.|[2601.20890](http://arxiv.org/abs/2601.20890)|null|
+|**2026-01-27**|**MA-LipNet: Multi-Dimensional Attention Networks for Robust Lipreading**|Matteo Rossi et.al.|[2601.20881](http://arxiv.org/abs/2601.20881)|null|
 |**2026-01-28**|**ASR for Affective Speech: Investigating Impact of Emotion and Speech Generative Strategy**|Ya-Tse Wu et.al.|[2601.20319](http://arxiv.org/abs/2601.20319)|null|
 |**2026-01-28**|**Mind the Shift: Using Delta SSL Embeddings to Enhance Child ASR**|Zilai Wang et.al.|[2601.20142](http://arxiv.org/abs/2601.20142)|null|
 |**2026-01-27**|**Do we really need Self-Attention for Streaming Automatic Speech Recognition?**|Youness Dkhissi et.al.|[2601.19960](http://arxiv.org/abs/2601.19960)|null|
@@ -24,7 +32,7 @@
 |**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|
 |**2026-01-27**|**SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper**|Alexander Polok et.al.|[2601.19194](http://arxiv.org/abs/2601.19194)|null|
 |**2026-01-26**|**Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries**|Yuchen Zhang et.al.|[2601.18899](http://arxiv.org/abs/2601.18899)|null|
-|**2026-01-26**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](http://arxiv.org/abs/2601.18641)|null|
+|**2026-01-29**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](http://arxiv.org/abs/2601.18641)|null|
 |**2026-01-26**|**Pisets: A Robust Speech Recognition System for Lectures and Interviews**|Ivan Bondarenko et.al.|[2601.18415](http://arxiv.org/abs/2601.18415)|null|
 |**2026-01-26**|**Noise-Robust AV-ASR Using Visual Features Both in the Whisper Encoder and Decoder**|Zhengyang Li et.al.|[2601.18396](http://arxiv.org/abs/2601.18396)|null|
 |**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](http://arxiv.org/abs/2601.18393)|null|
@@ -1791,9 +1799,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**Speech Quality-Based Localization of Low-Quality Speech and Text-to-Speech Synthesis Artefacts**|Michael Kuhlmann et.al.|[2601.21886](http://arxiv.org/abs/2601.21886)|null|
 |**2026-01-28**|**Audio Deepfake Detection in the Age of Advanced Text-to-Speech models**|Robin Singh et.al.|[2601.20510](http://arxiv.org/abs/2601.20510)|null|
 |**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481](http://arxiv.org/abs/2601.20481)|null|
-|**2026-01-28**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
+|**2026-01-29**|**Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems**|Haoyuan Yu et.al.|[2601.20230](http://arxiv.org/abs/2601.20230)|null|
 |**2026-01-27**|**T-Mimi: A Transformer-based Mimi Decoder for Real-Time On-Phone TTS**|Haibin Wu et.al.|[2601.20094](http://arxiv.org/abs/2601.20094)|null|
 |**2026-01-27**|**Phonological Tokenizer: Prosody-Aware Phonetic Token via Multi-Objective Fine-Tuning with Differentiable K-Means**|Kentaro Onda et.al.|[2601.19781](http://arxiv.org/abs/2601.19781)|null|
 |**2026-01-26**|**Neural Multi-Speaker Voice Cloning for Nepali in Low-Resource Settings**|Aayush M. Shrestha et.al.|[2601.18694](http://arxiv.org/abs/2601.18694)|null|
