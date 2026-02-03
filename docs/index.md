@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**|Wonjun Lee et.al.|[2602.01967](http://arxiv.org/abs/2602.01967)|null|
+|**2026-02-02**|**BBPE16: UTF-16-based byte-level byte-pair encoding for improved multilingual speech recognition**|Hyunsik Kim et.al.|[2602.01717](http://arxiv.org/abs/2602.01717)|null|
+|**2026-02-01**|**EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech**|Besher Hassan et.al.|[2602.01170](http://arxiv.org/abs/2602.01170)|null|
+|**2026-02-01**|**Adapting Where It Matters: Depth-Aware Adaptation for Efficient Multilingual Speech Recognition in Low-Resource Languages**|Yang Xiao et.al.|[2602.01008](http://arxiv.org/abs/2602.01008)|null|
+|**2026-02-01**|**MedSpeak: A Knowledge Graph-Aided ASR Error Correction Framework for Spoken Medical QA**|Yutong Song et.al.|[2602.00981](http://arxiv.org/abs/2602.00981)|null|
 |**2026-01-30**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](http://arxiv.org/abs/2601.22792)|null|
 |**2026-01-30**|**Streaming Speech Recognition with Decoder-Only Large Language Models and Latency Optimization**|Genshun Wan et.al.|[2601.22779](http://arxiv.org/abs/2601.22779)|null|
 |**2026-01-29**|**Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**|Xiuwen Zheng et.al.|[2601.21347](http://arxiv.org/abs/2601.21347)|null|
@@ -29,7 +34,7 @@ layout: default
 |**2026-01-27**|**SLM-SS: Speech Language Model for Generative Speech Separation**|Tianhua Li et.al.|[2601.19533](http://arxiv.org/abs/2601.19533)|null|
 |**2026-01-27**|**Dynamic Multi-Expert Projectors with Stabilized Routing for Multilingual Speech Recognition**|Isha Pandey et.al.|[2601.19451](http://arxiv.org/abs/2601.19451)|null|
 |**2026-01-27**|**SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper**|Alexander Polok et.al.|[2601.19194](http://arxiv.org/abs/2601.19194)|null|
-|**2026-01-26**|**Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries**|Yuchen Zhang et.al.|[2601.18899](http://arxiv.org/abs/2601.18899)|null|
+|**2026-02-02**|**Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries**|Yuchen Zhang et.al.|[2601.18899](http://arxiv.org/abs/2601.18899)|null|
 |**2026-01-29**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](http://arxiv.org/abs/2601.18641)|null|
 |**2026-01-26**|**Pisets: A Robust Speech Recognition System for Lectures and Interviews**|Ivan Bondarenko et.al.|[2601.18415](http://arxiv.org/abs/2601.18415)|null|
 |**2026-01-26**|**Noise-Robust AV-ASR Using Visual Features Both in the Whisper Encoder and Decoder**|Zhengyang Li et.al.|[2601.18396](http://arxiv.org/abs/2601.18396)|null|
@@ -1795,6 +1800,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency**|Jaejun Lee et.al.|[2602.01908](http://arxiv.org/abs/2602.01908)|null|
+|**2026-02-01**|**EmoAra: Emotion-Preserving English Speech Transcription and Cross-Lingual Translation with Arabic Text-to-Speech**|Besher Hassan et.al.|[2602.01170](http://arxiv.org/abs/2602.01170)|null|
+|**2026-02-01**|**Bias in the Ear of the Listener: Assessing Sensitivity in Audio Language Models Across Linguistic, Demographic, and Positional Variations**|Sheng-Lun Wei et.al.|[2602.01030](http://arxiv.org/abs/2602.01030)|null|
+|**2026-01-31**|**Edit Content, Preserve Acoustics: Imperceptible Text-Based Speech Editing via Self-Consistency Rewards**|Yong Ren et.al.|[2602.00560](http://arxiv.org/abs/2602.00560)|null|
+|**2026-01-30**|**Multi-Speaker Conversational Audio Deepfake: Taxonomy, Dataset and Pilot Study**|Alabi Ahmed et.al.|[2602.00295](http://arxiv.org/abs/2602.00295)|null|
 |**2026-01-30**|**Now You Hear Me: Audio Narrative Attacks Against Large Audio-Language Models**|Ye Yu et.al.|[2601.23255](http://arxiv.org/abs/2601.23255)|null|
 |**2026-01-30**|**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**|Li Zhou et.al.|[2601.22873](http://arxiv.org/abs/2601.22873)|null|
 |**2026-01-30**|**Evaluating and Rewarding LALMs for Expressive Role-Play TTS via Mean Continuation Log-Probability**|Yong Ren et.al.|[2601.22661](http://arxiv.org/abs/2601.22661)|null|
