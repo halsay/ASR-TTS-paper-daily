@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.09
+## Updated on 2026.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,12 +11,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis**|Haoshen Wang et.al.|[2602.08696](http://arxiv.org/abs/2602.08696)|null|
+|**2026-02-09**|**Cross-Modal Bottleneck Fusion For Noise Robust Audio-Visual Speech Recognition**|Seaone Ok et.al.|[2602.08293](http://arxiv.org/abs/2602.08293)|null|
+|**2026-02-08**|**D-ORCA: Dialogue-Centric Optimization for Robust Audio-Visual Captioning**|Changli Tang et.al.|[2602.07960](http://arxiv.org/abs/2602.07960)|null|
+|**2026-02-06**|**Equipping LLM with Directional Multi-Talker Speech Understanding Capabilities**|Ju Lin et.al.|[2602.07211](http://arxiv.org/abs/2602.07211)|null|
+|**2026-02-05**|**From Hallucination to Articulation: Language Model-Driven Losses for Ultra Low-Bitrate Neural Speech Coding**|Jayeon Yi et.al.|[2602.06213](http://arxiv.org/abs/2602.06213)|null|
 |**2026-02-05**|**Enabling Automatic Disordered Speech Recognition: An Impaired Speech Dataset in the Akan Language**|Isaac Wiafe et.al.|[2602.05406](http://arxiv.org/abs/2602.05406)|null|
-|**2026-02-03**|**Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization**|Sai Sindhur Malleni et.al.|[2602.04900](http://arxiv.org/abs/2602.04900)|null|
+|**2026-02-09**|**Evaluating Kubernetes Performance for GenAI Inference: From Automatic Speech Recognition to LLM Summarization**|Sai Sindhur Malleni et.al.|[2602.04900](http://arxiv.org/abs/2602.04900)|null|
 |**2026-02-04**|**Speaker-Aware Simulation Improves Conversational Speech Recognition**|Máté Gedeon et.al.|[2602.04776](http://arxiv.org/abs/2602.04776)|null|
 |**2026-02-04**|**Universal Robust Speech Adaptation for Cross-Domain Speech Recognition and Enhancement**|Chien-Chun Wang et.al.|[2602.04307](http://arxiv.org/abs/2602.04307)|null|
 |**2026-02-04**|**Frontend Token Enhancement for Token-Based Speech Recognition**|Takanori Ashihara et.al.|[2602.04217](http://arxiv.org/abs/2602.04217)|null|
-|**2026-01-31**|**Benchmarking Automatic Speech Recognition for Indian Languages in Agricultural Contexts**|Chandrashekar M S et.al.|[2602.03868](http://arxiv.org/abs/2602.03868)|null|
+|**2026-02-06**|**Benchmarking Automatic Speech Recognition for Indian Languages in Agricultural Contexts**|Chandrashekar M S et.al.|[2602.03868](http://arxiv.org/abs/2602.03868)|null|
 |**2026-02-03**|**Mići Princ -- A Little Boy Teaching Speech Technologies the Chakavian Dialect**|Nikola Ljubešić et.al.|[2602.03245](http://arxiv.org/abs/2602.03245)|null|
 |**2026-02-04**|**WAXAL: A Large-Scale Multilingual African Language Speech Corpus**|Abdoulaye Diack et.al.|[2602.02734](http://arxiv.org/abs/2602.02734)|null|
 |**2026-02-02**|**Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**|Wonjun Lee et.al.|[2602.01967](http://arxiv.org/abs/2602.01967)|null|
@@ -44,7 +49,7 @@ layout: default
 |**2026-01-27**|**SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper**|Alexander Polok et.al.|[2601.19194](http://arxiv.org/abs/2601.19194)|null|
 |**2026-02-02**|**Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries**|Yuchen Zhang et.al.|[2601.18899](http://arxiv.org/abs/2601.18899)|null|
 |**2026-01-29**|**Unheard in the Digital Age: Rethinking AI Bias and Speech Diversity**|Onyedikachi Hope Amaechi-Okorie et.al.|[2601.18641](http://arxiv.org/abs/2601.18641)|null|
-|**2026-01-26**|**Pisets: A Robust Speech Recognition System for Lectures and Interviews**|Ivan Bondarenko et.al.|[2601.18415](http://arxiv.org/abs/2601.18415)|null|
+|**2026-01-26**|**Pisets: A Robust Speech Recognition System for Lectures and Interviews**|Ivan Bondarenko et.al.|[2601.18415](http://arxiv.org/abs/2601.18415)|**[link](https://github.com/bond005/pisets)**|
 |**2026-01-26**|**Noise-Robust AV-ASR Using Visual Features Both in the Whisper Encoder and Decoder**|Zhengyang Li et.al.|[2601.18396](http://arxiv.org/abs/2601.18396)|null|
 |**2026-01-26**|**OCR-Enhanced Multimodal ASR Can Read While Listening**|Junli Chen et.al.|[2601.18393](http://arxiv.org/abs/2601.18393)|null|
 |**2026-01-26**|**Efficient Rehearsal for Continual Learning in ASR via Singular Value Tuning**|Steven Vander Eeckt et.al.|[2601.18266](http://arxiv.org/abs/2601.18266)|null|
@@ -1808,6 +1813,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Prototype-Based Disentanglement for Controllable Dysarthric Speech Synthesis**|Haoshen Wang et.al.|[2602.08696](http://arxiv.org/abs/2602.08696)|null|
+|**2026-02-08**|**SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis**|Jiale Qian et.al.|[2602.07803](http://arxiv.org/abs/2602.07803)|null|
+|**2026-01-14**|**PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models**|Rajarshi Roy et.al.|[2602.06053](http://arxiv.org/abs/2602.06053)|null|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
 |**2026-02-04**|**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**|Xuenan Xu et.al.|[2602.04535](http://arxiv.org/abs/2602.04535)|null|
 |**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
