@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**CLAP-Based Automatic Word Naming Recognition in Post-Stroke Aphasia**|Yacouba Kaloga et.al.|[2602.14584](http://arxiv.org/abs/2602.14584)|null|
+|**2026-02-15**|**From Scarcity to Scale: A Release-Level Analysis of the Pashto Common Voice Dataset**|Jandad Jahani et.al.|[2602.14062](http://arxiv.org/abs/2602.14062)|null|
+|**2026-02-15**|**Eureka-Audio: Triggering Audio Intelligence in Compact Language Models**|Dan Zhang et.al.|[2602.13954](http://arxiv.org/abs/2602.13954)|null|
+|**2026-02-14**|**voice2mode: Phonation Mode Classification in Singing using Self-Supervised Speech Models**|Aju Ani Justus et.al.|[2602.13928](http://arxiv.org/abs/2602.13928)|null|
+|**2026-02-03**|**Multimodal Consistency-Guided Reference-Free Data Selection for ASR Accent Adaptation**|Ligong Lei et.al.|[2602.13263](http://arxiv.org/abs/2602.13263)|null|
 |**2026-02-13**|**ViMedCSS: A Vietnamese Medical Code-Switching Speech Dataset & Benchmark**|Tung X. Nguyen et.al.|[2602.12911](http://arxiv.org/abs/2602.12911)|null|
 |**2026-02-13**|**Lamer-SSL: Layer-aware Mixture of LoRA Experts for Continual Multilingual Expansion of Self-supervised Models without Forgetting**|Jing Xu et.al.|[2602.12746](http://arxiv.org/abs/2602.12746)|null|
 |**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
@@ -1828,6 +1833,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Disentangling Pitch and Creak for Speaker Identity Preservation in Speech Synthesis**|Frederik Rautenberg et.al.|[2602.14686](http://arxiv.org/abs/2602.14686)|null|
+|**2026-02-16**|**Probing Human Articulatory Constraints in End-to-End TTS with Reverse and Mismatched Speech-Text Directions**|Parth Khadse et.al.|[2602.14664](http://arxiv.org/abs/2602.14664)|null|
+|**2026-02-14**|**ELEAT-SAGA: Early & Late Integration with Evading Alternating Training for Spoof-Robust Speaker Verification**|Amro Asali et.al.|[2602.13761](http://arxiv.org/abs/2602.13761)|null|
 |**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
 |**2026-02-12**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
 |**2026-02-12**|**When Audio-LLMs Don't Listen: A Cross-Linguistic Study of Modality Arbitration**|Jayadev Billa et.al.|[2602.11488](http://arxiv.org/abs/2602.11488)|null|
