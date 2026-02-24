@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition**|Alexandros Haliassos et.al.|[2602.19316](http://arxiv.org/abs/2602.19316)|null|
+|**2026-02-21**|**Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation**|Yonathan Ron et.al.|[2602.18966](http://arxiv.org/abs/2602.18966)|null|
+|**2026-02-21**|**ReHear: Iterative Pseudo-Label Refinement for Semi-Supervised Speech Recognition via Audio Large Language Models**|Zefang Liu et.al.|[2602.18721](http://arxiv.org/abs/2602.18721)|null|
+|**2026-02-18**|**Fine-Pruning: A Biologically Inspired Algorithm for Personalization of Machine Learning Models**|Joseph Bingham et.al.|[2602.18507](http://arxiv.org/abs/2602.18507)|null|
 |**2026-02-19**|**Voice-Driven Semantic Perception for UAV-Assisted Emergency Networks**|Nuno Saavedra et.al.|[2602.17394](http://arxiv.org/abs/2602.17394)|null|
 |**2026-02-13**|**Speech to Speech Synthesis for Voice Impersonation**|Bjorn Johnson et.al.|[2602.16721](http://arxiv.org/abs/2602.16721)|null|
 |**2026-02-17**|**Enroll-on-Wakeup: A First Comparative Study of Target Speech Extraction for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios**|Yiming Yang et.al.|[2602.15519](http://arxiv.org/abs/2602.15519)|null|
@@ -29,7 +33,7 @@ layout: default
 |**2026-02-12**|**Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications**|Manjunath Kudlur et.al.|[2602.12241](http://arxiv.org/abs/2602.12241)|null|
 |**2026-02-12**|**On the Sensitivity of Firing Rate-Based Federated Spiking Neural Networks to Differential Privacy**|Luiz Pereira et.al.|[2602.12009](http://arxiv.org/abs/2602.12009)|null|
 |**2026-02-12**|**TC-BiMamba: Trans-Chunk bidirectionally within BiMamba for unified streaming and non-streaming ASR**|Qingshun She et.al.|[2602.11546](http://arxiv.org/abs/2602.11546)|null|
-|**2026-02-11**|**Voxtral Realtime**|Alexander H. Liu et.al.|[2602.11298](http://arxiv.org/abs/2602.11298)|null|
+|**2026-02-21**|**Voxtral Realtime**|Alexander H. Liu et.al.|[2602.11298](http://arxiv.org/abs/2602.11298)|null|
 |**2026-02-11**|**Self-Supervised Learning for Speaker Recognition: A study and review**|Theo Lepage et.al.|[2602.10829](http://arxiv.org/abs/2602.10829)|null|
 |**2026-02-10**|**ViSpeechFormer: A Phonemic Approach for Vietnamese Automatic Speech Recognition**|Khoa Anh Nguyen et.al.|[2602.10003](http://arxiv.org/abs/2602.10003)|null|
 |**2026-02-10**|**Where Are We At with Automatic Speech Recognition for the Bambara Language?**|Seydou Diallo et.al.|[2602.09785](http://arxiv.org/abs/2602.09785)|null|
@@ -1837,6 +1841,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
+|**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574](http://arxiv.org/abs/2602.19574)|null|
 |**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
 |**2026-02-13**|**Speech to Speech Synthesis for Voice Impersonation**|Bjorn Johnson et.al.|[2602.16721](http://arxiv.org/abs/2602.16721)|null|
 |**2026-02-18**|**How to Label Resynthesized Audio: The Dual Role of Neural Audio Codecs in Audio Deepfake Detection**|Yixuan Xiao et.al.|[2602.16343](http://arxiv.org/abs/2602.16343)|null|
