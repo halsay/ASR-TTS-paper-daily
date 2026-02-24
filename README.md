@@ -1,4 +1,4 @@
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -1837,7 +1837,7 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
 ## TTS
 
@@ -1853,7 +1853,7 @@
 |**2026-02-14**|**ELEAT-SAGA: Early & Late Integration with Evading Alternating Training for Spoof-Robust Speaker Verification**|Amro Asali et.al.|[2602.13761](http://arxiv.org/abs/2602.13761)|null|
 |**2026-02-13**|**PISHYAR: A Socially Intelligent Smart Cane for Indoor Social Navigation and Multimodal Human-Robot Interaction for Visually Impaired People**|Mahdi Haghighat Joo et.al.|[2602.12597](http://arxiv.org/abs/2602.12597)|null|
 |**2026-02-16**|**"Sorry, I Didn't Catch That": How Speech Models Miss What Matters Most**|Kaitlyn Zhou et.al.|[2602.12249](http://arxiv.org/abs/2602.12249)|null|
-|**2026-02-12**|**When Audio-LLMs Don't Listen: A Cross-Linguistic Study of Modality Arbitration**|Jayadev Billa et.al.|[2602.11488](http://arxiv.org/abs/2602.11488)|null|
+|**2026-02-19**|**When Audio-LLMs Don't Listen: A Cross-Linguistic Study of Modality Arbitration**|Jayadev Billa et.al.|[2602.11488](http://arxiv.org/abs/2602.11488)|null|
 |**2026-02-12**|**SLD-L2S: Hierarchical Subspace Latent Diffusion for High-Fidelity Lip to Speech Synthesis**|Yifan Liang et.al.|[2602.11477](http://arxiv.org/abs/2602.11477)|null|
 |**2026-02-11**|**Calliope: A TTS-based Narrated E-book Creator Ensuring Exact Synchronization, Privacy, and Layout Fidelity**|Hugo L. Hammer et.al.|[2602.10735](http://arxiv.org/abs/2602.10735)|null|
 |**2026-02-10**|**Emotion-Coherent Speech Data Augmentation and Self-Supervised Contrastive Style Training for Enhancing Kids's Story Speech Synthesis**|Raymond Chung et.al.|[2602.10164](http://arxiv.org/abs/2602.10164)|null|
@@ -2925,5 +2925,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260223>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260224>back to top</a>)</p>
 
