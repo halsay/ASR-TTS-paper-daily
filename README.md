@@ -15,13 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**823-OLT @ BUET DL Sprint 4.0: Context-Aware Windowing for ASR and Fine-Tuned Speaker Diarization in Bengali Long Form Audio**|Ratnajit Dhar et.al.|[2602.21183](http://arxiv.org/abs/2602.21183)|null|
+|**2026-02-24**|**Training-Free Intelligibility-Guided Observation Addition for Noisy ASR**|Haoyang Li et.al.|[2602.20967](http://arxiv.org/abs/2602.20967)|null|
+|**2026-02-23**|**An Approach to Combining Video and Speech with Large Language Models in Human-Robot Interaction**|Guanting Shen et.al.|[2602.20219](http://arxiv.org/abs/2602.20219)|null|
 |**2026-02-22**|**Pay Attention to CTC: Fast and Robust Pseudo-Labelling for Unified Speech Recognition**|Alexandros Haliassos et.al.|[2602.19316](http://arxiv.org/abs/2602.19316)|null|
 |**2026-02-21**|**Whisper: Courtside Edition Enhancing ASR Performance Through LLM-Driven Context Generation**|Yonathan Ron et.al.|[2602.18966](http://arxiv.org/abs/2602.18966)|null|
 |**2026-02-21**|**ReHear: Iterative Pseudo-Label Refinement for Semi-Supervised Speech Recognition via Audio Large Language Models**|Zefang Liu et.al.|[2602.18721](http://arxiv.org/abs/2602.18721)|null|
 |**2026-02-18**|**Fine-Pruning: A Biologically Inspired Algorithm for Personalization of Machine Learning Models**|Joseph Bingham et.al.|[2602.18507](http://arxiv.org/abs/2602.18507)|null|
 |**2026-02-19**|**Voice-Driven Semantic Perception for UAV-Assisted Emergency Networks**|Nuno Saavedra et.al.|[2602.17394](http://arxiv.org/abs/2602.17394)|null|
 |**2026-02-13**|**Speech to Speech Synthesis for Voice Impersonation**|Bjorn Johnson et.al.|[2602.16721](http://arxiv.org/abs/2602.16721)|null|
-|**2026-02-17**|**Enroll-on-Wakeup: A First Comparative Study of Target Speech Extraction for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios**|Yiming Yang et.al.|[2602.15519](http://arxiv.org/abs/2602.15519)|null|
+|**2026-02-24**|**Enroll-on-Wakeup: A First Comparative Study of Target Speech Extraction for Seamless Interaction in Real Noisy Human-Machine Dialogue Scenarios**|Yiming Yang et.al.|[2602.15519](http://arxiv.org/abs/2602.15519)|null|
 |**2026-02-17**|**Joint Enhancement and Classification using Coupled Diffusion Models of Signals and Logits**|Gilad Nurko et.al.|[2602.15405](http://arxiv.org/abs/2602.15405)|null|
 |**2026-02-16**|**CLAP-Based Automatic Word Naming Recognition in Post-Stroke Aphasia**|Yacouba Kaloga et.al.|[2602.14584](http://arxiv.org/abs/2602.14584)|null|
 |**2026-02-15**|**From Scarcity to Scale: A Release-Level Analysis of the Pashto Common Voice Dataset**|Jandad Jahani et.al.|[2602.14062](http://arxiv.org/abs/2602.14062)|null|
