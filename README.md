@@ -1,4 +1,4 @@
-## Updated on 2026.02.28
+## Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -73,7 +73,7 @@
 |**2026-01-30**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](http://arxiv.org/abs/2601.22792)|null|
 |**2026-01-30**|**Streaming Speech Recognition with Decoder-Only Large Language Models and Latency Optimization**|Genshun Wan et.al.|[2601.22779](http://arxiv.org/abs/2601.22779)|null|
 |**2026-01-29**|**Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**|Xiuwen Zheng et.al.|[2601.21347](http://arxiv.org/abs/2601.21347)|null|
-|**2026-01-30**|**Qwen3-ASR Technical Report**|Xian Shi et.al.|[2601.21337](http://arxiv.org/abs/2601.21337)|null|
+|**2026-01-30**|**Qwen3-ASR Technical Report**|Xian Shi et.al.|[2601.21337](http://arxiv.org/abs/2601.21337)|**[link](https://github.com/QwenLM/Qwen3-ASR)**|
 |**2026-01-28**|**asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation**|Oleg Sedukhin et.al.|[2601.20992](http://arxiv.org/abs/2601.20992)|null|
 |**2026-01-30**|**Text-only adaptation in LLM-based ASR through text denoising**|Sergio Burdisso et.al.|[2601.20900](http://arxiv.org/abs/2601.20900)|null|
 |**2026-01-28**|**Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection**|Sergio Burdisso et.al.|[2601.20898](http://arxiv.org/abs/2601.20898)|null|
@@ -1850,7 +1850,7 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 
 ## TTS
 
@@ -2944,5 +2944,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260301>back to top</a>)</p>
 

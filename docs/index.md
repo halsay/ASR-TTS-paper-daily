@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.28
+## Updated on 2026.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -69,7 +69,7 @@ layout: default
 |**2026-01-30**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](http://arxiv.org/abs/2601.22792)|null|
 |**2026-01-30**|**Streaming Speech Recognition with Decoder-Only Large Language Models and Latency Optimization**|Genshun Wan et.al.|[2601.22779](http://arxiv.org/abs/2601.22779)|null|
 |**2026-01-29**|**Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**|Xiuwen Zheng et.al.|[2601.21347](http://arxiv.org/abs/2601.21347)|null|
-|**2026-01-30**|**Qwen3-ASR Technical Report**|Xian Shi et.al.|[2601.21337](http://arxiv.org/abs/2601.21337)|null|
+|**2026-01-30**|**Qwen3-ASR Technical Report**|Xian Shi et.al.|[2601.21337](http://arxiv.org/abs/2601.21337)|**[link](https://github.com/QwenLM/Qwen3-ASR)**|
 |**2026-01-28**|**asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation**|Oleg Sedukhin et.al.|[2601.20992](http://arxiv.org/abs/2601.20992)|null|
 |**2026-01-30**|**Text-only adaptation in LLM-based ASR through text denoising**|Sergio Burdisso et.al.|[2601.20900](http://arxiv.org/abs/2601.20900)|null|
 |**2026-01-28**|**Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection**|Sergio Burdisso et.al.|[2601.20898](http://arxiv.org/abs/2601.20898)|null|
