@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Chunk-wise Attention Transducers for Fast and Accurate Streaming Speech-to-Text**|Hainan Xu et.al.|[2602.24245](http://arxiv.org/abs/2602.24245)|null|
+|**2026-02-27**|**Dialect and Gender Bias in YouTube's Spanish Captioning System**|Iris Dania Jimenez et.al.|[2602.24002](http://arxiv.org/abs/2602.24002)|null|
+|**2026-02-26**|**Challenges in Automatic Speech Recognition for Adults with Cognitive Impairment**|Michelle Cohn et.al.|[2602.23436](http://arxiv.org/abs/2602.23436)|null|
+|**2026-02-16**|**Hello-Chat: Towards Realistic Social Audio Interactions**|Yueran Hou et.al.|[2602.23387](http://arxiv.org/abs/2602.23387)|null|
 |**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](http://arxiv.org/abs/2602.23070)|null|
 |**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](http://arxiv.org/abs/2602.22935)|null|
 |**2026-02-26**|**Efficient Dialect-Aware Modeling and Conditioning for Low-Resource Taiwanese Hakka Speech Processing**|An-Ci Peng et.al.|[2602.22522](http://arxiv.org/abs/2602.22522)|null|
