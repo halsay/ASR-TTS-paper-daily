@@ -11,10 +11,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Robust LLM-based Audio-Visual Speech Recognition with Sparse Modality Alignment and Visual Unit-Guided Refinement**|Fei Su et.al.|[2603.03811](http://arxiv.org/abs/2603.03811)|null|
+|**2026-02-28**|**ACES: Accent Subspaces for Coupling, Explanations, and Stress-Testing in Automatic Speech Recognition**|Swapnil Parekh et.al.|[2603.03359](http://arxiv.org/abs/2603.03359)|null|
 |**2026-03-03**|**An Investigation Into Various Approaches For Bengali Long-Form Speech Transcription and Bengali Speaker Diarization**|Epshita Jahan et.al.|[2603.03158](http://arxiv.org/abs/2603.03158)|null|
 |**2026-03-03**|**Speech recognition assisted by large language models to command software orally -- Application to an augmented and virtual reality web app for immersive molecular graphics**|Fabio Cortes Rodriguez et.al.|[2603.02901](http://arxiv.org/abs/2603.02901)|null|
-|**2026-03-03**|**SilentWear: an Ultra-Low Power Wearable System for EMG-based Silent Speech Recognition**|Giusy Spacone et.al.|[2603.02847](http://arxiv.org/abs/2603.02847)|null|
-|**2026-03-03**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](http://arxiv.org/abs/2603.02813)|null|
+|**2026-03-04**|**SilentWear: an Ultra-Low Power Wearable System for EMG-based Silent Speech Recognition**|Giusy Spacone et.al.|[2603.02847](http://arxiv.org/abs/2603.02847)|null|
+|**2026-03-04**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](http://arxiv.org/abs/2603.02813)|null|
 |**2026-03-02**|**GLoRIA: Gated Low-Rank Interpretable Adaptation for Dialectal ASR**|Pouya Mehralian et.al.|[2603.02464](http://arxiv.org/abs/2603.02464)|null|
 |**2026-03-02**|**RO-N3WS: Enhancing Generalization in Low-Resource ASR with Diverse Romanian Speech Benchmarks**|Alexandra Diaconu et.al.|[2603.02368](http://arxiv.org/abs/2603.02368)|null|
 |**2026-03-02**|**Sequence-Level Unsupervised Training in Speech Recognition: A Theoretical Study**|Zijian Yang et.al.|[2603.02285](http://arxiv.org/abs/2603.02285)|null|
@@ -1873,6 +1875,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
+|**2026-03-04**|**VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications**|Hung Vu Nguyen et.al.|[2603.04145](http://arxiv.org/abs/2603.04145)|null|
 |**2026-03-02**|**More Data, Fewer Diacritics: Scaling Arabic TTS**|Ahmed Musleh et.al.|[2603.01622](http://arxiv.org/abs/2603.01622)|null|
 |**2026-03-02**|**End-to-End Simultaneous Dysarthric Speech Reconstruction with Frame-Level Adaptor and Multiple Wait-k Knowledge Distillation**|Minghui Wu et.al.|[2603.01382](http://arxiv.org/abs/2603.01382)|null|
 |**2026-03-02**|**DARS: Dysarthria-Aware Rhythm-Style Synthesis for ASR Enhancement**|Minghui Wu et.al.|[2603.01369](http://arxiv.org/abs/2603.01369)|null|
