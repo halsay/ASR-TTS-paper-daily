@@ -11,12 +11,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**PersianPunc: A Large-Scale Dataset and BERT-Based Approach for Persian Punctuation Restoration**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2603.05314](http://arxiv.org/abs/2603.05314)|null|
+|**2026-03-05**|**Visual-Informed Speech Enhancement Using Attention-Based Beamforming**|Chihyun Liu et.al.|[2603.05270](http://arxiv.org/abs/2603.05270)|null|
+|**2026-03-05**|**Beyond Word Error Rate: Auditing the Diversity Tax in Speech Recognition through Dataset Cartography**|Ting-Hui Cheng et.al.|[2603.05267](http://arxiv.org/abs/2603.05267)|null|
+|**2026-03-05**|**Boosting ASR Robustness via Test-Time Reinforcement Learning with Audio-Text Semantic Rewards**|Linghan Fang et.al.|[2603.05231](http://arxiv.org/abs/2603.05231)|null|
+|**2026-03-05**|**Federated Heterogeneous Language Model Optimization for Hybrid Automatic Speech Recognition**|Mengze Hong et.al.|[2603.04945](http://arxiv.org/abs/2603.04945)|null|
+|**2026-03-05**|**Spectral dynamics reservoir computing for high-speed hardware-efficient neuromorphic processing**|Jiaxuan Chen et.al.|[2603.04901](http://arxiv.org/abs/2603.04901)|null|
+|**2026-03-05**|**WhisperAlign: Word-Boundary-Aware ASR and WhisperX-Anchored Pyannote Diarization for Long-Form Bengali Speech**|Aurchi Chowdhury et.al.|[2603.04809](http://arxiv.org/abs/2603.04809)|null|
+|**2026-03-05**|**When Denoising Hinders: Revisiting Zero-Shot ASR with SAM-Audio and Whisper**|Akif Islam et.al.|[2603.04710](http://arxiv.org/abs/2603.04710)|null|
+|**2026-02-16**|**Generating Realistic, Protocol-Compliant Maritime Radio Dialogues using Self-Instruct and Low-Rank Adaptation**|Gürsel Akdeniz et.al.|[2603.04423](http://arxiv.org/abs/2603.04423)|null|
 |**2026-03-04**|**Robust LLM-based Audio-Visual Speech Recognition with Sparse Modality Alignment and Visual Unit-Guided Refinement**|Fei Su et.al.|[2603.03811](http://arxiv.org/abs/2603.03811)|null|
 |**2026-02-28**|**ACES: Accent Subspaces for Coupling, Explanations, and Stress-Testing in Automatic Speech Recognition**|Swapnil Parekh et.al.|[2603.03359](http://arxiv.org/abs/2603.03359)|null|
 |**2026-03-03**|**An Investigation Into Various Approaches For Bengali Long-Form Speech Transcription and Bengali Speaker Diarization**|Epshita Jahan et.al.|[2603.03158](http://arxiv.org/abs/2603.03158)|null|
 |**2026-03-03**|**Speech recognition assisted by large language models to command software orally -- Application to an augmented and virtual reality web app for immersive molecular graphics**|Fabio Cortes Rodriguez et.al.|[2603.02901](http://arxiv.org/abs/2603.02901)|null|
 |**2026-03-04**|**SilentWear: an Ultra-Low Power Wearable System for EMG-based Silent Speech Recognition**|Giusy Spacone et.al.|[2603.02847](http://arxiv.org/abs/2603.02847)|null|
-|**2026-03-04**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](http://arxiv.org/abs/2603.02813)|null|
+|**2026-03-05**|**Benchmarking Speech Systems for Frontline Health Conversations: The DISPLACE-M Challenge**|Dhanya E et.al.|[2603.02813](http://arxiv.org/abs/2603.02813)|null|
 |**2026-03-02**|**GLoRIA: Gated Low-Rank Interpretable Adaptation for Dialectal ASR**|Pouya Mehralian et.al.|[2603.02464](http://arxiv.org/abs/2603.02464)|null|
 |**2026-03-02**|**RO-N3WS: Enhancing Generalization in Low-Resource ASR with Diverse Romanian Speech Benchmarks**|Alexandra Diaconu et.al.|[2603.02368](http://arxiv.org/abs/2603.02368)|null|
 |**2026-03-02**|**Sequence-Level Unsupervised Training in Speech Recognition: A Theoretical Study**|Zijian Yang et.al.|[2603.02285](http://arxiv.org/abs/2603.02285)|null|
@@ -1875,6 +1884,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373](http://arxiv.org/abs/2603.05373)|null|
+|**2026-03-05**|**Measuring the Redundancy of Decoder Layers in SpeechLLMs**|Adel Moumen et.al.|[2603.05121](http://arxiv.org/abs/2603.05121)|null|
 |**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
 |**2026-03-04**|**VietNormalizer: An Open-Source, Dependency-Free Python Library for Vietnamese Text Normalization in TTS and NLP Applications**|Hung Vu Nguyen et.al.|[2603.04145](http://arxiv.org/abs/2603.04145)|null|
 |**2026-03-02**|**More Data, Fewer Diacritics: Scaling Arabic TTS**|Ahmed Musleh et.al.|[2603.01622](http://arxiv.org/abs/2603.01622)|null|
