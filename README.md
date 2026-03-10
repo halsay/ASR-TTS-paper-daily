@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**NLE: Non-autoregressive LLM-based ASR by Transcript Editing**|Avihu Dekel et.al.|[2603.08397](http://arxiv.org/abs/2603.08397)|null|
+|**2026-03-09**|**Bootstrapping Audiovisual Speech Recognition in Zero-AV-Resource Scenarios with Synthetic Visual Data**|Pol Buitrago et.al.|[2603.08249](http://arxiv.org/abs/2603.08249)|null|
+|**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
+|**2026-03-08**|**Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR**|Rishikesh Kumar Sharma et.al.|[2603.07554](http://arxiv.org/abs/2603.07554)|null|
 |**2026-03-07**|**Seeing the Context: Rich Visual Context-Aware Speech Recognition via Multimodal Reasoning**|Wenjie Tian et.al.|[2603.07263](http://arxiv.org/abs/2603.07263)|null|
 |**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](http://arxiv.org/abs/2603.07072)|null|
 |**2026-03-06**|**Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning**|Yuchen Zhang et.al.|[2603.06505](http://arxiv.org/abs/2603.06505)|null|
@@ -1897,6 +1901,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-09**|**Using Multimodal and Language-Agnostic Sentence Embeddings for Abstractive Summarization**|Chaimae Chellaf et.al.|[2603.08282](http://arxiv.org/abs/2603.08282)|null|
+|**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
+|**2026-03-09**|**Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge**|Ze Li et.al.|[2603.08092](http://arxiv.org/abs/2603.08092)|null|
+|**2026-03-08**|**Targeted Speaker Poisoning Framework in Zero-Shot Text-to-Speech**|Thanapat Trachu et.al.|[2603.07551](http://arxiv.org/abs/2603.07551)|null|
+|**2026-03-08**|**Learning-free L2-Accented Speech Generation using Phonological Rules**|Thanathai Lertpetchpun et.al.|[2603.07550](http://arxiv.org/abs/2603.07550)|null|
+|**2026-03-08**|**Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data**|Thanathai Lertpetchpun et.al.|[2603.07534](http://arxiv.org/abs/2603.07534)|null|
+|**2026-03-08**|**Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech**|Tajamul Ashraf et.al.|[2603.07513](http://arxiv.org/abs/2603.07513)|null|
 |**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](http://arxiv.org/abs/2603.07072)|null|
 |**2026-03-07**|**Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision**|Shreyas Gopal et.al.|[2603.07025](http://arxiv.org/abs/2603.07025)|null|
 |**2026-02-21**|**Advances in GRPO for Generation Models: A Survey**|Zexiang Liu et.al.|[2603.06623](http://arxiv.org/abs/2603.06623)|null|
