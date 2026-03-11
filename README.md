@@ -1,4 +1,4 @@
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Trade-offs Between Capacity and Robustness in Neural Audio Codecs for Adversarially Robust Speech Recognition**|Jordan Prescott et.al.|[2603.09034](http://arxiv.org/abs/2603.09034)|null|
 |**2026-03-09**|**NLE: Non-autoregressive LLM-based ASR by Transcript Editing**|Avihu Dekel et.al.|[2603.08397](http://arxiv.org/abs/2603.08397)|null|
 |**2026-03-09**|**Bootstrapping Audiovisual Speech Recognition in Zero-AV-Resource Scenarios with Synthetic Visual Data**|Pol Buitrago et.al.|[2603.08249](http://arxiv.org/abs/2603.08249)|null|
 |**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
@@ -1895,19 +1896,22 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**SPAR-K: Scheduled Periodic Alternating Early Exit for Spoken Language Models**|Hsiao-Ying Huang et.al.|[2603.09215](http://arxiv.org/abs/2603.09215)|null|
+|**2026-03-09**|**Universal Speech Content Factorization**|Henry Li Xinyuan et.al.|[2603.08977](http://arxiv.org/abs/2603.08977)|null|
+|**2026-03-09**|**Fish Audio S2 Technical Report**|Shijia Liao et.al.|[2603.08823](http://arxiv.org/abs/2603.08823)|null|
 |**2026-03-09**|**Using Multimodal and Language-Agnostic Sentence Embeddings for Abstractive Summarization**|Chaimae Chellaf et.al.|[2603.08282](http://arxiv.org/abs/2603.08282)|null|
 |**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
 |**2026-03-09**|**Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge**|Ze Li et.al.|[2603.08092](http://arxiv.org/abs/2603.08092)|null|
 |**2026-03-08**|**Targeted Speaker Poisoning Framework in Zero-Shot Text-to-Speech**|Thanapat Trachu et.al.|[2603.07551](http://arxiv.org/abs/2603.07551)|null|
 |**2026-03-08**|**Learning-free L2-Accented Speech Generation using Phonological Rules**|Thanathai Lertpetchpun et.al.|[2603.07550](http://arxiv.org/abs/2603.07550)|null|
 |**2026-03-08**|**Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data**|Thanathai Lertpetchpun et.al.|[2603.07534](http://arxiv.org/abs/2603.07534)|null|
-|**2026-03-08**|**Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech**|Tajamul Ashraf et.al.|[2603.07513](http://arxiv.org/abs/2603.07513)|null|
+|**2026-03-08**|**Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech**|Tajamul Ashraf et.al.|[2603.07513](http://arxiv.org/abs/2603.07513)|**[link](https://github.com/gaash-lab/Bolbosh)**|
 |**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](http://arxiv.org/abs/2603.07072)|null|
 |**2026-03-07**|**Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision**|Shreyas Gopal et.al.|[2603.07025](http://arxiv.org/abs/2603.07025)|null|
 |**2026-02-21**|**Advances in GRPO for Generation Models: A Survey**|Zexiang Liu et.al.|[2603.06623](http://arxiv.org/abs/2603.06623)|null|
@@ -3013,5 +3017,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260310>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
