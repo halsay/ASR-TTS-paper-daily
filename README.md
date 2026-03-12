@@ -1912,7 +1912,7 @@
 |**2026-03-11**|**Probabilistic Verification of Voice Anti-Spoofing Models**|Evgeny Kushnir et.al.|[2603.10713](http://arxiv.org/abs/2603.10713)|null|
 |**2026-03-10**|**SPAR-K: Scheduled Periodic Alternating Early Exit for Spoken Language Models**|Hsiao-Ying Huang et.al.|[2603.09215](http://arxiv.org/abs/2603.09215)|null|
 |**2026-03-09**|**Universal Speech Content Factorization**|Henry Li Xinyuan et.al.|[2603.08977](http://arxiv.org/abs/2603.08977)|null|
-|**2026-03-11**|**Fish Audio S2 Technical Report**|Shijia Liao et.al.|[2603.08823](http://arxiv.org/abs/2603.08823)|null|
+|**2026-03-11**|**Fish Audio S2 Technical Report**|Shijia Liao et.al.|[2603.08823](http://arxiv.org/abs/2603.08823)|**[link](https://github.com/fishaudio/fish-speech)**|
 |**2026-03-09**|**Using Multimodal and Language-Agnostic Sentence Embeddings for Abstractive Summarization**|Chaimae Chellaf et.al.|[2603.08282](http://arxiv.org/abs/2603.08282)|null|
 |**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
 |**2026-03-09**|**Language-Invariant Multilingual Speaker Verification for the TidyVoice 2026 Challenge**|Ze Li et.al.|[2603.08092](http://arxiv.org/abs/2603.08092)|null|
