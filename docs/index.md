@@ -11,14 +11,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|null|
+|**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|**[link](https://github.com/umbertocappellazzo/Dr-SHAP-AV)**|
 |**2026-03-11**|**Continued Pretraining for Low-Resource Swahili ASR: Achieving State-of-the-Art Performance with Minimal Labeled Data**|Hillary Mutisya et.al.|[2603.11378](http://arxiv.org/abs/2603.11378)|null|
 |**2026-03-11**|**Duration Aware Scheduling for ASR Serving Under Workload Drift**|Darshan Makwana et.al.|[2603.11273](http://arxiv.org/abs/2603.11273)|null|
 |**2026-03-11**|**Huntington Disease Automatic Speech Recognition with Biomarker Supervision**|Charles L. Wang et.al.|[2603.11168](http://arxiv.org/abs/2603.11168)|null|
 |**2026-03-11**|**Uni-ASR: Unified LLM-Based Architecture for Non-Streaming and Streaming Automatic Speech Recognition**|Yinfeng Xia et.al.|[2603.11123](http://arxiv.org/abs/2603.11123)|null|
 |**2026-03-11**|**AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow**|Duojia Li et.al.|[2603.10701](http://arxiv.org/abs/2603.10701)|null|
 |**2026-03-11**|**Distilling LLM Semantic Priors into Encoder-Only Multi-Talker ASR with Talker-Count Routing**|Hao Shi et.al.|[2603.10587](http://arxiv.org/abs/2603.10587)|null|
-|**2026-03-11**|**FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System**|Kaituo Xu et.al.|[2603.10420](http://arxiv.org/abs/2603.10420)|null|
+|**2026-03-11**|**FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System**|Kaituo Xu et.al.|[2603.10420](http://arxiv.org/abs/2603.10420)|**[link](https://github.com/FireRedTeam/FireRedASR2S)**|
 |**2026-03-12**|**SENS-ASR: Semantic Embedding injection in Neural-transducer for Streaming Automatic Speech Recognition**|Youness Dkhissi et.al.|[2603.10005](http://arxiv.org/abs/2603.10005)|null|
 |**2026-03-10**|**SCENEBench: An Audio Understanding Benchmark Grounded in Assistive and Industrial Use Cases**|Laya Iyer et.al.|[2603.09853](http://arxiv.org/abs/2603.09853)|null|
 |**2026-03-10**|**A Semi-spontaneous Dutch Speech Dataset for Speech Enhancement and Speech Recognition**|Dimme de Groot et.al.|[2603.09725](http://arxiv.org/abs/2603.09725)|null|
