@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -32,7 +32,7 @@ layout: default
 |**2026-03-06**|**Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning**|Yuchen Zhang et.al.|[2603.06505](http://arxiv.org/abs/2603.06505)|null|
 |**2026-03-06**|**Continual Adaptation for Pacific Indigenous Speech Recognition**|Yang Xiao et.al.|[2603.06310](http://arxiv.org/abs/2603.06310)|null|
 |**2026-03-06**|**Whisper-CD: Accurate Long-Form Speech Recognition using Multi-Negative Contrastive Decoding**|Hoseong Ahn et.al.|[2603.06193](http://arxiv.org/abs/2603.06193)|null|
-|**2026-03-06**|**Which Data Matter? Embedding-Based Data Selection for Speech Recognition**|Zakaria Aldeneh et.al.|[2603.05819](http://arxiv.org/abs/2603.05819)|null|
+|**2026-03-12**|**Which Data Matter? Embedding-Based Data Selection for Speech Recognition**|Zakaria Aldeneh et.al.|[2603.05819](http://arxiv.org/abs/2603.05819)|null|
 |**2026-03-06**|**Activation Steering for Accent Adaptation in Speech Foundation Models**|Jinuo Sun et.al.|[2603.05813](http://arxiv.org/abs/2603.05813)|null|
 |**2026-03-05**|**PersianPunc: A Large-Scale Dataset and BERT-Based Approach for Persian Punctuation Restoration**|Mohammad Javad Ranjbar Kalahroodi et.al.|[2603.05314](http://arxiv.org/abs/2603.05314)|null|
 |**2026-03-05**|**Visual-Informed Speech Enhancement Using Attention-Based Beamforming**|Chihyun Liu et.al.|[2603.05270](http://arxiv.org/abs/2603.05270)|null|
@@ -1907,6 +1907,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization**|Mengjie Zhao et.al.|[2603.12565](http://arxiv.org/abs/2603.12565)|null|
+|**2026-03-12**|**TASTE-Streaming: Towards Streamable Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2603.12350](http://arxiv.org/abs/2603.12350)|null|
+|**2026-03-12**|**MamTra: A Hybrid Mamba-Transformer Backbone for Speech Synthesis**|Tan Dat Nguyen et.al.|[2603.12342](http://arxiv.org/abs/2603.12342)|null|
 |**2026-03-12**|**Causal Prosody Mediation for Text-to-Speech:Counterfactual Training of Duration, Pitch, and Energy in FastSpeech2**|Suvendu Sekhar Mohanty et.al.|[2603.11683](http://arxiv.org/abs/2603.11683)|null|
 |**2026-03-12**|**RAF: Relativistic Adversarial Feedback For Universal Speech Synthesis**|Yongjoon Lee et.al.|[2603.11678](http://arxiv.org/abs/2603.11678)|null|
 |**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|
