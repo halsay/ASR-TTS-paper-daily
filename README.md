@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**BrainWhisperer: Leveraging Large-Scale ASR Models for Neural Speech Decoding**|Tommaso Boccato et.al.|[2603.13321](http://arxiv.org/abs/2603.13321)|null|
 |**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|**[link](https://github.com/umbertocappellazzo/Dr-SHAP-AV)**|
 |**2026-03-11**|**Continued Pretraining for Low-Resource Swahili ASR: Achieving State-of-the-Art Performance with Minimal Labeled Data**|Hillary Mutisya et.al.|[2603.11378](http://arxiv.org/abs/2603.11378)|null|
 |**2026-03-11**|**Duration Aware Scheduling for ASR Serving Under Workload Drift**|Darshan Makwana et.al.|[2603.11273](http://arxiv.org/abs/2603.11273)|null|
@@ -1907,12 +1908,13 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**VoXtream2: Full-stream TTS with dynamic speaking rate control**|Nikita Torgashov et.al.|[2603.13518](http://arxiv.org/abs/2603.13518)|null|
 |**2026-03-13**|**Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization**|Mengjie Zhao et.al.|[2603.12565](http://arxiv.org/abs/2603.12565)|null|
 |**2026-03-12**|**TASTE-Streaming: Towards Streamable Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2603.12350](http://arxiv.org/abs/2603.12350)|null|
 |**2026-03-12**|**MamTra: A Hybrid Mamba-Transformer Backbone for Speech Synthesis**|Tan Dat Nguyen et.al.|[2603.12342](http://arxiv.org/abs/2603.12342)|null|
@@ -3035,5 +3037,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260317>back to top</a>)</p>
 
