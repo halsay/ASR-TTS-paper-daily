@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|null|
 |**2026-03-17**|**Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network**|Protopopov Alexey et.al.|[2603.16972](http://arxiv.org/abs/2603.16972)|null|
 |**2026-03-11**|**Learnable Pulse Accumulation for On-Device Speech Recognition: How Much Attention Do You Need?**|Yakov Pyotr Shkolnikov et.al.|[2603.16922](http://arxiv.org/abs/2603.16922)|null|
 |**2026-03-11**|**Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation**|Natsuo Yamashita et.al.|[2603.16920](http://arxiv.org/abs/2603.16920)|null|
@@ -1929,7 +1930,7 @@
 |**2026-03-17**|**Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech**|Omnilingual SONAR Team et.al.|[2603.16606](http://arxiv.org/abs/2603.16606)|null|
 |**2026-03-17**|**On the Emotion Understanding of Synthesized Speech**|Yuan Ge et.al.|[2603.16483](http://arxiv.org/abs/2603.16483)|null|
 |**2026-03-17**|**CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS**|Zihao Zheng et.al.|[2603.16280](http://arxiv.org/abs/2603.16280)|null|
-|**2026-03-16**|**NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation**|Qinke Ni et.al.|[2603.15352](http://arxiv.org/abs/2603.15352)|null|
+|**2026-03-18**|**NV-Bench: Benchmark of Nonverbal Vocalization Synthesis for Expressive Text-to-Speech Generation**|Qinke Ni et.al.|[2603.15352](http://arxiv.org/abs/2603.15352)|null|
 |**2026-03-16**|**Tagarela - A Portuguese speech dataset from podcasts**|Frederico Santos de Oliveira et.al.|[2603.15326](http://arxiv.org/abs/2603.15326)|null|
 |**2026-03-16**|**PhonemeDF: A Synthetic Speech Dataset for Audio Deepfake Detection and Naturalness Evaluation**|Vamshi Nallaguntla et.al.|[2603.15037](http://arxiv.org/abs/2603.15037)|null|
 |**2026-03-16**|**WhispSynth: Scaling Multilingual Whisper Corpus through Real Data Curation and A Novel Pitch-free Generative Framework**|Tianyi Tan et.al.|[2603.14853](http://arxiv.org/abs/2603.14853)|null|
