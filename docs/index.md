@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-17**|**Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network**|Protopopov Alexey et.al.|[2603.16972](http://arxiv.org/abs/2603.16972)|null|
+|**2026-03-11**|**Learnable Pulse Accumulation for On-Device Speech Recognition: How Much Attention Do You Need?**|Yakov Pyotr Shkolnikov et.al.|[2603.16922](http://arxiv.org/abs/2603.16922)|null|
+|**2026-03-11**|**Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation**|Natsuo Yamashita et.al.|[2603.16920](http://arxiv.org/abs/2603.16920)|null|
 |**2026-03-17**|**RECOVER: Robust Entity Correction via agentic Orchestration of hypothesis Variants for Evidence-based Recovery**|Abhishek Kumar et.al.|[2603.16411](http://arxiv.org/abs/2603.16411)|null|
 |**2026-03-17**|**Is Semi-Automatic Transcription Useful in Corpus Creation? Preliminary Considerations on the KIParla Corpus**|Martina Simonotti et.al.|[2603.16258](http://arxiv.org/abs/2603.16258)|null|
 |**2026-03-17**|**Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR**|Quy-Anh Dang et.al.|[2603.16184](http://arxiv.org/abs/2603.16184)|**[link](https://github.com/knoveleng/polyglot-lion)**|
@@ -1916,6 +1919,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation**|Natsuo Yamashita et.al.|[2603.16920](http://arxiv.org/abs/2603.16920)|null|
 |**2026-03-17**|**Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech**|Omnilingual SONAR Team et.al.|[2603.16606](http://arxiv.org/abs/2603.16606)|null|
 |**2026-03-17**|**On the Emotion Understanding of Synthesized Speech**|Yuan Ge et.al.|[2603.16483](http://arxiv.org/abs/2603.16483)|null|
 |**2026-03-17**|**CAST-TTS: A Simple Cross-Attention Framework for Unified Timbre Control in TTS**|Zihao Zheng et.al.|[2603.16280](http://arxiv.org/abs/2603.16280)|null|
