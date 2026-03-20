@@ -18,7 +18,7 @@
 |**2026-03-19**|**Enhancing Multi-Corpus Training in SSL-Based Anti-Spoofing Models: Domain-Invariant Feature Extraction**|Anh-Tuan Dao et.al.|[2603.18657](http://arxiv.org/abs/2603.18657)|null|
 |**2026-03-18**|**Impact of automatic speech recognition quality on Alzheimer's disease detection from spontaneous speech: a reproducible benchmark study with lexical modeling and statistical validation**|Himadri Samanta et.al.|[2603.18239](http://arxiv.org/abs/2603.18239)|null|
 |**2026-03-05**|**PCOV-KWS: Multi-task Learning for Personalized Customizable Open Vocabulary Keyword Spotting**|Jianan Pan et.al.|[2603.18023](http://arxiv.org/abs/2603.18023)|null|
-|**2026-03-18**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|null|
+|**2026-03-19**|**Zipper-LoRA: Dynamic Parameter Decoupling for Speech-LLM based Multilingual Speech Recognition**|Yuxiang Mei et.al.|[2603.17558](http://arxiv.org/abs/2603.17558)|null|
 |**2026-03-17**|**Over-the-air White-box Attack on the Wav2Vec Speech Recognition Neural Network**|Protopopov Alexey et.al.|[2603.16972](http://arxiv.org/abs/2603.16972)|null|
 |**2026-03-11**|**Learnable Pulse Accumulation for On-Device Speech Recognition: How Much Attention Do You Need?**|Yakov Pyotr Shkolnikov et.al.|[2603.16922](http://arxiv.org/abs/2603.16922)|null|
 |**2026-03-11**|**Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation**|Natsuo Yamashita et.al.|[2603.16920](http://arxiv.org/abs/2603.16920)|null|
