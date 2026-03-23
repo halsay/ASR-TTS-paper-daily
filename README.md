@@ -1,4 +1,4 @@
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
+|**2026-02-26**|**Breeze Taigi: Benchmarks and Models for Taiwanese Hokkien Speech Recognition and Synthesis**|Yu-Siang Lan et.al.|[2603.19259](http://arxiv.org/abs/2603.19259)|null|
+|**2026-02-25**|**ShobdoSetu: A Data-Centric Framework for Bengali Long-Form Speech Recognition and Speaker Diarization**|Md. Nazmus Sakib et.al.|[2603.19256](http://arxiv.org/abs/2603.19256)|null|
 |**2026-03-19**|**Enhancing Multi-Corpus Training in SSL-Based Anti-Spoofing Models: Domain-Invariant Feature Extraction**|Anh-Tuan Dao et.al.|[2603.18657](http://arxiv.org/abs/2603.18657)|null|
 |**2026-03-18**|**Impact of automatic speech recognition quality on Alzheimer's disease detection from spontaneous speech: a reproducible benchmark study with lexical modeling and statistical validation**|Himadri Samanta et.al.|[2603.18239](http://arxiv.org/abs/2603.18239)|null|
 |**2026-03-05**|**PCOV-KWS: Multi-task Learning for Personalized Customizable Open Vocabulary Keyword Spotting**|Jianan Pan et.al.|[2603.18023](http://arxiv.org/abs/2603.18023)|null|
@@ -34,7 +37,7 @@
 |**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|**[link](https://github.com/umbertocappellazzo/Dr-SHAP-AV)**|
 |**2026-03-11**|**Continued Pretraining for Low-Resource Swahili ASR: Achieving State-of-the-Art Performance with Minimal Labeled Data**|Hillary Mutisya et.al.|[2603.11378](http://arxiv.org/abs/2603.11378)|null|
 |**2026-03-11**|**Duration Aware Scheduling for ASR Serving Under Workload Drift**|Darshan Makwana et.al.|[2603.11273](http://arxiv.org/abs/2603.11273)|null|
-|**2026-03-11**|**Huntington Disease Automatic Speech Recognition with Biomarker Supervision**|Charles L. Wang et.al.|[2603.11168](http://arxiv.org/abs/2603.11168)|null|
+|**2026-03-11**|**Huntington Disease Automatic Speech Recognition with Biomarker Supervision**|Charles L. Wang et.al.|[2603.11168](http://arxiv.org/abs/2603.11168)|**[link](https://github.com/charleslwang/ParakeetHD)**|
 |**2026-03-11**|**Uni-ASR: Unified LLM-Based Architecture for Non-Streaming and Streaming Automatic Speech Recognition**|Yinfeng Xia et.al.|[2603.11123](http://arxiv.org/abs/2603.11123)|null|
 |**2026-03-11**|**AlphaFlowTSE: One-Step Generative Target Speaker Extraction via Conditional AlphaFlow**|Duojia Li et.al.|[2603.10701](http://arxiv.org/abs/2603.10701)|null|
 |**2026-03-11**|**Distilling LLM Semantic Priors into Encoder-Only Multi-Talker ASR with Talker-Count Routing**|Hao Shi et.al.|[2603.10587](http://arxiv.org/abs/2603.10587)|null|
@@ -1923,12 +1926,15 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Gesture2Speech: How Far Can Hand Movements Shape Expressive Speech?**|Lokesh Kumar et.al.|[2603.19831](http://arxiv.org/abs/2603.19831)|null|
+|**2026-03-20**|**Borderless Long Speech Synthesis**|Xingchen Song et.al.|[2603.19798](http://arxiv.org/abs/2603.19798)|null|
+|**2026-03-20**|**MOSS-TTSD: Text to Spoken Dialogue Generation**|Yuqian Zhang et.al.|[2603.19739](http://arxiv.org/abs/2603.19739)|null|
 |**2026-03-05**|**PCOV-KWS: Multi-task Learning for Personalized Customizable Open Vocabulary Keyword Spotting**|Jianan Pan et.al.|[2603.18023](http://arxiv.org/abs/2603.18023)|null|
 |**2026-03-11**|**Synthetic Data Domain Adaptation for ASR via LLM-based Text and Phonetic Respelling Augmentation**|Natsuo Yamashita et.al.|[2603.16920](http://arxiv.org/abs/2603.16920)|null|
 |**2026-03-18**|**Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech**|Omnilingual SONAR Team et.al.|[2603.16606](http://arxiv.org/abs/2603.16606)|null|
@@ -3065,5 +3071,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260323>back to top</a>)</p>
 
