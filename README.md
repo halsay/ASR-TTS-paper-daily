@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**SLURP-TN : Resource for Tunisian Dialect Spoken Language Understanding**|Haroun Elleuch et.al.|[2603.21940](http://arxiv.org/abs/2603.21940)|null|
+|**2026-03-23**|**Ara-Best-RQ: Multi Dialectal Arabic SSL**|Haroun Elleuch et.al.|[2603.21900](http://arxiv.org/abs/2603.21900)|null|
+|**2026-03-23**|**Cascade-Free Mandarin Visual Speech Recognition via Semantic-Guided Cross-Representation Alignment**|Lei Yang et.al.|[2603.21808](http://arxiv.org/abs/2603.21808)|null|
+|**2026-03-23**|**RESPOND: Responsive Engagement Strategy for Predictive Orchestration and Dialogue**|Meng-Chen Lee et.al.|[2603.21682](http://arxiv.org/abs/2603.21682)|null|
 |**2026-03-20**|**Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**|Niclas Pokel et.al.|[2603.20112](http://arxiv.org/abs/2603.20112)|null|
 |**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
 |**2026-02-26**|**Breeze Taigi: Benchmarks and Models for Taiwanese Hokkien Speech Recognition and Synthesis**|Yu-Siang Lan et.al.|[2603.19259](http://arxiv.org/abs/2603.19259)|null|
@@ -1933,6 +1937,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-23**|**SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**|Lucas H. Ueda et.al.|[2603.22252](http://arxiv.org/abs/2603.22252)|null|
 |**2026-03-21**|**The Binding Effect: Analyzing How Multi-Dimensional Cues Form Gender Bias in Instruction TTS**|Kuan-Yu Chen et.al.|[2603.20743](http://arxiv.org/abs/2603.20743)|null|
 |**2026-03-21**|**SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection**|Kyudan Jung et.al.|[2603.20686](http://arxiv.org/abs/2603.20686)|null|
 |**2026-03-20**|**Audio Avatar Fingerprinting: An Approach for Authorized Use of Voice Cloning in the Era of Synthetic Audio**|Candice R. Gerstner et.al.|[2603.20165](http://arxiv.org/abs/2603.20165)|null|
