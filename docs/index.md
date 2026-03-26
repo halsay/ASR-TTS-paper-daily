@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English**|Dana Serditova et.al.|[2603.24549](http://arxiv.org/abs/2603.24549)|null|
+|**2026-03-25**|**When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools**|Xingming Li et.al.|[2603.24389](http://arxiv.org/abs/2603.24389)|null|
 |**2026-03-25**|**Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing**|Rinku Sebastian et.al.|[2603.24283](http://arxiv.org/abs/2603.24283)|null|
 |**2026-03-25**|**From Oracle to Noisy Context: Mitigating Contextual Exposure Bias in Speech-LLMs**|Xiaoyong Guo et.al.|[2603.24034](http://arxiv.org/abs/2603.24034)|null|
 |**2026-03-24**|**Ethio-ASR: Joint Multilingual Speech Recognition and Language Identification for Ethiopian Languages**|Badr M. Abdullah et.al.|[2603.23654](http://arxiv.org/abs/2603.23654)|null|
@@ -1940,6 +1942,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-25**|**Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation**|Shengfan Shen et.al.|[2603.24430](http://arxiv.org/abs/2603.24430)|null|
 |**2026-03-25**|**How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools for Romanian**|Teodora Răgman et.al.|[2603.24116](http://arxiv.org/abs/2603.24116)|null|
 |**2026-03-23**|**SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**|Lucas H. Ueda et.al.|[2603.22252](http://arxiv.org/abs/2603.22252)|null|
 |**2026-03-21**|**The Binding Effect: Analyzing How Multi-Dimensional Cues Form Gender Bias in Instruction TTS**|Kuan-Yu Chen et.al.|[2603.20743](http://arxiv.org/abs/2603.20743)|null|
