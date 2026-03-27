@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|
+|**2026-03-26**|**AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration**|Chia-Yu Lee et.al.|[2603.25041](http://arxiv.org/abs/2603.25041)|null|
 |**2026-03-25**|**A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English**|Dana Serditova et.al.|[2603.24549](http://arxiv.org/abs/2603.24549)|null|
 |**2026-03-25**|**When AI Meets Early Childhood Education: Large Language Models as Assessment Teammates in Chinese Preschools**|Xingming Li et.al.|[2603.24389](http://arxiv.org/abs/2603.24389)|null|
 |**2026-03-25**|**Bridging Biological Hearing and Neuromorphic Computing: End-to-End Time-Domain Audio Signal Processing with Reservoir Computing**|Rinku Sebastian et.al.|[2603.24283](http://arxiv.org/abs/2603.24283)|null|
