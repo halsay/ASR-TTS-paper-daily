@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|
 |**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|
 |**2026-03-26**|**AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration**|Chia-Yu Lee et.al.|[2603.25041](http://arxiv.org/abs/2603.25041)|null|
 |**2026-03-25**|**A Sociolinguistic Analysis of Automatic Speech Recognition Bias in Newcastle English**|Dana Serditova et.al.|[2603.24549](http://arxiv.org/abs/2603.24549)|null|
@@ -1944,6 +1945,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**Voxtral TTS**|Alexander H. Liu et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|null|
 |**2026-03-25**|**Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation**|Shengfan Shen et.al.|[2603.24430](http://arxiv.org/abs/2603.24430)|null|
 |**2026-03-25**|**How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools for Romanian**|Teodora Răgman et.al.|[2603.24116](http://arxiv.org/abs/2603.24116)|null|
 |**2026-03-23**|**SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**|Lucas H. Ueda et.al.|[2603.22252](http://arxiv.org/abs/2603.22252)|null|
@@ -2005,7 +2007,7 @@ layout: default
 |**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068](http://arxiv.org/abs/2602.23068)|**[link](https://github.com/HumeAI/tada)**|
 |**2026-03-03**|**Scalable Multilingual Multimodal Machine Translation with Speech-Text Fusion**|Yexing Du et.al.|[2602.21646](http://arxiv.org/abs/2602.21646)|null|
 |**2026-02-25**|**The Design Space of Tri-Modal Masked Diffusion Models**|Louis Bethune et.al.|[2602.21472](http://arxiv.org/abs/2602.21472)|null|
-|**2026-02-23**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
+|**2026-03-26**|**Can You Tell It's AI? Human Perception of Synthetic Voices in Vishing Scenarios**|Zoha Hayat Bhatti et.al.|[2602.20061](http://arxiv.org/abs/2602.20061)|null|
 |**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574](http://arxiv.org/abs/2602.19574)|null|
 |**2026-02-19**|**CC-G2PnP: Streaming Grapheme-to-Phoneme and prosody with Conformer-CTC for unsegmented languages**|Yuma Shirahata et.al.|[2602.17157](http://arxiv.org/abs/2602.17157)|null|
 |**2026-02-13**|**Speech to Speech Synthesis for Voice Impersonation**|Bjorn Johnson et.al.|[2602.16721](http://arxiv.org/abs/2602.16721)|null|
