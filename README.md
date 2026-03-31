@@ -1,4 +1,4 @@
-## Updated on 2026.03.28
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Investigation on the Robustness of Acoustic Foundation Models on Post Exercise Speech**|Xiangyuan Xue et.al.|[2603.27508](http://arxiv.org/abs/2603.27508)|null|
+|**2026-03-28**|**Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
+|**2026-03-24**|**From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics**|Paolo Cupini et.al.|[2603.26772](http://arxiv.org/abs/2603.26772)|null|
+|**2026-03-27**|**JAL-Turn: Joint Acoustic-Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems**|Guangzhao Yang et.al.|[2603.26515](http://arxiv.org/abs/2603.26515)|null|
+|**2026-03-27**|**Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**|Chihiro Taguchi et.al.|[2603.26248](http://arxiv.org/abs/2603.26248)|null|
+|**2026-03-27**|**Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR**|Shashi Kumar et.al.|[2603.26246](http://arxiv.org/abs/2603.26246)|null|
 |**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|
 |**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|
 |**2026-03-26**|**AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration**|Chia-Yu Lee et.al.|[2603.25041](http://arxiv.org/abs/2603.25041)|null|
@@ -1945,12 +1951,14 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
+|**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
 |**2026-03-26**|**Voxtral TTS**|Alexander H. Liu et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|null|
 |**2026-03-25**|**Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation**|Shengfan Shen et.al.|[2603.24430](http://arxiv.org/abs/2603.24430)|null|
 |**2026-03-25**|**How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools for Romanian**|Teodora Răgman et.al.|[2603.24116](http://arxiv.org/abs/2603.24116)|null|
@@ -1973,7 +1981,7 @@
 |**2026-03-16**|**Investigating the Impact of Speech Enhancement on Audio Deepfake Detection in Noisy Environments**|Anacin et.al.|[2603.14767](http://arxiv.org/abs/2603.14767)|null|
 |**2026-03-15**|**Affectron: Emotional Speech Synthesis with Affective and Contextually Aligned Nonverbal Vocalizations**|Deok-Hyeon Cho et.al.|[2603.14432](http://arxiv.org/abs/2603.14432)|null|
 |**2026-03-15**|**CodecMOS-Accent: A MOS Benchmark of Resynthesized and TTS Speech from Neural Codecs Across English Accents**|Wen-Chin Huang et.al.|[2603.14328](http://arxiv.org/abs/2603.14328)|null|
-|**2026-03-17**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
+|**2026-03-27**|**DiFlowDubber: Discrete Flow Matching for Automated Video Dubbing via Cross-Modal Alignment and Synchronization**|Ngoc-Son Nguyen et.al.|[2603.14267](http://arxiv.org/abs/2603.14267)|null|
 |**2026-03-13**|**VoXtream2: Full-stream TTS with dynamic speaking rate control**|Nikita Torgashov et.al.|[2603.13518](http://arxiv.org/abs/2603.13518)|null|
 |**2026-03-13**|**Speech-Worthy Alignment for Japanese SpeechLLMs via Direct Preference Optimization**|Mengjie Zhao et.al.|[2603.12565](http://arxiv.org/abs/2603.12565)|null|
 |**2026-03-12**|**TASTE-Streaming: Towards Streamable Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling**|Liang-Hsuan Tseng et.al.|[2603.12350](http://arxiv.org/abs/2603.12350)|null|
@@ -3097,5 +3105,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260328>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
