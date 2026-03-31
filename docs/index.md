@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**EBuddy: a workflow orchestrator for industrial human-machine collaboration**|Michele Banfi et.al.|[2603.28579](http://arxiv.org/abs/2603.28579)|null|
+|**2026-03-30**|**Voice-Controlled Scratch for Children with (Motor) Disabilities**|Elias Goller et.al.|[2603.28246](http://arxiv.org/abs/2603.28246)|null|
+|**2026-03-30**|**On the Role of Encoder Depth: Pruning Whisper and LoRA Fine-Tuning in SLAM-ASR**|Ganesh Pavan Kartikeya Bharadwaj Kolluri et.al.|[2603.27981](http://arxiv.org/abs/2603.27981)|null|
 |**2026-03-29**|**Investigation on the Robustness of Acoustic Foundation Models on Post Exercise Speech**|Xiangyuan Xue et.al.|[2603.27508](http://arxiv.org/abs/2603.27508)|null|
 |**2026-03-28**|**Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-03-24**|**From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics**|Paolo Cupini et.al.|[2603.26772](http://arxiv.org/abs/2603.26772)|null|
@@ -34,7 +37,7 @@ layout: default
 |**2026-03-23**|**SLURP-TN : Resource for Tunisian Dialect Spoken Language Understanding**|Haroun Elleuch et.al.|[2603.21940](http://arxiv.org/abs/2603.21940)|null|
 |**2026-03-23**|**Ara-Best-RQ: Multi Dialectal Arabic SSL**|Haroun Elleuch et.al.|[2603.21900](http://arxiv.org/abs/2603.21900)|null|
 |**2026-03-23**|**Cascade-Free Mandarin Visual Speech Recognition via Semantic-Guided Cross-Representation Alignment**|Lei Yang et.al.|[2603.21808](http://arxiv.org/abs/2603.21808)|null|
-|**2026-03-23**|**RESPOND: Responsive Engagement Strategy for Predictive Orchestration and Dialogue**|Meng-Chen Lee et.al.|[2603.21682](http://arxiv.org/abs/2603.21682)|null|
+|**2026-03-30**|**RESPOND: Responsive Engagement Strategy for Predictive Orchestration and Dialogue**|Meng-Chen Lee et.al.|[2603.21682](http://arxiv.org/abs/2603.21682)|null|
 |**2026-03-20**|**Demonstration of Adapt4Me: An Uncertainty-Aware Authoring Environment for Personalizing Automatic Speech Recognition to Non-normative Speech**|Niclas Pokel et.al.|[2603.20112](http://arxiv.org/abs/2603.20112)|null|
 |**2026-03-20**|**LoASR-Bench: Evaluating Large Speech Language Models on Low-Resource Automatic Speech Recognition Across Language Families**|Jianan Chen et.al.|[2603.20042](http://arxiv.org/abs/2603.20042)|null|
 |**2026-02-26**|**Breeze Taigi: Benchmarks and Models for Taiwanese Hokkien Speech Recognition and Synthesis**|Yu-Siang Lan et.al.|[2603.19259](http://arxiv.org/abs/2603.19259)|null|
@@ -70,7 +73,7 @@ layout: default
 |**2026-03-09**|**NLE: Non-autoregressive LLM-based ASR by Transcript Editing**|Avihu Dekel et.al.|[2603.08397](http://arxiv.org/abs/2603.08397)|null|
 |**2026-03-09**|**Bootstrapping Audiovisual Speech Recognition in Zero-AV-Resource Scenarios with Synthetic Visual Data**|Pol Buitrago et.al.|[2603.08249](http://arxiv.org/abs/2603.08249)|null|
 |**2026-03-09**|**Ramsa: A Large Sociolinguistically Rich Emirati Arabic Speech Corpus for ASR and TTS**|Rania Al-Sabbagh et.al.|[2603.08125](http://arxiv.org/abs/2603.08125)|null|
-|**2026-03-08**|**Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR**|Rishikesh Kumar Sharma et.al.|[2603.07554](http://arxiv.org/abs/2603.07554)|null|
+|**2026-03-30**|**Nwāchā Munā: A Devanagari Speech Corpus and Proximal Transfer Benchmark for Nepal Bhasha ASR**|Rishikesh Kumar Sharma et.al.|[2603.07554](http://arxiv.org/abs/2603.07554)|null|
 |**2026-03-07**|**Seeing the Context: Rich Visual Context-Aware Speech Recognition via Multimodal Reasoning**|Wenjie Tian et.al.|[2603.07263](http://arxiv.org/abs/2603.07263)|null|
 |**2026-03-07**|**The Talking Robot: Distortion-Robust Acoustic Models for Robot-Robot Communication**|Hanlong Li et.al.|[2603.07072](http://arxiv.org/abs/2603.07072)|null|
 |**2026-03-06**|**Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning**|Yuchen Zhang et.al.|[2603.06505](http://arxiv.org/abs/2603.06505)|null|
@@ -1951,6 +1954,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
 |**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
 |**2026-03-26**|**Voxtral TTS**|Alexander H. Liu et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|null|
