@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**FLEURS-Kobani: Extending the FLEURS Dataset for Northern Kurdish**|Daban Q. Jaff et.al.|[2603.29892](http://arxiv.org/abs/2603.29892)|null|
 |**2026-03-31**|**LLM Probe: Evaluating LLMs for Low-Resource Languages**|Hailay Kidu Teklehaymanot et.al.|[2603.29517](http://arxiv.org/abs/2603.29517)|null|
 |**2026-03-31**|**Spoken Digit Recognition and Speaker Classification by Nonlinear Interfered Spin Wave-Based Physical Reservoir Computing**|Sota Hikasa et.al.|[2603.29311](http://arxiv.org/abs/2603.29311)|null|
 |**2026-03-31**|**Advancing LLM-based phoneme-to-grapheme for multilingual speech recognition**|Lukuang Dong et.al.|[2603.29217](http://arxiv.org/abs/2603.29217)|null|
@@ -1957,6 +1958,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Covertly improving intelligibility with data-driven adaptations of speech timing**|Paige Tuttösí et.al.|[2603.30032](http://arxiv.org/abs/2603.30032)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
 |**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
