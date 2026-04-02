@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
+|**2026-04-01**|**Speech LLMs are Contextual Reasoning Transcribers**|Keqi Deng et.al.|[2604.00610](http://arxiv.org/abs/2604.00610)|null|
+|**2026-04-01**|**Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling**|Kazuki Yano et.al.|[2604.00489](http://arxiv.org/abs/2604.00489)|null|
+|**2026-03-09**|**Dynin-Omni: Omnimodal Unified Large Diffusion Language Model**|Jaeik Kim et.al.|[2604.00007](http://arxiv.org/abs/2604.00007)|null|
 |**2026-03-31**|**FLEURS-Kobani: Extending the FLEURS Dataset for Northern Kurdish**|Daban Q. Jaff et.al.|[2603.29892](http://arxiv.org/abs/2603.29892)|null|
 |**2026-03-31**|**LLM Probe: Evaluating LLMs for Low-Resource Languages**|Hailay Kidu Teklehaymanot et.al.|[2603.29517](http://arxiv.org/abs/2603.29517)|null|
 |**2026-03-31**|**Spoken Digit Recognition and Speaker Classification by Nonlinear Interfered Spin Wave-Based Physical Reservoir Computing**|Sota Hikasa et.al.|[2603.29311](http://arxiv.org/abs/2603.29311)|null|
@@ -1958,12 +1962,14 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-01**|**OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models**|Han Zhu et.al.|[2604.00688](http://arxiv.org/abs/2604.00688)|null|
+|**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[2604.00292](http://arxiv.org/abs/2604.00292)|null|
 |**2026-03-31**|**Covertly improving intelligibility with data-driven adaptations of speech timing**|Paige Tuttösí et.al.|[2603.30032](http://arxiv.org/abs/2603.30032)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
 |**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
@@ -1972,7 +1978,7 @@
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
 |**2026-03-26**|**Voxtral TTS**|Alexander H. Liu et.al.|[2603.25551](http://arxiv.org/abs/2603.25551)|null|
 |**2026-03-25**|**Iterate to Differentiate: Enhancing Discriminability and Reliability in Zero-Shot TTS Evaluation**|Shengfan Shen et.al.|[2603.24430](http://arxiv.org/abs/2603.24430)|null|
-|**2026-03-25**|**How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools for Romanian**|Teodora Răgman et.al.|[2603.24116](http://arxiv.org/abs/2603.24116)|null|
+|**2026-04-01**|**How Open is Open TTS? A Practical Evaluation of Open Source TTS Tools**|Teodora Răgman et.al.|[2603.24116](http://arxiv.org/abs/2603.24116)|null|
 |**2026-03-23**|**SelfTTS: cross-speaker style transfer through explicit embedding disentanglement and self-refinement using self-augmentation**|Lucas H. Ueda et.al.|[2603.22252](http://arxiv.org/abs/2603.22252)|null|
 |**2026-03-21**|**The Binding Effect: Analyzing How Multi-Dimensional Cues Form Gender Bias in Instruction TTS**|Kuan-Yu Chen et.al.|[2603.20743](http://arxiv.org/abs/2603.20743)|null|
 |**2026-03-21**|**SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection**|Kyudan Jung et.al.|[2603.20686](http://arxiv.org/abs/2603.20686)|null|
@@ -3116,5 +3122,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260402>back to top</a>)</p>
 
