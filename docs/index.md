@@ -14,7 +14,7 @@ layout: default
 |**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
 |**2026-04-01**|**Speech LLMs are Contextual Reasoning Transcribers**|Keqi Deng et.al.|[2604.00610](http://arxiv.org/abs/2604.00610)|null|
 |**2026-04-01**|**Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling**|Kazuki Yano et.al.|[2604.00489](http://arxiv.org/abs/2604.00489)|null|
-|**2026-03-09**|**Dynin-Omni: Omnimodal Unified Large Diffusion Language Model**|Jaeik Kim et.al.|[2604.00007](http://arxiv.org/abs/2604.00007)|null|
+|**2026-03-09**|**Dynin-Omni: Omnimodal Unified Large Diffusion Language Model**|Jaeik Kim et.al.|[2604.00007](http://arxiv.org/abs/2604.00007)|**[link](https://github.com/AIDASLab/Dynin-Omni)**|
 |**2026-03-31**|**FLEURS-Kobani: Extending the FLEURS Dataset for Northern Kurdish**|Daban Q. Jaff et.al.|[2603.29892](http://arxiv.org/abs/2603.29892)|null|
 |**2026-03-31**|**LLM Probe: Evaluating LLMs for Low-Resource Languages**|Hailay Kidu Teklehaymanot et.al.|[2603.29517](http://arxiv.org/abs/2603.29517)|null|
 |**2026-03-31**|**Spoken Digit Recognition and Speaker Classification by Nonlinear Interfered Spin Wave-Based Physical Reservoir Computing**|Sota Hikasa et.al.|[2603.29311](http://arxiv.org/abs/2603.29311)|null|
