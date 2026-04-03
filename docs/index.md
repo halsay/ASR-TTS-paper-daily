@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.02
+## Updated on 2026.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-02**|**Development and multi-center evaluation of domain-adapted speech recognition for human-AI teaming in real-world gastrointestinal endoscopy**|Ruijie Yang et.al.|[2604.01705](http://arxiv.org/abs/2604.01705)|null|
 |**2026-04-01**|**VisG AV-HuBERT: Viseme-Guided AV-HuBERT**|Aristeidis Papadopoulos et.al.|[2604.00982](http://arxiv.org/abs/2604.00982)|null|
 |**2026-04-01**|**Speech LLMs are Contextual Reasoning Transcribers**|Keqi Deng et.al.|[2604.00610](http://arxiv.org/abs/2604.00610)|null|
 |**2026-04-01**|**Adapting Text LLMs to Speech via Multimodal Depth Up-Scaling**|Kazuki Yano et.al.|[2604.00489](http://arxiv.org/abs/2604.00489)|null|
@@ -1962,7 +1963,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-01**|**OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models**|Han Zhu et.al.|[2604.00688](http://arxiv.org/abs/2604.00688)|null|
+|**2026-04-02**|**OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models**|Han Zhu et.al.|[2604.00688](http://arxiv.org/abs/2604.00688)|null|
 |**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[2604.00292](http://arxiv.org/abs/2604.00292)|null|
 |**2026-03-31**|**Covertly improving intelligibility with data-driven adaptations of speech timing**|Paige Tuttösí et.al.|[2603.30032](http://arxiv.org/abs/2603.30032)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
@@ -2056,7 +2057,7 @@ layout: default
 |**2026-01-14**|**PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models**|Rajarshi Roy et.al.|[2602.06053](http://arxiv.org/abs/2602.06053)|null|
 |**2026-02-05**|**ARCHI-TTS: A flow-matching-based Text-to-Speech Model with Self-supervised Semantic Aligner and Accelerated Inference**|Chunyat Wu et.al.|[2602.05207](http://arxiv.org/abs/2602.05207)|null|
 |**2026-02-04**|**HoliAntiSpoof: Audio LLM for Holistic Speech Anti-Spoofing**|Xuenan Xu et.al.|[2602.04535](http://arxiv.org/abs/2602.04535)|null|
-|**2026-02-04**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
+|**2026-04-01**|**PFluxTTS: Hybrid Flow-Matching TTS with Robust Cross-Lingual Voice Cloning and Inference-Time Model Fusion**|Vikentii Pankov et.al.|[2602.04160](http://arxiv.org/abs/2602.04160)|null|
 |**2026-02-03**|**CoCoEmo: Composable and Controllable Human-Like Emotional TTS via Activation Steering**|Siyi Wang et.al.|[2602.03420](http://arxiv.org/abs/2602.03420)|null|
 |**2026-03-02**|**WAXAL: A Large-Scale Multilingual African Language Speech Corpus**|Abdoulaye Diack et.al.|[2602.02734](http://arxiv.org/abs/2602.02734)|null|
 |**2026-02-01**|**VividVoice: A Unified Framework for Scene-Aware Visually-Driven Speech Synthesis**|Chengyuan Ma et.al.|[2602.02591](http://arxiv.org/abs/2602.02591)|null|
