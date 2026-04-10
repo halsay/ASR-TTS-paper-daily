@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages**|Lilian Wanzare et.al.|[2604.08448](http://arxiv.org/abs/2604.08448)|null|
 |**2026-04-09**|**Rethinking Entropy Allocation in LLM-based ASR: Understanding the Dynamics between Speech Encoders and LLMs**|Yuan Xie et.al.|[2604.08003](http://arxiv.org/abs/2604.08003)|null|
 |**2026-03-28**|**Contextual Earnings-22: A Speech Recognition Benchmark with Custom Vocabulary in the Wild**|Berkin Durmus et.al.|[2604.07354](http://arxiv.org/abs/2604.07354)|null|
 |**2026-04-08**|**XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI**|N. D. Tantaroudas et.al.|[2604.06901](http://arxiv.org/abs/2604.06901)|null|
@@ -1978,6 +1979,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|
+|**2026-04-09**|**AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages**|Lilian Wanzare et.al.|[2604.08448](http://arxiv.org/abs/2604.08448)|null|
+|**2026-04-09**|**CapTalk: Unified Voice Design for Single-Utterance and Dialogue Speech Generation**|Xiaosu Su et.al.|[2604.08363](http://arxiv.org/abs/2604.08363)|null|
 |**2026-04-09**|**Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video**|Chanhyuk Choi et.al.|[2604.07786](http://arxiv.org/abs/2604.07786)|null|
 |**2026-04-08**|**Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yorùbá**|Opeyemi Osakuade et.al.|[2604.07467](http://arxiv.org/abs/2604.07467)|null|
 |**2026-04-08**|**XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI**|N. D. Tantaroudas et.al.|[2604.06901](http://arxiv.org/abs/2604.06901)|null|
