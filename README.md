@@ -1,4 +1,4 @@
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -22,7 +22,7 @@
 |**2026-04-12**|**BlasBench: An Open Benchmark for Irish Speech Recognition**|Jyoutir Raj et.al.|[2604.10736](http://arxiv.org/abs/2604.10736)|null|
 |**2026-04-12**|**Cross-Cultural Bias in Mel-Scale Representations: Evidence and Alternatives from Speech and Music**|Shivam Chauhan et.al.|[2604.10503](http://arxiv.org/abs/2604.10503)|null|
 |**2026-04-10**|**Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts**|Valentin Pelloin et.al.|[2604.09472](http://arxiv.org/abs/2604.09472)|null|
-|**2026-04-13**|**Interactive ASR: Towards Human-Like Interaction and Semantic Coherence Evaluation for Agentic Speech Recognition**|Peng Wang et.al.|[2604.09121](http://arxiv.org/abs/2604.09121)|null|
+|**2026-04-14**|**Interactive ASR: Towards Human-Like Interaction and Semantic Coherence Evaluation for Agentic Speech Recognition**|Peng Wang et.al.|[2604.09121](http://arxiv.org/abs/2604.09121)|null|
 |**2026-04-10**|**Few-Shot Contrastive Adaptation for Audio Abuse Detection in Low-Resource Indic Languages**|Aditya Narayan Sankaran et.al.|[2604.09094](http://arxiv.org/abs/2604.09094)|null|
 |**2026-04-09**|**Script Collapse in Multilingual ASR: Defining and Measuring Script Fidelity Rate**|Hanif Rahman et.al.|[2604.08786](http://arxiv.org/abs/2604.08786)|null|
 |**2026-04-09**|**AfriVoices-KE: A Multilingual Speech Dataset for Kenyan Languages**|Lilian Wanzare et.al.|[2604.08448](http://arxiv.org/abs/2604.08448)|null|
@@ -1983,17 +1983,18 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**An Ultra-Low Latency, End-to-End Streaming Speech Synthesis Architecture via Block-Wise Generation and Depth-Wise Codec Decoding**|Tianhui Su et.al.|[2604.12438](http://arxiv.org/abs/2604.12438)|null|
 |**2026-04-13**|**Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus**|Lena S. Oberkircher et.al.|[2604.11803](http://arxiv.org/abs/2604.11803)|null|
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
 |**2026-04-12**|**Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark**|Arnon Turetzky et.al.|[2604.10580](http://arxiv.org/abs/2604.10580)|null|
 |**2026-04-12**|**Sign-to-Speech Prosody Transfer via Sign Reconstruction-based GAN**|Toranosuke Manabe et.al.|[2604.10413](http://arxiv.org/abs/2604.10413)|null|
-|**2026-04-13**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-04-14**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-09**|**Enhancing Conversational TTS with Cascaded Prompting and ICL-Based Online Reinforcement Learning**|Zhicheng Ouyang et.al.|[2604.08709](http://arxiv.org/abs/2604.08709)|null|
 |**2026-03-17**|**Neural networks for Text-to-Speech evaluation**|Ilya Trofimenko et.al.|[2604.08562](http://arxiv.org/abs/2604.08562)|null|
 |**2026-03-17**|**WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models**|Hanna Lee et.al.|[2604.08558](http://arxiv.org/abs/2604.08558)|null|
@@ -3163,5 +3164,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260415>back to top</a>)</p>
 
