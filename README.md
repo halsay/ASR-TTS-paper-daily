@@ -1,4 +1,4 @@
-## Updated on 2026.04.16
+## Updated on 2026.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-16**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|
+|**2026-03-31**|**HARNESS: Lightweight Distilled Arabic Speech Foundation Models**|Vrunda N. Sukhadia et.al.|[2604.14186](http://arxiv.org/abs/2604.14186)|null|
+|**2026-03-23**|**SeaAlert: Critical Information Extraction From Maritime Distress Communications with Large Language Models**|Tomer Atia et.al.|[2604.14163](http://arxiv.org/abs/2604.14163)|null|
 |**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
 |**2026-03-18**|**A Proactive EMR Assistant for Doctor-Patient Dialogue: Streaming ASR, Belief Stabilization, and Preliminary Controlled Evaluation**|Zhenhai Pan et.al.|[2604.13059](http://arxiv.org/abs/2604.13059)|null|
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
@@ -90,7 +93,7 @@
 |**2026-03-16**|**Lost in Transcription: Subtitle Errors in Automatic Speech Recognition Reduce Speaker and Content Evaluations**|Kowe Kadoma et.al.|[2603.15807](http://arxiv.org/abs/2603.15807)|null|
 |**2026-03-16**|**Tagarela - A Portuguese speech dataset from podcasts**|Frederico Santos de Oliveira et.al.|[2603.15326](http://arxiv.org/abs/2603.15326)|null|
 |**2026-03-16**|**Two-Stage Adaptation for Non-Normative Speech Recognition: Revisiting Speaker-Independent Initialization for Personalization**|Shan Jiang et.al.|[2603.15261](http://arxiv.org/abs/2603.15261)|null|
-|**2026-03-16**|**LLMs and Speech: Integration vs. Combination**|Robin Schmitt et.al.|[2603.15045](http://arxiv.org/abs/2603.15045)|null|
+|**2026-04-16**|**LLMs and Speech: Integration vs. Combination**|Robin Schmitt et.al.|[2603.15045](http://arxiv.org/abs/2603.15045)|null|
 |**2026-03-16**|**Vietnamese Automatic Speech Recognition: A Revisit**|Thi Vu et.al.|[2603.14779](http://arxiv.org/abs/2603.14779)|null|
 |**2026-03-04**|**BrainWhisperer: Leveraging Large-Scale ASR Models for Neural Speech Decoding**|Tommaso Boccato et.al.|[2603.13321](http://arxiv.org/abs/2603.13321)|null|
 |**2026-03-12**|**Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition**|Umberto Cappellazzo et.al.|[2603.12046](http://arxiv.org/abs/2603.12046)|**[link](https://github.com/umbertocappellazzo/Dr-SHAP-AV)**|
@@ -1985,7 +1988,7 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
 ## TTS
 
@@ -3167,5 +3170,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260417>back to top</a>)</p>
 
