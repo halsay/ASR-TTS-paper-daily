@@ -11,10 +11,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**Where Do Self-Supervised Speech Models Become Unfair?**|Felix Herron et.al.|[2604.18249](http://arxiv.org/abs/2604.18249)|null|
+|**2026-04-20**|**Hard to Be Heard: Phoneme-Level ASR Analysis of Phonologically Complex, Low-Resource Endangered Languages**|V. S. D. S. Mahesh Akavarapu et.al.|[2604.18204](http://arxiv.org/abs/2604.18204)|null|
+|**2026-04-20**|**NIM4-ASR: Towards Efficient, Robust, and Customizable Real-Time LLM-Based ASR**|Yuan Xie et.al.|[2604.18105](http://arxiv.org/abs/2604.18105)|null|
+|**2026-04-20**|**Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening**|Cengiz Ozel et.al.|[2604.17871](http://arxiv.org/abs/2604.17871)|null|
+|**2026-04-19**|**Fully Analog Resonant Recurrent Neural Network via Metacircuit**|Zixin Zhou et.al.|[2604.17277](http://arxiv.org/abs/2604.17277)|null|
 |**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
 |**2026-03-17**|**MDwAIstScheduler: A Low-Cost, Voice-Activated Device for Hands-Free Clinical Scheduling**|Diego Mardien et.al.|[2604.16352](http://arxiv.org/abs/2604.16352)|null|
 |**2026-04-17**|**MUSCAT: MUltilingual, SCientific ConversATion Benchmark**|Supriti Sinhamahapatra et.al.|[2604.15929](http://arxiv.org/abs/2604.15929)|null|
-|**2026-04-16**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|
+|**2026-04-19**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|
 |**2026-03-31**|**HARNESS: Lightweight Distilled Arabic Speech Foundation Models**|Vrunda N. Sukhadia et.al.|[2604.14186](http://arxiv.org/abs/2604.14186)|null|
 |**2026-03-23**|**SeaAlert: Critical Information Extraction From Maritime Distress Communications with Large Language Models**|Tomer Atia et.al.|[2604.14163](http://arxiv.org/abs/2604.14163)|null|
 |**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
@@ -55,7 +60,7 @@ layout: default
 |**2026-03-28**|**Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-03-24**|**From Content to Audience: A Multimodal Annotation Framework for Broadcast Television Analytics**|Paolo Cupini et.al.|[2603.26772](http://arxiv.org/abs/2603.26772)|null|
 |**2026-03-27**|**JAL-Turn: Joint Acoustic-Linguistic Modeling for Real-Time and Robust Turn-Taking Detection in Full-Duplex Spoken Dialogue Systems**|Guangzhao Yang et.al.|[2603.26515](http://arxiv.org/abs/2603.26515)|null|
-|**2026-03-27**|**Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**|Chihiro Taguchi et.al.|[2603.26248](http://arxiv.org/abs/2603.26248)|null|
+|**2026-04-20**|**Automatic Speech Recognition for Documenting Endangered Languages: Case Study of Ikema Miyakoan**|Chihiro Taguchi et.al.|[2603.26248](http://arxiv.org/abs/2603.26248)|null|
 |**2026-03-27**|**Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR**|Shashi Kumar et.al.|[2603.26246](http://arxiv.org/abs/2603.26246)|null|
 |**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|
 |**2026-03-26**|**Goodness-of-pronunciation without phoneme time alignment**|Jeremy H. M. Wong et.al.|[2603.25150](http://arxiv.org/abs/2603.25150)|null|
@@ -1991,6 +1996,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-20**|**MINT-Bench: A Comprehensive Multilingual Benchmark for Instruction-Following Text-to-Speech**|Huakang Chen et.al.|[2604.17958](http://arxiv.org/abs/2604.17958)|null|
+|**2026-04-20**|**Design and Evaluation of a Culturally Adapted Multimodal Virtual Agent for PTSD Screening**|Cengiz Ozel et.al.|[2604.17871](http://arxiv.org/abs/2604.17871)|null|
 |**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
 |**2026-04-17**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
 |**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
@@ -2074,7 +2081,7 @@ layout: default
 |**2026-03-06**|**Activation Steering for Accent-Neutralized Zero-Shot Text-To-Speech**|Mu Yang et.al.|[2603.05977](http://arxiv.org/abs/2603.05977)|null|
 |**2026-03-06**|**How Well Do Current Speech Deepfake Detection Methods Generalize to the Real World?**|Daixian Li et.al.|[2603.05852](http://arxiv.org/abs/2603.05852)|null|
 |**2026-03-06**|**StreamWise: Serving Multi-Modal Generation in Real-Time at Scale**|Haoran Qiu et.al.|[2603.05800](http://arxiv.org/abs/2603.05800)|null|
-|**2026-03-23**|**Designing Explainable Conversational Agentic Systems for Guaraní Speakers**|Samantha Adorno et.al.|[2603.05743](http://arxiv.org/abs/2603.05743)|null|
+|**2026-04-20**|**Designing Explainable Conversational Agentic Systems for Guaraní Speakers**|Samantha Adorno et.al.|[2603.05743](http://arxiv.org/abs/2603.05743)|null|
 |**2026-04-11**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373](http://arxiv.org/abs/2603.05373)|null|
 |**2026-03-05**|**Measuring the Redundancy of Decoder Layers in SpeechLLMs**|Adel Moumen et.al.|[2603.05121](http://arxiv.org/abs/2603.05121)|null|
 |**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219](http://arxiv.org/abs/2603.04219)|null|
