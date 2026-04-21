@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
+|**2026-03-17**|**MDwAIstScheduler: A Low-Cost, Voice-Activated Device for Hands-Free Clinical Scheduling**|Diego Mardien et.al.|[2604.16352](http://arxiv.org/abs/2604.16352)|null|
 |**2026-04-17**|**MUSCAT: MUltilingual, SCientific ConversATion Benchmark**|Supriti Sinhamahapatra et.al.|[2604.15929](http://arxiv.org/abs/2604.15929)|null|
 |**2026-04-16**|**Pushing the Limits of On-Device Streaming ASR: A Compact, High-Accuracy English Model for Low-Latency Inference**|Nenad Banfic et.al.|[2604.14493](http://arxiv.org/abs/2604.14493)|null|
 |**2026-03-31**|**HARNESS: Lightweight Distilled Arabic Speech Foundation Models**|Vrunda N. Sukhadia et.al.|[2604.14186](http://arxiv.org/abs/2604.14186)|null|
@@ -1989,6 +1991,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-18**|**Anonymization, Not Elimination: Utility-Preserved Speech Anonymization**|Yunchong Xiao et.al.|[2604.17000](http://arxiv.org/abs/2604.17000)|null|
 |**2026-04-17**|**NVBench: A Benchmark for Speech Synthesis with Non-Verbal Vocalizations**|Liumeng Xue et.al.|[2604.16211](http://arxiv.org/abs/2604.16211)|null|
 |**2026-04-17**|**AST: Adaptive, Seamless, and Training-Free Precise Speech Editing**|Sihan Lv et.al.|[2604.16056](http://arxiv.org/abs/2604.16056)|null|
 |**2026-04-17**|**Qwen3.5-Omni Technical Report**|Qwen Team et.al.|[2604.15804](http://arxiv.org/abs/2604.15804)|null|
