@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.22
+## Updated on 2026.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**Aligning Stuttered-Speech Research with End-User Needs: Scoping Review, Survey, and Guidelines**|Hawau Olamide Toyin et.al.|[2604.20535](http://arxiv.org/abs/2604.20535)|null|
+|**2026-04-22**|**ATIR: Towards Audio-Text Interleaved Contextual Retrieval**|Tong Zhao et.al.|[2604.20267](http://arxiv.org/abs/2604.20267)|null|
+|**2026-04-10**|**Utterance-Level Methods for Identifying Reliable ASR-Output for Child Speech**|Gus Lathouwers et.al.|[2604.19801](http://arxiv.org/abs/2604.19801)|null|
+|**2026-04-10**|**Enhancing ASR Performance in the Medical Domain for Dravidian Languages**|Sri Charan Devarakonda et.al.|[2604.19797](http://arxiv.org/abs/2604.19797)|null|
+|**2026-03-30**|**KoALa-Bench: Evaluating Large Audio Language Models on Korean Speech Understanding and Faithfulness**|Jinyoung Kim et.al.|[2604.19782](http://arxiv.org/abs/2604.19782)|null|
 |**2026-04-21**|**Detecting Hallucinations in SpeechLLMs at Inference Time Using Attention Maps**|Jonas Waldendorf et.al.|[2604.19565](http://arxiv.org/abs/2604.19565)|null|
 |**2026-04-21**|**UAF: A Unified Audio Front-end LLM for Full-Duplex Speech Interaction**|Yadong Li et.al.|[2604.19221](http://arxiv.org/abs/2604.19221)|null|
 |**2026-04-21**|**Voice of India: A Large-Scale Benchmark for Real-World Speech Recognition in India**|Kaushal Bhogale et.al.|[2604.19151](http://arxiv.org/abs/2604.19151)|null|
