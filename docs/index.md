@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-27**|**RAS: a Reliability Oriented Metric for Automatic Speech Recognition**|Wenbin Huang et.al.|[2604.24278](http://arxiv.org/abs/2604.24278)|null|
+|**2026-04-28**|**WhisperPipe: A Resource-Efficient Streaming Architecture for Real-Time Automatic Speech Recognition**|Erfan Ramezani et.al.|[2604.25611](http://arxiv.org/abs/2604.25611)|null|
+|**2026-04-15**|**Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR**|Minsik Lee et.al.|[2604.24770](http://arxiv.org/abs/2604.24770)|null|
+|**2026-04-28**|**RAS: a Reliability Oriented Metric for Automatic Speech Recognition**|Wenbin Huang et.al.|[2604.24278](http://arxiv.org/abs/2604.24278)|null|
 |**2026-04-27**|**2nd of the 5th PVUW MeViS-Audio Track: ASR-SaSaSa2VA**|Zhiyu Wang et.al.|[2604.23935](http://arxiv.org/abs/2604.23935)|null|
 |**2026-04-25**|**Au-M-ol: A Unified Model for Medical Audio and Language Understanding**|Meizhu Liu et.al.|[2604.23284](http://arxiv.org/abs/2604.23284)|null|
 |**2026-04-14**|**In-Sync: Adaptation of Speech Aware Large Language Models for ASR with Word Level Timestamp Predictions**|Xulin Fan et.al.|[2604.22817](http://arxiv.org/abs/2604.22817)|null|
@@ -46,7 +48,7 @@ layout: default
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
 |**2026-04-13**|**Speaker Attributed Automatic Speech Recognition Using Speech Aware LLMS**|Hagai Aronowitz et.al.|[2604.11269](http://arxiv.org/abs/2604.11269)|null|
 |**2026-04-13**|**Teaching the Teachers: Boosting unsupervised domain adaptation in speech recognition by ensemble update**|Rehan Ahmad et.al.|[2604.11256](http://arxiv.org/abs/2604.11256)|null|
-|**2026-04-13**|**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**|Jialing Wang et.al.|[2604.11110](http://arxiv.org/abs/2604.11110)|null|
+|**2026-04-28**|**Ti-Audio: The First Multi-Dialectal End-to-End Speech LLM for Tibetan**|Jialing Wang et.al.|[2604.11110](http://arxiv.org/abs/2604.11110)|null|
 |**2026-04-16**|**BlasBench: An Open Benchmark for Irish Speech Recognition**|Jyoutir Raj et.al.|[2604.10736](http://arxiv.org/abs/2604.10736)|null|
 |**2026-04-12**|**Cross-Cultural Bias in Mel-Scale Representations: Evidence and Alternatives from Speech and Music**|Shivam Chauhan et.al.|[2604.10503](http://arxiv.org/abs/2604.10503)|null|
 |**2026-04-10**|**Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts**|Valentin Pelloin et.al.|[2604.09472](http://arxiv.org/abs/2604.09472)|null|
@@ -2015,13 +2017,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|null|
+|**2026-04-28**|**Robust Accent Identification via Voice Conversion and Non-Timbral Embeddings**|Rayane Bakari et.al.|[2604.25332](http://arxiv.org/abs/2604.25332)|null|
+|**2026-04-15**|**Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR**|Minsik Lee et.al.|[2604.24770](http://arxiv.org/abs/2604.24770)|null|
 |**2026-04-26**|**AMAVA: Adaptive Motion-Aware Video-to-Audio Framework for Visually-Impaired Assistance**|Benjamin Klein et.al.|[2604.23909](http://arxiv.org/abs/2604.23909)|null|
 |**2026-04-26**|**Talking Slide Avatars: Open-Source Multimodal Communication Approach for Teaching**|Xinxing Wu et.al.|[2604.23703](http://arxiv.org/abs/2604.23703)|null|
-|**2026-04-17**|**Audio2Tool: Bridging Spoken Language Understanding and Function Calling**|Ramit Pahwa et.al.|[2604.22821](http://arxiv.org/abs/2604.22821)|null|
+|**2026-04-28**|**Audio2Tool: Speak, Call, Act -- A Dataset for Benchmarking Speech Tool Use**|Ramit Pahwa et.al.|[2604.22821](http://arxiv.org/abs/2604.22821)|null|
 |**2026-04-24**|**TTS-PRISM: A Perceptual Reasoning and Interpretable Speech Model for Fine-Grained Diagnosis**|Xi Wang et.al.|[2604.22225](http://arxiv.org/abs/2604.22225)|null|
 |**2026-04-24**|**UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**|Chunyu Qiang et.al.|[2604.22209](http://arxiv.org/abs/2604.22209)|null|
 |**2026-04-23**|**Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages**|Srija Anand et.al.|[2604.21481](http://arxiv.org/abs/2604.21481)|null|
-|**2026-04-23**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|null|
+|**2026-04-27**|**MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control**|Jialong Mai et.al.|[2604.21164](http://arxiv.org/abs/2604.21164)|null|
 |**2026-04-21**|**Text-To-Speech with Chain-of-Details: modeling temporal dynamics in speech generation**|Jianbo Ma et.al.|[2604.19330](http://arxiv.org/abs/2604.19330)|null|
 |**2026-04-23**|**ATRIE: Adaptive Tuning for Robust Inference and Emotion in Persona-Driven Speech Synthesis**|Aoduo Li et.al.|[2604.19055](http://arxiv.org/abs/2604.19055)|null|
 |**2026-04-20**|**MINT-Bench: A Comprehensive Multilingual Benchmark for Instruction-Following Text-to-Speech**|Huakang Chen et.al.|[2604.17958](http://arxiv.org/abs/2604.17958)|null|
