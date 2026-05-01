@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.30
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|null|
+|**2026-04-30**|**HATS: An Open data set Integrating Human Perception Applied to the Evaluation of Automatic Speech Recognition Metrics**|Thibault Bañeras Roux et.al.|[2604.27542](http://arxiv.org/abs/2604.27542)|null|
+|**2026-04-30**|**Qualitative Evaluation of Language Model Rescoring in Automatic Speech Recognition**|Thibault Bañeras-Roux et.al.|[2604.27533](http://arxiv.org/abs/2604.27533)|null|
+|**2026-04-30**|**BUT System Description for CHiME-9 MCoRec Challenge**|Dominik Klement et.al.|[2604.27436](http://arxiv.org/abs/2604.27436)|null|
+|**2026-04-30**|**Few-Shot Accent Synthesis for ASR with LLM-Guided Phoneme Editing**|Yurii Halychanskyi et.al.|[2604.27273](http://arxiv.org/abs/2604.27273)|null|
 |**2026-04-29**|**Multimodal LLMs are not all you need for Pediatric Speech Language Pathology**|Darren Fürst et.al.|[2604.26568](http://arxiv.org/abs/2604.26568)|null|
 |**2026-04-29**|**Text-Utilization for Encoder-dominated Speech Recognition Models**|Albert Zeyer et.al.|[2604.26514](http://arxiv.org/abs/2604.26514)|null|
 |**2026-04-28**|**WhisperPipe: A Resource-Efficient Streaming Architecture for Real-Time Automatic Speech Recognition**|Erfan Ramezani et.al.|[2604.25611](http://arxiv.org/abs/2604.25611)|null|
@@ -31,7 +36,7 @@ layout: default
 |**2026-04-10**|**Enhancing ASR Performance in the Medical Domain for Dravidian Languages**|Sri Charan Devarakonda et.al.|[2604.19797](http://arxiv.org/abs/2604.19797)|null|
 |**2026-03-30**|**KoALa-Bench: Evaluating Large Audio Language Models on Korean Speech Understanding and Faithfulness**|Jinyoung Kim et.al.|[2604.19782](http://arxiv.org/abs/2604.19782)|null|
 |**2026-04-21**|**Detecting Hallucinations in SpeechLLMs at Inference Time Using Attention Maps**|Jonas Waldendorf et.al.|[2604.19565](http://arxiv.org/abs/2604.19565)|null|
-|**2026-04-21**|**UAF: A Unified Audio Front-end LLM for Full-Duplex Speech Interaction**|Yadong Li et.al.|[2604.19221](http://arxiv.org/abs/2604.19221)|null|
+|**2026-04-30**|**UAF: A Unified Audio Front-end LLM for Full-Duplex Speech Interaction**|Yadong Li et.al.|[2604.19221](http://arxiv.org/abs/2604.19221)|null|
 |**2026-04-21**|**Voice of India: A Large-Scale Benchmark for Real-World Speech Recognition in India**|Kaushal Bhogale et.al.|[2604.19151](http://arxiv.org/abs/2604.19151)|null|
 |**2026-04-21**|**Reducing the Offline-Streaming Gap for Unified ASR Transducer with Consistency Regularization**|Andrei Andrusenko et.al.|[2604.19079](http://arxiv.org/abs/2604.19079)|null|
 |**2026-04-20**|**Where Do Self-Supervised Speech Models Become Unfair?**|Felix Herron et.al.|[2604.18249](http://arxiv.org/abs/2604.18249)|null|
@@ -2019,8 +2024,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
+|**2026-04-30**|**Few-Shot Accent Synthesis for ASR with LLM-Guided Phoneme Editing**|Yurii Halychanskyi et.al.|[2604.27273](http://arxiv.org/abs/2604.27273)|null|
+|**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|
 |**2026-04-29**|**EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses**|Shuhao Xu et.al.|[2604.26417](http://arxiv.org/abs/2604.26417)|null|
-|**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|null|
+|**2026-04-28**|**PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech**|Venkata Pushpak Teja Menta et.al.|[2604.25476](http://arxiv.org/abs/2604.25476)|**[link](https://github.com/praxelhq/psp-eval)**|
 |**2026-04-28**|**Robust Accent Identification via Voice Conversion and Non-Timbral Embeddings**|Rayane Bakari et.al.|[2604.25332](http://arxiv.org/abs/2604.25332)|null|
 |**2026-04-15**|**Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR**|Minsik Lee et.al.|[2604.24770](http://arxiv.org/abs/2604.24770)|null|
 |**2026-04-26**|**AMAVA: Adaptive Motion-Aware Video-to-Audio Framework for Visually-Impaired Assistance**|Benjamin Klein et.al.|[2604.23909](http://arxiv.org/abs/2604.23909)|null|
