@@ -1,4 +1,4 @@
-## Updated on 2026.05.03
+## Updated on 2026.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**When Audio-Language Models Fail to Leverage Multimodal Context for Dysarthric Speech Recognition**|Pehuén Moure et.al.|[2605.02782](http://arxiv.org/abs/2605.02782)|null|
+|**2026-05-04**|**Dimensionality-Aware Anomaly Detection in Learned Representations of Self-Supervised Speech Models**|Sandra Arcos-Holzinger et.al.|[2605.02715](http://arxiv.org/abs/2605.02715)|null|
+|**2026-05-04**|**MultiSense-Pneumo: A Multimodal Learning Framework for Pneumonia Screening in Resource-Constrained Settings**|Dineth Jayakody et.al.|[2605.02207](http://arxiv.org/abs/2605.02207)|null|
+|**2026-05-03**|**Delayed Commitment for Representation Readiness in Stage-wise Audio-Visual Learning**|Xinmeng Xu et.al.|[2605.01673](http://arxiv.org/abs/2605.01673)|null|
 |**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|null|
 |**2026-04-30**|**HATS: An Open data set Integrating Human Perception Applied to the Evaluation of Automatic Speech Recognition Metrics**|Thibault Bañeras Roux et.al.|[2604.27542](http://arxiv.org/abs/2604.27542)|null|
 |**2026-04-30**|**Qualitative Evaluation of Language Model Rescoring in Automatic Speech Recognition**|Thibault Bañeras-Roux et.al.|[2604.27533](http://arxiv.org/abs/2604.27533)|null|
@@ -2024,12 +2028,18 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation**|Jiaxu He et.al.|[2605.02496](http://arxiv.org/abs/2605.02496)|null|
+|**2026-05-04**|**Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization**|Tung Vu et.al.|[2605.02223](http://arxiv.org/abs/2605.02223)|null|
+|**2026-05-02**|**MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech**|Yutong Jin et.al.|[2605.01515](http://arxiv.org/abs/2605.01515)|null|
+|**2026-05-02**|**A framework for analyzing concept representations in neural models**|Burin Naowarat et.al.|[2605.01381](http://arxiv.org/abs/2605.01381)|null|
+|**2026-04-21**|**Voice Mapping of Text-to-Speech Systems: A Metric-Based Approach for Voice Quality Assessment**|Huanchen Cai et.al.|[2605.00861](http://arxiv.org/abs/2605.00861)|null|
+|**2026-05-01**|**Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe**|Gaofei Shen et.al.|[2605.00607](http://arxiv.org/abs/2605.00607)|null|
 |**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
 |**2026-04-30**|**Few-Shot Accent Synthesis for ASR with LLM-Guided Phoneme Editing**|Yurii Halychanskyi et.al.|[2604.27273](http://arxiv.org/abs/2604.27273)|null|
 |**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|
@@ -2058,7 +2068,7 @@
 |**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283](http://arxiv.org/abs/2604.11283)|null|
 |**2026-04-12**|**Knowing What to Stress: A Discourse-Conditioned Text-to-Speech Benchmark**|Arnon Turetzky et.al.|[2604.10580](http://arxiv.org/abs/2604.10580)|null|
 |**2026-04-12**|**Sign-to-Speech Prosody Transfer via Sign Reconstruction-based GAN**|Toranosuke Manabe et.al.|[2604.10413](http://arxiv.org/abs/2604.10413)|null|
-|**2026-04-14**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
+|**2026-05-02**|**PS-TTS: Phonetic Synchronization in Text-to-Speech for Achieving Natural Automated Dubbing**|Changi Hong et.al.|[2604.09111](http://arxiv.org/abs/2604.09111)|null|
 |**2026-04-09**|**Enhancing Conversational TTS with Cascaded Prompting and ICL-Based Online Reinforcement Learning**|Zhicheng Ouyang et.al.|[2604.08709](http://arxiv.org/abs/2604.08709)|null|
 |**2026-03-17**|**Neural networks for Text-to-Speech evaluation**|Ilya Trofimenko et.al.|[2604.08562](http://arxiv.org/abs/2604.08562)|null|
 |**2026-03-17**|**WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models**|Hanna Lee et.al.|[2604.08558](http://arxiv.org/abs/2604.08558)|null|
@@ -3228,5 +3238,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260503>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260505>back to top</a>)</p>
 
