@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.07
+## Updated on 2026.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,7 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|null|
+|**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|**[link](https://github.com/JavisVerse/Awesome-AVI)**|
 |**2026-05-05**|**Assessing the Impact of Noise and Speech Enhancement on the Intelligibility of Speech Codecs**|Lyonel Behringer et.al.|[2605.03776](http://arxiv.org/abs/2605.03776)|null|
 |**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
 |**2026-05-05**|**A Paradigm for Interpreting Metrics and Identifying Critical Errors in Automatic Speech Recognition**|Thibault Bañeras-Roux et.al.|[2605.03671](http://arxiv.org/abs/2605.03671)|null|
@@ -2034,13 +2034,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-04**|**Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation**|Jiaxu He et.al.|[2605.02496](http://arxiv.org/abs/2605.02496)|null|
 |**2026-05-04**|**Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization**|Tung Vu et.al.|[2605.02223](http://arxiv.org/abs/2605.02223)|null|
 |**2026-05-02**|**MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech**|Yutong Jin et.al.|[2605.01515](http://arxiv.org/abs/2605.01515)|null|
 |**2026-05-02**|**A framework for analyzing concept representations in neural models**|Burin Naowarat et.al.|[2605.01381](http://arxiv.org/abs/2605.01381)|null|
 |**2026-04-21**|**Voice Mapping of Text-to-Speech Systems: A Metric-Based Approach for Voice Quality Assessment**|Huanchen Cai et.al.|[2605.00861](http://arxiv.org/abs/2605.00861)|null|
 |**2026-05-01**|**Beyond Decodability: Reconstructing Language Model Representations with an Encoding Probe**|Gaofei Shen et.al.|[2605.00607](http://arxiv.org/abs/2605.00607)|null|
-|**2026-04-30**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
+|**2026-05-07**|**JaiTTS: A Thai Voice Cloning Model**|Jullajak Karnjanaekarin et.al.|[2604.27607](http://arxiv.org/abs/2604.27607)|null|
 |**2026-04-30**|**Few-Shot Accent Synthesis for ASR with LLM-Guided Phoneme Editing**|Yurii Halychanskyi et.al.|[2604.27273](http://arxiv.org/abs/2604.27273)|null|
 |**2026-04-29**|**Targeted Linguistic Analysis of Sign Language Models with Minimal Translation Pairs**|Serpil Karabüklü et.al.|[2604.27232](http://arxiv.org/abs/2604.27232)|null|
 |**2026-04-29**|**EmoTransCap: Dataset and Pipeline for Emotion Transition-Aware Speech Captioning in Discourses**|Shuhao Xu et.al.|[2604.26417](http://arxiv.org/abs/2604.26417)|null|
