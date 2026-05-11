@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation**|Anna Seo Gyeong Choi et.al.|[2605.07084](http://arxiv.org/abs/2605.07084)|null|
 |**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|**[link](https://github.com/JavisVerse/Awesome-AVI)**|
 |**2026-05-05**|**Assessing the Impact of Noise and Speech Enhancement on the Intelligibility of Speech Codecs**|Lyonel Behringer et.al.|[2605.03776](http://arxiv.org/abs/2605.03776)|null|
 |**2026-05-05**|**A Comprehensive Analysis of Tokenization and Self-Supervised Learning in End-to-End Automatic Speech Recognition applied on French Language**|Thibault Bañeras-Roux et.al.|[2605.03696](http://arxiv.org/abs/2605.03696)|null|
