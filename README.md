@@ -15,6 +15,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**Responsible Benchmarking of Fairness for Automatic Speech Recognition**|Felix Herron et.al.|[2605.10615](http://arxiv.org/abs/2605.10615)|null|
 |**2026-05-10**|**ORICF -- Open Robotics Inference and Control Framework**|Andrés Meseguer Valenzuela et.al.|[2605.09656](http://arxiv.org/abs/2605.09656)|null|
 |**2026-05-09**|**WorldSpeech: A Multilingual Speech Corpus from Around the World**|Antonis Asonitis et.al.|[2605.09167](http://arxiv.org/abs/2605.09167)|null|
 |**2026-05-06**|**Bangla-WhisperDiar: Fine-Tuning Whisper and PyAnnote for Bangla Long-Form Speech Recognition and Speaker Diarization**|Mohammed Aman Bhuiyan et.al.|[2605.08214](http://arxiv.org/abs/2605.08214)|null|
