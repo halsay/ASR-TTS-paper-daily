@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-10**|**ORICF -- Open Robotics Inference and Control Framework**|Andrés Meseguer Valenzuela et.al.|[2605.09656](http://arxiv.org/abs/2605.09656)|null|
+|**2026-05-09**|**WorldSpeech: A Multilingual Speech Corpus from Around the World**|Antonis Asonitis et.al.|[2605.09167](http://arxiv.org/abs/2605.09167)|null|
+|**2026-05-06**|**Bangla-WhisperDiar: Fine-Tuning Whisper and PyAnnote for Bangla Long-Form Speech Recognition and Speaker Diarization**|Mohammed Aman Bhuiyan et.al.|[2605.08214](http://arxiv.org/abs/2605.08214)|null|
 |**2026-05-08**|**Beyond Single Ground Truth: Reference Monism as Epistemic Injustice in ASR Evaluation**|Anna Seo Gyeong Choi et.al.|[2605.07084](http://arxiv.org/abs/2605.07084)|null|
 |**2026-05-05**|**Audio-Visual Intelligence in Large Foundation Models**|You Qin et.al.|[2605.04045](http://arxiv.org/abs/2605.04045)|**[link](https://github.com/JavisVerse/Awesome-AVI)**|
 |**2026-05-05**|**Assessing the Impact of Noise and Speech Enhancement on the Intelligibility of Speech Codecs**|Lyonel Behringer et.al.|[2605.03776](http://arxiv.org/abs/2605.03776)|null|
@@ -2035,7 +2038,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-07**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
+|**2026-05-10**|**Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech**|Dong Yang et.al.|[2605.09386](http://arxiv.org/abs/2605.09386)|null|
+|**2026-05-08**|**AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care**|Preyash Yadav et.al.|[2605.08480](http://arxiv.org/abs/2605.08480)|null|
+|**2026-05-09**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
 |**2026-05-04**|**Tibetan-TTS:Low-Resource Tibetan Speech Synthesis with Large Model Adaptation**|Jiaxu He et.al.|[2605.02496](http://arxiv.org/abs/2605.02496)|null|
 |**2026-05-04**|**Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization**|Tung Vu et.al.|[2605.02223](http://arxiv.org/abs/2605.02223)|null|
 |**2026-05-02**|**MelShield: Robust Mel-Domain Audio Watermarking for Provenance Attribution of AI Generated Synthesized Speech**|Yutong Jin et.al.|[2605.01515](http://arxiv.org/abs/2605.01515)|null|
@@ -2090,7 +2095,7 @@ layout: default
 |**2026-03-31**|**MambaVoiceCloning: Efficient and Expressive Text-to-Speech via State-Space Modeling and Diffusion Control**|Sahil Kumar et.al.|[2604.00292](http://arxiv.org/abs/2604.00292)|null|
 |**2026-03-31**|**Covertly improving intelligibility with data-driven adaptations of speech timing**|Paige Tuttösí et.al.|[2603.30032](http://arxiv.org/abs/2603.30032)|null|
 |**2026-03-31**|**LongCat-AudioDiT: High-Fidelity Diffusion Text-to-Speech in the Waveform Latent Space**|Detai Xin et.al.|[2603.29339](http://arxiv.org/abs/2603.29339)|null|
-|**2026-03-31**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
+|**2026-05-09**|**From Natural Alignment to Conditional Controllability in Multimodal Dialogue**|Zeyu Jin et.al.|[2603.29162](http://arxiv.org/abs/2603.29162)|null|
 |**2026-03-30**|**MOSS-VoiceGenerator: Create Realistic Voices with Natural Language Descriptions**|Kexin Huang et.al.|[2603.28086](http://arxiv.org/abs/2603.28086)|null|
 |**2026-03-29**|**VoxAnchor: Grounding Speech Authenticity in Throat Vibration via mmWave Radar**|Mingda Han et.al.|[2603.27562](http://arxiv.org/abs/2603.27562)|null|
 |**2026-03-27**|**LLaDA-TTS: Unifying Speech Synthesis and Zero-Shot Editing via Masked Diffusion Modeling**|Xiaoyu Fan et.al.|[2603.26364](http://arxiv.org/abs/2603.26364)|null|
