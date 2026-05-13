@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -11,6 +11,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs**|Deepak Kumar et.al.|[2605.12242](http://arxiv.org/abs/2605.12242)|null|
+|**2026-05-12**|**Too Good to Be True: A Study on Modern Automatic Speech Recognition for the Evaluation of Speech Enhancement**|Danilo de Oliveira et.al.|[2605.12107](http://arxiv.org/abs/2605.12107)|null|
+|**2026-05-12**|**Towards Fine-Grained Multi-Dimensional Speech Understanding: Data Pipeline, Benchmark, and Model**|Guojian Li et.al.|[2605.12036](http://arxiv.org/abs/2605.12036)|null|
+|**2026-05-12**|**Chunkwise Aligners for Streaming Speech Recognition**|Wen Shen Teo et.al.|[2605.11422](http://arxiv.org/abs/2605.11422)|null|
 |**2026-05-11**|**Responsible Benchmarking of Fairness for Automatic Speech Recognition**|Felix Herron et.al.|[2605.10615](http://arxiv.org/abs/2605.10615)|null|
 |**2026-05-10**|**ORICF -- Open Robotics Inference and Control Framework**|Andrés Meseguer Valenzuela et.al.|[2605.09656](http://arxiv.org/abs/2605.09656)|null|
 |**2026-05-09**|**WorldSpeech: A Multilingual Speech Corpus from Around the World**|Antonis Asonitis et.al.|[2605.09167](http://arxiv.org/abs/2605.09167)|null|
@@ -2039,6 +2043,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling**|Yiming Ren et.al.|[2605.11866](http://arxiv.org/abs/2605.11866)|null|
+|**2026-05-11**|**AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**|Jiacheng Shi et.al.|[2605.11098](http://arxiv.org/abs/2605.11098)|null|
 |**2026-05-10**|**Kinetic-Optimal Scheduling with Moment Correction for Metric-Induced Discrete Flow Matching in Zero-Shot Text-to-Speech**|Dong Yang et.al.|[2605.09386](http://arxiv.org/abs/2605.09386)|null|
 |**2026-05-08**|**AI-Care: A Conversational Agentic System for Task Coordination in Alzheimer's Disease Care**|Preyash Yadav et.al.|[2605.08480](http://arxiv.org/abs/2605.08480)|null|
 |**2026-05-09**|**X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning**|Rixi Xu et.al.|[2605.05611](http://arxiv.org/abs/2605.05611)|null|
