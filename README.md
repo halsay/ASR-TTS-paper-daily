@@ -1,4 +1,4 @@
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 > This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)
@@ -15,6 +15,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**REALM: Retrospective Encoder Alignment for LFP Modeling**|Peicheng Wu et.al.|[2605.14867](http://arxiv.org/abs/2605.14867)|null|
+|**2026-05-14**|**Streaming Speech-to-Text Translation with a SpeechLLM**|Titouan Parcollet et.al.|[2605.14766](http://arxiv.org/abs/2605.14766)|null|
+|**2026-05-14**|**A Calculus-Based Framework for Determining Vocabulary Size in End-to-End ASR**|Sunil Kumar Kopparapu et.al.|[2605.14427](http://arxiv.org/abs/2605.14427)|null|
+|**2026-05-14**|**Refining Pseudo-Audio Prompts with Speech-Text Alignment for Text-Only Domain Adaptation in LLM-Based ASR**|Ryo Magoshi et.al.|[2605.14340](http://arxiv.org/abs/2605.14340)|null|
 |**2026-05-13**|**Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition**|Kush Juvekar et.al.|[2605.13087](http://arxiv.org/abs/2605.13087)|null|
 |**2026-05-12**|**Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs**|Deepak Kumar et.al.|[2605.12242](http://arxiv.org/abs/2605.12242)|null|
 |**2026-05-12**|**Too Good to Be True: A Study on Modern Automatic Speech Recognition for the Evaluation of Speech Enhancement**|Danilo de Oliveira et.al.|[2605.12107](http://arxiv.org/abs/2605.12107)|null|
@@ -35,7 +39,7 @@
 |**2026-05-04**|**Dimensionality-Aware Anomaly Detection in Learned Representations of Self-Supervised Speech Models**|Sandra Arcos-Holzinger et.al.|[2605.02715](http://arxiv.org/abs/2605.02715)|null|
 |**2026-05-04**|**MultiSense-Pneumo: A Multimodal Learning Framework for Pneumonia Screening in Resource-Constrained Settings**|Dineth Jayakody et.al.|[2605.02207](http://arxiv.org/abs/2605.02207)|null|
 |**2026-05-03**|**Delayed Commitment for Representation Readiness in Stage-wise Audio-Visual Learning**|Xinmeng Xu et.al.|[2605.01673](http://arxiv.org/abs/2605.01673)|null|
-|**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|null|
+|**2026-04-30**|**LRS-VoxMM: A benchmark for in-the-wild audio-visual speech recognition**|Doyeop Kwak et.al.|[2604.27866](http://arxiv.org/abs/2604.27866)|**[link](https://github.com/kaistmm/VoxMM)**|
 |**2026-05-05**|**HATS: An Open data set Integrating Human Perception Applied to the Evaluation of Automatic Speech Recognition Metrics**|Thibault Bañeras Roux et.al.|[2604.27542](http://arxiv.org/abs/2604.27542)|null|
 |**2026-04-30**|**Qualitative Evaluation of Language Model Rescoring in Automatic Speech Recognition**|Thibault Bañeras-Roux et.al.|[2604.27533](http://arxiv.org/abs/2604.27533)|null|
 |**2026-04-30**|**BUT System Description for CHiME-9 MCoRec Challenge**|Dominik Klement et.al.|[2604.27436](http://arxiv.org/abs/2604.27436)|null|
@@ -2044,12 +2048,13 @@
 |**2014-09-05**|**Visual Speech Recognition**|Ahmad B. A. Hassanat et.al.|[1409.1411](http://arxiv.org/abs/1409.1411)|null|
 |**2014-02-12**|**Modified SPLICE and its Extension to Non-Stereo Data for Noise Robust Speech Recognition**|D. S. Pavan Kumar et.al.|[1307.4048](http://arxiv.org/abs/1307.4048)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
 ## TTS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents**|Md Tahmid Rahman Laskar et.al.|[2605.15104](http://arxiv.org/abs/2605.15104)|null|
 |**2026-05-13**|**Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing**|Daniel Fernández-González et.al.|[2605.13373](http://arxiv.org/abs/2605.13373)|null|
 |**2026-05-12**|**AuDirector: A Self-Reflective Closed-Loop Framework for Immersive Audio Storytelling**|Yiming Ren et.al.|[2605.11866](http://arxiv.org/abs/2605.11866)|null|
 |**2026-05-11**|**AffectCodec: Emotion-Preserving Neural Speech Codec for Expressive Speech Modeling**|Jiacheng Shi et.al.|[2605.11098](http://arxiv.org/abs/2605.11098)|null|
@@ -3260,5 +3265,5 @@
 |**2016-06-30**|**Penambahan emosi menggunakan metode manipulasi prosodi untuk sistem text to speech bahasa Indonesia**|Salita Ulitia Prini et.al.|[1606.09222](http://arxiv.org/abs/1606.09222)|null|
 |**2015-10-08**|**A Waveform Representation Framework for High-quality Statistical Parametric Speech Synthesis**|Bo Fan et.al.|[1510.01443](http://arxiv.org/abs/1510.01443)|null|
 
-<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260515>back to top</a>)</p>
 
